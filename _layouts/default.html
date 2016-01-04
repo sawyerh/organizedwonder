@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta name="generator" content="Siteleaf, http://siteleaf.com" />
+  <title>{{page.title}} | {{site.title}}</title>
+  <link rel="canonical" href="{{permalink}}" />
+  <link rel="alternate" type="application/rss+xml" href="{{site.feed_url}}" />
+  <link rel="stylesheet" type="text/css" href="/assets/stylesheets/style.css" />
+  <link rel="stylesheet" href="//cdn.symbolset.com/e5f74a26016b024ca03fb3dd6a3aadbc41407b5c/symbolset.css">
+  <link rel="SHORTCUT ICON" href="/assets/images/favicon.png">
+
+  <script src="//use.typekit.net/wse5ohg.js"></script>
+  <script>
+    try{Typekit.load();}catch(e){}
+
+    var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-30204540-1']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();
+  </script>
+
+  {% if page.collection == 'videos' %}
+    {% assign body_class = "video" %}
+  {% else %}
+    {% assign body_class = "" %}
+  {% endif %}
+</head>
+<body class="{{ body_class }}">
+  {% include header.html %}
+
+  <div class="wrap">
+    {{ content }}
+  </div>
+
+  {{ footer_scripts }}
+  <script src="/assets/javascripts/application.js"></script>
+  <script src="/assets/javascripts/script.js"></script>
+</body>
+</html>

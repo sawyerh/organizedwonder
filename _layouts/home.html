@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="sidebar">
+  {% include widget_about.html %}
+</div>
+
+<div class="page">
+  <section class="videos">
+    {% for video in site.videos %}
+      {% include video_thumbnail.html video=video %}
+    {% endfor %}
+  </section>
+</div>

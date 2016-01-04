@@ -1,0 +1,6 @@
+---
+title: Organized Wonder
+date: 2015-12-28 13:47:00 -05:00
+permalink: index
+layout: home
+---

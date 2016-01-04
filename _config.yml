@@ -1,0 +1,25 @@
+---
+title: Organized Wonder
+url: http://www.organizedwonder.com
+timezone: America/New_York
+collections:
+  videos:
+    title: Videos
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: videos
+  values:
+    layout: video
+    thumbnail: "/assets/images/thumb-placeholder.png"
+    source: ""
+    html: ""
+markdown: redcarpet
+exclude:
+- tmp
+- ".gitignore"
+- node_modules/
+- bower_components/
+- package.json
+- webpack.config.js

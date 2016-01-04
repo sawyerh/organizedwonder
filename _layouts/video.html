@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+{% if page.html != '' %}
+  <div class="video">{{ page.html }}</div>
+{% endif %}
+
+<div class="sidebar blank">
+  <div class="widget">
+    <div class="user block">
+      <p>
+        <strong>Shared by</strong><br>
+        {{ page.user.name }}
+      </p>
+    </div>
+    <div class="links block">
+      <a href="https://twitter.com/share?url=http://www.organizedwonder.com{{ page.permalink }}&text=Watching%20{{ page.title | uri_escape }}%20on%20%40organizedwonder" class="tweet">
+        <i class="ss-icon ss-social-regular">&#xF611;</i>
+        Tweet
+      </a>
+      <a href="{{ page.source }}" class="source">
+        <i class="ss-icon ss-standard">&#xEE00;</i>
+        Source
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="page">
+  <article class="entry">
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+    <ul class="tags">
+      {% for tag in page.tags %}
+        <li>{{ tag }}</li>
+      {% endfor %}
+    </ul>
+  </article>
+</div>
