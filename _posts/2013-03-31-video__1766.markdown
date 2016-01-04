@@ -1,0 +1,13 @@
+---
+title: "Madbury Club for Timberland GT Scramble"
+date: 2013-03-31 23:25:20 00:00
+permalink: /videos/1766
+source: "https://vimeo.com/50060653"
+thumbnail: "http://b.vimeocdn.com/ts/345/037/345037439_1280.jpg"
+user:
+  username: "jl"
+  name: "John Gregory Liwag"
+tags: ["style"]
+html: "<iframe src=\"http://player.vimeo.com/video/50060653\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

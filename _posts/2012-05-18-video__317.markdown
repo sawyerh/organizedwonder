@@ -1,0 +1,19 @@
+---
+title: "EF - Live The Language - Paris"
+date: 2012-05-18 23:09:39 00:00
+permalink: /videos/317
+source: "http://vimeo.com/18886355"
+thumbnail: "http://b.vimeocdn.com/ts/119/250/119250039_640.jpg"
+user:
+  username: "marshmallowfeev"
+  name: "bekah nutt"
+tags: ["short film","typography"]
+html: "<iframe src=\"http://player.vimeo.com/video/18886355\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Commercial for EF International Language Centers.
+Directed by Gustav Johansson (gustavjohansson.com)
+D.P: Niklas Johansson, fsf (niklasjohansson.com)
+Typography: Albin Holmqvist (albinholmqvist.com)
+Music: Magnus Lidehäll (twitter.com/magnusthemagnus)
+Produced at Camp David (campdavidfilm.com)

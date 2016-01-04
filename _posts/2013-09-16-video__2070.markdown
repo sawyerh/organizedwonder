@@ -1,0 +1,13 @@
+---
+title: "Shigeto live"
+date: 2013-09-16 15:34:36 00:00
+permalink: /videos/2070
+source: "https://www.youtube.com/watch?feature=player_embedded&v=l_dYl3uKTX0"
+thumbnail: "http://i1.ytimg.com/vi/l_dYl3uKTX0/hqdefault.jpg"
+user:
+  username: "themanro"
+  name: "Roman Rusinov"
+tags: ["music"]
+html: "<iframe width=\"640\" height=\"480\" src=\"http://www.youtube.com/embed/l_dYl3uKTX0?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

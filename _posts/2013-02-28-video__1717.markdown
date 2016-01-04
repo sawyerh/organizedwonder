@@ -1,0 +1,14 @@
+---
+title: "THIS IS MY COURT"
+date: 2013-02-28 02:00:42 00:00
+permalink: /videos/1717
+source: "https://vimeo.com/60576409"
+thumbnail: "http://b.vimeocdn.com/ts/420/623/420623352_1280.jpg"
+user:
+  username: "jonathantwin"
+  name: "Jonathan Baker"
+tags: ["short film","music","nyc","black and white","san francisco","photography","dark","inspirational","new york","basketball","streetball","ghetto","michael k williams","gritty","ball","fire","court","houston","pittsburgh","salt lake city","moody"]
+html: "<iframe src=\"http://player.vimeo.com/video/60576409\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+An ode to streetball culture, narrated by Michael K Williams.  Dark, moody and elegant.

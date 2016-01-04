@@ -1,0 +1,14 @@
+---
+title: "Adam Savage: Why We Make"
+date: 2012-05-24 23:35:46 00:00
+permalink: /videos/607
+source: "http://www.youtube.com/watch?feature=player_embedded&v=_otrgJ8Lmx4#!"
+thumbnail: "http://i4.ytimg.com/vi/_otrgJ8Lmx4/hqdefault.jpg"
+user:
+  username: "rsantaferraro"
+  name: "Rocky Santaferraro"
+tags: ["creativity","make"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/_otrgJ8Lmx4?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Adam Savage's talk at Maker Faire Bay Area 2012. Adam tells a great story about his Indiana Jones hat, how he got started building his obsessions, and why makers should embrace the things that they have no choice but to make.

@@ -1,0 +1,14 @@
+---
+title: "Awolnation - Sail [HD]"
+date: 2012-05-29 06:09:50 00:00
+permalink: /videos/683
+source: "http://www.youtube.com/watch?feature=player_embedded&v=oUxN3rT-3VI"
+thumbnail: "http://i4.ytimg.com/vi/oUxN3rT-3VI/hqdefault.jpg"
+user:
+  username: "calescence"
+  name: "Shannon McWeeney"
+tags: ["music","dance","breakdancing"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/oUxN3rT-3VI?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+French breakdancer Arthur Cadre was filmed by director Alex Yde doing a standard rehearsal complete with seamlessly blended yoga-esque contortions and freezes. The montage titled Break ton Neck (Break your Neck in French) has him twisting, tumbling and pivoting to the tune of Sail by American group Awolnation

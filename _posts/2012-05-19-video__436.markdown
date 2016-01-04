@@ -1,0 +1,14 @@
+---
+title: "Search for meaning"
+date: 2012-05-19 19:20:47 00:00
+permalink: /videos/436
+source: "http://www.youtube.com/watch?v=fD1512_XJEw"
+thumbnail: "http://i3.ytimg.com/vi/fD1512_XJEw/hqdefault.jpg"
+user:
+  username: "ram"
+  name: "Rusty Meadows"
+tags: ["life","meaning","frankl"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/fD1512_XJEw?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Conference in Toronto with students for search for meaning.

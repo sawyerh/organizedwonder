@@ -1,0 +1,14 @@
+---
+title: "Daniel Eatock - Insights Design Lecture Series"
+date: 2014-04-07 17:03:19 00:00
+permalink: /videos/2262
+source: "http://youtu.be/fxnykHJiOEY"
+thumbnail: "http://i1.ytimg.com/vi/fxnykHJiOEY/hqdefault.jpg"
+user:
+  username: "thisissergio"
+  name: "Sergio Monterrubio"
+tags: ["design","talk","creativity","walker art center"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FfxnykHJiOEY%3Fwmode%3Dtransparent%26feature%3Doembed&wmode=transparent&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfxnykHJiOEY&image=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FfxnykHJiOEY%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"640\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Daniel Eatock is a London-based designer known for his conceptual approach to solving traditional client problems as well as those of his own choosing. Eatock graduated from the Royal College of Art and worked as a designer at the Walker Art Center before returning to England to create Foundation 33 and most recently Eatock Ltd. His work has consistently employed a systematic but not necessarily dogmatic rigor that privileges the elemental over the extraneous—a philosophy neatly embodied in his motto: Say YES to fun & function & NO to seductive imagery & colour! His work for entertainment and cultural clients ranges from such projects as the graphic identity and promotion for the British television hit Big Brother to a street exhibition of Warhol billboards for Channel 4 to a collaboration with artists Oliver Payne and Nick Relph for an exhibition catalogue with sound chips, a flip book, handwritten notes, and a cover wrapped in the upholstery fabric used on London transit seating. Eatocks idea of entrepreneurial authorship has led to the creation of numerous self-published limited-edition works such as Untitled Beatles Poster, which includes the lyrics from every Beatles song, and the 10.2 Multi-Ply Coffee Table, fabricated from an entire single sheet of plywood.

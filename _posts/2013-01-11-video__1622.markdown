@@ -1,0 +1,13 @@
+---
+title: "Ruf Yellowbird and Ruf CTR 3 - CAR and DRIVER"
+date: 2013-01-11 21:27:42 00:00
+permalink: /videos/1622
+source: "http://www.youtube.com/watch?v=U9QoL0J0vSM"
+thumbnail: "http://i2.ytimg.com/vi/U9QoL0J0vSM/hqdefault.jpg"
+user:
+  username: "ed"
+  name: "Ed Mackowiak"
+tags: ["porsche","racing"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/U9QoL0J0vSM?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

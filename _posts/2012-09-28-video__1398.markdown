@@ -1,0 +1,13 @@
+---
+title: "Saul Bass: On Making Money vs Quality Work"
+date: 2012-09-28 22:06:18 00:00
+permalink: /videos/1398
+source: "http://www.youtube.com/watch?feature=player_embedded&v=tfDCNpaPBiA"
+thumbnail: "http://i1.ytimg.com/vi/tfDCNpaPBiA/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["design","business","saul bass"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/tfDCNpaPBiA?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

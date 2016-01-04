@@ -1,0 +1,13 @@
+---
+title: "Everyone is on the #KobeSystem"
+date: 2013-01-12 04:04:09 00:00
+permalink: /videos/1624
+source: "http://www.youtube.com/watch?v=YDDrXXROm3I"
+thumbnail: "http://i2.ytimg.com/vi/YDDrXXROm3I/hqdefault.jpg"
+user:
+  username: "asadc"
+  name: "Asad Chishti"
+tags: ["awesome","solo","aziz","kanye","branson","power","win"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/YDDrXXROm3I?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

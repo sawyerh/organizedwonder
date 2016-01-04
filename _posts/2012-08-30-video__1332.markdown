@@ -1,0 +1,14 @@
+---
+title: "Landscape Abbreviated"
+date: 2012-08-30 13:16:11 00:00
+permalink: /videos/1332
+source: "http://vimeo.com/47337522"
+thumbnail: "http://b.vimeocdn.com/ts/329/130/329130668_960.jpg"
+user:
+  username: "lhid"
+  name: "Leban Hyde"
+tags: ["design","motion design","gardening","landscape"]
+html: "<iframe src=\"http://player.vimeo.com/video/47337522\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Landscape Abbreviated is a kinetic maze consisting of modular elements with rotating planters, which form a garden that is simultaneously a machine. The planters contain live moss collected from the sides of buildings, cracks in the pavement, subway grates and other urban nooks and crannies in New York City’s landscape. Full of particles of broken glass, plastic and other detritus, they form a patchwork of unintentional archaeology. | by Nova Jiang

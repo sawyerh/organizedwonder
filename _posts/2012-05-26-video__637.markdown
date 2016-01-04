@@ -1,0 +1,14 @@
+---
+title: "Eitch: Music Video (Made in a scanner)"
+date: 2012-05-26 06:30:18 00:00
+permalink: /videos/637
+source: "https://vimeo.com/42099432"
+thumbnail: "http://b.vimeocdn.com/ts/291/966/291966578_960.jpg"
+user:
+  username: "victormathieux"
+  name: "Victor Mathieux"
+tags: ["music","music video","stopmotion","creative process"]
+html: "<iframe src=\"http://player.vimeo.com/video/42099432\" width=\"1280\" height=\"928\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+This stop motion piece was made entirely in a scanner.... crazy.

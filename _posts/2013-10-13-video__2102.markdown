@@ -1,0 +1,14 @@
+---
+title: "Webstock '13 - Tricia Wang - The Elastic Self: what millions of Chinese youth tell us about the future of online identities &"
+date: 2013-10-13 22:10:38 00:00
+permalink: /videos/2102
+source: "https://vimeo.com/64433968"
+thumbnail: "http://b.vimeocdn.com/ts/441/642/441642102_1280.jpg"
+user:
+  username: "akmur"
+  name: "Alessandro Muraro"
+tags: ["design"]
+html: "<iframe src=\"http://player.vimeo.com/video/64433968\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+The internet is global, but the experience of it is not universal. China and the US are both online, but they are not experiencing the same internet. What is it like to grow up digitally connected under an authoritarian regime? The sudden availability of the internet combined with open-market capitalism over the last decade has created a new social space in China where a new self has emerged, an Elastic Self. What does this mean for the largest population of internet users in the world? And what does this mean for how identities are produced online at large?

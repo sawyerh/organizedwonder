@@ -1,0 +1,13 @@
+---
+title: "Randy Pausch Last Lecture: Achieving Your Childhood Dreams"
+date: 2012-05-19 02:03:00 00:00
+permalink: /videos/341
+source: "http://www.youtube.com/watch?v=ji5_MqicxSo"
+thumbnail: "http://i3.ytimg.com/vi/ji5_MqicxSo/hqdefault.jpg"
+user:
+  username: "calescence"
+  name: "Shannon McWeeney"
+tags: ["creativity","last lecture","dreams","personal goals","cancer"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/ji5_MqicxSo?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

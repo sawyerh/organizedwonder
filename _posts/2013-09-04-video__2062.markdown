@@ -1,0 +1,13 @@
+---
+title: "Affordances in Modern Web Design - Andrew Maier - Front Conference 2009"
+date: 2013-09-04 16:15:20 00:00
+permalink: /videos/2062
+source: "http://vimeo.com/5934429"
+thumbnail: "http://b.vimeocdn.com/ts/209/503/20950328_295.jpg"
+user:
+  username: "nunile"
+  name: "Maria"
+tags: ["affordances","signifiers"]
+html: "<iframe src=\"http://player.vimeo.com/video/5934429\" width=\"480\" height=\"272\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

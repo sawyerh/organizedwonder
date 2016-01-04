@@ -1,0 +1,13 @@
+---
+title: "Jack Daniel's Does Letterpress"
+date: 2012-05-31 14:38:18 00:00
+permalink: /videos/723
+source: "http://vimeo.com/25780155"
+thumbnail: "http://b.vimeocdn.com/ts/169/962/169962065_640.jpg"
+user:
+  username: "im_cr"
+  name: "Cortney Robinson"
+tags: ["creativity","creative process","letterpress","jack daniels"]
+html: "<iframe src=\"http://player.vimeo.com/video/25780155\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

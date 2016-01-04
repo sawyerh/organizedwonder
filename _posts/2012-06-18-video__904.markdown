@@ -1,0 +1,13 @@
+---
+title: "Open House 2011"
+date: 2012-06-18 04:37:43 00:00
+permalink: /videos/904
+source: "https://vimeo.com/32586845"
+thumbnail: "http://b.vimeocdn.com/ts/222/762/222762364_1280.jpg"
+user:
+  username: "trinadafilipina"
+  name: "Trina Dikitanan"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/32586845\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

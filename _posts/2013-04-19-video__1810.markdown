@@ -1,0 +1,14 @@
+---
+title: "Dieter Rams"
+date: 2013-04-19 18:18:59 00:00
+permalink: /videos/1810
+source: "https://vimeo.com/31743309"
+thumbnail: "http://b.vimeocdn.com/ts/214/133/214133447_640.jpg"
+user:
+  username: "kingsley"
+  name: "Kingsley Harris"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/31743309\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Dieter Rams: Ten Principles for Good Design

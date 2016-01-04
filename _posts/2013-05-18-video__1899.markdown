@@ -1,0 +1,13 @@
+---
+title: "Honours - THE FEYNMAN SERIES (part 2)"
+date: 2013-05-18 01:49:23 00:00
+permalink: /videos/1899
+source: "http://www.youtube.com/watch?v=Dkv0KCR3Yiw"
+thumbnail: "http://i1.ytimg.com/vi/Dkv0KCR3Yiw/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["science","inspiration","richard feynman"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/Dkv0KCR3Yiw?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

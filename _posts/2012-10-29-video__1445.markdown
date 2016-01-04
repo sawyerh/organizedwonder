@@ -1,0 +1,14 @@
+---
+title: "Follow The Frog"
+date: 2012-10-29 06:16:51 00:00
+permalink: /videos/1445
+source: "http://vimeo.com/49805510"
+thumbnail: "http://b.vimeocdn.com/ts/343/451/343451774_1280.jpg"
+user:
+  username: "walkinbyfaith10"
+  name: "Jessica Sun"
+tags: ["advertising","short"]
+html: "<iframe src=\"http://player.vimeo.com/video/49805510\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+"You don't have to go to the ends of the earth to protect the planet. Just follow the frog!"

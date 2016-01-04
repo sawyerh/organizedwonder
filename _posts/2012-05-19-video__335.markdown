@@ -1,0 +1,13 @@
+---
+title: "The Old Man and The Sea"
+date: 2012-05-19 00:48:27 00:00
+permalink: /videos/335
+source: "https://vimeo.com/39473645"
+thumbnail: "http://b.vimeocdn.com/ts/272/280/272280282_960.jpg"
+user:
+  username: "shafina"
+  name: "shafina sheridan"
+tags: ["short film","animation","drawing"]
+html: "<iframe src=\"http://player.vimeo.com/video/39473645\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

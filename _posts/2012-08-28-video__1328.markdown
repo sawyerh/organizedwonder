@@ -1,0 +1,14 @@
+---
+title: "David Carson on..."
+date: 2012-08-28 19:09:44 00:00
+permalink: /videos/1328
+source: "http://www.youtube.com/watch?feature=player_embedded&v=XqmpY8m-pko"
+thumbnail: "http://i1.ytimg.com/vi/XqmpY8m-pko/hqdefault.jpg"
+user:
+  username: "lhid"
+  name: "Leban Hyde"
+tags: ["graphic design","typography","short documentary","type design"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/XqmpY8m-pko?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+David Carson is an American graphic designer. He is best known for his innovative magazine design, and use of experimental typography. He was the art director for the magazine Ray Gun. Carson was perhaps the most influential graphic designer of the nineties. In particular, his widely-imitated aesthetic defined the so-called "grunge" era.

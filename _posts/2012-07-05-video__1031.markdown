@@ -1,0 +1,14 @@
+---
+title: "JoonYong Park - Firstborn"
+date: 2012-07-05 12:40:04 00:00
+permalink: /videos/1031
+source: "http://vimeo.com/26316045"
+thumbnail: "http://b.vimeocdn.com/ts/173/739/173739938_640.jpg"
+user:
+  username: "destroytoday"
+  name: "Jonnie Hallman"
+tags: ["talk","design","creativity","conference","agency"]
+html: "<iframe src=\"http://player.vimeo.com/video/26316045\" width=\"640\" height=\"512\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+JoonYong Park, Chief Creative Officer of Firstborn, talks about Firstborn's principles.

@@ -1,0 +1,13 @@
+---
+title: "The City"
+date: 2014-01-16 17:53:10 00:00
+permalink: /videos/2184
+source: "http://vimeo.com/29298709"
+thumbnail: "http://b.vimeocdn.com/ts/196/161/196161330_640.jpg"
+user:
+  username: "oxfordhaus"
+  name: "DM Heebner"
+tags: ["short film","photography","time"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F29298709&url=http%3A%2F%2Fvimeo.com%2F29298709&image=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F196%2F161%2F196161330_640.jpg&key=950020ba825211e1a0764040d3dc5c07&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

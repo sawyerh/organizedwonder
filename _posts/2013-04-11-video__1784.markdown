@@ -1,0 +1,13 @@
+---
+title: "Acustom Apparel"
+date: 2013-04-11 20:52:39 00:00
+permalink: /videos/1784
+source: "https://vimeo.com/46444615"
+thumbnail: "http://b.vimeocdn.com/ts/395/947/395947084_1280.jpg"
+user:
+  username: "kingsley"
+  name: "Kingsley Harris"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/46444615\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

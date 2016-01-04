@@ -1,0 +1,14 @@
+---
+title: "Churchkey Can Co. Flat Top Beer Can"
+date: 2012-08-03 14:28:43 00:00
+permalink: /videos/1218
+source: "http://vimeo.com/38877546"
+thumbnail: "http://b.vimeocdn.com/ts/269/650/269650976_640.jpg"
+user:
+  username: "lhid"
+  name: "Leban Hyde"
+tags: ["design","branding","vintage"]
+html: "<iframe src=\"http://player.vimeo.com/video/38877546\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Churchkey Can co. is here to bring you a beer you can be proud in a can you can be honored to drink from. It’s about the joy of drinking beer—from the people you drink it with to where you drink it and now, how you open it. And, at the core of what we do, we are here to keep old traditions alive.

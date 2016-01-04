@@ -1,0 +1,18 @@
+---
+title: "Where Does New York City's Trash Go? | Living City | The New York Times"
+date: 2014-09-29 23:55:30 00:00
+permalink: /videos/2411
+source: "https://www.youtube.com/watch?v=Y6LzB6rMDtA"
+thumbnail: "http://i.ytimg.com/vi/Y6LzB6rMDtA/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["nyc","new york","environment","nytimes"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FY6LzB6rMDtA%3Fwmode%3Dtransparent%26feature%3Doembed&wmode=transparent&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DY6LzB6rMDtA&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FY6LzB6rMDtA%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+New York City has one of the largest sanitation departments in the world, but, with declining landfills, we follow waste from sidewalks and garbage trucks to treatment facilities and upstate farms.
+
+Produced by: Melanie Burford and Greg Moyer
+
+Read the story: http://nyti.ms/1t0uIEp

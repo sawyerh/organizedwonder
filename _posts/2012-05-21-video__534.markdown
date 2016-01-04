@@ -1,0 +1,18 @@
+---
+title: "Growing is Forever"
+date: 2012-05-21 18:35:37 00:00
+permalink: /videos/534
+source: "http://vimeo.com/18305022"
+thumbnail: "http://b.vimeocdn.com/ts/115/979/115979292_1280.jpg"
+user:
+  username: "lcmerlini"
+  name: "Lisa Merlini"
+tags: ["wonder"]
+html: "<iframe src=\"http://player.vimeo.com/video/18305022\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+A film by Jesse Rosten - twitter.com/JesseRosten
+Words by Kallie Markle - twitter.com/lightningvsbug
+Music - "Window" The Album Leaf
+
+"I have a deep affection for the Redwood forests of Northern California. This is my best attempt to capture the reverence I feel when in the presence of these giants." — Jesse Rosten

@@ -1,0 +1,14 @@
+---
+title: "The Social Animal"
+date: 2012-10-01 17:43:05 00:00
+permalink: /videos/1401
+source: "http://on.ted.com/Brooks"
+thumbnail: "http://images.ted.com/images/ted/78e8d94d1d2a81cd182e0626dc8e96a43c88d760_389x292.jpg"
+user:
+  username: "matilda_lou"
+  name: "Messina Delgado"
+tags: ["ted talk","philosophy","david brooks"]
+html: "<object width=\"526\" height=\"374\">\n<param name=\"wmode\" value=\"transparent\"><param name=\"movie\" value=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowScriptAccess\" value=\"always\"><param name=\"wmode\" value=\"transparent\"><param name=\"bgColor\" value=\"#ffffff\"><param name=\"flashvars\" value=\"vu=http://video.ted.com/talk/stream/2011/Blank/DavidBrooks_2011-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/DavidBrooks-2011.embed_thumbnail.jpg&amp;vw=512&amp;vh=288&amp;ap=0&amp;ti=1094&amp;lang=en&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=david_brooks_the_social_animal;year=2011;theme=how_the_mind_works;event=TED2011;tag=brain;tag=culture;tag=society;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;\"><embed src=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" pluginspace=\"http://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" bgcolor=\"#ffffff\" width=\"526\" height=\"374\" allowfullscreen=\"true\" allowscriptaccess=\"always\" flashvars=\"vu=http://video.ted.com/talk/stream/2011/Blank/DavidBrooks_2011-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/DavidBrooks-2011.embed_thumbnail.jpg&amp;vw=512&amp;vh=288&amp;ap=0&amp;ti=1094&amp;lang=en&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=david_brooks_the_social_animal;year=2011;theme=how_the_mind_works;event=TED2011;tag=brain;tag=culture;tag=society;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;\"></embed></object>"
+---
+
+David Brooks on the relationship between reason and emotion. . .

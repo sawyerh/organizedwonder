@@ -1,0 +1,16 @@
+---
+title: "Tim Brown - Universal Typography // Ready to Inspire'12"
+date: 2013-02-05 19:53:13 00:00
+permalink: /videos/1672
+source: "http://vimeo.com/56276418"
+thumbnail: "http://b.vimeocdn.com/ts/389/644/389644304_1280.jpg"
+user:
+  username: "lhid"
+  name: "Leban Hyde"
+tags: ["design","talk","web","typography","web design","type design"]
+html: "<iframe src=\"http://player.vimeo.com/video/56276418\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+The web is universal, so we should practice a typography that is equally universal. By focusing on traditional typographic principles, embracing progressive enhancement, and understanding how fonts, CSS, web-enabled devices, and user contexts coexist, we can reevaluate what it means to successfully set type — and inform the decisions we make about typefaces, font sizes, and white space. Let's practice future-friendly, responsive typography.
+--
+This talk is from the Ready to Inspire Conference which was held on 11th December 2012 at the "Stadsgehoorzaal" in Leiden, The Netherlands

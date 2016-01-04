@@ -1,0 +1,14 @@
+---
+title: "NYC Dark"
+date: 2012-11-09 20:59:02 00:00
+permalink: /videos/1462
+source: "http://vimeo.com/52933219"
+thumbnail: "http://b.vimeocdn.com/ts/365/345/365345079_960.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["new york"]
+html: "<iframe src=\"http://player.vimeo.com/video/52933219\" width=\"1278\" height=\"554\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Seeing lower Manhattan without power was a surreal experience. This is traditionally a city that never sleeps. One in which the lights are always on. One that is always bustling with people. When the lights went out it was wholly different. This piece is meant to capture and relay the feeling of what it was like to walk around the darkened streets of lower Manhattan.

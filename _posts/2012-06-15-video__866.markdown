@@ -1,0 +1,14 @@
+---
+title: "La Queue de la Souris"
+date: 2012-06-15 18:36:15 00:00
+permalink: /videos/866
+source: "https://vimeo.com/40657306"
+thumbnail: "http://b.vimeocdn.com/ts/281/087/281087353_640.jpg"
+user:
+  username: "zangetron"
+  name: "Alex Zangeneh"
+tags: ["animation short"]
+html: "<iframe src=\"http://player.vimeo.com/video/40657306\" width=\"640\" height=\"480\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+In a forest, a lion captures a mouse to devour. But this one makes him a deal ...

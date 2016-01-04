@@ -1,0 +1,13 @@
+---
+title: "Hampshire College • 2012 Commencement Keynote Speech • Eugene Mirman"
+date: 2012-05-22 18:18:25 00:00
+permalink: /videos/564
+source: "http://www.youtube.com/watch?v=-JfKq7clJjw"
+thumbnail: "http://i2.ytimg.com/vi/-JfKq7clJjw/hqdefault.jpg"
+user:
+  username: "aarondeyoe"
+  name: "Aaron DeYoe"
+tags: ["comedy","commencement speech","eugene mirman"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/-JfKq7clJjw?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

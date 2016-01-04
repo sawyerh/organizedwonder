@@ -1,0 +1,13 @@
+---
+title: "Luke Wroblewski - One Design to Rule Them All - BDConf, April 2013"
+date: 2013-10-15 19:57:23 00:00
+permalink: /videos/2106
+source: "http://vimeo.com/64202295"
+thumbnail: "http://b.vimeocdn.com/ts/434/787/434787769_960.jpg"
+user:
+  username: "msteinruck"
+  name: "Mark Steinruck"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/64202295\" width=\"1278\" height=\"714\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

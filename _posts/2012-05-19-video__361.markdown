@@ -1,0 +1,14 @@
+---
+title: "A view from the Greek diaspora"
+date: 2012-05-19 09:41:47 00:00
+permalink: /videos/361
+source: "http://www.youtube.com/watch?v=pBEXkmNGgDE&feature=youtube_gdata_player"
+thumbnail: "http://i1.ytimg.com/vi/pBEXkmNGgDE/hqdefault.jpg"
+user:
+  username: "villavecchia"
+  name: "Isabel Villavecchia"
+tags: ["story","greece","hope","greece future"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/pBEXkmNGgDE?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+George Logothetis, a view from the Greeke diaspora

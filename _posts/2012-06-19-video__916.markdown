@@ -1,0 +1,13 @@
+---
+title: "Ai Weiwei, Without Fear or Favor"
+date: 2012-06-19 20:39:50 00:00
+permalink: /videos/916
+source: "http://www.youtube.com/watch?v=gcRodOfu_s8"
+thumbnail: "http://i4.ytimg.com/vi/gcRodOfu_s8/hqdefault.jpg"
+user:
+  username: "yridomot"
+  name: "Spyros Simotas"
+tags: ["interview","documentary","contemporary","china","artist","ai weiwei","human rights"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/gcRodOfu_s8?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

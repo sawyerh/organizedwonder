@@ -1,0 +1,13 @@
+---
+title: "What is service design? – Birgit Mager"
+date: 2012-12-17 18:56:31 00:00
+permalink: /videos/1555
+source: "http://vimeo.com/26367705"
+thumbnail: "http://b.vimeocdn.com/ts/193/780/193780485_640.jpg"
+user:
+  username: "nunile"
+  name: "Maria"
+tags: ["service design"]
+html: "<iframe src=\"http://player.vimeo.com/video/26367705\" width=\"640\" height=\"480\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

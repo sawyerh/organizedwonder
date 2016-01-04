@@ -1,0 +1,14 @@
+---
+title: "BBC: Code Breakers Bletchley Parks lost Heroes"
+date: 2013-03-27 07:04:14 00:00
+permalink: /videos/1753
+source: "http://www.youtube.com/watch?v=JF48sl15OCg"
+thumbnail: "http://i3.ytimg.com/vi/JF48sl15OCg/hqdefault.jpg"
+user:
+  username: "hoodwink73"
+  name: "Arijit Bhattacharya"
+tags: ["crytography"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/JF48sl15OCg?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Documentary revealing the secret story of how two men hacked into Hitler's personal super-code machine.

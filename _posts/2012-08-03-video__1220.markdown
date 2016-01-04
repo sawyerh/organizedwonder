@@ -1,0 +1,13 @@
+---
+title: "Bobby McFerrin x The Pentatonic Scale"
+date: 2012-08-03 20:32:42 00:00
+permalink: /videos/1220
+source: "http://youtu.be/ne6tB2KiZuk"
+thumbnail: "http://i3.ytimg.com/vi/ne6tB2KiZuk/hqdefault.jpg"
+user:
+  username: "im_cr"
+  name: "Cortney Robinson"
+tags: ["music"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/ne6tB2KiZuk?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

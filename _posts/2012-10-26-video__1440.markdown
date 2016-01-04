@@ -1,0 +1,14 @@
+---
+title: "Think About Your Troubles - Harry Nilsson"
+date: 2012-10-26 16:09:16 00:00
+permalink: /videos/1440
+source: "http://youtu.be/guqFqcV4Po0"
+thumbnail: "http://i4.ytimg.com/vi/guqFqcV4Po0/hqdefault.jpg"
+user:
+  username: "matilda_lou"
+  name: "Messina Delgado"
+tags: ["animation","the point","harry nilsson",1971]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/guqFqcV4Po0?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Harry Nilsson offers some perspective. . .

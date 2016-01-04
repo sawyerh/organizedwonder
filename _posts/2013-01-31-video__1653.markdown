@@ -1,0 +1,15 @@
+---
+title: "History of Nintendo"
+date: 2013-01-31 00:55:30 00:00
+permalink: /videos/1653
+source: "https://vimeo.com/54596361"
+thumbnail: "http://b.vimeocdn.com/ts/377/629/377629772_640.jpg"
+user:
+  username: "walkinbyfaith10"
+  name: "Jessica Sun"
+tags: ["motion media","vector graphics"]
+html: "<iframe src=\"http://player.vimeo.com/video/54596361\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Art Director and Motion Design : Anthony Veloso
+Vector Illustration : Quentin Dron

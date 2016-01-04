@@ -1,0 +1,13 @@
+---
+title: "2011/04 Christoph Niemann"
+date: 2012-05-18 02:01:48 00:00
+permalink: /videos/126
+source: "http://vimeo.com/22752100"
+thumbnail: "http://b.vimeocdn.com/ts/153/841/153841684_1280.jpg"
+user:
+  username: "swissmiss"
+  name: "swissmiss"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/22752100\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

@@ -1,0 +1,13 @@
+---
+title: "Just how small is an atom?"
+date: 2013-03-03 20:43:53 00:00
+permalink: /videos/1723
+source: "http://www.ted.com/talks/just_how_small_is_an_atom.html"
+thumbnail: "http://images.ted.com/images/ted/3c5676c9e0d2e5e92bc3307f2c394266e1d63b26_389x292.jpg"
+user:
+  username: "hawkinsjustin"
+  name: "Justin Hawkins"
+tags: []
+html: "<iframe src=\"https://www.youtube.com/embed/yQP4UJhNn0I?autoplay=0&enablejsapi=1&fs=1&iv_load_policy=1&modestbranding=1&origin=http%3A%2F%2Fwww.ted.com%2F&rel=0&showinfo=0\" width=\"560\" height=\"340\" frameborder=\"0\" scrolling=\"0\" id=\"\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

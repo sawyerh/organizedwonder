@@ -1,0 +1,14 @@
+---
+title: "Two Monkeys Were Paid Unequally"
+date: 2013-04-26 14:30:07 00:00
+permalink: /videos/1850
+source: "http://www.youtube.com/watch?feature=player_embedded&v=meiU6TxysCg"
+thumbnail: "http://i2.ytimg.com/vi/meiU6TxysCg/hqdefault.jpg"
+user:
+  username: "skylar"
+  name: "Skylar Challand"
+tags: ["nature","ted talk"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/meiU6TxysCg?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Excerpt from Frans de Waal's TED Talk

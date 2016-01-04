@@ -1,0 +1,13 @@
+---
+title: "Dan Wieden — A Creative Perspective"
+date: 2012-05-15 21:07:06 00:00
+permalink: /videos/70
+source: "https://vimeo.com/38336537"
+thumbnail: "http://b.vimeocdn.com/ts/267/890/267890839_640.jpg"
+user:
+  username: "miguelamaral"
+  name: "Miguel Amaral"
+tags: ["creativity","dan wieden","advertising"]
+html: "<iframe src=\"http://player.vimeo.com/video/38336537\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

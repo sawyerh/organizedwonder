@@ -1,0 +1,18 @@
+---
+title: "Overview"
+date: 2012-12-19 22:44:23 00:00
+permalink: /videos/1562
+source: "http://vimeo.com/55073825"
+thumbnail: "http://b.vimeocdn.com/ts/381/052/381052484_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["space","short film","nasa"]
+html: "<iframe src=\"http://player.vimeo.com/video/55073825\" width=\"1280\" height=\"544\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+On the 40th anniversary of the famous ‘Blue Marble’ photograph taken of Earth from space, Planetary Collective presents a short film documenting astronauts’ life-changing stories of seeing the Earth from the outside – a perspective-altering experience often described as the Overview Effect.
+
+The Overview Effect, first described by author Frank White in 1987, is an experience that transforms astronauts’ perspective of the planet and mankind’s place upon it. Common features of the experience are a feeling of awe for the planet, a profound understanding of the interconnection of all life, and a renewed sense of responsibility for taking care of the environment.
+
+‘Overview’ is a short film that explores this phenomenon through interviews with five astronauts who have experienced the Overview Effect. The film also features insights from commentators and thinkers on the wider implications and importance of this understanding for society, and our relationship to the environment.

@@ -1,0 +1,14 @@
+---
+title: "Ze Frank: What's so funny about the Web?"
+date: 2012-05-16 21:28:48 00:00
+permalink: /videos/84
+source: "http://www.youtube.com/watch?v=FMkJVXi7Rp8&feature=relmfu"
+thumbnail: "http://i3.ytimg.com/vi/FMkJVXi7Rp8/hqdefault.jpg"
+user:
+  username: "miggi"
+  name: "Miguel Angel Cardona Jr."
+tags: ["ted talk","comedy"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/FMkJVXi7Rp8?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Ze Frank, being awesome during his first TED talk.

@@ -1,0 +1,13 @@
+---
+title: "Jerry Seinfeld on How to Write a Joke"
+date: 2013-01-04 06:54:17 00:00
+permalink: /videos/1609
+source: "http://youtu.be/itWxXyCfW5s"
+thumbnail: "http://i2.ytimg.com/vi/itWxXyCfW5s/hqdefault.jpg"
+user:
+  username: "hleeena"
+  name: "Lena"
+tags: ["creativity","joke"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/itWxXyCfW5s?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

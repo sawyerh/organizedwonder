@@ -1,0 +1,13 @@
+---
+title: "Un Chien Andalou [1929] 720p"
+date: 2012-07-31 22:26:54 00:00
+permalink: /videos/1189
+source: "http://www.youtube.com/watch?v=jOtB04yvWbM&feature=related#"
+thumbnail: "http://i3.ytimg.com/vi/jOtB04yvWbM/hqdefault.jpg"
+user:
+  username: "yridomot"
+  name: "Spyros Simotas"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/jOtB04yvWbM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

@@ -1,0 +1,13 @@
+---
+title: "Kevin Spacey urges TV channels to give control to viewers"
+date: 2013-08-26 18:52:11 00:00
+permalink: /videos/2055
+source: "http://www.youtube.com/watch?v=P0ukYf_xvgc"
+thumbnail: "http://i1.ytimg.com/vi/P0ukYf_xvgc/hqdefault.jpg"
+user:
+  username: "msteinruck"
+  name: "Mark Steinruck"
+tags: []
+html: "<iframe width=\"640\" height=\"480\" src=\"http://www.youtube.com/embed/P0ukYf_xvgc?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

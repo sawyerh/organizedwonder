@@ -1,0 +1,18 @@
+---
+title: "Metamorphosis"
+date: 2014-08-29 16:52:41 00:00
+permalink: /videos/2389
+source: "https://vimeo.com/45593763"
+thumbnail: "http://i.vimeocdn.com/video/317178863_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["short film"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F45593763&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F45593763&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F317178863_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+A short film retelling Titian's Metamorphosis for The National Gallery, London.
+
+tellnoone.co.uk
+
+Starring Anna Friel and Ed Speleers

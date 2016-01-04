@@ -1,0 +1,13 @@
+---
+title: "Wonder Circus"
+date: 2013-05-07 20:20:07 00:00
+permalink: /videos/1872
+source: "https://vimeo.com/63538787"
+thumbnail: "http://b.vimeocdn.com/ts/433/852/433852045_640.jpg"
+user:
+  username: "kk"
+  name: "Kellyn Walker"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/63538787\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

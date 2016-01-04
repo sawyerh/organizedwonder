@@ -1,0 +1,13 @@
+---
+title: "Milton Glaser on using design to make ideas new | Video on TED.com"
+date: 2012-10-08 17:18:34 00:00
+permalink: /videos/1409
+source: "http://www.ted.com/talks/milton_glaser_on_using_design_to_make_ideas_new.html"
+thumbnail: "http://images.ted.com/images/ted/71413_389x292.jpg"
+user:
+  username: "miggi"
+  name: "Miguel Angel Cardona Jr."
+tags: ["interview","design","milton glaser"]
+html: "<iframe src=\"http://embed.ted.com/talks/milton_glaser_on_using_design_to_make_ideas_new.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

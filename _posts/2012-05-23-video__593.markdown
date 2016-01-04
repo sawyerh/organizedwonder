@@ -1,0 +1,13 @@
+---
+title: "Measuring the Universe"
+date: 2012-05-23 20:51:29 00:00
+permalink: /videos/593
+source: "http://vimeo.com/41434123"
+thumbnail: "http://b.vimeocdn.com/ts/286/980/286980181_1280.jpg"
+user:
+  username: "howsuperduper"
+  name: "Rachel Patterson"
+tags: ["science","astronomy"]
+html: "<iframe src=\"http://player.vimeo.com/video/41434123\" width=\"1280\" height=\"960\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

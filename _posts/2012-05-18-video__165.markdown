@@ -1,0 +1,13 @@
+---
+title: "ORIGINAL DESIGN GANGSTA"
+date: 2012-05-18 05:27:33 00:00
+permalink: /videos/165
+source: "http://www.youtube.com/watch?v=yJexyQT0l1c"
+thumbnail: "http://i2.ytimg.com/vi/yJexyQT0l1c/hqdefault.jpg"
+user:
+  username: "calescence"
+  name: "Shannon McWeeney"
+tags: ["design","humor"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/yJexyQT0l1c?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

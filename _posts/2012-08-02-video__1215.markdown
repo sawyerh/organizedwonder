@@ -1,0 +1,14 @@
+---
+title: "Michael Hansmeyer: Building unimaginable shapes"
+date: 2012-08-02 20:00:00 00:00
+permalink: /videos/1215
+source: "http://www.youtube.com/watch?v=dsMCVMVTdn0"
+thumbnail: "http://i1.ytimg.com/vi/dsMCVMVTdn0/hqdefault.jpg"
+user:
+  username: "slariviere"
+  name: "Sébastien Larivière"
+tags: ["ted talk","michael hansmeyer"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/dsMCVMVTdn0?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Inspired by cell division, Michael Hansmeyer writes algorithms that design outrageously fascinating shapes and forms with millions of facets. No person could draft them by hand, but they're buildable -- and they could revolutionize the way we think of architectural form.

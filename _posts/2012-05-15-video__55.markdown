@@ -1,0 +1,35 @@
+---
+title: "Yosemite HD"
+date: 2012-05-15 05:57:44 00:00
+permalink: /videos/55
+source: "https://vimeo.com/35396305"
+thumbnail: "http://b.vimeocdn.com/ts/254/218/254218511_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["timelapse","nature","yosemite"]
+html: "<iframe src=\"http://player.vimeo.com/video/35396305\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Love this.
+
+"This video is a collaboration between Sheldon Neill and Colin Delehanty. All timelapses were shot on the Canon 5D Mark II with a variety of Canon L and Zeiss CP.2 Lenses.
+
+Project Yosemite Website: projectyose.com
+
+Facebook Page: facebook.com/projectyose
+
+Contact info: info@projectyose.com
+
+Thanks to Dynamic Perception for their motion controlled dolly and continued support!
+
+Dynamic Perception Website: dynamicperception.com
+
+Track: Outro
+Album: Hurry Up, We're Dreaming
+Artist: M83
+Site: ilovem83.com
+Publishing: emimusicpub.com
+Licensing: bankrobbermusic.com
+
+This whole project has been an amazing experience. The two of us became friends through Vimeo and explored a shared interest in timelapsing Yosemite National Park over an extended period of time. We'd like to expand this idea to other locations and would appreciate any suggestions for a future project."

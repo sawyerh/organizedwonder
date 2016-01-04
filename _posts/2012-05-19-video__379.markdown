@@ -1,0 +1,15 @@
+---
+title: "La Revolution Des Crabes"
+date: 2012-05-19 12:08:24 00:00
+permalink: /videos/379
+source: "http://www.youtube.com/watch?v=DdLehwjV4pc"
+thumbnail: "http://i1.ytimg.com/vi/DdLehwjV4pc/hqdefault.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["short film","animation"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/DdLehwjV4pc?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Vidéo humoristique sur l'évolution du crabe.
+Arthur de Pins / France / 2003

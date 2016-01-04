@@ -1,0 +1,14 @@
+---
+title: "Jon Hopkins - Insides"
+date: 2012-05-19 12:35:03 00:00
+permalink: /videos/388
+source: "http://www.youtube.com/watch?v=l_Rcet8BjdM&feature=player_embedded"
+thumbnail: "http://i1.ytimg.com/vi/l_Rcet8BjdM/hqdefault.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["music","jon hopkins"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/l_Rcet8BjdM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Live de Jon Hopkins at The ICA, London

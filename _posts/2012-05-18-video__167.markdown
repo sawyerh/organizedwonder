@@ -1,0 +1,24 @@
+---
+title: "The Image Fulgurator"
+date: 2012-05-18 05:31:12 00:00
+permalink: /videos/167
+source: "https://vimeo.com/10118219"
+thumbnail: "http://b.vimeocdn.com/ts/520/262/52026244_640.jpg"
+user:
+  username: "sergio k"
+  name: "Sergio Kostianovsky"
+tags: ["berlin","invention","urban intervention","hack","camera","flash","china","hacktivism","activism","barak obama","holy","cross","mao","mao tsedong","tienanmen","teufelsberg","patent","siegessäule","wowereit","mediaspree"]
+html: "<iframe src=\"http://player.vimeo.com/video/10118219\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Short Documentary about Julius von Bismarck and his Image Fulgurator.
+Chapters:
+1: Intro
+2: Holy Obama
+3: Magritt and Mao
+4: Politics powered by O2
+
+Director:
+Richard Wilhelmer
+Kamera:
+Richard Wilhelmer + Linda Kuhn + mixed footage

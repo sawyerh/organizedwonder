@@ -1,0 +1,14 @@
+---
+title: "Shopify: The Future"
+date: 2013-07-08 20:52:47 00:00
+permalink: /videos/1999
+source: "http://vimeo.com/68633299"
+thumbnail: "http://b.vimeocdn.com/ts/441/073/441073983_1280.jpg"
+user:
+  username: "alonzo"
+  name: "Alonzo Felix"
+tags: ["talk","future","retail","harley finklestein","shopify"]
+html: "<iframe src=\"http://player.vimeo.com/video/68633299\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Harley is an entrepreneur, lawyer, and the Chief Platform Officer (CPO) at Shopify. Additionally, Harley serves as a mentor and advisor to a number of entrepreneurial organizations and incubators, including FounderFuel, ExtremeStartups, CYBF, OCRI & CIPPIC. You'll hear his thoughts on how technology is eating the world... in a good way.

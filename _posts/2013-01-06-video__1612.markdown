@@ -1,0 +1,14 @@
+---
+title: "Running Scared | Short Film"
+date: 2013-01-06 12:28:40 00:00
+permalink: /videos/1612
+source: "https://www.youtube.com/watch?v=91UXPTFfPYs"
+thumbnail: "http://i2.ytimg.com/vi/91UXPTFfPYs/hqdefault.jpg"
+user:
+  username: "jbfilmedprojects"
+  name: "john"
+tags: ["running parkour","hallucination","farm","middle of knowhwere"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/91UXPTFfPYs?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Me and my cousins first short film we made, we put it together in pretty much 1 day, and it may not make sense to some people. we are going to make a lot more short films from now on please leave feedback :)

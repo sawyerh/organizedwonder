@@ -1,0 +1,14 @@
+---
+title: "Richard"
+date: 2013-01-31 00:56:48 00:00
+permalink: /videos/1654
+source: "https://vimeo.com/56135940"
+thumbnail: "http://b.vimeocdn.com/ts/388/697/388697528_1280.jpg"
+user:
+  username: "walkinbyfaith10"
+  name: "Jessica Sun"
+tags: ["micro documentary"]
+html: "<iframe src=\"http://player.vimeo.com/video/56135940\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Richard is the fascinating story of a travelling piano tuner who chooses to live outdoors. Shot in London, the film takes an alternative look at someone who treats the entire city as a home.

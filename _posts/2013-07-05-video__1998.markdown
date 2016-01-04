@@ -1,0 +1,14 @@
+---
+title: "This Is Water"
+date: 2013-07-05 17:11:59 00:00
+permalink: /videos/1998
+source: "http://www.youtube.com/watch?v=j4DkqQI-6V0"
+thumbnail: "http://i1.ytimg.com/vi/j4DkqQI-6V0/hqdefault.jpg"
+user:
+  username: "bfoo"
+  name: "Brennan Foo"
+tags: ["inspirational","commencement speech","david foster wallace"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/j4DkqQI-6V0?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+This is water.

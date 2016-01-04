@@ -1,0 +1,13 @@
+---
+title: "Jimmy Valvano's 1993 Espy's Speech"
+date: 2012-05-15 06:26:42 00:00
+permalink: /videos/56
+source: "http://www.youtube.com/watch?v=HuoVM9nm42E&wmode=transparent"
+thumbnail: "http://i1.ytimg.com/vi/HuoVM9nm42E/hqdefault.jpg"
+user:
+  username: "ces"
+  name: "Ces"
+tags: ["sports","football","jimmy valvano","cancer awareness","speech"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/HuoVM9nm42E?fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

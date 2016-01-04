@@ -1,0 +1,13 @@
+---
+title: "What most schools don't teach"
+date: 2013-05-10 07:29:00 00:00
+permalink: /videos/1883
+source: "http://youtu.be/nKIu9yen5nc"
+thumbnail: "http://i3.ytimg.com/vi/nKIu9yen5nc/hqdefault.jpg"
+user:
+  username: "hawkinsjustin"
+  name: "Justin Hawkins"
+tags: ["education","code"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/nKIu9yen5nc?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

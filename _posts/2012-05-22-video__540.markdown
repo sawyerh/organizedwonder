@@ -1,0 +1,14 @@
+---
+title: "Go right"
+date: 2012-05-22 01:13:55 00:00
+permalink: /videos/540
+source: "http://www.youtube.com/watch?v=kiePaAHK3jE&list=FLW6Yg_717h-j887VYyq_0ow&index=4&feature=plpp_video"
+thumbnail: "http://i4.ytimg.com/vi/kiePaAHK3jE/hqdefault.jpg"
+user:
+  username: "songkran"
+  name: "Erik"
+tags: ["2d gaming motivation persistence"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/kiePaAHK3jE?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+A tribute to 2D gaming or an ode to persistence.

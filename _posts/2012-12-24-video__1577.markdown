@@ -1,0 +1,14 @@
+---
+title: "The First 70 Trailer"
+date: 2012-12-24 02:55:08 00:00
+permalink: /videos/1577
+source: "https://vimeo.com/32192929"
+thumbnail: "http://b.vimeocdn.com/ts/280/320/280320676_1280.jpg"
+user:
+  username: "asadc"
+  name: "Asad Chishti"
+tags: ["nature","usa","parks","state","conservation",70]
+html: "<iframe src=\"http://player.vimeo.com/video/32192929\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+A journey through California to document the closure of 70 state parks.

@@ -1,0 +1,14 @@
+---
+title: "Still Rolling"
+date: 2013-04-01 02:21:16 00:00
+permalink: /videos/1772
+source: "https://vimeo.com/50263937"
+thumbnail: "http://b.vimeocdn.com/ts/346/386/346386592_640.jpg"
+user:
+  username: "jl"
+  name: "John Gregory Liwag"
+tags: ["culture","surf","history","kelly slater","taylor knox","surfer mag"]
+html: "<iframe src=\"http://player.vimeo.com/video/50263937\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+The Momentum generation reunites 20 years later: surfermag.com/videos/momentum-reunion/

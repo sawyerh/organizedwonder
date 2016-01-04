@@ -1,0 +1,14 @@
+---
+title: "What Goes Into Creating a Brand Identity?"
+date: 2012-06-11 03:31:05 00:00
+permalink: /videos/823
+source: "http://vimeo.com/24418398"
+thumbnail: "http://b.vimeocdn.com/ts/159/972/159972719_640.jpg"
+user:
+  username: "davidbrier"
+  name: "David Brier"
+tags: ["design","creativity","logos","brand identity","david brier"]
+html: "<iframe src=\"http://player.vimeo.com/video/24418398\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+We developed this video to share some of the thinking that goes into the logos we design. It's an intricate process with a lot of thinking that isn't always known about from an outside viewer. Narrated by award-winning brand specialist and designer David Brier, this video is designed to help gain insights into this discipline.

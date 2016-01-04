@@ -1,0 +1,13 @@
+---
+title: "THIS IS ERIC KOSTON"
+date: 2013-05-29 06:46:48 00:00
+permalink: /videos/1917
+source: "https://vimeo.com/67019026"
+thumbnail: "http://b.vimeocdn.com/ts/438/754/438754866_1280.jpg"
+user:
+  username: "jl"
+  name: "John Gregory Liwag"
+tags: ["skateboarding","nike","eric koston"]
+html: "<iframe src=\"http://player.vimeo.com/video/67019026\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

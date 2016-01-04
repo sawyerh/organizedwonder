@@ -1,0 +1,13 @@
+---
+title: "Lea Verou - more CSS secrets"
+date: 2013-07-02 23:27:59 00:00
+permalink: /videos/1995
+source: "http://youtube.com/watch?v=3ikye7Qc7Ak"
+thumbnail: "http://i1.ytimg.com/vi/3ikye7Qc7Ak/hqdefault.jpg"
+user:
+  username: "simuse"
+  name: "Simon"
+tags: ["css","secrets","lea verou"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/3ikye7Qc7Ak?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

@@ -1,0 +1,13 @@
+---
+title: "Coca Cola Security Cameras"
+date: 2012-06-12 20:26:36 00:00
+permalink: /videos/840
+source: "http://www.youtube.com/watch?feature=player_embedded&v=auNSrt-QOhw#!"
+thumbnail: "http://i2.ytimg.com/vi/auNSrt-QOhw/hqdefault.jpg"
+user:
+  username: "erikadepadua"
+  name: "Erika de Padua"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/auNSrt-QOhw?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

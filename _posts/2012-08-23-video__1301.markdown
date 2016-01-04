@@ -1,0 +1,15 @@
+---
+title: "Ryan Carson interviews Tim Ferriss"
+date: 2012-08-23 16:00:37 00:00
+permalink: /videos/1301
+source: "http://vimeo.com/3184873"
+thumbnail: "http://b.vimeocdn.com/ts/760/760660_640.jpg"
+user:
+  username: "luismruiz"
+  name: "Luis M Ruiz"
+tags: ["ryan carson","tim ferriss"]
+html: "<iframe src=\"http://player.vimeo.com/video/3184873\" width=\"504\" height=\"380\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Tim Ferriss, author of New York Times best seller 'The Four Hour Workweek', answers questions from Ryan Carson, founder of Carsonified.com.
+More info on Tim's book can be found at fourhourblog.com

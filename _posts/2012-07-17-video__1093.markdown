@@ -1,0 +1,13 @@
+---
+title: "Lemonade"
+date: 2012-07-17 12:19:36 00:00
+permalink: /videos/1093
+source: "http://vimeo.com/9677439"
+thumbnail: "http://b.vimeocdn.com/ts/486/210/48621020_640.jpg"
+user:
+  username: "goingpublic"
+  name: "Nicky Lauwerijssen"
+tags: ["design","advertising"]
+html: "<iframe src=\"http://player.vimeo.com/video/9677439\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

@@ -1,0 +1,14 @@
+---
+title: "ADC Global: John C Jay"
+date: 2013-03-31 23:32:34 00:00
+permalink: /videos/1768
+source: "https://www.youtube.com/watch?v=wvkLOguCj28"
+thumbnail: "http://i4.ytimg.com/vi/wvkLOguCj28/hqdefault.jpg"
+user:
+  username: "jl"
+  name: "John Gregory Liwag"
+tags: ["interview","creativity","advertising"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/wvkLOguCj28?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+John C. Jay of Wieden+Kennedy speaks. Aspire to be him one day.

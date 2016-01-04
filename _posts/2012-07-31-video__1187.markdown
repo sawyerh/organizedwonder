@@ -1,0 +1,14 @@
+---
+title: "Jennifer Daniel at WMC Fest 2012"
+date: 2012-07-31 17:52:21 00:00
+permalink: /videos/1187
+source: "http://www.youtube.com/watch?v=YOu0Mz1Oc44&feature=plcp"
+thumbnail: "http://i2.ytimg.com/vi/YOu0Mz1Oc44/hqdefault.jpg"
+user:
+  username: "jfinley"
+  name: "Jeff Finley"
+tags: ["lecture","entrepreneur","festival","graphic design","inspirational","design conference","wmc fest","cleveland","speaker","diy","ohio","midwest"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/YOu0Mz1Oc44?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Jennifer Daniel gives a presentation at Weapons of Mass Creation Fest 2012 in Cleveland, OH - http://wmcfest.com

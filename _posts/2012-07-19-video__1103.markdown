@@ -1,0 +1,13 @@
+---
+title: "Why follow design standards?"
+date: 2012-07-19 19:00:47 00:00
+permalink: /videos/1103
+source: "http://www.youtube.com/watch?v=24uuzIaZlfM"
+thumbnail: "http://i3.ytimg.com/vi/24uuzIaZlfM/hqdefault.jpg"
+user:
+  username: "bruno"
+  name: "Bruno Monteiro"
+tags: ["design","standards","roi","best practices"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/24uuzIaZlfM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

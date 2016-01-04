@@ -1,0 +1,13 @@
+---
+title: "Search by Image, Recursively, Transparent PNG, #1"
+date: 2012-05-19 14:38:07 00:00
+permalink: /videos/407
+source: "https://vimeo.com/34949864"
+thumbnail: "http://b.vimeocdn.com/ts/238/461/238461973_640.jpg"
+user:
+  username: "kris"
+  name: "Kris LoCascio"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/34949864\" width=\"640\" height=\"480\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

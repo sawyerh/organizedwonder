@@ -1,0 +1,13 @@
+---
+title: "Rory Sutherland: Life lessons from an ad man"
+date: 2012-06-25 04:19:27 00:00
+permalink: /videos/966
+source: "http://www.ted.com/talks/rory_sutherland_life_lessons_from_an_ad_man.html"
+thumbnail: "http://images.ted.com/images/ted/121597_389x292.jpg"
+user:
+  username: "ellipula"
+  name: "Elli Pula"
+tags: ["ted talk"]
+html: "<object width=\"526\" height=\"374\">\n<param name=\"wmode\" value=\"transparent\"><param name=\"movie\" value=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowScriptAccess\" value=\"always\"><param name=\"wmode\" value=\"transparent\"><param name=\"bgColor\" value=\"#ffffff\"><param name=\"flashvars\" value=\"vu=http://video.ted.com/talk/stream/2009G/Blank/RorySutherland_2009G-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/RorySutherland-2009G.embed_thumbnail.jpg&amp;vw=512&amp;vh=288&amp;ap=0&amp;ti=658&amp;lang=en&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=rory_sutherland_life_lessons_from_an_ad_man;year=2009;theme=what_makes_us_happy;theme=media_that_matters;theme=unconventional_explanations;theme=the_creative_spark;event=TEDGlobal+2009;tag=advertising;tag=business;tag=creativity;tag=economics;tag=happiness;tag=life;tag=psychology;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;\"><embed src=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" pluginspace=\"http://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" bgcolor=\"#ffffff\" width=\"526\" height=\"374\" allowfullscreen=\"true\" allowscriptaccess=\"always\" flashvars=\"vu=http://video.ted.com/talk/stream/2009G/Blank/RorySutherland_2009G-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/RorySutherland-2009G.embed_thumbnail.jpg&amp;vw=512&amp;vh=288&amp;ap=0&amp;ti=658&amp;lang=en&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=rory_sutherland_life_lessons_from_an_ad_man;year=2009;theme=what_makes_us_happy;theme=media_that_matters;theme=unconventional_explanations;theme=the_creative_spark;event=TEDGlobal+2009;tag=advertising;tag=business;tag=creativity;tag=economics;tag=happiness;tag=life;tag=psychology;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;\"></embed></object>"
+---
+

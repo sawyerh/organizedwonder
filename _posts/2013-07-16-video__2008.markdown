@@ -1,0 +1,13 @@
+---
+title: "BIF-7: Dan Pink"
+date: 2013-07-16 06:45:02 00:00
+permalink: /videos/2008
+source: "http://blip.tv/thebif/bif-7-dan-pink-5655113"
+thumbnail: "http://a.images.blip.tv/BIF-BIF7DanPink976.jpg"
+user:
+  username: "hawkinsjustin"
+  name: "Justin Hawkins"
+tags: []
+html: "<iframe src=\"http://blip.tv/play/gYArgtmVLQI.x?p=1\" width=\"590\" height=\"332\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

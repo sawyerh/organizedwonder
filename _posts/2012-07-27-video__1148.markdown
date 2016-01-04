@@ -1,0 +1,14 @@
+---
+title: "Ramble On from \"It Might Get Loud\""
+date: 2012-07-27 16:37:23 00:00
+permalink: /videos/1148
+source: "http://www.youtube.com/watch?v=4gDsbOraiqg"
+thumbnail: "http://i1.ytimg.com/vi/4gDsbOraiqg/hqdefault.jpg"
+user:
+  username: "pauloroid"
+  name: "Paulo Lopez"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/4gDsbOraiqg?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Jimmy Page plays Ramble On

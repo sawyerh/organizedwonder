@@ -1,0 +1,14 @@
+---
+title: "WIRED - New York's East Side Access Project --NYC MTA Subway"
+date: 2013-05-19 00:45:21 00:00
+permalink: /videos/1903
+source: "http://www.youtube.com/watch?v=arBS5RCwS6k"
+thumbnail: "http://i2.ytimg.com/vi/arBS5RCwS6k/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["transportation","new york","wired"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/arBS5RCwS6k?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Deep under New York City, the Metropolitan Transit Authority is working on the country's largest and most expensive transportation project. Over 50 years in the making, this $8.24 billion railway will connect the Long Island Rail Road to Grand Central Terminal. Follow Engineer Bill Ury, on an inspection of this massive subterranean project from beneath 38th Street in Manhattan to Sunnyside Yards in Queens.

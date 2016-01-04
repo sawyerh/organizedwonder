@@ -1,0 +1,14 @@
+---
+title: "The Globemaker"
+date: 2013-08-31 02:54:34 00:00
+permalink: /videos/2058
+source: "https://vimeo.com/63511505#"
+thumbnail: "http://b.vimeocdn.com/ts/434/008/434008194_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["craft","short documentary"]
+html: "<iframe src=\"http://player.vimeo.com/video/63511505\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+A short film about Peter Bellerby, artisan globemaker and founder of Bellerby and Co. Globemakers.

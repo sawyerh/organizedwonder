@@ -1,0 +1,15 @@
+---
+title: "OTM - Bad Racket"
+date: 2012-06-26 16:33:24 00:00
+permalink: /videos/986
+source: "https://vimeo.com/32322815"
+thumbnail: "http://b.vimeocdn.com/ts/218/590/218590682_1280.jpg"
+user:
+  username: "jfinley"
+  name: "Jeff Finley"
+tags: ["music","short documentary","go media","on the map","audio recording"]
+html: "<iframe src=\"http://player.vimeo.com/video/32322815\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Bad Racket is a craft recording studio on the west edge of Ohio City. Formed by three passionate music lovers, the studio evolved from raw warehouse into a warm inviting space for musicians to document their creations. In their first year, they've worked with more than thirty-five artists, gained recognition from Cleveland's Press Club, and organized a music festival at the Rock 'n Roll Hall of Fame.
+On the Map is a video series featuring the people and places that make Cleveland a creative, culturally rich, and inspiring place to live and work.

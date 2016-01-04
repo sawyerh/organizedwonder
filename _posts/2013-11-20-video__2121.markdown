@@ -1,0 +1,13 @@
+---
+title: "Animation Principles"
+date: 2013-11-20 14:24:46 00:00
+permalink: /videos/2121
+source: "http://www.youtube.com/watch?v=TMe0WnkF1Lc"
+thumbnail: "http://i1.ytimg.com/vi/TMe0WnkF1Lc/hqdefault.jpg"
+user:
+  username: "themanro"
+  name: "Roman Rusinov"
+tags: ["animation"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/TMe0WnkF1Lc?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

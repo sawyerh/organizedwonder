@@ -1,0 +1,14 @@
+---
+title: "LosAngeles/CreativeMornings - Joe Stewart"
+date: 2013-03-31 23:11:57 00:00
+permalink: /videos/1758
+source: "https://vimeo.com/58672952"
+thumbnail: "http://b.vimeocdn.com/ts/407/773/407773077_1280.jpg"
+user:
+  username: "jl"
+  name: "John Gregory Liwag"
+tags: ["design","talk"]
+html: "<iframe src=\"http://player.vimeo.com/video/58672952\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Joe Stewart, Creative Director at HUGE speaks at Los Angeles Creative Mornings.

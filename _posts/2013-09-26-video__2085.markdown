@@ -1,0 +1,15 @@
+---
+title: "A Dream I Had"
+date: 2013-09-26 11:47:17 00:00
+permalink: /videos/2085
+source: "https://vimeo.com/60959747"
+thumbnail: "http://b.vimeocdn.com/ts/449/287/449287621_1280.jpg"
+user:
+  username: "brian"
+  name: "Brian Harley"
+tags: ["relationships","brian harley","short night films","a dream i had","fate","coincidence"]
+html: "<iframe src=\"http://player.vimeo.com/video/60959747\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+A man has a chance encounter with his ex-girlfriend, who happens to have had a baby since their separation.
+Award winning British film about the nature of true love, and the difference, if any, between coincidence and fate.

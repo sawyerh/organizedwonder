@@ -1,0 +1,14 @@
+---
+title: "Randy Pausch Last Lecture: Achieving Your Childhood Dreams"
+date: 2014-11-14 15:00:02 00:00
+permalink: /videos/2445
+source: "https://www.youtube.com/watch?v=ji5_MqicxSo"
+thumbnail: "http://i.ytimg.com/vi/ji5_MqicxSo/hqdefault.jpg"
+user:
+  username: "sbgriffi"
+  name: "Stuart G."
+tags: []
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2Fji5_MqicxSo%3Fwmode%3Dtransparent%26feature%3Doembed&wmode=transparent&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dji5_MqicxSo&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2Fji5_MqicxSo%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"640\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Carnegie Mellon Professor Randy Pausch (Oct. 23, 1960 - July 25, 2008) gave his last lecture at the university Sept. 18, 2007, before a packed McConomy Auditorium. In his moving presentation, "Really Achieving Your Childhood Dreams," Pausch talked about his lessons learned and gave advice to students on how to achieve their own career and personal goals.

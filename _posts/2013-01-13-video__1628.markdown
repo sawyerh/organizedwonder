@@ -1,0 +1,14 @@
+---
+title: "Rapt Studio / Adobe Campus"
+date: 2013-01-13 00:48:34 00:00
+permalink: /videos/1628
+source: "https://vimeo.com/56930191#"
+thumbnail: "http://b.vimeocdn.com/ts/394/336/394336256_1280.jpg"
+user:
+  username: "taita"
+  name: "Iván Castrillón"
+tags: ["adobe","nuevas arquitecturas","espacios colaborativos"]
+html: "<iframe src=\"http://player.vimeo.com/video/56930191\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Adobe acaba de inaugurar un nuevo espacio de oficinas en Lehi, una localidad al sur de Salt Lake City, en Estados Unidos, donde trabajan 1.100 empleados de su unidad de negocio de marketing digital. Como era de esperar de una compañía del mundo de las nuevas tecnologías, y más de una firma que hace de la creatividad su punto básico, las oficinas son una muestra de ese espíritu innovador y creativo.

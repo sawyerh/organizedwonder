@@ -1,0 +1,13 @@
+---
+title: "The CO-commerce Revolution"
+date: 2012-11-16 13:12:51 00:00
+permalink: /videos/1491
+source: "http://www.youtube.com/watch?v=Hl-i765o_dk"
+thumbnail: "http://i1.ytimg.com/vi/Hl-i765o_dk/hqdefault.jpg"
+user:
+  username: "kavita72"
+  name: "Kavita Parmar"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/Hl-i765o_dk?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

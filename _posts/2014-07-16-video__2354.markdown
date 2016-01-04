@@ -1,0 +1,14 @@
+---
+title: "MX 2014 | Michael Kim | Designing Sustainable Behavior-Change with Habit Design"
+date: 2014-07-16 20:53:17 00:00
+permalink: /videos/2354
+source: "http://vimeo.com/91562610"
+thumbnail: "http://i.vimeocdn.com/video/471260727_1280.jpg"
+user:
+  username: "uxtvclub"
+  name: "UXTVClub"
+tags: ["talk","behavior design","habit design","mx 2014"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F91562610&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F91562610&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F471260727_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Designing systems that truly change individual and organizational behavior over the long-term and lead to lasting, sustainable results is the ultimate challenge for experience designers and is the sole focus of the Habit Design™ research cooperative. Instead of relying on motivational approaches that try (and often fail) to increase willpower, winning behavior-change solutions train groups to practice small, positive, sustainable daily habits that become routinized and eventually institutionalized. Presented publicly for the first time, this session will introduce new research that identifies some best practices of over 500 companies and organizations that have applied successful Habit Design methodologies. After the session, you will be able to apply clinically tested, evidence-based behavioral science and techniques for designing behavior-change systems that create sustainable, daily habits.

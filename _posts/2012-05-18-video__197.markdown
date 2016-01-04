@@ -1,0 +1,15 @@
+---
+title: "Doxology -  Michael Langan"
+date: 2012-05-18 11:52:49 00:00
+permalink: /videos/197
+source: "http://vimeo.com/28443629"
+thumbnail: "http://b.vimeocdn.com/ts/189/868/189868937_1280.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["art","short film","michael langan"]
+html: "<iframe src=\"http://player.vimeo.com/video/28443629\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Michael Langan - United States - 2007 - 35 mm - 06'10
+An experimental comedy about tennis balls, dancing cars, and God.

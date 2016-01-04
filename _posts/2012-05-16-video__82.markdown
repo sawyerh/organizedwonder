@@ -1,0 +1,14 @@
+---
+title: "Where things come from"
+date: 2012-05-16 21:25:46 00:00
+permalink: /videos/82
+source: "http://vimeo.com/40459347"
+thumbnail: "http://b.vimeocdn.com/ts/279/551/279551535_640.jpg"
+user:
+  username: "miggi"
+  name: "Miguel Angel Cardona Jr."
+tags: ["animation","motion graphics"]
+html: "<iframe src=\"http://player.vimeo.com/video/40459347\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Amazing little animated piece entitled: "Where things come from"

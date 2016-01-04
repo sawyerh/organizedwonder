@@ -1,0 +1,18 @@
+---
+title: "MOVE"
+date: 2012-05-25 09:55:39 00:00
+permalink: /videos/615
+source: "http://vimeo.com/27246366"
+thumbnail: "http://b.vimeocdn.com/ts/180/758/180758901_1280.jpg"
+user:
+  username: "tim_church"
+  name: "Tim Church"
+tags: ["travel"]
+html: "<iframe src=\"http://player.vimeo.com/video/27246366\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+3 guys, 44 days, 11 countries, 18 flights, 38 thousand miles, an exploding volcano, 2 cameras and almost a terabyte of footage... all to turn 3 ambitious linear concepts based on movement, learning and food ....into 3 beautiful and hopefully compelling short films.....
+
+= a trip of a lifetime.
+
+move, eat, learn

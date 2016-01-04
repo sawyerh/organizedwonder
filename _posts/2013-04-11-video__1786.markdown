@@ -1,0 +1,13 @@
+---
+title: "What the #$%@ is UX Design?"
+date: 2013-04-11 21:11:46 00:00
+permalink: /videos/1786
+source: "http://www.youtube.com/watch?v=Ovj4hFxko7c"
+thumbnail: "http://i4.ytimg.com/vi/Ovj4hFxko7c/hqdefault.jpg"
+user:
+  username: "kingsley"
+  name: "Kingsley Harris"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/Ovj4hFxko7c?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

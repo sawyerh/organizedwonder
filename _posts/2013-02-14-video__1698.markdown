@@ -1,0 +1,14 @@
+---
+title: "Giant Monsters of the Deep"
+date: 2013-02-14 01:05:48 00:00
+permalink: /videos/1698
+source: "http://www.youtube.com/watch?v=usZ0qeLNYTU"
+thumbnail: "http://i2.ytimg.com/vi/usZ0qeLNYTU/hqdefault.jpg"
+user:
+  username: "kaavepour"
+  name: "Kaave Pour"
+tags: ["sea","fish","random"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/usZ0qeLNYTU?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Giant monsters will always be awesome. Check this video.

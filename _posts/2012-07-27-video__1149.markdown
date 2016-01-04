@@ -1,0 +1,13 @@
+---
+title: "The Confessions of Robert Crumb (1987)"
+date: 2012-07-27 20:05:21 00:00
+permalink: /videos/1149
+source: "http://www.youtube.com/watch?v=yR9vfcNYBhc&feature=player_embedded"
+thumbnail: "http://i2.ytimg.com/vi/yR9vfcNYBhc/hqdefault.jpg"
+user:
+  username: "yridomot"
+  name: "Spyros Simotas"
+tags: ["interview","documentary","robert crumb","underground cartoonist"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/yR9vfcNYBhc?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

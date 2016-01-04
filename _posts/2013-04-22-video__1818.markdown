@@ -1,0 +1,13 @@
+---
+title: "MACHINE"
+date: 2013-04-22 03:17:17 00:00
+permalink: /videos/1818
+source: "https://vimeo.com/30586946"
+thumbnail: "http://b.vimeocdn.com/ts/205/547/205547999_640.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["lifestyle"]
+html: "<iframe src=\"http://player.vimeo.com/video/30586946\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

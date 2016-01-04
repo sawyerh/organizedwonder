@@ -1,0 +1,13 @@
+---
+title: "Mr Rogers Goodbye"
+date: 2012-06-06 03:09:15 00:00
+permalink: /videos/781
+source: "https://www.youtube.com/watch?v=ZAttFerhtnw&feature=player_embedded#!"
+thumbnail: "http://i3.ytimg.com/vi/ZAttFerhtnw/hqdefault.jpg"
+user:
+  username: "bwernet"
+  name: "Beth Wernet"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/ZAttFerhtnw?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

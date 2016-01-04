@@ -1,0 +1,14 @@
+---
+title: "La Lettre by Michel Gondry"
+date: 2012-05-18 13:38:34 00:00
+permalink: /videos/230
+source: "http://www.youtube.com/watch?feature=player_embedded&v=M3Bm_nAajO4"
+thumbnail: "http://i2.ytimg.com/vi/M3Bm_nAajO4/hqdefault.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["short film","gondry"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/M3Bm_nAajO4?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+La Lettre réalisé en 1998 par Gondry

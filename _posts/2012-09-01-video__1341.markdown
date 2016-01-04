@@ -1,0 +1,18 @@
+---
+title: "Ghostly International presents Matthew Shlian"
+date: 2012-09-01 15:16:32 00:00
+permalink: /videos/1341
+source: "https://vimeo.com/47502276"
+thumbnail: "http://b.vimeocdn.com/ts/329/496/329496246_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["art","paper"]
+html: "<iframe src=\"http://player.vimeo.com/video/47502276\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Matthew Shlian works within the increasingly nebulous space between art and engineering. As a paper engineer, Shlian's work is rooted in print media, book arts, and commercial design, though he frequently finds himself collaborating with a cadre of scientists and researchers who are just now recognizing the practical connections between paper folding and folding at microscopic and nanoscopic scales.
+
+An MFA graduate of Cranbrook Academy, Shlian divides his time between teaching at the University of Michigan, mocking up new-fangled packaging options for billion dollar blue-chips, and creating some of the most inspiring paper art around.
+
+Ghostly teamed up with the Ann Arbor-based photographer and videographer Jakob Skogheim, to produce this feature short, which combines interview and time-lapse footage of Shlian creating several stunning new pieces.

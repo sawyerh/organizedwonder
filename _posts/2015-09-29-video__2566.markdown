@@ -1,0 +1,39 @@
+---
+title: "Best School Bus Tracking System from Edsys"
+date: 2015-09-29 09:57:29 00:00
+permalink: /videos/2566
+source: "https://www.youtube.com/watch?v=WvgtynzeLFg"
+thumbnail: "https://i.ytimg.com/vi/WvgtynzeLFg/hqdefault.jpg"
+user:
+  username: "sysaedwin"
+  name: "Sysa Edwin"
+tags: ["school bus tracking system","track school bus","school bus safety"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWvgtynzeLFg%3Fwmode%3Dtransparent%26feature%3Doembed&wmode=transparent&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWvgtynzeLFg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWvgtynzeLFg%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"640\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+School bus tracker is a simple application created to help you ensure your children's safety. It combines GPS and RFID technologies to provide you with real time location and event information to your smart device. The features and benefits of school bus tracking are provided below. 
+
+Features of School Bus Tracking System
+
+Real-time Tracking - Lets parents know the location of the bus in real-time with the help of GPS satellites. It helps them know if bad weather, traffic jam or some unexpected event has caused any delay. Parents also get to know pickup and drop information real-time.
+Notifications -- Parents can choose to get notified by sms, Android push notification or iOS push notifications. They will be notified. In short, parents stay aware of the whereabouts of their children.
+• When there are bus delays
+• If their child gets in the wrong route
+• In case of emergencies
+• Unscheduled stops
+
+Accurate & Efficient Reports -- The software can generate reports that include information on travel distance, travel history, travel speed, stops, etc.
+Simple, Clutter-free Interface -- Having so many good features will be useless if the interface is difficult to comprehend and use. The School Bus Tracker has a simple interface with six menu options. These options show running vehicles, available vehicles, pickups assigned, pickups unassigned, Off duty drivers and an option for other vehicles.
+
+Benefits of School Bus Tracking System
+
+• Plan, schedule and route your school bus fleet with efficiency
+• Parents and school authorities are aware of the students' whereabouts, providing extra safety
+• RFID student tracking system is more efficient and easier to use than typical bar codes
+• Time-saving when compared to managing manually
+• Have a clear picture of worker hours
+• Cost savings by optimizing. Reducing the need for even one bus can save you a lot
+
+The attractive features and benefits of the School Bus Tracking software is sure to revolutionize the management of your School Bus Fleet. Enhance the reputation of your school by adapting this efficient and feature-rich software.
+
+Need more details visit http://www.edsys.in or http://www.Trackschoolbus.com

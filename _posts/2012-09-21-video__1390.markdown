@@ -1,0 +1,13 @@
+---
+title: "purely pacific northwest"
+date: 2012-09-21 14:04:36 00:00
+permalink: /videos/1390
+source: "https://vimeo.com/48787310"
+thumbnail: "http://b.vimeocdn.com/ts/336/560/336560805_1280.jpg"
+user:
+  username: "jonathanbowden"
+  name: "jonathan bowden"
+tags: ["timelapse","outside"]
+html: "<iframe src=\"http://player.vimeo.com/video/48787310\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

@@ -1,0 +1,13 @@
+---
+title: "BBC Science Club's guide to Extinction"
+date: 2013-09-08 09:28:50 00:00
+permalink: /videos/2067
+source: "http://vimeo.com/69381932"
+thumbnail: "http://b.vimeocdn.com/ts/442/125/442125291_640.jpg"
+user:
+  username: "jazzish"
+  name: "Ana"
+tags: ["science","animation","phoenix","illustration","extinction","bbcscienceclub"]
+html: "<iframe src=\"http://player.vimeo.com/video/69381932\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

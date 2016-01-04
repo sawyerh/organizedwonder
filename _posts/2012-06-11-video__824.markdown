@@ -1,0 +1,14 @@
+---
+title: "David Brier Interview: The Aha Moment, Women and the Most Costly Mistake"
+date: 2012-06-11 03:33:41 00:00
+permalink: /videos/824
+source: "http://youtu.be/-Yn4LLk62rw"
+thumbnail: "http://i2.ytimg.com/vi/-Yn4LLk62rw/hqdefault.jpg"
+user:
+  username: "davidbrier"
+  name: "David Brier"
+tags: ["interview","design","business","branding","marketing"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/-Yn4LLk62rw?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+This interview by Lori Crever captures some basic insights David Brier is known for. Award-winning designer and branding specialist, David Brier provides the thinking necessary to give clients a revitalized identity and new business growth.

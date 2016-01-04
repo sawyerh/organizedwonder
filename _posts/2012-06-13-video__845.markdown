@@ -1,0 +1,13 @@
+---
+title: "vertical-video-syndrome"
+date: 2012-06-13 09:11:39 00:00
+permalink: /videos/845
+source: "http://www.koreus.com/video/vertical-video-syndrome.html"
+thumbnail: "http://thumbs.koreus.com/201206/vertical-video-syndrome.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["joke"]
+html: "<object type=\"application/x-shockwave-flash\" data=\"http://www.koreus.com/video/vertical-video-syndrome\" width=\"560\" height=\"335\">    <param name=\"wmode\" value=\"transparent\"><param name=\"movie\" value=\"http://www.koreus.com/video/vertical-video-syndrome\"><param name=\"quality\" value=\"high\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowScriptAccess\" value=\"always\"><param name=\"pluginspage\" value=\"http://www.macromedia.com/go/getflashplayer\"><param name=\"autoplay\" value=\"false\"><param name=\"autostart\" value=\"false\"><embed src=\"http://www.koreus.com/video/vertical-video-syndrome\" width=\"560\" height=\"335\" type=\"application/x-shockwave-flash\" wmode=\"transparent\"></embed></object>"
+---
+

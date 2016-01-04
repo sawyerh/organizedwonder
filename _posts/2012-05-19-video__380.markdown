@@ -1,0 +1,15 @@
+---
+title: "The father"
+date: 2012-05-19 12:09:57 00:00
+permalink: /videos/380
+source: "http://vimeo.com/7009314"
+thumbnail: "http://b.vimeocdn.com/ts/287/422/28742298_640.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["animation","sticky monster lab"]
+html: "<iframe src=\"http://player.vimeo.com/video/7009314\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Film d'animation par Sticky Monster Lab. 
+La vie d'un père et de son fils raconté à travers cette animation en 2D réalisée par Sticky Monster Lab.

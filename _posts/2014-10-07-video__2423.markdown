@@ -1,0 +1,13 @@
+---
+title: "Philadelphia: a city in motion"
+date: 2014-10-07 17:01:43 00:00
+permalink: /videos/2423
+source: "http://vimeo.com/44141764"
+thumbnail: "http://i.vimeocdn.com/video/306549325_1280.jpg"
+user:
+  username: "leonkotlyar"
+  name: "Leon Kotlyar"
+tags: ["philadelphia"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F44141764&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F44141764&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F306549325_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"1080\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

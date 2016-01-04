@@ -1,0 +1,13 @@
+---
+title: "Everybody's Free To Wear SUNSCREEN! (ORIGINAL) + English Subtitles"
+date: 2013-09-05 16:27:26 00:00
+permalink: /videos/2064
+source: "http://www.youtube.com/watch?v=xfq_A8nXMsQ"
+thumbnail: "http://i1.ytimg.com/vi/xfq_A8nXMsQ/hqdefault.jpg"
+user:
+  username: "yotterno1"
+  name: "Carrie Yotter"
+tags: []
+html: "<iframe width=\"640\" height=\"480\" src=\"http://www.youtube.com/embed/xfq_A8nXMsQ?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

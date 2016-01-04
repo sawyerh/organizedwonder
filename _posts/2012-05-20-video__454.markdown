@@ -1,0 +1,13 @@
+---
+title: "Collapse"
+date: 2012-05-20 06:35:55 00:00
+permalink: /videos/454
+source: "https://vimeo.com/42397960"
+thumbnail: "http://b.vimeocdn.com/ts/294/177/294177295_1280.jpg"
+user:
+  username: "alialithinks"
+  name: "Ali Ali"
+tags: ["art","animation","3d"]
+html: "<iframe src=\"http://player.vimeo.com/video/42397960\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

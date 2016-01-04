@@ -1,0 +1,14 @@
+---
+title: "CreateTheMap.com: Interview with Dan Cassaro"
+date: 2012-06-25 21:56:02 00:00
+permalink: /videos/974
+source: "https://vimeo.com/album/1621125/video/25485108"
+thumbnail: "http://b.vimeocdn.com/ts/167/902/167902896_640.jpg"
+user:
+  username: "jfinley"
+  name: "Jeff Finley"
+tags: ["art","interview","design","typography","wmc fest","cleveland","illustration","dan cassaro"]
+html: "<iframe src=\"http://player.vimeo.com/video/25485108\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Dan Cassaro is a freelance designer (youngjerks.com) and the creator of Springstreets (springstreets.myshopify.com) and 50 and 50, the State Mottos project (statemottosproject.com). I really appreciate that Dan took time to chat with me. (For more info on Create the Map, visit createthemap.com.)

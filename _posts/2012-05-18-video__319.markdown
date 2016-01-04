@@ -1,0 +1,19 @@
+---
+title: "EF - Live The Language - Beijing"
+date: 2012-05-18 23:10:28 00:00
+permalink: /videos/319
+source: "http://vimeo.com/18969157"
+thumbnail: "http://b.vimeocdn.com/ts/119/784/119784943_640.jpg"
+user:
+  username: "marshmallowfeev"
+  name: "bekah nutt"
+tags: ["short film","travel","typography"]
+html: "<iframe src=\"http://player.vimeo.com/video/18969157\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Commercial for EF International Language Centers.
+Directed by Gustav Johansson (gustavjohansson.com)
+D.P: Niklas Johansson, fsf (niklasjohansson.com)
+Typography: Albin Holmqvist (albinholmqvist.com)
+Music: Magnus Lidehäll (twitter.com/magnusthemagnus)
+Produced at Camp David (campdavidfilm.com)

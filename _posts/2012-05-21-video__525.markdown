@@ -1,0 +1,13 @@
+---
+title: "Seven on Seven 2012: Keynote by Douglas Rushkoff"
+date: 2012-05-21 14:04:47 00:00
+permalink: /videos/525
+source: "http://vimeo.com/40547069"
+thumbnail: "http://b.vimeocdn.com/ts/280/273/280273228_960.jpg"
+user:
+  username: "anjali28"
+  name: "Anjali Ramachandran"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/40547069\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

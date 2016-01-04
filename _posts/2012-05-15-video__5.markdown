@@ -1,0 +1,13 @@
+---
+title: "7D 2000 fps"
+date: 2012-05-15 04:26:19 00:00
+permalink: /videos/5
+source: "https://vimeo.com/17439665"
+thumbnail: "http://b.vimeocdn.com/ts/108/413/108413459_640.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["short film","slow motion","bmx"]
+html: "<iframe src=\"http://player.vimeo.com/video/17439665\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

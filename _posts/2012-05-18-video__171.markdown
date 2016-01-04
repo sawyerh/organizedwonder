@@ -1,0 +1,14 @@
+---
+title: "Humor in music"
+date: 2012-05-18 05:42:23 00:00
+permalink: /videos/171
+source: "http://www.youtube.com/watch?feature=player_embedded&v=O0RU_Nyr4l4"
+thumbnail: "http://i4.ytimg.com/vi/O0RU_Nyr4l4/hqdefault.jpg"
+user:
+  username: "sergio k"
+  name: "Sergio Kostianovsky"
+tags: ["music","comedy","poptech2010","reggie watts"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/O0RU_Nyr4l4?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Reggie Watts is an entertainer who combines stream-of-consciousness improvisational comedy with music to create a wholly original experience. A PopTech veteran, Watts knows this audience well and he handled them like a pro, getting big laughs with a smart blend of sarcasm and self-deprecation during his performance.

@@ -1,0 +1,13 @@
+---
+title: "Logorama"
+date: 2012-06-04 07:46:46 00:00
+permalink: /videos/755
+source: "http://vimeo.com/10149605"
+thumbnail: "http://b.vimeocdn.com/ts/522/782/52278295_640.jpg"
+user:
+  username: "zit_dantes"
+  name: "Zit Dantes"
+tags: ["animation"]
+html: "<iframe src=\"http://player.vimeo.com/video/10149605\" width=\"640\" height=\"424\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

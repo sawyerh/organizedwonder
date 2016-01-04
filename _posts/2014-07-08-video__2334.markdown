@@ -1,0 +1,14 @@
+---
+title: "THIS IS DANE REYNOLDS"
+date: 2014-07-08 03:15:26 00:00
+permalink: /videos/2334
+source: "https://vimeo.com/99724950"
+thumbnail: "http://i.vimeocdn.com/video/481110284_1280.jpg"
+user:
+  username: "jhnlwg"
+  name: "JHNLWG"
+tags: ["documentary","dane reynolds"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F99724950&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F99724950&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F481110284_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"576\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Considered as one of the best surfers in the world, Dane Reynolds is the embodiment of a surf revival. An aerial, creative surf without compromise. He may even be the best thing to happen to surfing in the last decade. Desillusion Magazine’s editor in chief Sebastien Zanella followed Dane from Hawaii through to his hometown Ventura in California, to get an true insight of his life away from the spotlight.

@@ -1,0 +1,13 @@
+---
+title: "To Scale: The Solar System"
+date: 2015-09-21 20:31:05 00:00
+permalink: /videos/2563
+source: "https://vimeo.com/139407849"
+thumbnail: "http://i.vimeocdn.com/video/535226062_1280.jpg"
+user:
+  username: "sbgriffi"
+  name: "Stuart G."
+tags: ["space","science","short documentary"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F139407849&wmode=transparent&url=https%3A%2F%2Fvimeo.com%2F139407849&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F535226062_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"960\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

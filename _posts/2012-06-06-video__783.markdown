@@ -1,0 +1,16 @@
+---
+title: "Eric Yahnker Beautiful/Decay Studio Visit"
+date: 2012-06-06 13:04:12 00:00
+permalink: /videos/783
+source: "https://vimeo.com/27570148"
+thumbnail: "http://b.vimeocdn.com/ts/183/188/183188428_640.jpg"
+user:
+  username: "ioioioioi"
+  name: "Ozgur"
+tags: ["interview"]
+html: "<iframe src=\"http://player.vimeo.com/video/27570148\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Los Angeles artist Eric Yahnker opened the doors of his downtown studio to Beautiful/Decay and Visual Creatures to give our readers insight into his witty, iconic work that is layered with pop culture influences and the deconstruction of its icons. Eric discusses his career change from Journalism to art, his disdain for painting, and his love of Mel Brooks, Woody Allen, and Rodney Dangerfield.
+visualcreatures.com
+beautifuldecay.com

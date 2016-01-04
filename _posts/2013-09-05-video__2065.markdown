@@ -1,0 +1,13 @@
+---
+title: "Joy Division - Atmosphere (Video)"
+date: 2013-09-05 18:31:42 00:00
+permalink: /videos/2065
+source: "http://www.youtube.com/watch?v=GQSpJfpVHmg"
+thumbnail: "http://i1.ytimg.com/vi/GQSpJfpVHmg/hqdefault.jpg"
+user:
+  username: "yotterno1"
+  name: "Carrie Yotter"
+tags: []
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/GQSpJfpVHmg?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

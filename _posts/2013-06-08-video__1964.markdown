@@ -1,0 +1,13 @@
+---
+title: "Aye Hasegawa: “My Same” by Adele"
+date: 2013-06-08 21:00:34 00:00
+permalink: /videos/1964
+source: "http://www.youtube.com/watch?v=l15jSp4cuU8"
+thumbnail: "http://i1.ytimg.com/vi/l15jSp4cuU8/hqdefault.jpg"
+user:
+  username: "psyoko"
+  name: "Yoko Sakao Ohama"
+tags: ["dance","choreography","classroom"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/l15jSp4cuU8?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

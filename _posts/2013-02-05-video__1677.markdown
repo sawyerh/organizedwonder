@@ -1,0 +1,13 @@
+---
+title: "Major Lazer - Get Free"
+date: 2013-02-05 21:55:29 00:00
+permalink: /videos/1677
+source: "http://vimeo.com/47670351"
+thumbnail: "http://b.vimeocdn.com/ts/333/604/333604411_1280.jpg"
+user:
+  username: "kimcross"
+  name: "Kim Cross"
+tags: ["music video"]
+html: "<iframe src=\"http://player.vimeo.com/video/47670351\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

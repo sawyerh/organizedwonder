@@ -1,0 +1,16 @@
+---
+title: "Tony Fadell: On Setting Constraints, Ignoring Experts & Embracing Self-Doubt"
+date: 2012-06-08 03:43:49 00:00
+permalink: /videos/798
+source: "http://vimeo.com/43497548"
+thumbnail: "http://b.vimeocdn.com/ts/302/275/302275785_640.jpg"
+user:
+  username: "themanro"
+  name: "Roman Rusinov"
+tags: ["apple","behance","tony fadell","iphone"]
+html: "<iframe src=\"http://player.vimeo.com/video/43497548\" width=\"640\" height=\"480\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+From the iPod and the iPhone to the Nest Learning Thermostat, Tony Fadell's incredible creations have disrupted industries, introduced beautifully designed solutions, and changed the way we live. Which is why we selected him as the inaugural winner of the ALVA Award, a new prize presented by Behance in partnership with GE to recognize remarkable serial inventors.
+
+As Behance CEO Scott Belsky interviews him with questions sourced from the creative community, Tony shares insights on everything from his own creative process, to best practices for prototyping, to how to keep your team motivated and passionate for the long haul.

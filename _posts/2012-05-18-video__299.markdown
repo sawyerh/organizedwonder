@@ -1,0 +1,14 @@
+---
+title: "Sir Ken Robinson: Bring on the learning revolution!"
+date: 2012-05-18 21:32:09 00:00
+permalink: /videos/299
+source: "http://www.youtube.com/watch?v=r9LelXa3U_I"
+thumbnail: "http://i3.ytimg.com/vi/r9LelXa3U_I/hqdefault.jpg"
+user:
+  username: "iamcfish"
+  name: "The Once-ler"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/r9LelXa3U_I?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+In this poignant, funny follow-up to his fabled 2006 talk, Sir Ken Robinson makes the case for a radical shift from standardized schools to personalized learning -- creating conditions where kids' natural talents can flourish.

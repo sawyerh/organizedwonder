@@ -1,0 +1,13 @@
+---
+title: "Mobile: It Changes Everything"
+date: 2015-06-28 18:06:31 00:00
+permalink: /videos/2532
+source: "https://vimeo.com/130722577"
+thumbnail: "http://i.vimeocdn.com/video/522685495_1280.jpg"
+user:
+  username: "sbgriffi"
+  name: "Stuart G."
+tags: ["technology","innovation","mobile","keynote","distribution"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F130722577&wmode=transparent&url=https%3A%2F%2Fvimeo.com%2F130722577&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F522685495_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

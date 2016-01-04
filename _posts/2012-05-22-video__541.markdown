@@ -1,0 +1,13 @@
+---
+title: "The Source | Mast Bros."
+date: 2012-05-22 02:55:50 00:00
+permalink: /videos/541
+source: "http://vimeo.com/31272415"
+thumbnail: "http://b.vimeocdn.com/ts/210/654/210654656_1280.jpg"
+user:
+  username: "forbreadandlove"
+  name: "for bread + love"
+tags: ["documentary","creativity","travel"]
+html: "<iframe src=\"http://player.vimeo.com/video/31272415\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

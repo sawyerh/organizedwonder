@@ -1,0 +1,13 @@
+---
+title: "Design+Startup: Robert Lenne of Art.sy"
+date: 2013-04-18 11:00:49 00:00
+permalink: /videos/1804
+source: "http://www.youtube.com/watch?v=t40aSyZhFpw"
+thumbnail: "http://i1.ytimg.com/vi/t40aSyZhFpw/hqdefault.jpg"
+user:
+  username: "kingsley"
+  name: "Kingsley Harris"
+tags: ["design","startup"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/t40aSyZhFpw?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

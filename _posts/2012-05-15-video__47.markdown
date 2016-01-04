@@ -1,0 +1,13 @@
+---
+title: "I Believe I can Fly ( flight of the frenchies). Trailer"
+date: 2012-05-15 05:44:56 00:00
+permalink: /videos/47
+source: "https://vimeo.com/31240369"
+thumbnail: "http://b.vimeocdn.com/ts/210/393/210393954_640.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["skydiving","adventure","thrill","extreme sports"]
+html: "<iframe src=\"http://player.vimeo.com/video/31240369\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

@@ -1,0 +1,14 @@
+---
+title: "Nicolas Gallagher, \"Questioning best practices\" at W3Conf"
+date: 2013-03-12 20:37:42 00:00
+permalink: /videos/1737
+source: "https://www.youtube.com/watch?v=XQWOKBBJ114"
+thumbnail: "http://i1.ytimg.com/vi/XQWOKBBJ114/hqdefault.jpg"
+user:
+  username: "lhid"
+  name: "Leban Hyde"
+tags: ["design","talk","web","css","w3conf"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/XQWOKBBJ114?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+W3Conf is W3C's an­nual confer­ence for web pro­fes­sion­als.

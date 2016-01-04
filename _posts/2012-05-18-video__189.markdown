@@ -1,0 +1,14 @@
+---
+title: "Bloc Party - This Modern Love - Concert à emporter"
+date: 2012-05-18 11:34:35 00:00
+permalink: /videos/189
+source: "http://www.dailymotion.com/video/x77woe_bloc-party-this-modern-love-concert_music"
+thumbnail: "http://static2.dmcdn.net/static/video/452/621/12126254:jpeg_preview_large.jpg?20110903131152"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["music","bloc party","take away show"]
+html: "<iframe src=\"http://www.dailymotion.com/embed/video/x77woe\" width=\"480\" height=\"276\" frameborder=\"0\"></iframe>"
+---
+
+Le chanteur et le guitariste de Bloc Party se lance dans un Concert à emporter acoustique alors qu'ils prenaient des verres au Truskel.

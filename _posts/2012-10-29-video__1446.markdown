@@ -1,0 +1,14 @@
+---
+title: "Power of the Pentatonic Scale"
+date: 2012-10-29 06:23:30 00:00
+permalink: /videos/1446
+source: "http://www.youtube.com/watch?v=ne6tB2KiZuk"
+thumbnail: "http://i3.ytimg.com/vi/ne6tB2KiZuk/hqdefault.jpg"
+user:
+  username: "walkinbyfaith10"
+  name: "Jessica Sun"
+tags: ["talk"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/ne6tB2KiZuk?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+World Science Festival 2009: Bobby McFerrin Demonstrates the power of the pentatonic scale at the event "Notes & Neurons: In Search of the Common Chorus"

@@ -1,0 +1,13 @@
+---
+title: "Alex Gopher - The Child"
+date: 2012-05-19 11:55:11 00:00
+permalink: /videos/376
+source: "http://www.dailymotion.com/video/k6oG0VezoqjQdmfy9"
+thumbnail: "http://static2.dmcdn.net/static/video/777/950/59777:jpeg_preview_large.jpg?20111212141651"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["music","typography","clip","alex gopher"]
+html: "<iframe src=\"http://www.dailymotion.com/embed/video/x1a4h\" width=\"480\" height=\"359\" frameborder=\"0\"></iframe>"
+---
+

@@ -1,0 +1,13 @@
+---
+title: "What Would Crockford Do? Doug Crockford's talk from HTML5 Dev Conf"
+date: 2012-07-16 20:37:13 00:00
+permalink: /videos/1090
+source: "http://www.youtube.com/watch?v=8HzclYKz4yQ"
+thumbnail: "http://i1.ytimg.com/vi/8HzclYKz4yQ/hqdefault.jpg"
+user:
+  username: "francisc"
+  name: "Francisc"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/8HzclYKz4yQ?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

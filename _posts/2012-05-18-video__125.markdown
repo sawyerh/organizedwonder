@@ -1,0 +1,13 @@
+---
+title: "2011/06 CreativeMornings with Jim Coudal"
+date: 2012-05-18 02:01:29 00:00
+permalink: /videos/125
+source: "http://vimeo.com/26133811"
+thumbnail: "http://b.vimeocdn.com/ts/172/654/172654387_1280.jpg"
+user:
+  username: "swissmiss"
+  name: "swissmiss"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/26133811\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

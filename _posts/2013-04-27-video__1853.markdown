@@ -1,0 +1,13 @@
+---
+title: "Shaun Evaristo: “Tonight” by John Legend :: Urban Dance Camp"
+date: 2013-04-27 00:09:57 00:00
+permalink: /videos/1853
+source: "http://www.youtube.com/watch?v=TQPgnHMPa_8"
+thumbnail: "http://i1.ytimg.com/vi/TQPgnHMPa_8/hqdefault.jpg"
+user:
+  username: "psyoko"
+  name: "Yoko Sakao Ohama"
+tags: ["dance","choreography","classroom"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/TQPgnHMPa_8?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

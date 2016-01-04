@@ -1,0 +1,13 @@
+---
+title: "Keone & Mariel Madrid at World of Dance"
+date: 2013-06-10 02:34:20 00:00
+permalink: /videos/1965
+source: "https://www.youtube.com/watch?&v=lZw_n_-tyk4"
+thumbnail: "http://i1.ytimg.com/vi/lZw_n_-tyk4/hqdefault.jpg"
+user:
+  username: "psyoko"
+  name: "Yoko Sakao Ohama"
+tags: ["dance","choreography","stage"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/lZw_n_-tyk4?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

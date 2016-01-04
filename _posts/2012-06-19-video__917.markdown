@@ -1,0 +1,14 @@
+---
+title: "Sound Sculptures & Installations, Sound Architectures"
+date: 2012-06-19 20:45:06 00:00
+permalink: /videos/917
+source: "http://vimeo.com/7235817"
+thumbnail: "http://b.vimeocdn.com/ts/120/395/120395416_1280.jpg"
+user:
+  username: "cap"
+  name: "Cap Watkins"
+tags: ["art","design","creativity","sound"]
+html: "<iframe src=\"http://player.vimeo.com/video/7235817\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Using simple and functional components, Zimoun builds architecturally-minded platforms of sound. Exploring mechanical rhythm and flow in prepared systems, his installations incorporate commonplace industrial objects. In an obsessive display of simple and functional materials, these works articulate a tension between the orderly patterns of Modernism and the chaotic forces of life. Carrying an emotional depth, the acoustic hum of natural phenomena in Zimoun's minimalist constructions effortlessly reverberates.

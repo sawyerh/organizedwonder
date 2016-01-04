@@ -1,0 +1,14 @@
+---
+title: "Year Zero"
+date: 2012-05-18 13:01:21 00:00
+permalink: /videos/211
+source: "http://vimeo.com/24868133"
+thumbnail: "http://b.vimeocdn.com/ts/163/356/163356847_1280.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["short film","motion design","dark"]
+html: "<iframe src=\"http://player.vimeo.com/video/24868133\" width=\"1280\" height=\"464\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Voici le Main Titles du Festival OFFF 2011 Barcelona. Réalisé par Mischa Rozema, ce court-métrage est tout simplement impressionnant, notamment grâce au travail de post-production par PostPanic et un univers graphique signé Si Scott. Un spot très sombre tourné dans les rues de Pragues qui reflète un avenir improbable.

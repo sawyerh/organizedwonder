@@ -1,0 +1,16 @@
+---
+title: "Made by Hand / No 2 The Knife Maker"
+date: 2012-05-19 15:09:06 00:00
+permalink: /videos/424
+source: "http://vimeo.com/31455885"
+thumbnail: "http://b.vimeocdn.com/ts/212/219/212219981_1280.jpg"
+user:
+  username: "happyhealthybalance"
+  name: "happyhealthybalance"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/31455885\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Made by Hand is a new short film series celebrating the people who make things by hand—sustainably, locally, and with a love for their craft.
+
+In our second film, we meet writer turned knife maker Joel Bukiewicz of Cut Brooklyn. He talks about the human element of craft, and the potential for a skill to mature into an art. And in sharing his story, he alights on the real meaning of handmade—a movement whose riches are measured in people, not cash.

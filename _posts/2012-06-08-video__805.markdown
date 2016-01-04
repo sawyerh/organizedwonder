@@ -1,0 +1,14 @@
+---
+title: "Ending Overfishing"
+date: 2012-06-08 16:01:52 00:00
+permalink: /videos/805
+source: "http://youtu.be/F6nwZUkBeas"
+thumbnail: "http://i3.ytimg.com/vi/F6nwZUkBeas/hqdefault.jpg"
+user:
+  username: "zit_dantes"
+  name: "Zit Dantes"
+tags: ["animation","educational","fisheries","policy","overfishing","fishing"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/F6nwZUkBeas?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Despite an increased awareness of overfishing, the majority of people still know very little about the scale of the destruction being wrought on the oceans. This film presents an unquestionable case for why overfishing needs to end and shows that there is still an opportunity for change. Through reform of the EU's Common Fisheries Policy, fisheries ministers and members of the European Parliament can end overfishing. But only if you pressure them.

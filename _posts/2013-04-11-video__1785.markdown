@@ -1,0 +1,13 @@
+---
+title: "American Experience: Silicon Valley - PBS Video"
+date: 2013-04-11 21:09:33 00:00
+permalink: /videos/1785
+source: "http://www.youtube.com/watch?v=vxUTR48KRVg"
+thumbnail: "http://i3.ytimg.com/vi/vxUTR48KRVg/hqdefault.jpg"
+user:
+  username: "kingsley"
+  name: "Kingsley Harris"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/vxUTR48KRVg?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

@@ -1,0 +1,13 @@
+---
+title: "The Evolution of 8-Bit Art | Off Book | PBS"
+date: 2012-06-18 04:24:34 00:00
+permalink: /videos/896
+source: "http://www.youtube.com/watch?v=xYL1DsY8GMI&list=PLC3D565688483CCB5&index=1&feature=plcp"
+thumbnail: "http://i1.ytimg.com/vi/xYL1DsY8GMI/hqdefault.jpg"
+user:
+  username: "trinadafilipina"
+  name: "Trina Dikitanan"
+tags: ["video game","8-bit"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/xYL1DsY8GMI?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

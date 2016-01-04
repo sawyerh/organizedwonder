@@ -1,0 +1,14 @@
+---
+title: "Jon Contino"
+date: 2012-09-11 22:26:12 00:00
+permalink: /videos/1367
+source: "https://vimeo.com/49155684"
+thumbnail: "http://b.vimeocdn.com/ts/339/708/339708591_1280.jpg"
+user:
+  username: "trinadafilipina"
+  name: "Trina Dikitanan"
+tags: ["design","inspiration","lettering"]
+html: "<iframe src=\"http://player.vimeo.com/video/49155684\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+"as many hours as i can stay awake is as many hours that i'll work."

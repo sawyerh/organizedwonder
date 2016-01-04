@@ -1,0 +1,16 @@
+---
+title: "Future Proof - The DMCI"
+date: 2012-09-12 10:51:20 00:00
+permalink: /videos/1370
+source: "http://vimeo.com/dmci/futureproof"
+thumbnail: "http://b.vimeocdn.com/ts/209/061/209061371_1280.jpg"
+user:
+  username: "jennysjalin"
+  name: "jenny sjalin"
+tags: ["motion graphics","design","animation"]
+html: "<iframe src=\"http://player.vimeo.com/video/31066005\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Check out Nathan Drabsch at
+
+http://www.theloop.com.au/drabsch/portfolio/Creative-Art-Director/Sydney

@@ -1,0 +1,14 @@
+---
+title: "Bottled History"
+date: 2013-04-22 03:01:10 00:00
+permalink: /videos/1816
+source: "https://vimeo.com/61996880"
+thumbnail: "http://b.vimeocdn.com/ts/431/096/431096131_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["craft","short documentary"]
+html: "<iframe src=\"http://player.vimeo.com/video/61996880\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Ray Gascoigne has been around boats his whole life, as a shipwright, a merchant sailor, and now as a ship builder on the smallest dry dock there is: a bottle. This short film, by Smith Journal and Melbourne-based production studio Commoner, picks through the wood chips to tell the story of a craft honed over 60 years, and the man behind it. A step-by-step account of the process was featured in Smith Journal volume six.

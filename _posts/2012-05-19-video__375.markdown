@@ -1,0 +1,13 @@
+---
+title: "Menomena - Wet and Rusting"
+date: 2012-05-19 11:49:35 00:00
+permalink: /videos/375
+source: "http://www.dailymotion.com/video/x2wawt_623-menomena-wet-and-rusting_creation"
+thumbnail: "http://static2.dmcdn.net/static/video/563/668/4866365:jpeg_preview_large.jpg?20110919060133"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["music","menomena","take away show"]
+html: "<iframe src=\"http://www.dailymotion.com/embed/video/x2wawt\" width=\"480\" height=\"276\" frameborder=\"0\"></iframe>"
+---
+

@@ -1,0 +1,14 @@
+---
+title: "Louis Spohr (1784 - 1859) - Fantaisie Op. 35"
+date: 2012-05-29 14:54:40 00:00
+permalink: /videos/690
+source: "https://www.youtube.com/watch?v=fFhK38C48fg"
+thumbnail: "http://i3.ytimg.com/vi/fFhK38C48fg/hqdefault.jpg"
+user:
+  username: "luisuruena"
+  name: "Luis Urueña"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/fFhK38C48fg?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Propuesta de @MargueritaCaro1

@@ -1,0 +1,13 @@
+---
+title: "Chachi Gonzales: “Smile Back” by Mac Miller"
+date: 2013-06-22 03:08:03 00:00
+permalink: /videos/1975
+source: "http://www.youtube.com/watch?v=-yQHAhmFJXE"
+thumbnail: "http://i1.ytimg.com/vi/-yQHAhmFJXE/hqdefault.jpg"
+user:
+  username: "psyoko"
+  name: "Yoko Sakao Ohama"
+tags: ["dance","choreography","classroom"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/-yQHAhmFJXE?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

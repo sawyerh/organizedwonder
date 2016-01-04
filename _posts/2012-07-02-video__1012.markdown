@@ -1,0 +1,14 @@
+---
+title: "The Future Is Ours"
+date: 2012-07-02 19:49:01 00:00
+permalink: /videos/1012
+source: "http://exp.lore.com/post/26053990724/the-future-is-ours-remarkable-necessary-short"
+thumbnail: "http://b.vimeocdn.com/ts/310/301/310301165_200.jpg"
+user:
+  username: "rsantaferraro"
+  name: "Rocky Santaferraro"
+tags: ["inspiration"]
+html: "<iframe src=\"http://player.vimeo.com/video/44658040?title=0&amp;portrait=0&amp;color=ffffff\" width=\"400\" height=\"224\" frameborder=\"0\"></iframe>"
+---
+
+The Future Is Ours – remarkable, necessary short film by Michael Marantz pays tribute to those pushing humanity forward and reminds us that the future is, indeed, in our hands.

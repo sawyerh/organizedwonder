@@ -1,0 +1,14 @@
+---
+title: "GOAB. A TV Experience Concept"
+date: 2012-05-19 19:14:09 00:00
+permalink: /videos/432
+source: "https://vimeo.com/21386019"
+thumbnail: "http://b.vimeocdn.com/ts/141/782/141782285_1280.jpg"
+user:
+  username: "smnvghn"
+  name: "Simon Vaughan"
+tags: ["futuristic","second screen","concept"]
+html: "<iframe src=\"http://player.vimeo.com/video/21386019\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+How will we watch TV in the future...?

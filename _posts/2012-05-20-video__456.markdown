@@ -1,0 +1,14 @@
+---
+title: "In the Grace of Your Love"
+date: 2012-05-20 10:40:10 00:00
+permalink: /videos/456
+source: "https://vimeo.com/36427625"
+thumbnail: "http://b.vimeocdn.com/ts/249/834/249834278_960.jpg"
+user:
+  username: "bordusko"
+  name: "Aleksandrs Bordusko"
+tags: ["music"]
+html: "<iframe src=\"http://player.vimeo.com/video/36427625\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+I like the way he dance.

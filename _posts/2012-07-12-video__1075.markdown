@@ -1,0 +1,16 @@
+---
+title: "Eyeo2012 - Robert Hodgin"
+date: 2012-07-12 17:58:41 00:00
+permalink: /videos/1075
+source: "http://vimeo.com/45526286"
+thumbnail: "http://b.vimeocdn.com/ts/316/680/316680187_960.jpg"
+user:
+  username: "destroytoday"
+  name: "Jonnie Hallman"
+tags: ["talk","lecture","programming","experimentation"]
+html: "<iframe src=\"http://player.vimeo.com/video/45526286\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+For Eyeo, Robert created 12 new projects.
+"The theme present in all of the projects was the Cornell Box. I wanted to try something different from my usual way of doing things. Usually I focus on the content and neglect the environment so all of my work usually floats in an infinite black or white void. This time, I would create an environment in which to stage my experiments and go from there. This environment, or setting, should be simple."
+"I created a room. A simple grey box with a full ceiling light panel. In this room, I can control the lighting, gravity, and playback speed of time (allowing me to speed up the simulations or even make time freeze). The camera in the room can be moved around to offer different views of the content which would come later. My goal was to make the room as fully featured as I required without it getting to overloaded with excess code. From there, I would begin building out some content all based on the themes of particle physics, cosmology and collective behavior."

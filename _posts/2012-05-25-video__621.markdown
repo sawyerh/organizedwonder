@@ -1,0 +1,13 @@
+---
+title: "Royksopp's Remind Me"
+date: 2012-05-25 15:37:14 00:00
+permalink: /videos/621
+source: "http://vimeo.com/2285902"
+thumbnail: "http://b.vimeocdn.com/ts/210/012/21001219_295.jpg"
+user:
+  username: "joelterrific"
+  name: "Joel"
+tags: ["design","music video","information","infographics"]
+html: "<iframe src=\"http://player.vimeo.com/video/2285902\" width=\"504\" height=\"412\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

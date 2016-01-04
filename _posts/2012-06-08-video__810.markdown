@@ -1,0 +1,14 @@
+---
+title: "Werner Herzog Eats His Shoe"
+date: 2012-06-08 21:38:57 00:00
+permalink: /videos/810
+source: "http://www.youtube.com/watch?v=rd6rUo7Htso&feature=player_embedded"
+thumbnail: "http://i3.ytimg.com/vi/rd6rUo7Htso/mqdefault.jpg"
+user:
+  username: "yridomot"
+  name: "Spyros Simotas"
+tags: ["short film","bet","shoe eating","werner herzog"]
+html: "<iframe title=\"YouTube video player\" width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/rd6rUo7Htso?wmode=transparent\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Herzog made a bet with Errol Morris that he would eat his shoe if Morris made a film. When Morris finished "Gates of Heaven" and started to show it around the world, Herzog ate his shoe in front of the audience.

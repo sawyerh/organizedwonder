@@ -1,0 +1,14 @@
+---
+title: "Yves Béhar : Why Designers Should Be In Love With The Process"
+date: 2012-05-19 23:04:27 00:00
+permalink: /videos/448
+source: "http://vimeo.com/34047962"
+thumbnail: "http://b.vimeocdn.com/ts/231/600/231600286_640.jpg"
+user:
+  username: "themanro"
+  name: "Roman Rusinov"
+tags: ["design","creative process","yves behar","jawbone"]
+html: "<iframe src=\"http://player.vimeo.com/video/34047962\" width=\"640\" height=\"480\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Very good inspirational talk from creator of jawbone and many other cool stuff.

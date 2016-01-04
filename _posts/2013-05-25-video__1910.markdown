@@ -1,0 +1,13 @@
+---
+title: "My Last Days: Meet Zach Sobiech"
+date: 2013-05-25 01:33:53 00:00
+permalink: /videos/1910
+source: "http://www.youtube.com/watch?v=9NjKgV65fpo"
+thumbnail: "http://i2.ytimg.com/vi/9NjKgV65fpo/hqdefault.jpg"
+user:
+  username: "walkinbyfaith10"
+  name: "Jessica Sun"
+tags: ["documentary","inspirational"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/9NjKgV65fpo?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

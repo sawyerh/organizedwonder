@@ -1,0 +1,14 @@
+---
+title: "Save the Troy Library \"Adventures In Reverse Psychology\""
+date: 2012-06-14 20:42:32 00:00
+permalink: /videos/861
+source: "http://www.youtube.com/watch?v=nw3zNNO5gX0"
+thumbnail: "http://i3.ytimg.com/vi/nw3zNNO5gX0/hqdefault.jpg"
+user:
+  username: "alialithinks"
+  name: "Ali Ali"
+tags: ["psychology","politics","motion"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/nw3zNNO5gX0?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Amazing!

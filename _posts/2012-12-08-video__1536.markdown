@@ -1,0 +1,14 @@
+---
+title: "Aaron Draplin : Tall Tales From A Large Man"
+date: 2012-12-08 05:27:15 00:00
+permalink: /videos/1536
+source: "http://vimeo.com/54772968"
+thumbnail: "http://b.vimeocdn.com/ts/378/839/378839895_1280.jpg"
+user:
+  username: "trinadafilipina"
+  name: "Trina Dikitanan"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/54772968\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+from YAY FESTIVAL 2012

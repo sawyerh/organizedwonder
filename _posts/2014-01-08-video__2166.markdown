@@ -1,0 +1,16 @@
+---
+title: "Victo Ngai - Like Knows Like"
+date: 2014-01-08 19:37:08 00:00
+permalink: /videos/2166
+source: "https://vimeo.com/83382469"
+thumbnail: "http://b.vimeocdn.com/ts/460/004/460004163_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["art","interview","drawing","like knows like"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F83382469&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F83382469&image=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F460%2F004%2F460004163_1280.jpg&key=950020ba825211e1a0764040d3dc5c07&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Victo Ngai is from Hong Kong and a multiple award winning Illustrator, who lives and works in Manhattan, NY. You might have seen her stunning editorial work in magazines like The New Yorker, The New York Times or on her very popular Thumblr blog: victongai.tumblr.com. Recently, she also made it to the Forbes 30 Under 30!
+
+Made for the ongoing likeknowslike.com documentary project, founded by filmmaker basberkhout.nl and photographer marijekuiper.nl

@@ -1,0 +1,13 @@
+---
+title: "The Power of Outrospection"
+date: 2013-02-07 22:02:19 00:00
+permalink: /videos/1683
+source: "http://www.youtube.com/watch?v=BG46IwVfSu8"
+thumbnail: "http://i3.ytimg.com/vi/BG46IwVfSu8/hqdefault.jpg"
+user:
+  username: "xklee"
+  name: "Xklee"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/BG46IwVfSu8?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

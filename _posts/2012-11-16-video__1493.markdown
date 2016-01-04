@@ -1,0 +1,13 @@
+---
+title: "29 Ways to Stay Creative"
+date: 2012-11-16 20:56:02 00:00
+permalink: /videos/1493
+source: "https://vimeo.com/24302498"
+thumbnail: "http://b.vimeocdn.com/ts/164/362/164362346_1280.jpg"
+user:
+  username: "stephaniewhy"
+  name: "stephanie"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/24302498\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

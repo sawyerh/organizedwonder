@@ -1,0 +1,13 @@
+---
+title: "Paula Scher: Do What You've Never Done Before"
+date: 2012-09-05 10:21:51 00:00
+permalink: /videos/1345
+source: "https://vimeo.com/48694458"
+thumbnail: "http://b.vimeocdn.com/ts/336/246/336246619_640.jpg"
+user:
+  username: "bobsta14"
+  name: "Bobby Haiqalsyah"
+tags: ["99% conference","paula scher"]
+html: "<iframe src=\"http://player.vimeo.com/video/48694458\" width=\"640\" height=\"480\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

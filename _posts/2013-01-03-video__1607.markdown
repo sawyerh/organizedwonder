@@ -1,0 +1,13 @@
+---
+title: "Talking Funny (Part 1 of 4)"
+date: 2013-01-03 04:00:43 00:00
+permalink: /videos/1607
+source: "http://www.youtube.com/watch?v=PYuaycrkh9g&sns=em"
+thumbnail: "http://i1.ytimg.com/vi/PYuaycrkh9g/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["comedy"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/PYuaycrkh9g?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

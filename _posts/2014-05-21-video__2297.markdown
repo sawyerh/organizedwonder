@@ -1,0 +1,14 @@
+---
+title: "Cities in Focus: San Francisco Lyft"
+date: 2014-05-21 21:00:17 00:00
+permalink: /videos/2297
+source: "https://www.youtube.com/watch?v=OU6qb02uqJw&list=PL-04sKrMar6PWE02thLKpATtz5uZdo-LN"
+thumbnail: "http://i1.ytimg.com/vi/OU6qb02uqJw/hqdefault.jpg"
+user:
+  username: "zachacole"
+  name: "Zach Cole"
+tags: ["documentary","san francisco","photography","creative","inspirational"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Fwmode%3Dtransparent%26list%3DPL-04sKrMar6PWE02thLKpATtz5uZdo-LN&wmode=transparent&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOU6qb02uqJw%26list%3DPL-04sKrMar6PWE02thLKpATtz5uZdo-LN&image=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FOU6qb02uqJw%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+A short film about photographer Michele Janezic, and her photography adventures in San Francisco.

@@ -1,0 +1,14 @@
+---
+title: "You Are Not Special Commencement Speech from Wellesley High School"
+date: 2012-06-13 06:39:19 00:00
+permalink: /videos/843
+source: "http://www.youtube.com/watch?v=_lfxYhtf8o4&feature=player_embedded#!"
+thumbnail: "http://i4.ytimg.com/vi/_lfxYhtf8o4/hqdefault.jpg"
+user:
+  username: "tim_church"
+  name: "Tim Church"
+tags: ["inspiration","graduation"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/_lfxYhtf8o4?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Wellesley High School English teacher David McCullough Jr. blasts the graduation class of 2012 into reality with on of the most honest commencement speeches ever.

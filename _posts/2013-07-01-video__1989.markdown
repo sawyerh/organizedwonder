@@ -1,0 +1,14 @@
+---
+title: "Responsive Design Workflow by Stephen Hay (Mobilism 2012)"
+date: 2013-07-01 05:57:25 00:00
+permalink: /videos/1989
+source: "http://vimeo.com/45915667"
+thumbnail: "http://b.vimeocdn.com/ts/319/653/319653572_960.jpg"
+user:
+  username: "javiermotis"
+  name: "Javier Motis"
+tags: ["web design","workflow","responsive"]
+html: "<iframe src=\"http://player.vimeo.com/video/45915667\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+In this session, Stephen explores at a content-based approach to design workflow which is grounded in our multiplatform reality, not fixed-width Photoshop comps and overproduced wireframes.

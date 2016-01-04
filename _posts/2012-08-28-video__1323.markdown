@@ -1,0 +1,13 @@
+---
+title: "CBS - Eyecon Campaign - 60"
+date: 2012-08-28 03:26:05 00:00
+permalink: /videos/1323
+source: "http://vimeo.com/43515799"
+thumbnail: "http://b.vimeocdn.com/ts/302/142/302142867_1280.jpg"
+user:
+  username: "jdblundell"
+  name: "Jonathan Blundell"
+tags: ["animation"]
+html: "<iframe src=\"http://player.vimeo.com/video/43515799\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

@@ -1,0 +1,13 @@
+---
+title: "Wealth Inequality in America"
+date: 2013-04-03 04:33:24 00:00
+permalink: /videos/1777
+source: "http://www.youtube.com/watch?v=QPKKQnijnsM&feature=youtu.be"
+thumbnail: "http://i2.ytimg.com/vi/QPKKQnijnsM/hqdefault.jpg"
+user:
+  username: "leonkotlyar"
+  name: "Leon Kotlyar"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/QPKKQnijnsM?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

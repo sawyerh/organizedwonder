@@ -1,0 +1,13 @@
+---
+title: "Quantum Revolution 2 of 6"
+date: 2012-08-27 22:28:03 00:00
+permalink: /videos/1316
+source: "http://www.youtube.com/watch?v=vBo5iR62SLc&feature=relmfu"
+thumbnail: "http://i3.ytimg.com/vi/vBo5iR62SLc/hqdefault.jpg"
+user:
+  username: "hermann"
+  name: "Hermann Keldenich"
+tags: ["quantum"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/vBo5iR62SLc?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

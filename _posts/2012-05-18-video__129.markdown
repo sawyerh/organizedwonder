@@ -1,0 +1,13 @@
+---
+title: "2010/01 Michael Bierut"
+date: 2012-05-18 02:08:13 00:00
+permalink: /videos/129
+source: "http://vimeo.com/9084072"
+thumbnail: "http://b.vimeocdn.com/ts/440/810/44081052_640.jpg"
+user:
+  username: "swissmiss"
+  name: "swissmiss"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/9084072\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

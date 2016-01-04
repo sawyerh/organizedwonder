@@ -1,0 +1,23 @@
+---
+title: "The Sound of COS"
+date: 2014-09-11 16:35:34 00:00
+permalink: /videos/2400
+source: "http://vimeo.com/105637349"
+thumbnail: "http://i.vimeocdn.com/video/488498243_1280.jpg"
+user:
+  username: "jhnlwg"
+  name: "JHNLWG"
+tags: ["art","fashion"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F105637349&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F105637349&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F488498243_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"1080\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+A film by Lernert & Sander
+
+D.O.P.: Pau Castejon
+Foley artists: Freddie Web & Joe Farley @ Father
+Creative Directors: Jop van Bennekom & Gert Jonkers
+Executive Producer: James Bretton @ Blinkink
+Producer: Julie Crosbie
+Production Design: Stripeland
+Editor: Final Cut
+Grading: Hectic Electric

@@ -1,0 +1,14 @@
+---
+title: "Adam Pisoni, Yammer: SVB CEO Summit West 2012"
+date: 2012-05-31 20:37:38 00:00
+permalink: /videos/728
+source: "http://www.youtube.com/watch?v=3bNFqJU_n34&list=PL1FFC505CB0A887E9"
+thumbnail: "http://i4.ytimg.com/vi/3bNFqJU_n34/hqdefault.jpg"
+user:
+  username: "techwraith"
+  name: "Daniel Erickson"
+tags: ["business","talk","engineering","yammer","svb ceo summit"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/3bNFqJU_n34?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Adam takes the view that the executive team and founders' role is to build technology and software around the organization.

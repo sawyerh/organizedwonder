@@ -1,0 +1,13 @@
+---
+title: "Mind-controlled Scalextric"
+date: 2012-05-19 14:37:29 00:00
+permalink: /videos/404
+source: "https://vimeo.com/32102321"
+thumbnail: "http://b.vimeocdn.com/ts/216/894/216894651_640.jpg"
+user:
+  username: "kris"
+  name: "Kris LoCascio"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/32102321\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

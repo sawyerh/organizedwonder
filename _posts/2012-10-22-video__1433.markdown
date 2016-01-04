@@ -1,0 +1,13 @@
+---
+title: "Live the Language - Paris"
+date: 2012-10-22 21:23:12 00:00
+permalink: /videos/1433
+source: "http://www.youtube.com/watch?v=1_QO8LoGNpc"
+thumbnail: "http://i2.ytimg.com/vi/1_QO8LoGNpc/hqdefault.jpg"
+user:
+  username: "cbhurtt"
+  name: "Courtney Hurtt"
+tags: ["typography","type design","paris"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/1_QO8LoGNpc?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

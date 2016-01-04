@@ -1,0 +1,13 @@
+---
+title: "ice cream"
+date: 2013-10-21 18:48:24 00:00
+permalink: /videos/2109
+source: "https://vimeo.com/75966339"
+thumbnail: "http://b.vimeocdn.com/ts/450/650/450650489_640.jpg"
+user:
+  username: "yotterno1"
+  name: "Carrie Yotter"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/75966339\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

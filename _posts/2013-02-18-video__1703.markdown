@@ -1,0 +1,14 @@
+---
+title: "NYC Signs"
+date: 2013-02-18 08:35:44 00:00
+permalink: /videos/1703
+source: "http://www.youtube.com/watch?feature=player_embedded&v=6aac2-q1ilA"
+thumbnail: "http://i3.ytimg.com/vi/6aac2-q1ilA/hqdefault.jpg"
+user:
+  username: "fbutour"
+  name: "Florian Butour"
+tags: ["documentary","nyc","signs","pictograms"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/6aac2-q1ilA?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+There are more than two million signs in New York City. Ever wonder where they come from? Many are made by DOT's in-house sign shop based in Maspeth, Queens. This crew of 22 employees fabricate 9,000-12,000 signs a month, ranging from large highway signs down to Alternate Side Parking signs. Learn more about this crucial aspect of keeping NYC moving.

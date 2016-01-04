@@ -1,0 +1,14 @@
+---
+title: "Alfredo Kraus, Herodiade ( Massenet ), \" Ne pouvant réprimer \", 1975"
+date: 2012-05-29 15:02:11 00:00
+permalink: /videos/694
+source: "http://www.youtube.com/watch?v=ISycuwkJVLw"
+thumbnail: "http://i2.ytimg.com/vi/ISycuwkJVLw/hqdefault.jpg"
+user:
+  username: "luisuruena"
+  name: "Luis Urueña"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/ISycuwkJVLw?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Propuesta de @MargueritaCaro1

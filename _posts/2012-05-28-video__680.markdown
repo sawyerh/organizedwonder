@@ -1,0 +1,13 @@
+---
+title: "Feist- Cicadas and Gulls"
+date: 2012-05-28 23:00:13 00:00
+permalink: /videos/680
+source: "http://www.youtube.com/watch?v=NB_rFKx_sPA&feature=youtube_gdata_player"
+thumbnail: "http://i3.ytimg.com/vi/NB_rFKx_sPA/hqdefault.jpg"
+user:
+  username: "aaron"
+  name: "Aaron Copeland"
+tags: ["music","music video"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/NB_rFKx_sPA?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

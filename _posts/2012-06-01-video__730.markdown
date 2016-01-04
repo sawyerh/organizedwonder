@@ -1,0 +1,14 @@
+---
+title: "House Industries: Interview with Ken Barber"
+date: 2012-06-01 02:31:37 00:00
+permalink: /videos/730
+source: "https://vimeo.com/33166829"
+thumbnail: "http://b.vimeocdn.com/ts/224/920/224920647_960.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["graphic design","typography","gestalten"]
+html: "<iframe src=\"http://player.vimeo.com/video/33166829\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+"House Industries has been producing their premier league retro design and their true love…Fonts! Fonts! Fonts! since 1993. House Industries’ lead letterer Ken Barber recently visited us in Berlin to give a workshop at our Gestalten Space, which explored the creative process of hand-lettering and the application of illustrative letterforms in contemporary graphic design. We took this chance to interview him on Gestalten.tv where he talks about the necessity of specialization and the fine lines between lettering, typography, and font design."

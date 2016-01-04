@@ -1,0 +1,14 @@
+---
+title: "Michael Migliorini - A Day in the Life"
+date: 2012-06-26 22:22:31 00:00
+permalink: /videos/990
+source: "https://vimeo.com/42715352"
+thumbnail: "http://b.vimeocdn.com/ts/296/402/296402919_960.jpg"
+user:
+  username: "theofolinas"
+  name: "Theo Folinas"
+tags: ["design","short documentary","glass","blowing"]
+html: "<iframe src=\"http://player.vimeo.com/video/42715352\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+A day in the life of glass blower Michael Migliorini.

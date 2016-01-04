@@ -1,0 +1,16 @@
+---
+title: "Bonobo : Cirrus [Official Video]"
+date: 2013-05-07 20:50:46 00:00
+permalink: /videos/1873
+source: "http://www.youtube.com/watch?v=WF34N4gJAKE"
+thumbnail: "http://i4.ytimg.com/vi/WF34N4gJAKE/hqdefault.jpg"
+user:
+  username: "alexgweiser"
+  name: "Alex G Weiser"
+tags: ["music","animation","music video","surreal","consumerism","bonobo"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/WF34N4gJAKE?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Cirrus is a tune from Bonobo's new album, 'The North Borders'. I've been digging it hard since I heard his interview on All Things Considered. (http://www.npr.org/2013/04/05/176333698/bonobo-challenging-musics-borders-finding-a-new-frontier)
+
+On his website, the video's animator Cyriak says, "It uses clips from a 1962 film about the wonders of consumerism."

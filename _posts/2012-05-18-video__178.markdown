@@ -1,0 +1,13 @@
+---
+title: "Roy Firestone interviews Ansel Adams"
+date: 2012-05-18 05:59:18 00:00
+permalink: /videos/178
+source: "http://www.youtube.com/watch?v=pAHIGS4iiJY"
+thumbnail: "http://i1.ytimg.com/vi/pAHIGS4iiJY/hqdefault.jpg"
+user:
+  username: "calescence"
+  name: "Shannon McWeeney"
+tags: ["photography","expression","ansel adams"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/pAHIGS4iiJY?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

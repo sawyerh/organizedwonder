@@ -1,0 +1,14 @@
+---
+title: "On the Map - Screening 2011"
+date: 2012-06-26 16:23:38 00:00
+permalink: /videos/981
+source: "https://vimeo.com/34296677"
+thumbnail: "http://b.vimeocdn.com/ts/233/441/233441306_1280.jpg"
+user:
+  username: "jfinley"
+  name: "Jeff Finley"
+tags: ["short film","documentary","cleveland","go media","on the map"]
+html: "<iframe src=\"http://player.vimeo.com/video/34296677\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Go Media's debut screening of On the Map. A collection of short documentaries about cool creative people and business in Cleveland, OH.

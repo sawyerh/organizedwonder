@@ -1,0 +1,14 @@
+---
+title: "Jacob Cass, World Traveler and Designer"
+date: 2012-05-18 16:16:08 00:00
+permalink: /videos/270
+source: "https://vimeo.com/32077617"
+thumbnail: "http://b.vimeocdn.com/ts/217/149/217149688_1280.jpg"
+user:
+  username: "katchja"
+  name: "Catalina Butnaru"
+tags: ["interview","design","story","brightlounge","identity","traveling","inspirational","jacob cass"]
+html: "<iframe src=\"http://player.vimeo.com/video/32077617\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Jacob Cass has found a lot of inspiration and motivation in his travels. Hear his story and enjoy a bunch of useful tips for traveling freelancers.

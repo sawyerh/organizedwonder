@@ -1,0 +1,14 @@
+---
+title: "Chorus \"LISZTOMANIA\" Phoenix"
+date: 2012-05-18 11:56:23 00:00
+permalink: /videos/198
+source: "http://www.youtube.com/watch?v=3mZ1zV1l2KQ"
+thumbnail: "http://i4.ytimg.com/vi/3mZ1zV1l2KQ/hqdefault.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["music","phoenix"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/3mZ1zV1l2KQ?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Chorale d'enfant qui chante Phoenix

@@ -1,0 +1,13 @@
+---
+title: "Here Is Always Somehwere Else: The Disappearance of Bas Jan Ader (1⁄5)"
+date: 2012-07-16 16:23:59 00:00
+permalink: /videos/1088
+source: "http://www.youtube.com/watch?v=aqJTellOG3I&feature=related"
+thumbnail: "http://i2.ytimg.com/vi/aqJTellOG3I/hqdefault.jpg"
+user:
+  username: "yridomot"
+  name: "Spyros Simotas"
+tags: ["art","documentary","bas jan ader","in search of the miraculous"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/aqJTellOG3I?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

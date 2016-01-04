@@ -1,0 +1,22 @@
+---
+title: "THIS IS WATER - By David Foster Wallace"
+date: 2013-05-08 20:52:02 00:00
+permalink: /videos/1879
+source: "https://vimeo.com/65576562#at=0"
+thumbnail: "http://b.vimeocdn.com/ts/436/640/436640754_640.jpg"
+user:
+  username: "hawkinsjustin"
+  name: "Justin Hawkins"
+tags: ["speech","david foster wallace"]
+html: "<iframe src=\"http://player.vimeo.com/video/65576562\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+In 2005, author David Foster Wallace was asked to give the commencement address to the 2005 graduating class of Kenyon College. However, the resulting speech didn't become widely known until 3 years later, after his tragic death. It is, without a doubt, some of the best life advice we've ever come across, and perhaps the most simple and elegant explanation of the real value of education.
+
+We made this video, built around an abridged version of the original audio recording, with the hopes that the core message of the speech could reach a wider audience who might not have otherwise been interested.
+
+Read the full speech here:
+web.archive.org/web/20080213082423/http://www.marginalia.org/dfw_kenyon_commencement.html
+
+-The Glossary
+theglossary.com

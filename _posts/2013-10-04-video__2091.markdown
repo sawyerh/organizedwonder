@@ -1,0 +1,13 @@
+---
+title: "Peter Bellerby - The Globemaker"
+date: 2013-10-04 15:40:35 00:00
+permalink: /videos/2091
+source: "https://vimeo.com/63511505#at=0"
+thumbnail: "http://b.vimeocdn.com/ts/434/008/434008194_1280.jpg"
+user:
+  username: "fbutour"
+  name: "Florian Butour"
+tags: ["earth","made by hand","globemaker"]
+html: "<iframe src=\"http://player.vimeo.com/video/63511505\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

@@ -1,0 +1,13 @@
+---
+title: "Joshua Klein on the Intelligence of Crows | Video on TED.com"
+date: 2012-05-23 05:02:28 00:00
+permalink: /videos/578
+source: "http://www.ted.com/talks/joshua_klein_on_the_intelligence_of_crows.html"
+thumbnail: "http://images.ted.com/images/ted/41658_389x292.jpg"
+user:
+  username: "susie"
+  name: "Susie"
+tags: []
+html: "<object width=\"526\" height=\"374\"><param name=\"wmode\" value=\"transparent\"><param name=\"movie\" value=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowScriptAccess\" value=\"always\"><param name=\"wmode\" value=\"transparent\"><param name=\"bgColor\" value=\"#ffffff\"><param name=\"flashvars\" value=\"vh=288&amp;ap=0&amp;vu=http://download.ted.com/talks/JoshuaKlein_2008-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/JoshuaKlein-2008.embed_thumbnail.jpg&amp;vw=512\"><embed src=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" pluginspace=\"http://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" bgcolor=\"#ffffff\" width=\"526\" height=\"374\" allowfullscreen=\"true\" allowscriptaccess=\"always\" flashvars=\"vh=288&amp;ap=0&amp;vu=http://download.ted.com/talks/JoshuaKlein_2008-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/JoshuaKlein-2008.embed_thumbnail.jpg&amp;vw=512\"></embed></object>"
+---
+

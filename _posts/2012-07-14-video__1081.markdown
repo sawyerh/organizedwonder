@@ -1,0 +1,29 @@
+---
+title: "The Isle of Langkawi"
+date: 2012-07-14 18:04:36 00:00
+permalink: /videos/1081
+source: "https://vimeo.com/34109437"
+thumbnail: "http://b.vimeocdn.com/ts/232/218/232218807_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["nature","malaysia","james w. griffiths"]
+html: "<iframe src=\"http://player.vimeo.com/video/34109437\" width=\"1280\" height=\"544\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+A film about the legends and folktales of historical Langkawi.
+
+Filmed entirely in Langkawi, Malaysia
+
+We would like to thank the amazing people of Malaysia for their hospitality and in particular a big thank you to Anne, Dava, Kumar and Rooslee (AKA Bruce Lee) for their invaluable assistance.
+
+Thanks for watching!
+
+Director/Producer - James W. Griffiths
+Director of Photography - Christopher Moon
+Editor - Marianne Kuopanportti
+Sound Design and Mix - Mauricio d'Orey
+Music - Lennert Busch
+Narrator - Cameron Robertson
+
+This video is part of the Malaysia, My Journey project. See others at vimeo.com/channels/malaysia

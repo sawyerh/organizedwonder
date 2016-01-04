@@ -1,0 +1,13 @@
+---
+title: "seagulls"
+date: 2013-02-19 02:08:52 00:00
+permalink: /videos/1705
+source: "http://vimeo.com/59689349#"
+thumbnail: "http://b.vimeocdn.com/ts/415/317/415317224_1280.jpg"
+user:
+  username: "leonkotlyar"
+  name: "Leon Kotlyar"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/59689349\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

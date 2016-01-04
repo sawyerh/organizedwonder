@@ -1,0 +1,13 @@
+---
+title: "The Scanner"
+date: 2013-03-13 09:52:56 00:00
+permalink: /videos/1740
+source: "http://youtu.be/2TzlF7YuT7c"
+thumbnail: "http://i3.ytimg.com/vi/2TzlF7YuT7c/hqdefault.jpg"
+user:
+  username: "av"
+  name: "Gerard Lough"
+tags: ["stopmotion","light painting"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/2TzlF7YuT7c?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

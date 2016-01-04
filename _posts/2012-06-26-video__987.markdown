@@ -1,0 +1,15 @@
+---
+title: "OTM - 2nd Shift"
+date: 2012-06-26 16:34:01 00:00
+permalink: /videos/987
+source: "https://vimeo.com/32289531"
+thumbnail: "http://b.vimeocdn.com/ts/218/578/218578234_1280.jpg"
+user:
+  username: "jfinley"
+  name: "Jeff Finley"
+tags: ["furniture","short documentary","cleveland","go media","on the map","woodshop"]
+html: "<iframe src=\"http://player.vimeo.com/video/32289531\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+2nd Shift is a contemporary product design studio located in Ohio City, Cleveland. It's owned and run by seven partners, a group of creatives with diverse skills and varying backgrounds all working towards a common goal: design and build smart, beautiful, and useful products. Their first year has seen the development of a design studio - workshop, and their first line of products.
+On the Map is a video series featuring the people and places that make Cleveland a creative, culturally rich, and inspiring place to live and work

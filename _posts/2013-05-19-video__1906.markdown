@@ -1,0 +1,13 @@
+---
+title: "DKNY Exclusively for Opening Ceremony"
+date: 2013-05-19 19:31:26 00:00
+permalink: /videos/1906
+source: "https://vimeo.com/59276095"
+thumbnail: "http://b.vimeocdn.com/ts/411/887/411887413_1280.jpg"
+user:
+  username: "kk"
+  name: "Kellyn Walker"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/59276095\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

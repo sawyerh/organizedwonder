@@ -1,0 +1,14 @@
+---
+title: "Design Thinking: Composting Prototypes"
+date: 2015-04-14 17:57:33 00:00
+permalink: /videos/2501
+source: "https://vimeo.com/78645036"
+thumbnail: "http://i.vimeocdn.com/video/477236828_1280.jpg"
+user:
+  username: "sbgriffi"
+  name: "Stuart G."
+tags: ["design","creativity","design thinking","process","ideas","problem solving","prototyping","iteration","hard work"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F78645036&wmode=transparent&url=https%3A%2F%2Fvimeo.com%2F78645036&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F477236828_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+“Composting prototypes” i.e. pieces of the design process that didn’t realize into the final product aren’t trash

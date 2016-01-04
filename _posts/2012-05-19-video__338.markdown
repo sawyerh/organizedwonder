@@ -1,0 +1,13 @@
+---
+title: "TEMPORAL : The Art of Stephan Doitschinoff (aka Calma)"
+date: 2012-05-19 01:52:53 00:00
+permalink: /videos/338
+source: "http://vimeo.com/2301531"
+thumbnail: "http://b.vimeocdn.com/ts/210/056/21005674_295.jpg"
+user:
+  username: "calescence"
+  name: "Shannon McWeeney"
+tags: ["culture","street art","brazil"]
+html: "<iframe src=\"http://player.vimeo.com/video/2301531\" width=\"504\" height=\"244\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

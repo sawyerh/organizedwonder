@@ -1,0 +1,13 @@
+---
+title: "How To Tell If You're An Entrepreneur"
+date: 2012-08-27 14:35:24 00:00
+permalink: /videos/1314
+source: "https://vimeo.com/47789370"
+thumbnail: "http://b.vimeocdn.com/ts/331/983/331983527_1280.jpg"
+user:
+  username: "dannyz"
+  name: "Danny Zevallos"
+tags: ["business","entrepreneur"]
+html: "<iframe src=\"http://player.vimeo.com/video/47789370\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

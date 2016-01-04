@@ -1,0 +1,27 @@
+---
+title: "Wanderers - a short film by Erik Wernquist"
+date: 2014-12-10 17:53:53 00:00
+permalink: /videos/2456
+source: "http://vimeo.com/108650530"
+thumbnail: "http://i.vimeocdn.com/video/498302788_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["space","short film","sci-fi"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F108650530&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F108650530&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F498302788_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"816\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Wanderers is a vision of humanity's expansion into the Solar System, based on scientific ideas and concepts of what our future in space might look like, if it ever happens. The locations depicted in the film are digital recreations of actual places in the Solar System, built from real photos and map data where available.
+Without any apparent story, other than what you may fill in by yourself, the idea of the film is primarily to show a glimpse of the fantastic and beautiful nature that surrounds us on our neighboring worlds - and above all, how it might appear to us if we were there.
+
+CREDITS:
+VISUALS - Erik Wernquist 
+MUSIC - Cristian Sandquist
+WORDS AND VOICE - Carl Sagan
+COLOR GRADE - Caj Müller/Beckholmen Film
+LIVE ACTION PHOTOGRAPHY - Mikael Hall/Vidiotism
+LIVE ACTION PERFORMANCE - Anna Nerman, Camilla Hammarström, Hanna Mellin
+VOCALIST - Nina Fylkegård
+THANK YOU - Johan Persson, Calle Herdenberg, Micke Lindgren, Satrio J. Studt, Tomas Axelsson, Christian Lundqvist, Micke Lindell, Sigfrid Söderberg, Fredrik Strage, Johan Antoni, Henrik Johansson, Michael Uvnäs, Hanna Mellin
+THIS FILM WAS MADE WITH USE OF PHOTOS AND TEXTURES FROM:
+NASA/JPL, NASA/CICLOPS, NASA/Goddard Space Flight Center Scientific Visualization Studio, ESA, John Van Vliet, Björn Jonsson (and many others, of which I unfortunately do not know the names)

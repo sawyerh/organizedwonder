@@ -1,0 +1,14 @@
+---
+title: "Trust Breeds Magic"
+date: 2014-01-16 03:51:29 00:00
+permalink: /videos/2180
+source: "http://www.youtube.com/watch?v=GASylst1CBI"
+thumbnail: "http://i1.ytimg.com/vi/GASylst1CBI/hqdefault.jpg"
+user:
+  username: "swissmiss"
+  name: "swissmiss"
+tags: ["inspiring","swissmiss","labors of love","labor of love","graph design"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FGASylst1CBI%3Fwmode%3Dtransparent%26feature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGASylst1CBI&image=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FGASylst1CBI%2Fhqdefault.jpg&key=950020ba825211e1a0764040d3dc5c07&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Tina Roth Eisenberg (swissmiss) speaking at DO Lectures USA>.

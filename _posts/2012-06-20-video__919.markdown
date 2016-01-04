@@ -1,0 +1,28 @@
+---
+title: "Measuring the Universe"
+date: 2012-06-20 03:33:54 00:00
+permalink: /videos/919
+source: "http://vimeo.com/41434123#embed"
+thumbnail: "http://b.vimeocdn.com/ts/286/980/286980181_1280.jpg"
+user:
+  username: "alonzo"
+  name: "Alonzo Felix"
+tags: ["space","science","animation"]
+html: "<iframe src=\"http://player.vimeo.com/video/41434123\" width=\"1280\" height=\"960\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+From The Royal Observatory, Greenwich, a short video explanation of how scientists measure the size of the Universe.
+
+Credits:
+Design and direction:
+Richard Hogg
+Animation:
+Robert Milne
+Ross Philips
+Kwok Fung Lam
+Music and sound effects:
+George Demure
+Narration and Astro-smarts:
+Dr Olivia Johnson
+Producer:
+Henry Holland

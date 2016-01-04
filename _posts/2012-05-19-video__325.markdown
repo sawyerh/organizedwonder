@@ -1,0 +1,16 @@
+---
+title: "The Inverted Bike Shop"
+date: 2012-05-19 00:01:33 00:00
+permalink: /videos/325
+source: "https://vimeo.com/36258512"
+thumbnail: "http://b.vimeocdn.com/ts/248/580/248580526_960.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["craft","brooklyn","short documentary"]
+html: "<iframe src=\"http://player.vimeo.com/video/36258512\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Amongst the multitude of bike shops across Manhattan and Brooklyn, 718 Cyclery (718c.com) stands out for their unique approach to the business. This is the "inverted bike shop".
+
+Created by Show Love (showloveworld.com).

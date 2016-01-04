@@ -1,0 +1,13 @@
+---
+title: "LIGHT"
+date: 2012-05-21 02:50:25 00:00
+permalink: /videos/476
+source: "http://vimeo.com/41471703"
+thumbnail: "http://b.vimeocdn.com/ts/287/595/287595833_1280.jpg"
+user:
+  username: "leeorwild"
+  name: "Leeor Wild"
+tags: ["surf"]
+html: "<iframe src=\"http://player.vimeo.com/video/41471703\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

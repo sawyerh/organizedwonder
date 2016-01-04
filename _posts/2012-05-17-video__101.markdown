@@ -1,0 +1,14 @@
+---
+title: "The Orphans"
+date: 2012-05-17 14:02:31 00:00
+permalink: /videos/101
+source: "https://vimeo.com/40646259"
+thumbnail: "http://b.vimeocdn.com/ts/280/999/280999078_640.jpg"
+user:
+  username: "emmacbeltran"
+  name: "Emma C Beltran"
+tags: ["animation","motion graphics","title design","after effects"]
+html: "<iframe src=\"http://player.vimeo.com/video/40646259\" width=\"640\" height=\"424\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+A title Sequence for a TV show about the main characters from "A Series of Unfortunate Events"

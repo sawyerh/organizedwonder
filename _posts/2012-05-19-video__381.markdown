@@ -1,0 +1,14 @@
+---
+title: "weird sisters"
+date: 2012-05-19 12:12:18 00:00
+permalink: /videos/381
+source: "http://vimeo.com/2953001"
+thumbnail: "http://b.vimeocdn.com/ts/605/405/60540597_295.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["music","spakehorse"]
+html: "<iframe src=\"http://player.vimeo.com/video/2953001\" width=\"400\" height=\"300\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Recycled black and white footage plus cut and paste equals a weird video for sparklehorse's weird sisters. This video created by Christina Vantzou was used as backdrop on Sparklehorse's 2007 European tour.

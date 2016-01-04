@@ -1,0 +1,19 @@
+---
+title: "EF - Live The Language - Los Angeles"
+date: 2012-05-18 17:12:15 00:00
+permalink: /videos/275
+source: "http://vimeo.com/28818909"
+thumbnail: "http://b.vimeocdn.com/ts/192/654/192654002_1280.jpg"
+user:
+  username: "marshmallowfeev"
+  name: "bekah nutt"
+tags: ["short film","design","typography"]
+html: "<iframe src=\"http://player.vimeo.com/video/28818909\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Short film for EF International Language Centers.
+Directed by Gustav Johansson (gustavjohansson.com)
+D.P: Niklas Johansson, fsf (niklasjohansson.com)
+Typography: Albin Holmqvist (albinholmqvist.com)
+Music: Magnus Lidehäll (twitter.com/magnusthemagnus)
+Produced at Camp David (campdavidfilm.com)

@@ -1,0 +1,16 @@
+---
+title: "Margot Harrington at WMC Fest 2012"
+date: 2012-07-31 17:49:12 00:00
+permalink: /videos/1177
+source: "http://www.youtube.com/watch?v=I_5XAdZOsBw&feature=plcp"
+thumbnail: "http://i2.ytimg.com/vi/I_5XAdZOsBw/hqdefault.jpg"
+user:
+  username: "jfinley"
+  name: "Jeff Finley"
+tags: ["speaker \"wmc fest\" cleveland festival \"design conference\" \"graphic design\" lecture inspirational entrepreneur diy ohio midwest"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/I_5XAdZOsBw?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Designer Margot Harrington (Pitch Design) gives a presentation at Weapons of Mass Creation Fest 2012 in Cleveland, OH - http://wmcfest.com 
+
+Presentation slides: http://bit.ly/MKbi82

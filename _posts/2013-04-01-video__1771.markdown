@@ -1,0 +1,13 @@
+---
+title: "Scott Schuman (The Sartorialist) on his new book, \"Closer\""
+date: 2013-04-01 02:08:17 00:00
+permalink: /videos/1771
+source: "https://vimeo.com/54596375"
+thumbnail: "http://b.vimeocdn.com/ts/377/596/377596997_1280.jpg"
+user:
+  username: "jl"
+  name: "John Gregory Liwag"
+tags: ["interview","fashion","style"]
+html: "<iframe src=\"http://player.vimeo.com/video/54596375\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

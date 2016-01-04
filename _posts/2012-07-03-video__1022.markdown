@@ -1,0 +1,14 @@
+---
+title: "The Most Astounding Fact About the Universe"
+date: 2012-07-03 17:33:36 00:00
+permalink: /videos/1022
+source: "http://www.youtube.com/watch?v=9D05ej8u-gU"
+thumbnail: "http://i2.ytimg.com/vi/9D05ej8u-gU/hqdefault.jpg"
+user:
+  username: "tonyfelice"
+  name: "tony felice"
+tags: ["universe","inspiration","vision","connection"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/9D05ej8u-gU?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+We are not just a part of the universe, the universe is in us.

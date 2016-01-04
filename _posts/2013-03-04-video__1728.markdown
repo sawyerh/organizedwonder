@@ -1,0 +1,14 @@
+---
+title: "Garance Doré: Pardon My French / Jenna Lyons"
+date: 2013-03-04 06:07:44 00:00
+permalink: /videos/1728
+source: "http://youtu.be/og7k6rrTubE"
+thumbnail: "http://i4.ytimg.com/vi/og7k6rrTubE/hqdefault.jpg"
+user:
+  username: "laurenoneill"
+  name: "Lauren O'Neill"
+tags: ["short film","fashion","women"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/og7k6rrTubE?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Garance sits down with President + Creative Director of J.Crew, Jenna Lyons, during NYFW Spring 2013.

@@ -1,0 +1,13 @@
+---
+title: "Jonathan Adler: Keep Other People's Opinions Out Of Your Creative Process"
+date: 2013-03-04 05:56:49 00:00
+permalink: /videos/1726
+source: "http://vimeo.com/52118987"
+thumbnail: "http://b.vimeocdn.com/ts/359/813/359813308_295.jpg"
+user:
+  username: "laurenoneill"
+  name: "Lauren O'Neill"
+tags: ["design","creative process"]
+html: "<iframe src=\"http://player.vimeo.com/video/52118987\" width=\"480\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

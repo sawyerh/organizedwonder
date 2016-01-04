@@ -1,0 +1,14 @@
+---
+title: "Emily Cohen"
+date: 2012-05-15 05:01:31 00:00
+permalink: /videos/21
+source: "https://vimeo.com/20111779"
+thumbnail: "http://b.vimeocdn.com/ts/128/161/128161643_640.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["creativemornings","design","nyc","business","emily cohen","talk"]
+html: "<iframe src=\"http://player.vimeo.com/video/20111779\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Emily Cohen at CreativeMornings NYC, a monthly breakfast lecture series of creative types. http://creativemornings.com

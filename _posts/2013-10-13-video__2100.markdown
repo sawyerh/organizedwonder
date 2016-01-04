@@ -1,0 +1,14 @@
+---
+title: "Webstock '13: Mike Monteiro - How Designers Destroyed the World"
+date: 2013-10-13 12:44:21 00:00
+permalink: /videos/2100
+source: "https://vimeo.com/68470326"
+thumbnail: "http://b.vimeocdn.com/ts/441/640/441640247_1280.jpg"
+user:
+  username: "akmur"
+  name: "Alessandro Muraro"
+tags: ["design","web design"]
+html: "<iframe src=\"http://player.vimeo.com/video/68470326\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+You are directly responsible for what you put into the world. Yet every day designers all over the world work on projects without giving any thought or consideration to the impact that work has on the world around them. This needs to change.

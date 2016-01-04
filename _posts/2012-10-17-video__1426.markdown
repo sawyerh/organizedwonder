@@ -1,0 +1,16 @@
+---
+title: "DESIGN IS ONE: LELLA & MASSIMO VIGNELLI -- trailer for feature length documentary"
+date: 2012-10-17 15:39:00 00:00
+permalink: /videos/1426
+source: "http://www.youtube.com/watch?feature=player_embedded&v=anl5D2Bpsbo"
+thumbnail: "http://i2.ytimg.com/vi/anl5D2Bpsbo/hqdefault.jpg"
+user:
+  username: "lhid"
+  name: "Leban Hyde"
+tags: ["interview","design","graphic design"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/anl5D2Bpsbo?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+"If you can't find it, design it" is the motto of the Vignellis, whose renowned work ranges 
+''from the spoon to the city." Kathy Brew & Roberto Guerra's film brings us into the Vignellis' world, capturing their intelligence and creativity, as well as their humanity, warmth, and humor.
+www.designisonefilm.com

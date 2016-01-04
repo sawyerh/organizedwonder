@@ -1,0 +1,14 @@
+---
+title: "Creative Morning Berlin #13: Erik Spiekermann"
+date: 2012-09-21 17:42:13 00:00
+permalink: /videos/1391
+source: "http://vimeo.com/49744848#"
+thumbnail: "http://b.vimeocdn.com/ts/343/091/343091601_1280.jpg"
+user:
+  username: "lhid"
+  name: "Leban Hyde"
+tags: ["graphic design","conference","typography","web design","creative mornings"]
+html: "<iframe src=\"http://player.vimeo.com/video/49744848\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+At our 13th Creative Morning in Berlin Erik Spiekermann gives a 20 minute introduction to Type On Screen.

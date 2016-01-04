@@ -1,0 +1,22 @@
+---
+title: "Anatomy of a Design Decision - Jared Spool"
+date: 2013-08-09 17:31:28 00:00
+permalink: /videos/2044
+source: "https://vimeo.com/41509755"
+thumbnail: "http://b.vimeocdn.com/ts/355/385/355385853_640.jpg"
+user:
+  username: "ecrissman"
+  name: "Eric Crissman"
+tags: ["talk","web design","ux","jared spool"]
+html: "<iframe src=\"http://player.vimeo.com/video/41509755\" width=\"640\" height=\"480\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+What separates a good design from a bad design are the decisions that the designer made.
+
+In this hour-long video, recorded live at An Event Apart San Diego 2010, Jared Spool explores the five styles of design decisions, showing you when gut instinct produces the right results, and when designers need to look to more user-focused research.
+
+Jared Spool (@jmspool) is the founding principal of User Interface Engineering, a leading research, training, and consulting firm specializing in website and product usability.
+
+Jared has been working in the field of usability and design since 1978, before the term “usability” was ever associated with computers. He spends his time working with the research teams at the company, helping clients understand how to solve their design problems, explaining to reporters and industry analysts what the current state of design is all about, and is a top-rated speaker at more than 20 conferences every year.
+
+He is also the conference chair and keynote speaker at the annual User Interface Conference, is on the faculty of the Tufts University Gordon Institute, and manages to squeeze in a fair amount of writing time.

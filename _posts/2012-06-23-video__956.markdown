@@ -1,0 +1,25 @@
+---
+title: "Mission Chinese"
+date: 2012-06-23 18:00:11 00:00
+permalink: /videos/956
+source: "https://vimeo.com/44010076"
+thumbnail: "http://b.vimeocdn.com/ts/308/422/308422525_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["short film","action","chinese"]
+html: "<iframe src=\"http://player.vimeo.com/video/44010076\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Freemans Sporting Club & Sunday / Paper present "Mission Chinese".
+
+Starring: Ivan Shaw, Ron Yuan, Elaine Tan, Sonny Quock, Alex Chen
+Written & Directed by Cole Schreiber & David Parker
+Producer: Adele Romanski
+Cinematography: James Laxton
+Editor: Kevin Zimmerman
+Casting: Leslie Woo
+Executive Producers: Riki Bryan, Cole Schreiber, David Parker
+Music Supervision: Maxwell Gosling
+Sound Design / Additional Scoring: Peter Lauridsen
+For a complete credit listing please visit sunday-paper.com.

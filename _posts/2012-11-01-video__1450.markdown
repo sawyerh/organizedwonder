@@ -1,0 +1,13 @@
+---
+title: "The Darwinian Theory of Beauty"
+date: 2012-11-01 10:11:56 00:00
+permalink: /videos/1450
+source: "http://www.ted.com/talks/denis_dutton_a_darwinian_theory_of_beauty.html"
+thumbnail: "http://images.ted.com/images/ted/1432cabbf8b2c3ccfd72a23039190a2c0c26e831_389x292.jpg"
+user:
+  username: "niqueeta"
+  name: "Monique Silva Pinto"
+tags: []
+html: "<iframe src=\"http://embed.ted.com/talks/denis_dutton_a_darwinian_theory_of_beauty.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

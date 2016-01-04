@@ -1,0 +1,14 @@
+---
+title: "Roman Coppola and Friends"
+date: 2012-05-21 02:04:11 00:00
+permalink: /videos/475
+source: "https://vimeo.com/42387203"
+thumbnail: "http://b.vimeocdn.com/ts/294/078/294078026_640.jpg"
+user:
+  username: "steve_flory"
+  name: "Steve Flory"
+tags: ["eleanor ford coppola","francis ford coppola","duffy culligan","jason schwartzman","jack raglin","liam hayes","eric bonerz","sheena the leopard","interview","motion design","semi permanent"]
+html: "<iframe src=\"http://player.vimeo.com/video/42387203\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Eleanor & Francis Ford Coppola, Duffy Culligan, Jason Schwartzman, Jack Raglin, Liam Hayes, Eric Bonerz & Sheena the Leopard, Roman shows us through his incredible body of work and gives us a glimpse of his world and how his mind works.

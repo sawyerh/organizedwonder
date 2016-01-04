@@ -1,0 +1,13 @@
+---
+title: "Theatre of War"
+date: 2012-05-15 05:25:41 00:00
+permalink: /videos/34
+source: "https://vimeo.com/7195148"
+thumbnail: "http://b.vimeocdn.com/ts/301/481/30148125_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["cinemagraph","iraq","war"]
+html: "<iframe src=\"http://player.vimeo.com/video/7195148\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

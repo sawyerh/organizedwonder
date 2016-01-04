@@ -1,0 +1,14 @@
+---
+title: "Rabbit in your headlight"
+date: 2012-05-18 13:09:15 00:00
+permalink: /videos/217
+source: "http://www.youtube.com/watch?feature=player_embedded&v=cud_k9f6tqk"
+thumbnail: "http://i4.ytimg.com/vi/cud_k9f6tqk/hqdefault.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["music","clip","radiohead","shocking"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/cud_k9f6tqk?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Un clip à voir et à revoir, si ce n'est pour son côté dérangeant et aussi parce qu'il a été censuré sur les majorité des chaînes.

@@ -1,0 +1,16 @@
+---
+title: "Where I Stand - Edward Burtynsky"
+date: 2013-10-28 16:32:37 00:00
+permalink: /videos/2112
+source: "https://vimeo.com/73153587"
+thumbnail: "http://b.vimeocdn.com/ts/447/284/447284977_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["behind the scenes","photography","water"]
+html: "<iframe src=\"http://player.vimeo.com/video/73153587\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"Where I Stand &ndash; Edward Burtynsky\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Where I Stand is a behind the scenes look at the making of the BURTYNSKY WATER photographic project and the feature length film WATERMARK which Edward Burtynsky co-directed with Jennifer Baichwal.
+
+This video is one of the many features included in the soon to be released iPad app BURTYNSKY WATER

@@ -1,0 +1,13 @@
+---
+title: "JMU Super Tutors"
+date: 2012-05-19 21:45:32 00:00
+permalink: /videos/440
+source: "http://www.youtube.com/watch?v=M_VXdOcc2jM"
+thumbnail: "http://i2.ytimg.com/vi/M_VXdOcc2jM/hqdefault.jpg"
+user:
+  username: "sbooker"
+  name: "SLB"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/M_VXdOcc2jM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

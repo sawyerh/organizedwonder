@@ -1,0 +1,14 @@
+---
+title: "Lift - Marc Isaacs"
+date: 2012-12-18 15:06:32 00:00
+permalink: /videos/1558
+source: "http://www.youtube.com/watch?v=FJNAvyLCTik"
+thumbnail: "http://i3.ytimg.com/vi/FJNAvyLCTik/hqdefault.jpg"
+user:
+  username: "tomvb"
+  name: "Tom van Beveren"
+tags: ["short documentary"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/FJNAvyLCTik?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Funny, awkward at times but absolutely heartwarming. Filmmaker Marc Isaacs sets himself up in a London tower block lift. The residents come to trust him and reveal the things that matter to them creating a humorous and moving portrait of a vertical community.

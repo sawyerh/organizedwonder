@@ -1,0 +1,13 @@
+---
+title: "SXSW Interactive 2013: Peter Thiel - You are Not a Lottery Ticket"
+date: 2013-04-15 13:04:28 00:00
+permalink: /videos/1800
+source: "http://www.ustream.tv/recorded/29931127"
+thumbnail: "http://static-cdn1.ustream.tv/images/uphoto_file/4/2/9/5/42951/th/smalls2_120_42951_channelicon_1362106322.jpg"
+user:
+  username: "procload"
+  name: "Ryan Merrill"
+tags: []
+html: "<object classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" width=\"480\" height=\"296\" id=\"utv274065\" name=\"utv_n_51559\"><param name=\"wmode\" value=\"transparent\"><param name=\"flashvars\" value=\"loc=%2F&amp;autoplay=false&amp;vid=29931127\"><param name=\"wmode\" value=\"opaque\"><param name=\"allowfullscreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><param name=\"src\" value=\"http://www.ustream.tv/flash/viewer.swf\"><embed flashvars=\"loc=%2F&amp;autoplay=false&amp;vid=29931127\" width=\"480\" height=\"296\" wmode=\"transparent\" allowfullscreen=\"true\" allowscriptaccess=\"always\" id=\"utv274065\" name=\"utv_n_51559\" src=\"http://www.ustream.tv/flash/viewer.swf\" type=\"application/x-shockwave-flash\"></embed></object>"
+---
+

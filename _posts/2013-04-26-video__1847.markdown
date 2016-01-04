@@ -1,0 +1,13 @@
+---
+title: "Sh*t Kingz: “I Can Make Ya Feel” by Fingazz"
+date: 2013-04-26 06:35:44 00:00
+permalink: /videos/1847
+source: "http://www.youtube.com/watch?v=Fy4vPkAmBRs"
+thumbnail: "http://i3.ytimg.com/vi/Fy4vPkAmBRs/hqdefault.jpg"
+user:
+  username: "psyoko"
+  name: "Yoko Sakao Ohama"
+tags: ["dance","choreography","classroom"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/Fy4vPkAmBRs?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

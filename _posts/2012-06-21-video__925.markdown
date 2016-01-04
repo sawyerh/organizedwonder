@@ -1,0 +1,14 @@
+---
+title: "Finding Your Way as an Entrepreneur"
+date: 2012-06-21 00:48:34 00:00
+permalink: /videos/925
+source: "http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2983"
+thumbnail: "http://ecorner.stanford.edu/repository/2983.i?width=500"
+user:
+  username: "byderekj"
+  name: "Derek Jensen"
+tags: ["talk","entrepreneur","happiness","people","focus"]
+html: "<object type=\"application/x-shockwave-flash\" data=\"http://ecorner.stanford.edu/swf/player-ec.swf\" width=\"300\" height=\"200\">    <param name=\"wmode\" value=\"transparent\"><param name=\"movie\" value=\"http://ecorner.stanford.edu/swf/player-ec.swf\"><param name=\"quality\" value=\"high\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowScriptAccess\" value=\"always\"><param name=\"pluginspage\" value=\"http://www.macromedia.com/go/getflashplayer\"><param name=\"autoplay\" value=\"false\"><param name=\"autostart\" value=\"false\"><param name=\"flashvars\" value=\"config=http://ecorner.stanford.edu/embeded_fb_config.xml?mid=2983\"><embed src=\"http://ecorner.stanford.edu/swf/player-ec.swf\" flashvars=\"config=http://ecorner.stanford.edu/embeded_fb_config.xml?mid=2983\" width=\"300\" height=\"200\" type=\"application/x-shockwave-flash\" wmode=\"transparent\"></embed></object>"
+---
+
+Co-Founder Drew Houston shares personal moments from starting the cloud-based file storage service Dropbox. Houston touches on the importance of persevering through early challenges at a startup, selecting the right co-founder, and focusing on solving problems to maximize customer happiness

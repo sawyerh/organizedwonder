@@ -1,0 +1,16 @@
+---
+title: "Grow - Episode 1"
+date: 2012-05-19 14:53:19 00:00
+permalink: /videos/409
+source: "http://www.youtube.com/watch?v=tr2Lv4I-ihA"
+thumbnail: "http://i1.ytimg.com/vi/tr2Lv4I-ihA/hqdefault.jpg"
+user:
+  username: "happyhealthybalance"
+  name: "happyhealthybalance"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/tr2Lv4I-ihA?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+"Round Table Farm" - Neysa and Travis ditch demanding career paths in Boston and follow their dream of organic farming all the way to Texas. In Austin's thriving local-food scene, growing their first crop opens their eyes and brings up more than fresh vegetables.
+
+"Grow" - From rooftops and back yards to community plots and small farms, across America inspired people are waking up and taking food production into their own hands. Look into their lives and living spaces as they nourish themselves and others, along with their gardens.

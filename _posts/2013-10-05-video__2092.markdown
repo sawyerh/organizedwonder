@@ -1,0 +1,13 @@
+---
+title: "Electric Blue Heaven"
+date: 2013-10-05 19:41:46 00:00
+permalink: /videos/2092
+source: "https://vimeo.com/44253174"
+thumbnail: "http://b.vimeocdn.com/ts/307/432/307432227_1280.jpg"
+user:
+  username: "brandon_weiss"
+  name: "Brandon Weiss"
+tags: ["surfing"]
+html: "<iframe src=\"http://player.vimeo.com/video/44253174\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

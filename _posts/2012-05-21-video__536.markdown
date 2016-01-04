@@ -1,0 +1,15 @@
+---
+title: "Visual Notes And Ideas: Lindsey"
+date: 2012-05-21 20:58:04 00:00
+permalink: /videos/536
+source: "https://vimeo.com/39561041"
+thumbnail: "http://b.vimeocdn.com/ts/272/891/272891424_960.jpg"
+user:
+  username: "jl"
+  name: "John Gregory Liwag"
+tags: ["publish brand","test shots"]
+html: "<iframe src=\"http://player.vimeo.com/video/39561041\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Series: Publish
+Featured: Lindsey Reveche

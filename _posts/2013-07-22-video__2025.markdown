@@ -1,0 +1,14 @@
+---
+title: "Designing Facebook Home"
+date: 2013-07-22 22:02:14 00:00
+permalink: /videos/2025
+source: "https://vimeo.com/68749840"
+thumbnail: "http://b.vimeocdn.com/ts/443/536/443536834_1280.jpg"
+user:
+  username: "tmrly"
+  name: "Tim Riley"
+tags: ["design","web design","facebook"]
+html: "<iframe src=\"http://player.vimeo.com/video/68749840\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+On May 8th, the designers behind Facebook Home (Justin Stahl, Francis Luu, Joey Flynn and Mac Tyler) presented a behind-the-scenes look at their work at the Bluxome Street Winery for a small crowd. In this four-part talk, they discuss how they combined their high-level goals with an iterative process and interactive design tools such as Quartz Composer to bring the first version of Home to launch.

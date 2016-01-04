@@ -1,0 +1,17 @@
+---
+title: "Jessica Hische at WLGD 2012"
+date: 2013-03-23 18:20:15 00:00
+permalink: /videos/1747
+source: "https://vimeo.com/53427334"
+thumbnail: "http://b.vimeocdn.com/ts/369/133/369133529_640.jpg"
+user:
+  username: "danniiel"
+  name: "Carlos Santiago"
+tags: ["design","letterpress","lettering","jesica hishe"]
+html: "<iframe src=\"http://player.vimeo.com/video/53427334\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+A full lenght lecture by Jessica Hische recorded at We Love Graphic Design 2012 in Copenhagen - a celebration of the wonderful world of graphic design in the shape of a one day seminar featuring lectures from some of the most important, inspirational and insanely creative graphic designers right now.
+
+The very talented Jessica Hische is a letterer, illustrator, and self-described “avid internetter” with an unique eye and approach to her work.
+Jessica has become as well known for her side projects as she has for her client work. While she doesn’t consider herself a web designer, many of her personal projects are web-centric. She’s created several educational micro-sites each as entertaining as they are helpful. She coined the term “procrastiworking” to describe her tendency to procrastinate on client work by working on personal projects.

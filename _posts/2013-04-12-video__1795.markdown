@@ -1,0 +1,13 @@
+---
+title: "A Magazine Is Born: The making of Little White Lies BLACK SWAN"
+date: 2013-04-12 22:46:38 00:00
+permalink: /videos/1795
+source: "http://www.youtube.com/watch?v=Fe9AAfGgJuU"
+thumbnail: "http://i3.ytimg.com/vi/Fe9AAfGgJuU/hqdefault.jpg"
+user:
+  username: "rashidzakat"
+  name: "Rashid Zakat"
+tags: ["design","time lapse","magazine","montage"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/Fe9AAfGgJuU?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

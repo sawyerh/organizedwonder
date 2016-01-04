@@ -1,0 +1,16 @@
+---
+title: "Bret Victor - Inventing on Principle"
+date: 2013-04-04 14:12:55 00:00
+permalink: /videos/1778
+source: "http://vimeo.com/36579366"
+thumbnail: "http://b.vimeocdn.com/ts/251/172/251172173_1280.jpg"
+user:
+  username: "lhid"
+  name: "Leban Hyde"
+tags: ["talk","development","code","tool"]
+html: "<iframe src=\"http://player.vimeo.com/video/36579366\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Bio: Bret Victor invents tools that enable people to understand and create. He has designed experimental UI concepts at Apple, interactive data graphics for Al Gore, and musical instruments at Alesis.
+For more on Bret, see worrydream.com.
+This talk was given at CUSEC 2012 (2012.cusec.net).

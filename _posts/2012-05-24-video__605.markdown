@@ -1,0 +1,13 @@
+---
+title: "The Making of the Leica M9-P \"Edition Hermès\" - Série Limitée Jean-Louis Dumas"
+date: 2012-05-24 22:21:42 00:00
+permalink: /videos/605
+source: "http://vimeo.com/41869140"
+thumbnail: "http://b.vimeocdn.com/ts/290/238/290238197_960.jpg"
+user:
+  username: "im_cr"
+  name: "Cortney Robinson"
+tags: ["behind the scenes","design","creation"]
+html: "<iframe src=\"http://player.vimeo.com/video/41869140\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

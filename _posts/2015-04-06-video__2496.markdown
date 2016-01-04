@@ -1,0 +1,23 @@
+---
+title: "Hearing Tarantino"
+date: 2015-04-06 21:22:10 00:00
+permalink: /videos/2496
+source: "https://vimeo.com/118431867"
+thumbnail: "http://i.vimeocdn.com/video/505446337_1280.jpg"
+user:
+  username: "sbgriffi"
+  name: "Stuart G."
+tags: ["music","sound","movie","cinematography","audio","movie score","sound production","scoring","hollywood","tarantino","case study"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F118431867&wmode=transparent&url=https%3A%2F%2Fvimeo.com%2F118431867&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F505446337_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+From the delicate intricacies used to display the fastidiousness of a character, to the overzealous noises paying tribute to a genre--here is a quick video I created to showcase the many unique and effective sounds used in the films of Quentin Tarantino.
+Films used:
+Reservoir Dogs (1992)
+Pulp Fiction (1994)
+Jackie Brown (1997)
+Kill Bill: Vol. 1 (2003)
+Kill Bill: Vol. 2 (2004)
+Death Proof (2007)
+Inglourious Basterds (2009)
+Django Unchained (2012)

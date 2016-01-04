@@ -1,0 +1,20 @@
+---
+title: "Responsive Times Call For Responsive Measures"
+date: 2013-02-05 16:41:16 00:00
+permalink: /videos/1670
+source: "http://vimeo.com/57733039"
+thumbnail: "http://b.vimeocdn.com/ts/400/414/400414470_1280.jpg"
+user:
+  username: "lhid"
+  name: "Leban Hyde"
+tags: ["design","talk","web design","responsive"]
+html: "<iframe src=\"http://player.vimeo.com/video/57733039\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Usually the talk was called "Responsive is as Responsive Does" as the title slide shows. Josh changed it to "Responsive Times Call For Responsive Measures".
+Here is the original description:
+The talk is an attempt to deprogram our approach to Web design for the last 15 years by taking a look at the history of graphic design (type, grids, etc) and how it has shaped our thinking (positively & negatively). The presentation discusses new approaches to designing responsively and what we can learn from the past.
+A lot of the talk is about how Josh created the "Responsive-Measure", a jQuery plugin for generating a responsive ideal measure. We hope you like it as much as we did.
+More information about Smashing Conference:
+smashingconf.com
+twitter.com/smashingconf

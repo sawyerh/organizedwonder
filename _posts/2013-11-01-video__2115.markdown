@@ -1,0 +1,14 @@
+---
+title: "Habit Design — BJ Fogg"
+date: 2013-11-01 23:00:36 00:00
+permalink: /videos/2115
+source: "http://www.youtube.com/watch?v=YQjLOyguXSQ#t=2102"
+thumbnail: "http://i1.ytimg.com/vi/YQjLOyguXSQ/hqdefault.jpg"
+user:
+  username: "sbgriffi"
+  name: "Stuart G."
+tags: ["science","lecture","user experience","design thinking","behavior design"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/YQjLOyguXSQ?wmode=transparent&amp;feature=oembed&amp;start=2102\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+"Humans are not complicated—the context around us makes behavior & humans seem complicated. When you strip that away, there are predictable ways of understanding behavior & how behavior works."

@@ -1,0 +1,13 @@
+---
+title: "Caine's Arcade"
+date: 2012-05-28 01:12:14 00:00
+permalink: /videos/659
+source: "http://vimeo.com/40000072"
+thumbnail: "http://b.vimeocdn.com/ts/276/234/276234275_960.jpg"
+user:
+  username: "alexandrine"
+  name: "Alexandrine Koegel"
+tags: ["inspring"]
+html: "<iframe src=\"http://player.vimeo.com/video/40000072\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

@@ -1,0 +1,16 @@
+---
+title: "Stealing Hoover's Secrets: 'The Greatest Heist You've Never Heard Of'"
+date: 2014-01-17 03:57:52 00:00
+permalink: /videos/2200
+source: "http://www.youtube.com/watch?v=KQk5cUMhI8k&list=PL4CGYNsoW2iAOqPtxm4RHo205w_R1IWuH&feature=c4-overview-vl"
+thumbnail: "http://i1.ytimg.com/vi/KQk5cUMhI8k/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["politics","privacy","nytimes","news"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Fwmode%3Dtransparent%26list%3DSP4CGYNsoW2iAOqPtxm4RHo205w_R1IWuH&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKQk5cUMhI8k%26list%3DSP4CGYNsoW2iAOqPtxm4RHo205w_R1IWuH&image=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FKQk5cUMhI8k%2Fhqdefault.jpg&key=950020ba825211e1a0764040d3dc5c07&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+One night in 1971, files were stolen from an F.B.I. office near Philadelphia. They proved that the bureau was spying on thousands of Americans. The case was unsolved, until now.
+
+Click here http://nyti.ms/1dNNL0G to read the story: Burglars Who Took On F.B.I. Abandon Shadows

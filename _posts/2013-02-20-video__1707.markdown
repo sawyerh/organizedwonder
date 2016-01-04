@@ -1,0 +1,13 @@
+---
+title: "Stanford Design Thinking Virtual Crash Course"
+date: 2013-02-20 11:54:57 00:00
+permalink: /videos/1707
+source: "https://www.youtube.com/watch?v=-FzFk3E5nxM"
+thumbnail: "http://i2.ytimg.com/vi/-FzFk3E5nxM/hqdefault.jpg"
+user:
+  username: "jazzish"
+  name: "Ana"
+tags: ["design","design thinking","dschool","stanford","course"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/-FzFk3E5nxM?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

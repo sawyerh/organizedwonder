@@ -1,0 +1,14 @@
+---
+title: "83M80 — Letterpress in the Digital Era"
+date: 2015-10-15 08:28:31 00:00
+permalink: /videos/2571
+source: "https://vimeo.com/album/1817545/video/130495262"
+thumbnail: "http://i.vimeocdn.com/video/522379415_1280.jpg"
+user:
+  username: "trocoloro"
+  name: "Iker de Aresti"
+tags: ["graphic design","typography","short documentary"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F130495262&wmode=transparent&url=https%3A%2F%2Fvimeo.com%2F130495262&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F522379415_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+83M80 is an exploration of the influence of technology on visual communication, from the days of the letterpress to the Internet era. Focusing on errors and misconceptions, 83M80 preserves these aesthetic cues by representing them in a movable typeface.

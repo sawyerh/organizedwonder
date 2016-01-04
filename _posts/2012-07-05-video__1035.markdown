@@ -1,0 +1,13 @@
+---
+title: "ClikClak (English version)"
+date: 2012-07-05 18:35:57 00:00
+permalink: /videos/1035
+source: "http://vimeo.com/6932995"
+thumbnail: "http://b.vimeocdn.com/ts/340/427/34042759_640.jpg"
+user:
+  username: "janbb"
+  name: "Jan"
+tags: ["short film","animation"]
+html: "<iframe src=\"http://player.vimeo.com/video/6932995\" width=\"640\" height=\"336\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

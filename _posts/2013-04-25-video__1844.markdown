@@ -1,0 +1,13 @@
+---
+title: "Designing for Android by Huge"
+date: 2013-04-25 16:00:31 00:00
+permalink: /videos/1844
+source: "http://new.livestream.com/accounts/646193/events/1263975"
+thumbnail: "http://img.new.livestream.com/events/0000000000134967/c1efba71-1ca5-4c61-b596-d31c5ea3b6b9_60x90.png"
+user:
+  username: "kingsley"
+  name: "Kingsley Harris"
+tags: []
+html: "<iframe src=\"https://new.livestream.com/accounts/646193/events/1263975/player\" width=\"640\" height=\"360\"></iframe>"
+---
+

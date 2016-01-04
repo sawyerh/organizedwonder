@@ -1,0 +1,26 @@
+---
+title: "Industry City Distillery"
+date: 2012-06-22 09:24:58 00:00
+permalink: /videos/943
+source: "https://vimeo.com/42991839"
+thumbnail: "http://b.vimeocdn.com/ts/303/041/303041086_1280.jpg"
+user:
+  username: "steve_flory"
+  name: "Steve Flory"
+tags: ["short film","documentary","creativity","vodka"]
+html: "<iframe src=\"http://player.vimeo.com/video/42991839\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+A film by Christopher Parker
+
+Read more at drinkicd.com and thecityfoundry.com
+
+Music:
+
+"Flutter" written & performed by Bonobo
+Published by Just Isn't Music Limited/NinjaTune
+Purchase: ninjatune.net/release/bonobo/dial-m-for-monkey
+
+"Composure" written & performed by B.Fleischmann
+released by Morr Music
+Purchase: anost.net/Shop-Shop/B-Fleischmann-The-Humbucking-Coil.html

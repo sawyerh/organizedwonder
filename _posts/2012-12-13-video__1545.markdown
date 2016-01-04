@@ -1,0 +1,14 @@
+---
+title: "Connecting (Full Film)"
+date: 2012-12-13 04:09:34 00:00
+permalink: /videos/1545
+source: "http://vimeo.com/52861634"
+thumbnail: "http://b.vimeocdn.com/ts/364/865/364865123_1280.jpg"
+user:
+  username: "trinadafilipina"
+  name: "Trina Dikitanan"
+tags: ["ux","interaction","ui"]
+html: "<iframe src=\"http://player.vimeo.com/video/52861634\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+The 18 minute “Connecting” documentary is an exploration of the future of Interaction Design and User Experience from some of the industry’s thought leaders. As the role of software is catapulting forward, Interaction Design is seen to be not only increasing in importance dramatically, but also expected to play a leading role in shaping the coming “Internet of things.” Ultimately, when the digital and physical worlds become one, humans along with technology are potentially on the path to becoming a “super organism” capable of influencing and enabling a broad spectrum of new behaviors in the world.

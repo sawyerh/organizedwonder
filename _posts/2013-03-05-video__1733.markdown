@@ -1,0 +1,16 @@
+---
+title: "Super Mega Mega Toaster"
+date: 2013-03-05 14:52:11 00:00
+permalink: /videos/1733
+source: "https://vimeo.com/57392144"
+thumbnail: "http://b.vimeocdn.com/ts/417/420/417420981_1280.jpg"
+user:
+  username: "mrcurious"
+  name: "Tom Reinhoudt"
+tags: ["technology","programming","prototype"]
+html: "<iframe src=\"http://player.vimeo.com/video/57392144\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Do you want to wake up and have a fun breakfast.
+The Image toaster will search the internet for images related to the days date and will toast it on your bread
+This is still a prototype that I created for the Creative Technology course "Innovation Lab" in University.

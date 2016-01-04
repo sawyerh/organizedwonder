@@ -1,0 +1,14 @@
+---
+title: "Lightning captured at 7,207 images per second"
+date: 2012-07-24 04:30:47 00:00
+permalink: /videos/1125
+source: "https://vimeo.com/28457062"
+thumbnail: "http://b.vimeocdn.com/ts/189/849/189849974_640.jpg"
+user:
+  username: "soulashell"
+  name: "Salvador Sotelo"
+tags: ["nature","lightning"]
+html: "<iframe src=\"http://player.vimeo.com/video/28457062\" width=\"640\" height=\"528\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+A downward lightning negative ground flash captured at 7,207 images per second. A negative stepped leader emerges from the cloud and connects with the ground forming a return stroke.

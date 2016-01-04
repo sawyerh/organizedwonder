@@ -1,0 +1,14 @@
+---
+title: "The Monster Project"
+date: 2015-11-10 02:39:44 00:00
+permalink: /videos/2578
+source: "https://vimeo.com/144159819"
+thumbnail: "http://i.vimeocdn.com/video/541934262_1280.jpg"
+user:
+  username: "kj0102"
+  name: "Katie J"
+tags: ["art","creativity","education","kids","artist","collaboration","illustration","short video","monsters"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F144159819&wmode=transparent&url=https%3A%2F%2Fvimeo.com%2F144159819&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F541934262_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Kids draw monsters. Artists from all over the world recreate them in their own styles. Magic for all!

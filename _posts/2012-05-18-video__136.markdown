@@ -1,0 +1,13 @@
+---
+title: "MIT 8.01 Some of Walter Lewins best lines"
+date: 2012-05-18 02:11:21 00:00
+permalink: /videos/136
+source: "http://www.youtube.com/watch?v=raurl4s0pjU&feature=player_embedded"
+thumbnail: "http://i3.ytimg.com/vi/raurl4s0pjU/hqdefault.jpg"
+user:
+  username: "swissmiss"
+  name: "swissmiss"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/raurl4s0pjU?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

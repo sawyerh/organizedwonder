@@ -1,0 +1,14 @@
+---
+title: "Legacy of Letters"
+date: 2012-05-19 19:12:11 00:00
+permalink: /videos/431
+source: "https://vimeo.com/12733075"
+thumbnail: "http://b.vimeocdn.com/ts/719/919/71991963_640.jpg"
+user:
+  username: "smnvghn"
+  name: "Simon Vaughan"
+tags: ["creativity","typography","calligrpahy"]
+html: "<iframe src=\"http://player.vimeo.com/video/12733075\" width=\"640\" height=\"480\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Luca Barcellona. Solid skills.

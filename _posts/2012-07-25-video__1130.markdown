@@ -1,0 +1,13 @@
+---
+title: "(mt) Client Showcase: Eight Hour Day (San Francisco, CA)"
+date: 2012-07-25 04:29:28 00:00
+permalink: /videos/1130
+source: "http://vimeo.com/45718388"
+thumbnail: "http://b.vimeocdn.com/ts/319/080/319080324_1280.jpg"
+user:
+  username: "jakedugard"
+  name: "jakedugard"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/45718388\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

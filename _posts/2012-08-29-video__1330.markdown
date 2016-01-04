@@ -1,0 +1,14 @@
+---
+title: "Digifit Founder Story and iPad Demo"
+date: 2012-08-29 08:54:12 00:00
+permalink: /videos/1330
+source: "http://www.youtube.com/watch?feature=player_embedded&v=pPnDUgiZCOE"
+thumbnail: "http://i1.ytimg.com/vi/pPnDUgiZCOE/hqdefault.jpg"
+user:
+  username: "hermann"
+  name: "Hermann Keldenich"
+tags: ["health","exercise"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/pPnDUgiZCOE?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Living by the Numbers; Personal Technology Tools for Health and Wellness Decision Making

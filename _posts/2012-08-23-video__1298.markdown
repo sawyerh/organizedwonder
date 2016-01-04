@@ -1,0 +1,14 @@
+---
+title: "Keynote MIX09 - Bill Buxton"
+date: 2012-08-23 15:55:51 00:00
+permalink: /videos/1298
+source: "http://vimeo.com/4175041"
+thumbnail: "http://b.vimeocdn.com/ts/878/065/8780655_506.jpg"
+user:
+  username: "luismruiz"
+  name: "Luis M Ruiz"
+tags: ["ux","bill buxton"]
+html: "<iframe src=\"http://player.vimeo.com/video/4175041\" width=\"512\" height=\"288\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Keynote on UX (User eXperience)

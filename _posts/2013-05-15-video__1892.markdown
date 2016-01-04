@@ -1,0 +1,13 @@
+---
+title: "Shaped on all Six Sides"
+date: 2013-05-15 03:58:38 00:00
+permalink: /videos/1892
+source: "http://vimeo.com/63683408"
+thumbnail: "http://b.vimeocdn.com/ts/434/043/434043958_640.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["short film","craft"]
+html: "<iframe src=\"http://player.vimeo.com/video/63683408\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

@@ -1,0 +1,14 @@
+---
+title: "A Saturday With: Mr. Morgan Collett (MR PORTER)"
+date: 2013-03-31 23:14:41 00:00
+permalink: /videos/1759
+source: "https://www.youtube.com/watch?v=hcn45zLdBZQ"
+thumbnail: "http://i1.ytimg.com/vi/hcn45zLdBZQ/hqdefault.jpg"
+user:
+  username: "jl"
+  name: "John Gregory Liwag"
+tags: ["documentary","lifestyle"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/hcn45zLdBZQ?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Morgan Collett, founder of clothing brand Saturdays Surf NYC, talks about his typical Saturday. Piece by MR PORTER.

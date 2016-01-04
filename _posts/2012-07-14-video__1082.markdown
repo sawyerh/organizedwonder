@@ -1,0 +1,14 @@
+---
+title: "Searching for West"
+date: 2012-07-14 20:14:59 00:00
+permalink: /videos/1082
+source: "https://vimeo.com/45541560"
+thumbnail: "http://b.vimeocdn.com/ts/316/732/316732877_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["nature","trailer"]
+html: "<iframe src=\"http://player.vimeo.com/video/45541560\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+The hunt is a pursuit of balance, while searching for the unknown. The balance that death has struck with life, the one sustaining the other. Everything we eat was alive once. The farmer clears his field in autumn for new life in the spring, and there’s a rhythm to it all. One man in one place, doing just one thing at a time.

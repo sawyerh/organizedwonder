@@ -1,0 +1,14 @@
+---
+title: "Dave Kinsey"
+date: 2012-05-19 12:04:19 00:00
+permalink: /videos/378
+source: "http://www.dailymotion.com/video/xa60zb_dave-kinsey-interview_creation"
+thumbnail: "http://static2.dmcdn.net/static/video/763/770/17077367:jpeg_preview_large.jpg?20110821123500"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["interview","dave kinsey"]
+html: "<iframe src=\"http://www.dailymotion.com/embed/video/xa60zb\" width=\"480\" height=\"276\" frameborder=\"0\"></iframe>"
+---
+
+Né à Pittsburgh en 1971, Kinsey fait partie du groupe de plus en plus nombreux, d’artistes influencés par la rue et à l’origine de l’évolution des arts traditionnels et non traditionnels, ainsi que des média visuels.

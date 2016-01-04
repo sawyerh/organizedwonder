@@ -1,0 +1,14 @@
+---
+title: "Renny Gleeson on antisocial phone tricks (TED)"
+date: 2013-01-09 08:59:08 00:00
+permalink: /videos/1618
+source: "http://www.ted.com/talks/renny_gleeson_on_antisocial_phone_tricks.html"
+thumbnail: "http://images.ted.com/images/ted/82610_389x292.jpg"
+user:
+  username: "javiermotis"
+  name: "Javier Motis"
+tags: ["ted talk"]
+html: "<iframe src=\"http://embed.ted.com/talks/renny_gleeson_on_antisocial_phone_tricks.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+In this funny (and actually poignant) 3-minute talk, social strategist Renny Gleeson breaks down our always-on social world -- where the experience we're having right now is less interesting than what we'll tweet about it later.

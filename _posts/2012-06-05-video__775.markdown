@@ -1,0 +1,13 @@
+---
+title: "The Winter of The Beard"
+date: 2012-06-05 18:57:46 00:00
+permalink: /videos/775
+source: "https://vimeo.com/32092307"
+thumbnail: "http://b.vimeocdn.com/ts/217/226/217226410_1280.jpg"
+user:
+  username: "captainmono"
+  name: "gdo:"
+tags: ["documentary","experiment","beard"]
+html: "<iframe src=\"http://player.vimeo.com/video/32092307\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

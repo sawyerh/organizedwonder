@@ -1,0 +1,14 @@
+---
+title: "Wings"
+date: 2014-10-04 19:06:31 00:00
+permalink: /videos/2417
+source: "http://vimeo.com/107634603"
+thumbnail: "http://i.vimeocdn.com/video/491090337_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["sports","short documentary","victory journal"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F107634603&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F107634603&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F491090337_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Place: a patch of South Bronx that splits the West Farms and Van Nest neighborhoods. Time: late in the endless winter of 2014. Subject: the basketball team at Wings Academy, a 20-year-old school developing a tradition and reputation of punching above its weight against the traditional basketball powers. Will Robson-Scott’s film follows the Academy team as it makes a run in the PSAL playoffs, introducing us to Billy Turnage, its rock-solid head coach, and Desure Buie, a diminutive point guard in the mold of Bronx legends such as “Tiny” Archibald and Rod Strickland.

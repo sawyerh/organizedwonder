@@ -1,0 +1,13 @@
+---
+title: "Jake One: The Making of the Beat for Drake's \"Furthest Thing\" www.snarejordan.com"
+date: 2014-03-08 04:34:55 00:00
+permalink: /videos/2241
+source: "http://www.youtube.com/watch?v=R8rpv5ikov4"
+thumbnail: "http://i1.ytimg.com/vi/R8rpv5ikov4/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["behind the scenes","music","hip-hop","drake"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FR8rpv5ikov4%3Fwmode%3Dtransparent%26feature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DR8rpv5ikov4&image=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FR8rpv5ikov4%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

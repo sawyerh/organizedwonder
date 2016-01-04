@@ -1,0 +1,14 @@
+---
+title: "Dan Rhatigan on Ryman Eco"
+date: 2014-09-02 13:37:35 00:00
+permalink: /videos/2393
+source: "http://vimeo.com/103907391"
+thumbnail: "http://i.vimeocdn.com/video/486285573_1280.jpg"
+user:
+  username: "zachacole"
+  name: "Zach Cole"
+tags: ["typography","design","graphic design","sustainability"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F103907391&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F103907391&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F486285573_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Monotype's Dan Rhatigan discusses Ryman Eco, the world's most beautiful sustainable font.

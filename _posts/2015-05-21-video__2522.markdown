@@ -1,0 +1,13 @@
+---
+title: "Jerry Seinfeld ft. Wale \"The Matrimony\" Episode 1"
+date: 2015-05-21 21:41:12 00:00
+permalink: /videos/2522
+source: "https://www.youtube.com/watch?v=maH6Ue5HVSI"
+thumbnail: "https://i.ytimg.com/vi/maH6Ue5HVSI/hqdefault.jpg"
+user:
+  username: "sbgriffi"
+  name: "Stuart G."
+tags: []
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FmaH6Ue5HVSI%3Fwmode%3Dtransparent%26feature%3Doembed&wmode=transparent&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmaH6Ue5HVSI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmaH6Ue5HVSI%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

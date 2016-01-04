@@ -1,0 +1,14 @@
+---
+title: "Caine's Arcade"
+date: 2012-05-15 05:55:44 00:00
+permalink: /videos/54
+source: "https://vimeo.com/40000072"
+thumbnail: "http://b.vimeocdn.com/ts/276/234/276234275_960.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["funny","story","inspiring"]
+html: "<iframe src=\"http://player.vimeo.com/video/40000072\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+A 9 year old boy - who built an elaborate cardboard arcade inside his dad's used auto part store - is about to have the best day of his life.

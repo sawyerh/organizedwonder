@@ -1,0 +1,14 @@
+---
+title: "More Perfect Typography by Tim Brown (Build 2010)"
+date: 2012-12-19 00:14:25 00:00
+permalink: /videos/1559
+source: "https://vimeo.com/17079380"
+thumbnail: "http://b.vimeocdn.com/ts/105/593/105593823_640.jpg"
+user:
+  username: "javiermotis"
+  name: "Javier Motis"
+tags: ["typography","web design","modular scale","build conference"]
+html: "<iframe src=\"http://player.vimeo.com/video/17079380\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Tim Brown has been studying type on the web for seven years, and has lots of ideas to share. In this talk, Tim will guide you through using typographic tools and perspectives that will change the way you design websites.

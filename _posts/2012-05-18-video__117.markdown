@@ -1,0 +1,17 @@
+---
+title: "Earth by Michael König"
+date: 2012-05-18 00:27:49 00:00
+permalink: /videos/117
+source: "https://vimeo.com/32001208"
+thumbnail: "http://b.vimeocdn.com/ts/216/166/216166992_1280.jpg"
+user:
+  username: "bryanconnor"
+  name: "Bryan Connor"
+tags: ["space","timelapse","flight","space station","aurora borealis"]
+html: "<iframe src=\"http://player.vimeo.com/video/32001208\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Time lapse sequences of photographs taken by the crew of expeditions 
+28 & 29 onboard the International Space Station from August to October, 
+2011, who to my knowledge shot these pictures at an altitude of around 350 km. 
+All credit goes to them.

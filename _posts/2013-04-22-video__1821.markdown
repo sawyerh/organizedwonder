@@ -1,0 +1,13 @@
+---
+title: "Brian Puspos: “Wet the Bed” by Chris Brown"
+date: 2013-04-22 18:58:24 00:00
+permalink: /videos/1821
+source: "http://www.youtube.com/watch?v=abpwVRp6u3Q&list=UUqSP-jSV3OJCnZ0KIc8uPSg&index=19"
+thumbnail: "http://i2.ytimg.com/vi/abpwVRp6u3Q/hqdefault.jpg"
+user:
+  username: "psyoko"
+  name: "Yoko Sakao Ohama"
+tags: ["dance","choreography"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/abpwVRp6u3Q?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

@@ -1,0 +1,14 @@
+---
+title: "VSCO x Rog Walker"
+date: 2014-07-29 03:46:25 00:00
+permalink: /videos/2368
+source: "https://vimeo.com/92691167"
+thumbnail: "http://i.vimeocdn.com/video/472497455_1280.jpg"
+user:
+  username: "jhnlwg"
+  name: "JHNLWG"
+tags: ["photography","vsco","rog walker"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F92691167&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F92691167&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F472497455_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"1080\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+“Photography is my voice; the goal is to speak eloquently.” —Rog Walker

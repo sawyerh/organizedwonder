@@ -1,0 +1,13 @@
+---
+title: "Doris Kim Sung: Metal that breathes | Video on TED.com"
+date: 2012-12-20 23:06:59 00:00
+permalink: /videos/1566
+source: "http://www.ted.com/talks/doris_kim_sung_metal_that_breathes.html?source=facebook#.UNKadouOAap.facebook"
+thumbnail: "http://images.ted.com/images/ted/be8bc8941155fcc0f96e25910d486ef6611e4a1c_389x292.jpg"
+user:
+  username: "marukie"
+  name: "Mary Yang"
+tags: []
+html: "<iframe src=\"http://embed.ted.com/talks/doris_kim_sung_metal_that_breathes.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

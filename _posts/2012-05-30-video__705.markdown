@@ -1,0 +1,14 @@
+---
+title: "Authors@Google: Douglas Rushkoff"
+date: 2012-05-30 14:44:22 00:00
+permalink: /videos/705
+source: "http://www.youtube.com/watch?v=BXjRaoTPlPE"
+thumbnail: "http://i3.ytimg.com/vi/BXjRaoTPlPE/hqdefault.jpg"
+user:
+  username: "miguelpeixe"
+  name: "Miguel Peixe"
+tags: ["talk","digital culture"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/BXjRaoTPlPE?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Douglas Rushkoff spoke to Googlers in Mountain View on November 10, 2010 about his book Program or Be Programmed: Ten Commands for a Digital Age.

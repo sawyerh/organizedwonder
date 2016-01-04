@@ -1,0 +1,13 @@
+---
+title: "Bitcoin Explained"
+date: 2013-04-22 02:07:36 00:00
+permalink: /videos/1814
+source: "https://vimeo.com/63502573"
+thumbnail: "http://b.vimeocdn.com/ts/434/862/434862552_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["technology","motion graphics"]
+html: "<iframe src=\"http://player.vimeo.com/video/63502573\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

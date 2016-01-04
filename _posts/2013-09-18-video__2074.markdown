@@ -1,0 +1,13 @@
+---
+title: "Giving"
+date: 2013-09-18 13:22:07 00:00
+permalink: /videos/2074
+source: "http://www.youtube.com/watch?v=7s22HX18wDY&feature=player_embedded"
+thumbnail: "http://i1.ytimg.com/vi/7s22HX18wDY/hqdefault.jpg"
+user:
+  username: "ryan"
+  name: "Ryan Essmaker"
+tags: []
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/7s22HX18wDY?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

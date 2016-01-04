@@ -1,0 +1,14 @@
+---
+title: "Glen Infante of iLTHY at WMC Fest 2012"
+date: 2012-07-31 17:51:35 00:00
+permalink: /videos/1182
+source: "http://www.youtube.com/watch?v=3bP4_y_OZHk&feature=plcp"
+thumbnail: "http://i4.ytimg.com/vi/3bP4_y_OZHk/hqdefault.jpg"
+user:
+  username: "jfinley"
+  name: "Jeff Finley"
+tags: ["lecture","entrepreneur","festival","graphic design","inspirational","design conference","wmc fest","cleveland","speaker","diy","ohio","midwest"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/3bP4_y_OZHk?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Glen Infante of iLTHY gives a presentation at Weapons of Mass Creation Fest 2012 in Cleveland, OH - http://wmcfest.com

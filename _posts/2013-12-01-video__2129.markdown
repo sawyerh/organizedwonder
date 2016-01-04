@@ -1,0 +1,16 @@
+---
+title: "The Curious Properties of Intuitive Web Pages by Jared M. Spool - An Event Apart Boston"
+date: 2013-12-01 18:21:31 00:00
+permalink: /videos/2129
+source: "https://vimeo.com/73892448"
+thumbnail: "http://b.vimeocdn.com/ts/448/111/448111443_640.jpg"
+user:
+  username: "uxtvclub"
+  name: "UXTVClub"
+tags: ["design","web","ux","jared spool"]
+html: "<iframe src=\"http://player.vimeo.com/video/73892448\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"The Curious Properties of Intuitive Web Pages by Jared M. Spool - An Event Apart Boston\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+In this 60-minute video caught live at An Event Apart Boston 2012, Jared M. Spool discusses the surprisingly unintuitive logic behind the creation of "intuitive" websites.
+When a web page works, your users know exactly what to do. Everything makes sense, and they accomplish their goal, pleased with your site. Yet, often pages don’t work, and users get flustered and confused. It turns out that intuitive web pages abide by a set of curiously unintuitive properties. Watch Jared explain how to merge interaction design, visual design, information architecture, and other skills together to assemble web experiences that delight your users.
+Jared M. Spool is the founder of User Interface Engineering, a leading research, training, and consulting firm specializing in website and product usability. One of the most effective, knowledgeable communicators on the subject of usability today, Jared has been working in the field of usability and design since 1978, before the term “usability” was ever associated with computers. At User Interface Engineering, he has guided the research agenda and built UIE into the largest research organization of its kind in the world.

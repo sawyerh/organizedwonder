@@ -1,0 +1,13 @@
+---
+title: "Vogue Paris - February 2012 - Daria Werbowy - Studio"
+date: 2013-09-05 16:14:04 00:00
+permalink: /videos/2063
+source: "http://www.youtube.com/watch?v=B_oGkEuBogA"
+thumbnail: "http://i1.ytimg.com/vi/B_oGkEuBogA/hqdefault.jpg"
+user:
+  username: "yotterno1"
+  name: "Carrie Yotter"
+tags: []
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/B_oGkEuBogA?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

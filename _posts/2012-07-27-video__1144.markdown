@@ -1,0 +1,20 @@
+---
+title: "Barcode band"
+date: 2012-07-27 09:33:37 00:00
+permalink: /videos/1144
+source: "http://vimeo.com/41132461"
+thumbnail: "http://b.vimeocdn.com/ts/284/709/284709146_960.jpg"
+user:
+  username: "zit_dantes"
+  name: "Zit Dantes"
+tags: ["music","music video","sound","barcode"]
+html: "<iframe src=\"http://player.vimeo.com/video/41132461\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Directed by Kang woon jin
+Designed by Lee ha lim
+Crafted by Kim yong duk
+---------------------------------------
+To proceed bARCODE BAND project, we worked together to unfold our ideas and WOONJIN
+KANG took charge of sounds and filming, YOUGDUK KIM designed structure of Music
+box, HALIM LEE designed instrument graphics on the box.

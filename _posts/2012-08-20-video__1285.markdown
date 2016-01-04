@@ -1,0 +1,13 @@
+---
+title: "We are all connected"
+date: 2012-08-20 14:28:03 00:00
+permalink: /videos/1285
+source: "http://www.youtube.com/watch?v=JsViKFU63i4&feature=player_embedded"
+thumbnail: "http://i3.ytimg.com/vi/JsViKFU63i4/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["environment"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/JsViKFU63i4?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

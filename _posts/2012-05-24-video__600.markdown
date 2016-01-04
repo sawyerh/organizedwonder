@@ -1,0 +1,13 @@
+---
+title: "Awakening is an Epic Win: The Buddhist Geeks Conference"
+date: 2012-05-24 14:54:28 00:00
+permalink: /videos/600
+source: "http://vimeo.com/30933520"
+thumbnail: "http://b.vimeocdn.com/ts/208/095/208095973_640.jpg"
+user:
+  username: "anjali28"
+  name: "Anjali Ramachandran"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/30933520\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

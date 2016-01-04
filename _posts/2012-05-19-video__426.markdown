@@ -1,0 +1,13 @@
+---
+title: "Everything is a Remix Part 1"
+date: 2012-05-19 16:22:18 00:00
+permalink: /videos/426
+source: "http://vimeo.com/14912890"
+thumbnail: "http://b.vimeocdn.com/ts/132/448/132448911_640.jpg"
+user:
+  username: "zaph_d"
+  name: "Rob"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/14912890\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

@@ -1,0 +1,15 @@
+---
+title: "OTM - Cleveland Cinematheque"
+date: 2012-06-26 16:34:35 00:00
+permalink: /videos/988
+source: "https://vimeo.com/32288495"
+thumbnail: "http://b.vimeocdn.com/ts/218/578/218578148_1280.jpg"
+user:
+  username: "jfinley"
+  name: "Jeff Finley"
+tags: ["film","short documentary","go media","on the map","movie theatre"]
+html: "<iframe src=\"http://player.vimeo.com/video/32288495\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+The Cleveland Cinematheque seeks out independent films that otherwise would not be shown in the city, and throughout the years has garnered much recognition. Director John Ewing was named a Chevalier in the order of Arts and Letters by the French Government, and the New York Times touts the cinematheque as one of the country's best repertory movie theatres.
+On the Map is a video series featuring the people and places that make Cleveland a creative, culturally rich, and inspiring place to live and work.

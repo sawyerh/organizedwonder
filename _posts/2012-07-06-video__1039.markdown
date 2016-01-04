@@ -1,0 +1,13 @@
+---
+title: "MUTO a wall-painted animation by BLU"
+date: 2012-07-06 18:16:06 00:00
+permalink: /videos/1039
+source: "https://www.youtube.com/watch?v=uuGaqLT-gO4&feature=player_embedded#!"
+thumbnail: "http://i2.ytimg.com/vi/uuGaqLT-gO4/hqdefault.jpg"
+user:
+  username: "rethinkedteam"
+  name: "rethinkED"
+tags: ["art","animation","creativity","wonder","street art","blu","graffiti","walls"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/uuGaqLT-gO4?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

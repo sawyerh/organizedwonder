@@ -1,0 +1,14 @@
+---
+title: "Ken Jennings on why we need to stop Googling everything"
+date: 2013-04-05 15:48:08 00:00
+permalink: /videos/1779
+source: "http://www.ted.com/talks/ken_jennings_watson_jeopardy_and_me_the_obsolete_know_it_all.html?utm_campaign=&utm_content=awesm-publisher&utm_source=t.co&awesm=on.ted.com_Jennings&utm_medium=on.ted.com-static"
+thumbnail: "http://images.ted.com/images/ted/c1c6ba11c2170e47c9cae5e674edfd102a5b85f3_389x292.jpg"
+user:
+  username: "jazzish"
+  name: "Ana"
+tags: ["technology","google","ted talk","game","knowledge","trivia","ai","human","jeopardy","jennings"]
+html: "<iframe src=\"http://embed.ted.com/talks/ken_jennings_watson_jeopardy_and_me_the_obsolete_know_it_all.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Ken Jennings is the person with most consecutive wins at Jeopardy (trivia game). He gives a humorous talk in defense of human knowledge.

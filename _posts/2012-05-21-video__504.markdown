@@ -1,0 +1,14 @@
+---
+title: "Ken Burns: On Story"
+date: 2012-05-21 13:06:33 00:00
+permalink: /videos/504
+source: "http://vimeo.com/40972394"
+thumbnail: "http://b.vimeocdn.com/ts/283/992/283992691_1280.jpg"
+user:
+  username: "yewfai"
+  name: "yewfai"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/40972394\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+What makes a great story? For legendary filmmaker Ken Burns, the answer is both complicated and personal. In this short documentary about the craft of storytelling, he explains his lifelong mission to wake the dead.

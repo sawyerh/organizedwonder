@@ -1,0 +1,14 @@
+---
+title: "Local Natives - Airplanes"
+date: 2012-05-18 13:39:55 00:00
+permalink: /videos/231
+source: "http://www.youtube.com/watch?feature=player_embedded&v=EonnZ-8GdiY"
+thumbnail: "http://i2.ytimg.com/vi/EonnZ-8GdiY/hqdefault.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["music","clip"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/EonnZ-8GdiY?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+This is NOT the official music video for Airplanes.

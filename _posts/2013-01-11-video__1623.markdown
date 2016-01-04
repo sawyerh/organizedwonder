@@ -1,0 +1,14 @@
+---
+title: "Wilson Miner — when we build"
+date: 2013-01-11 22:50:19 00:00
+permalink: /videos/1623
+source: "https://vimeo.com/34017777"
+thumbnail: "http://b.vimeocdn.com/ts/236/592/236592322_1280.jpg"
+user:
+  username: "themanro"
+  name: "Roman Rusinov"
+tags: ["build"]
+html: "<iframe src=\"http://player.vimeo.com/video/34017777\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+We shape our tools and our tools shape us.” As more of the tools we live with every day become digital instead of physical, our opportunity – and responsibility – as designers is multiplying. We live in a world of screens, and we are the ones who decide what goes on them. We are in a unique position to have an impact – one that lasts longer than the next redesign or the latest technology. What happens when we stop thinking of ourselves not just as developers or experience designers, and take up the mantle as a new generation of product designers for a digital world?

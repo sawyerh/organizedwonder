@@ -1,0 +1,13 @@
+---
+title: "All Watched Over by Machines of Loving Grace: Adam Curtis on How Technology Limi..."
+date: 2012-09-06 07:30:41 00:00
+permalink: /videos/1348
+source: "http://vimeo.com/29865018"
+thumbnail: "http://b.vimeocdn.com/ts/200/350/200350390_295.jpg"
+user:
+  username: "nunile"
+  name: "Maria"
+tags: ["politics"]
+html: "<iframe src=\"http://player.vimeo.com/video/29865018\" width=\"624\" height=\"352\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

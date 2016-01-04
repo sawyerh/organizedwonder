@@ -1,0 +1,13 @@
+---
+title: "Hirzberger Events - Digital Wallpaper"
+date: 2012-05-18 05:36:11 00:00
+permalink: /videos/169
+source: "http://vimeo.com/6378943"
+thumbnail: "http://b.vimeocdn.com/ts/265/323/26532349_1280.jpg"
+user:
+  username: "calescence"
+  name: "Shannon McWeeney"
+tags: ["visual narrative","digital media","digital wallpaper"]
+html: "<iframe src=\"http://player.vimeo.com/video/6378943\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

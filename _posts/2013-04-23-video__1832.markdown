@@ -1,0 +1,13 @@
+---
+title: "Aye Hasegawa: “Skin” by Rihanna"
+date: 2013-04-23 12:14:53 00:00
+permalink: /videos/1832
+source: "http://www.youtube.com/watch?v=bETxYqi5hUk"
+thumbnail: "http://i3.ytimg.com/vi/bETxYqi5hUk/hqdefault.jpg"
+user:
+  username: "psyoko"
+  name: "Yoko Sakao Ohama"
+tags: ["dance","choreography"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/bETxYqi5hUk?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

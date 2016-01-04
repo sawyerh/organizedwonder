@@ -1,0 +1,14 @@
+---
+title: "Outlier - OTHERS by Hypebeast"
+date: 2013-02-23 21:11:31 00:00
+permalink: /videos/1711
+source: "http://www.youtube.com/watch?v=V2rzGd_ZAwU"
+thumbnail: "http://i3.ytimg.com/vi/V2rzGd_ZAwU/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["interview","fashion","outlier"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/V2rzGd_ZAwU?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Outlier makes liberating men's clothing designs that dance around the boundaries of fashion using a function driven design process and high quality technical fabrics. www.outlier.cc

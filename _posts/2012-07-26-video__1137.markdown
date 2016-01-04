@@ -1,0 +1,15 @@
+---
+title: "Creative Mornings Seattle: Sara McNally"
+date: 2012-07-26 23:25:44 00:00
+permalink: /videos/1137
+source: "http://vimeo.com/45731912"
+thumbnail: "http://b.vimeocdn.com/ts/318/154/318154109_960.jpg"
+user:
+  username: "marustephens"
+  name: "Maru Stephens"
+tags: ["design","creativity","letterpress","small business"]
+html: "<iframe src=\"http://player.vimeo.com/video/45731912\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Amazing talk by Sara at our July 2012 Creative Mornings talk about analog passion during an economic downturn.
+Sara and her husband, Brad, run Constellation & Co., a boutique letterpess shop in Pioneer Square.

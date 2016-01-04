@@ -1,0 +1,13 @@
+---
+title: "Tone of Voice and Brand Identity"
+date: 2012-10-25 20:01:20 00:00
+permalink: /videos/1439
+source: "http://youtu.be/m1osOACbhLc"
+thumbnail: "http://i2.ytimg.com/vi/m1osOACbhLc/hqdefault.jpg"
+user:
+  username: "im_cr"
+  name: "Cortney Robinson"
+tags: ["identity","branding","marketing"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/m1osOACbhLc?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

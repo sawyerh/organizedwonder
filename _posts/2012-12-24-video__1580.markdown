@@ -1,0 +1,14 @@
+---
+title: "Jiro Dreams Of Sushi - Official Trailer [HD]"
+date: 2012-12-24 03:28:35 00:00
+permalink: /videos/1580
+source: "http://www.youtube.com/watch?v=hbV6knbeUFE"
+thumbnail: "http://i1.ytimg.com/vi/hbV6knbeUFE/hqdefault.jpg"
+user:
+  username: "asadc"
+  name: "Asad Chishti"
+tags: ["japan","movie","dream","sushi","chef"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/hbV6knbeUFE?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+In the basement of a Tokyo office building, 85 year old sushi master Jiro Ono works tirelessly in his world renowned restaurant, Sukiyabashi Jiro.

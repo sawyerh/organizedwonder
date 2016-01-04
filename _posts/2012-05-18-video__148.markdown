@@ -1,0 +1,13 @@
+---
+title: "Elisabeth Kopf"
+date: 2012-05-18 04:03:32 00:00
+permalink: /videos/148
+source: "http://vimeo.com/typesetting/episode1"
+thumbnail: "http://b.vimeocdn.com/ts/289/001/289001736_1280.jpg"
+user:
+  username: "aaronmoodie"
+  name: "Aaron Moodie"
+tags: ["design"]
+html: "<iframe src=\"http://player.vimeo.com/video/41702364\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

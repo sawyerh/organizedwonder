@@ -1,0 +1,13 @@
+---
+title: "History of the Internet"
+date: 2012-06-04 14:06:03 00:00
+permalink: /videos/758
+source: "http://vimeo.com/2696386"
+thumbnail: "http://b.vimeocdn.com/ts/732/376/7323760_940.jpg"
+user:
+  username: "im_cr"
+  name: "Cortney Robinson"
+tags: ["technology","web","internet"]
+html: "<iframe src=\"http://player.vimeo.com/video/2696386\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

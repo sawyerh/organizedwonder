@@ -1,0 +1,13 @@
+---
+title: "Oprah Winfrey speech to graduating class of 2012"
+date: 2012-05-30 15:41:17 00:00
+permalink: /videos/706
+source: "http://exp.lore.com/post/23993565870/you-must-have-some-vision-for-your-life-even-if"
+thumbnail: "http://img.youtube.com/vi/Bpx8uNzRdew/2.jpg"
+user:
+  username: "anjali28"
+  name: "Anjali Ramachandran"
+tags: []
+html: "<iframe width=\"400\" height=\"224\" src=\"http://www.youtube.com/embed/Bpx8uNzRdew?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

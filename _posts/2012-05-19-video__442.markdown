@@ -1,0 +1,13 @@
+---
+title: "Tom Hulme, 'Designing for Emergence' at TEDxCSM"
+date: 2012-05-19 21:55:34 00:00
+permalink: /videos/442
+source: "http://vimeo.com/39718552"
+thumbnail: "http://b.vimeocdn.com/ts/274/065/274065329_640.jpg"
+user:
+  username: "patocha"
+  name: "Patocha"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/39718552\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

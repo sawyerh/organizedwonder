@@ -1,0 +1,18 @@
+---
+title: "A History Of The Title Sequence"
+date: 2012-05-18 10:02:20 00:00
+permalink: /videos/188
+source: "https://vimeo.com/26278283#comment_5427349"
+thumbnail: "http://b.vimeocdn.com/ts/174/601/174601480_1280.jpg"
+user:
+  username: "filipe"
+  name: "filipe oliveira"
+tags: ["motion graphics","design","cinemagraph"]
+html: "<iframe src=\"http://player.vimeo.com/video/26278283\" width=\"1280\" height=\"544\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Designed as a possible title sequence for a fictitious documentary, this film shows a history of the title sequence in a nutshell. The sequence includes all the names of title designers who had a revolutionary impact on the history and evolution of the title sequence. The names of the title designers all refer to specific characteristics of the revolutionary titles that they designed.
+This film refers to elements such as the cut and shifted characters of Saul Bass' Psycho title, the colored circles of Maurice Binder's design for Dr. No and the contemporary designs of Kyle Cooper and Danny Yount.
+
+This title sequence refers to the following designers and their titles:
+Georges Méliès - Un Voyage Dans La Lune, Saul Bass - Psycho, Maurice Binder - Dr. No, Stephen Frankfurt - To Kill A Mockingbird, Pablo Ferro - Dr. Strangelove, Richard Greenberg - Alien, Kyle Cooper - Seven, Danny Yount - Kiss Kiss Bang Bang / Sherlock Holmes

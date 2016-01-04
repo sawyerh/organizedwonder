@@ -1,0 +1,18 @@
+---
+title: "Genetic engineering: The world's greatest scam?"
+date: 2012-05-19 14:52:35 00:00
+permalink: /videos/408
+source: "http://www.youtube.com/watch?feature=player_embedded&v=1H9WZGKQeYg"
+thumbnail: "http://i2.ytimg.com/vi/1H9WZGKQeYg/hqdefault.jpg"
+user:
+  username: "happyhealthybalance"
+  name: "happyhealthybalance"
+tags: ["health"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/1H9WZGKQeYg?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Genetic engineering is a threat to food security, especially in a changing climate. The introduction of genetically manipulated organisms by choice or by accident grossly undermines sustainable agriculture and in so doing, severely limits the choice of food we can eat.
+
+Once GE plants are released into the environment, they are out of control. If anything goes wrong - they are impossible to recall.
+
+GE contamination threatens biodiversity respected as the global heritage of humankind, and one of our world's fundamental keys to survival.

@@ -1,0 +1,14 @@
+---
+title: "Michael Bierut: 5 Secrets from 86 Notebooks"
+date: 2013-03-04 05:54:04 00:00
+permalink: /videos/1725
+source: "http://vimeo.com/7252845"
+thumbnail: "http://b.vimeocdn.com/ts/307/050/30705059_640.jpg"
+user:
+  username: "laurenoneill"
+  name: "Lauren O'Neill"
+tags: ["graphic design","creative process"]
+html: "<iframe src=\"http://player.vimeo.com/video/7252845\" width=\"640\" height=\"480\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Pulling from his collected notes and sketches from over three decades, renowned graphic designer Michael Bierut shares five simple secrets for doing great creative work.

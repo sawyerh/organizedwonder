@@ -1,0 +1,15 @@
+---
+title: "René Redzepi on the Story of Noma"
+date: 2013-01-18 20:14:32 00:00
+permalink: /videos/1639
+source: "http://vimeo.com/15399162"
+thumbnail: "http://b.vimeocdn.com/ts/926/850/92685018_640.jpg"
+user:
+  username: "rsantaferraro"
+  name: "Rocky Santaferraro"
+tags: ["inspiration","food"]
+html: "<iframe src=\"http://player.vimeo.com/video/15399162\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Found via The Fox is Black.
+"What I find inspiring is how passionate Redzepi is about his cooking. It’s not just about putting food on a plate, it’s about creating an experience. It’s about taking an ingredient and pairing it with other ingredients that would grow in the very same area. It’s about taking six weeks to prepare a grasshopper garum. Everything Redzepi does is done with 120% of effort and that to me is where his genius lies."

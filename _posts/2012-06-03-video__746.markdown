@@ -1,0 +1,13 @@
+---
+title: "How a bicycle is made (1945)"
+date: 2012-06-03 09:11:53 00:00
+permalink: /videos/746
+source: "http://vimeo.com/39401575"
+thumbnail: "http://b.vimeocdn.com/ts/283/335/283335548_640.jpg"
+user:
+  username: "hypr"
+  name: "johannes herseni"
+tags: ["documentary","cycling"]
+html: "<iframe src=\"http://player.vimeo.com/video/39401575\" width=\"640\" height=\"480\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

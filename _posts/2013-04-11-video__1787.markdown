@@ -1,0 +1,13 @@
+---
+title: "Ursus Wehrli tidies up art"
+date: 2013-04-11 21:22:46 00:00
+permalink: /videos/1787
+source: "http://www.ted.com/talks/ursus_wehrli_tidies_up_art.html"
+thumbnail: "http://images.ted.com/images/ted/58499_389x292.jpg"
+user:
+  username: "kingsley"
+  name: "Kingsley Harris"
+tags: []
+html: "<iframe src=\"http://embed.ted.com/talks/ursus_wehrli_tidies_up_art.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

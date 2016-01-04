@@ -1,0 +1,14 @@
+---
+title: "Pale Blue Dot"
+date: 2012-12-24 03:24:56 00:00
+permalink: /videos/1579
+source: "https://vimeo.com/51960515"
+thumbnail: "http://b.vimeocdn.com/ts/358/325/358325836_1280.jpg"
+user:
+  username: "asadc"
+  name: "Asad Chishti"
+tags: ["science","earth","carl","sagan","cosmos","pale","blue","dot"]
+html: "<iframe src=\"http://player.vimeo.com/video/51960515\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+A visual response to Carl Sagan's famed 'Pale Blue Dot' monologue, where he muses on our planet's appearance in a photograph taken by the Voyager 1 space probe. The most distant photograph ever taken of Earth.

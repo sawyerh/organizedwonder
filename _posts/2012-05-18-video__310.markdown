@@ -1,0 +1,13 @@
+---
+title: "Jason Santa Maria - On Web Typography"
+date: 2012-05-18 23:02:36 00:00
+permalink: /videos/310
+source: "http://vimeo.com/34178417"
+thumbnail: "http://b.vimeocdn.com/ts/232/555/232555182_960.jpg"
+user:
+  username: "marshmallowfeev"
+  name: "bekah nutt"
+tags: ["design","typography","web design"]
+html: "<iframe src=\"http://player.vimeo.com/video/34178417\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

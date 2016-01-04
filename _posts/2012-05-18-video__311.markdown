@@ -1,0 +1,13 @@
+---
+title: "Simon Collison - We Are The Explorers"
+date: 2012-05-18 23:04:38 00:00
+permalink: /videos/311
+source: "http://vimeo.com/34226502"
+thumbnail: "http://b.vimeocdn.com/ts/232/905/232905613_960.jpg"
+user:
+  username: "marshmallowfeev"
+  name: "bekah nutt"
+tags: ["design","web design"]
+html: "<iframe src=\"http://player.vimeo.com/video/34226502\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

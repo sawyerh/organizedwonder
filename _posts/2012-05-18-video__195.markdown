@@ -1,0 +1,14 @@
+---
+title: "Musicvision Phoenix"
+date: 2012-05-18 11:48:15 00:00
+permalink: /videos/195
+source: "http://vimeo.com/6943466"
+thumbnail: "http://b.vimeocdn.com/ts/284/096/28409665_1280.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["music","documentary","phoenix"]
+html: "<iframe src=\"http://player.vimeo.com/video/6943466\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Musicvision Phoenix is twenty tracks that changed our lives"

@@ -1,0 +1,14 @@
+---
+title: "TEDxStanford - Tina Seelig - A crash course in creativity"
+date: 2012-08-20 22:45:34 00:00
+permalink: /videos/1291
+source: "http://www.youtube.com/watch?v=gyM6rx69iqg&feature=player_embedded"
+thumbnail: "http://i4.ytimg.com/vi/gyM6rx69iqg/hqdefault.jpg"
+user:
+  username: "jdblundell"
+  name: "Jonathan Blundell"
+tags: ["creativity ted"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/gyM6rx69iqg?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+a crash course in creativity

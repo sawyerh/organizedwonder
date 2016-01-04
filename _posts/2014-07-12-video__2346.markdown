@@ -1,0 +1,14 @@
+---
+title: "Young Guru borrows a beat"
+date: 2014-07-12 18:16:06 00:00
+permalink: /videos/2346
+source: "http://vimeo.com/57090592"
+thumbnail: "http://i.vimeocdn.com/video/395528107_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["talk","poptech","hip-hop"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F57090592&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F57090592&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F395528107_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Revered as “The Sound of New York,” Young Guru has mixed 10 of Jay-Z’s albums and officially became Jay-Z’s tour D.J. in 2010. Watch him borrow a beat from Al Green to show the fine line between art and piracy.

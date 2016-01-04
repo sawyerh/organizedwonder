@@ -1,0 +1,13 @@
+---
+title: "This Is Water - David Foster Wallace - Part 1"
+date: 2012-08-01 07:29:27 00:00
+permalink: /videos/1200
+source: "https://www.youtube.com/watch?v=vET9cvlGJQw&feature=related"
+thumbnail: "http://i3.ytimg.com/vi/vET9cvlGJQw/hqdefault.jpg"
+user:
+  username: "kelvino"
+  name: "Kelvino Widagdo"
+tags: ["commencement speech","david foster wallace"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/vET9cvlGJQw?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

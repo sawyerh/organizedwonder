@@ -1,0 +1,13 @@
+---
+title: "Big CSS"
+date: 2013-06-27 14:47:55 00:00
+permalink: /videos/1984
+source: "http://www.youtube.com/watch?v=R-BX4N8egEc"
+thumbnail: "http://i1.ytimg.com/vi/R-BX4N8egEc/hqdefault.jpg"
+user:
+  username: "nunile"
+  name: "Maria"
+tags: ["css","harry roberts"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/R-BX4N8egEc?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

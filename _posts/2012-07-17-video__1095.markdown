@@ -1,0 +1,13 @@
+---
+title: "The Art of Logo Design | Off Book | PBS"
+date: 2012-07-17 19:44:38 00:00
+permalink: /videos/1095
+source: "http://www.youtube.com/watch?v=x3jTSB2ez-g&feature=player_embedded"
+thumbnail: "http://i1.ytimg.com/vi/x3jTSB2ez-g/hqdefault.jpg"
+user:
+  username: "jdblundell"
+  name: "Jonathan Blundell"
+tags: ["design","pbs","logo","off book"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/x3jTSB2ez-g?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

@@ -1,0 +1,13 @@
+---
+title: "Catastroika"
+date: 2012-09-06 07:38:43 00:00
+permalink: /videos/1356
+source: "http://www.dailymotion.com/video/xqphwe_catastroika-subtitulos-en-espanol_shortfilms"
+thumbnail: "http://static2.dmcdn.net/static/video/416/958/44859614:jpeg_preview_large.jpg?20120514192634"
+user:
+  username: "nunile"
+  name: "Maria"
+tags: ["politics"]
+html: "<iframe src=\"http://www.dailymotion.com/embed/video/xqphwe\" width=\"480\" height=\"269\" frameborder=\"0\"></iframe>"
+---
+

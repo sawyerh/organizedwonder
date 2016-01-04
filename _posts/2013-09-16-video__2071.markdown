@@ -1,0 +1,13 @@
+---
+title: "Shigeto in studio"
+date: 2013-09-16 15:35:06 00:00
+permalink: /videos/2071
+source: "http://vimeo.com/47238622"
+thumbnail: "http://b.vimeocdn.com/ts/328/881/328881967_1280.jpg"
+user:
+  username: "themanro"
+  name: "Roman Rusinov"
+tags: ["music"]
+html: "<iframe src=\"http://player.vimeo.com/video/47238622\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

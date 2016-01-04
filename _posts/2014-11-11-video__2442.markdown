@@ -1,0 +1,14 @@
+---
+title: "DJ Dahi"
+date: 2014-11-11 20:50:19 00:00
+permalink: /videos/2442
+source: "http://vimeo.com/109429071"
+thumbnail: "http://i.vimeocdn.com/video/493520292_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["short film","interview","music","hip-hop"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F109429071&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F109429071&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F493520292_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"1080\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Dj Dahi, the producer behind Kendrick Lamar's "Money Trees," Drake's "Worst Behavior," and countless other hits takes a break from music to chat with me about inspirations, the world of music, and his thoughts of making it as an artist.

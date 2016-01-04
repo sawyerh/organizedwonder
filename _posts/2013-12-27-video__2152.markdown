@@ -1,0 +1,14 @@
+---
+title: "She's a Fox"
+date: 2013-12-27 02:44:48 00:00
+permalink: /videos/2152
+source: "https://vimeo.com/67533365"
+thumbnail: "http://b.vimeocdn.com/ts/440/981/440981492_960.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["short film","comedy","romance"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F67533365&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F67533365&image=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F440%2F981%2F440981492_960.jpg&key=950020ba825211e1a0764040d3dc5c07&type=text%2Fhtml&schema=vimeo\" width=\"1278\" height=\"690\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+It's 1987. Infatuated with the hottest girl in school, sixth-grader, Cameron, puts everything on the line - including his mullet - to win the girl of his dreams.

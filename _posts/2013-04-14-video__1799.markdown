@@ -1,0 +1,13 @@
+---
+title: "An Insight, An Idea with Marissa Mayer"
+date: 2013-04-14 06:15:16 00:00
+permalink: /videos/1799
+source: "http://www.youtube.com/watch?v=TLbUqKr1Zuk"
+thumbnail: "http://i1.ytimg.com/vi/TLbUqKr1Zuk/hqdefault.jpg"
+user:
+  username: "jl"
+  name: "John Gregory Liwag"
+tags: ["interview","web","marissa mayer"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/TLbUqKr1Zuk?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

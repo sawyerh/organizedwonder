@@ -1,0 +1,13 @@
+---
+title: "AJ Jacobs: The Importance of Self-Delusion in the Creative Process"
+date: 2014-01-12 19:40:51 00:00
+permalink: /videos/2172
+source: "http://vimeo.com/68572000"
+thumbnail: "http://b.vimeocdn.com/ts/453/274/453274028_1280.jpg"
+user:
+  username: "mnoordeen"
+  name: "Mohamed Noordeen"
+tags: []
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F68572000&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F68572000&image=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F453%2F274%2F453274028_1280.jpg&key=950020ba825211e1a0764040d3dc5c07&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

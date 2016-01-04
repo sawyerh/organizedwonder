@@ -1,0 +1,16 @@
+---
+title: "'American Dreaming': Detroit's golden age of auto design"
+date: 2015-04-28 20:04:37 00:00
+permalink: /videos/2511
+source: "https://www.youtube.com/watch?v=16Ti4eJbLMM"
+thumbnail: "http://i.ytimg.com/vi/16Ti4eJbLMM/hqdefault.jpg"
+user:
+  username: "sbgriffi"
+  name: "Stuart G."
+tags: ["design","creativity","engineering","car","industrial design","history","auto industry","detroit","futurist"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2F16Ti4eJbLMM%3Fwmode%3Dtransparent%26feature%3Doembed&wmode=transparent&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D16Ti4eJbLMM&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2F16Ti4eJbLMM%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Detroit inspired the nation with its innovative and beautiful auto designs of the 1950s and 60s. But most of those designs were never released by the automakers. Like most of the early-stage artwork created by Detroit's design studios, they’ve been destroyed. The car companies routinely shredded early sketches for fear they would fall into the wrong hands. But some of them did make their way out of the design studios of Ford, GM, Chrysler, Studebaker, Packard and AMC. Filmmakers of the upcoming documentary “American Dreaming” talked to some of the artists who influenced mid-century American design and shaped the way we remember the golden era of the automobile. 
+
+See photos of the designs and learn more about "American Dreaming": http://americandreamingfilm.com/

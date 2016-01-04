@@ -1,0 +1,13 @@
+---
+title: "Andy Warhol on Pop Art"
+date: 2012-05-18 05:56:44 00:00
+permalink: /videos/177
+source: "http://www.youtube.com/watch?v=deRMRh8Zjgg"
+thumbnail: "http://i1.ytimg.com/vi/deRMRh8Zjgg/hqdefault.jpg"
+user:
+  username: "calescence"
+  name: "Shannon McWeeney"
+tags: ["art","pop art","warhol"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/deRMRh8Zjgg?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

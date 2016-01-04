@@ -1,0 +1,13 @@
+---
+title: "Léa Seydoux in \"A New York Moment\" by Glen Luchford"
+date: 2014-05-03 02:33:44 00:00
+permalink: /videos/2286
+source: "https://www.youtube.com/watch?v=xe1gmkL3xQg&list=PLuu-TPQ2CJp1UTDwZf8N5uYPiCRQsT-8M"
+thumbnail: "http://i1.ytimg.com/vi/xe1gmkL3xQg/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["fashion","art film"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Fwmode%3Dtransparent%26list%3DPLuu-TPQ2CJp1UTDwZf8N5uYPiCRQsT-8M&wmode=transparent&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dxe1gmkL3xQg%26list%3DPLuu-TPQ2CJp1UTDwZf8N5uYPiCRQsT-8M%26index%3D8&image=http%3A%2F%2Fi1.ytimg.com%2Fvi%2Fxe1gmkL3xQg%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

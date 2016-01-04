@@ -1,0 +1,16 @@
+---
+title: "Ryan Singer at Future of Web Apps, London 2010"
+date: 2012-05-15 05:29:32 00:00
+permalink: /videos/37
+source: "https://vimeo.com/15772341"
+thumbnail: "http://b.vimeocdn.com/ts/955/479/95547932_295.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["talk","ryan singer","37signals","fowa","software"]
+html: "<iframe src=\"http://player.vimeo.com/video/15772341\" width=\"472\" height=\"264\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Ryan Singer, from 37Signals:
+
+"Here's a talk I gave at Future of Web Apps 2010 in London. In this talk, I walk through the steps of creating a web app including modeling, sketching, HTML, Photoshop explorations, and moving from static mockups to live running code. Each step is illustrated with a real example, including some live sketching and live HTML. I also wanted to give a sense of how we think about apps at 37signals, as a stack of different levels that we can iterate on individually."

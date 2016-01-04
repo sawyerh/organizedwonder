@@ -1,0 +1,13 @@
+---
+title: "Jason Santa Maria - On Web Typography"
+date: 2012-05-30 17:33:41 00:00
+permalink: /videos/708
+source: "http://vimeo.com/34178417"
+thumbnail: "http://b.vimeocdn.com/ts/232/555/232555182_960.jpg"
+user:
+  username: "im_cr"
+  name: "Cortney Robinson"
+tags: ["graphic design","typography","web design"]
+html: "<iframe src=\"http://player.vimeo.com/video/34178417\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

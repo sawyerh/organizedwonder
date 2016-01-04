@@ -1,0 +1,14 @@
+---
+title: "Mark Zuckerberg: Inside Facebook (BBC)"
+date: 2012-06-08 12:37:27 00:00
+permalink: /videos/802
+source: "http://www.youtube.com/watch?v=zeOlO_2nddY&feature=related"
+thumbnail: "http://i3.ytimg.com/vi/zeOlO_2nddY/hqdefault.jpg"
+user:
+  username: "charlybr"
+  name: "CharlyBr"
+tags: ["documentary","facebook","mark zuckerberg"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/zeOlO_2nddY?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+In just seven years, Mark Zuckerberg has gone from his Harvard college dorm to running a business with 800 million users, and a possible value of $100 billion. His idea to 'make the world more open and connected' has sparked a revolution in communication, and now looks set to have a huge impact on business too.

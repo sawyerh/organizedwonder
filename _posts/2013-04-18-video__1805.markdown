@@ -1,0 +1,14 @@
+---
+title: "Mihaly Csikszentmihalyi: Flow, the secret to happiness | Video on TED.com"
+date: 2013-04-18 13:38:03 00:00
+permalink: /videos/1805
+source: "http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow.html"
+thumbnail: "http://images.ted.com/images/ted/57024_389x292.jpg"
+user:
+  username: "procload"
+  name: "Ryan Merrill"
+tags: []
+html: "<iframe src=\"http://embed.ted.com/talks/mihaly_csikszentmihalyi_on_flow.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Mihaly Czikszentmihalyi asks, "What makes a life worth living?" Noting that money cannot make us happy, he looks to those who find pleasure and lasting satisfaction in activities that bring about a state of "flow."

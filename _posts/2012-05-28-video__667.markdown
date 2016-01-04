@@ -1,0 +1,13 @@
+---
+title: "After the Wedding Trailer"
+date: 2012-05-28 14:49:48 00:00
+permalink: /videos/667
+source: "http://www.youtube.com/watch?v=-lKCRdGXCeM"
+thumbnail: "http://i2.ytimg.com/vi/-lKCRdGXCeM/hqdefault.jpg"
+user:
+  username: "alexandrine"
+  name: "Alexandrine Koegel"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/-lKCRdGXCeM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

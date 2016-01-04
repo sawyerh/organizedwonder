@@ -1,0 +1,14 @@
+---
+title: "Roger Doiron - A Subversive Plot: How to Grow a Revolution in Your Own Backyard"
+date: 2012-05-19 14:57:17 00:00
+permalink: /videos/410
+source: "http://www.youtube.com/watch?v=Ezuz_-eZTMI"
+thumbnail: "http://i2.ytimg.com/vi/Ezuz_-eZTMI/hqdefault.jpg"
+user:
+  username: "happyhealthybalance"
+  name: "happyhealthybalance"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/Ezuz_-eZTMI?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Roger Doiron is founding director of Kitchen Gardeners International, a network of people taking a hands-on approach to re-localizing the global food supply. Doiron is an advocate for new policies, technologies, investments, and fresh thinking about the role of gardens. His successful petition to replant a kitchen garden at the White House attracted broad international recognition. He is also a writer, photographer, and public speaker.

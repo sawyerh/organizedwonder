@@ -1,0 +1,14 @@
+---
+title: "Benjamin Salka: Creative Mornings"
+date: 2012-05-18 16:49:11 00:00
+permalink: /videos/271
+source: "http://vimeo.com/39601274"
+thumbnail: "http://b.vimeocdn.com/ts/273/362/273362388_1280.jpg"
+user:
+  username: "marshmallowfeev"
+  name: "bekah nutt"
+tags: ["creativity","creativemornings","talk","education"]
+html: "<iframe src=\"http://player.vimeo.com/video/39601274\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+What can you learn from kids and their creative, zany ideas? Benjamin Salka, CEO of Story Pirates, assumed he'd learn how to have a renewed sense of wonder. In this talk, he discusses why his assumption was wrong, what he actually did learn and why it was so much more important than he ever imagined.

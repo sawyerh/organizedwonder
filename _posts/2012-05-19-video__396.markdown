@@ -1,0 +1,13 @@
+---
+title: "Spike Lee / The Dolly Shot"
+date: 2012-05-19 14:32:08 00:00
+permalink: /videos/396
+source: "https://vimeo.com/40689260"
+thumbnail: "http://b.vimeocdn.com/ts/281/337/281337836_1280.jpg"
+user:
+  username: "kris"
+  name: "Kris LoCascio"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/40689260\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

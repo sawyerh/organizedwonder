@@ -1,0 +1,14 @@
+---
+title: "Man"
+date: 2013-01-31 01:38:40 00:00
+permalink: /videos/1658
+source: "https://vimeo.com/56093731"
+thumbnail: "http://b.vimeocdn.com/ts/388/431/388431130_960.jpg"
+user:
+  username: "walkinbyfaith10"
+  name: "Jessica Sun"
+tags: ["animation","motion graphics"]
+html: "<iframe src=\"http://player.vimeo.com/video/56093731\" width=\"1272\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Animation created in Flash and After Effects looking at mans relationship with the natural world.

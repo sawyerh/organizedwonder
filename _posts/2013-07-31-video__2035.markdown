@@ -1,0 +1,13 @@
+---
+title: "Noah Episode 3 \"Refining my Artistic Purpose, Focus and Calling through Mid Life Crisis and Faith\""
+date: 2013-07-31 16:57:46 00:00
+permalink: /videos/2035
+source: "http://www.youtube.com/watch?v=rKRKU1RniIY"
+thumbnail: "http://i1.ytimg.com/vi/rKRKU1RniIY/hqdefault.jpg"
+user:
+  username: "msteinruck"
+  name: "Mark Steinruck"
+tags: []
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/rKRKU1RniIY?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

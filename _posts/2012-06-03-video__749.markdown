@@ -1,0 +1,13 @@
+---
+title: "President Toomas Hendrik Ilves @ Tallinn Music Week 2012"
+date: 2012-06-03 09:52:06 00:00
+permalink: /videos/749
+source: "http://www.youtube.com/watch?feature=player_embedded&v=SyMN3hmcoHE"
+thumbnail: "http://i4.ytimg.com/vi/SyMN3hmcoHE/hqdefault.jpg"
+user:
+  username: "laumabre"
+  name: "Lauma"
+tags: ["talk"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/SyMN3hmcoHE?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

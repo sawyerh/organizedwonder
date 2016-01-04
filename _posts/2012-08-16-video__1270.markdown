@@ -1,0 +1,22 @@
+---
+title: "Fluorescent"
+date: 2012-08-16 03:28:16 00:00
+permalink: /videos/1270
+source: "https://vimeo.com/47012781"
+thumbnail: "http://b.vimeocdn.com/ts/327/549/327549027_960.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["short film","illustration"]
+html: "<iframe src=\"http://player.vimeo.com/video/47012781\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+A stranger asks to leave reality behind and embark on a sincere journey through the depths of modern Israeli society.
+Vision facing reality,
+Significance facing recognition,
+The boundaries become blurry.
+
+Original score by Gil Landau & Yaeli Cohen.
+
+“That which is crooked cannot be made straight; and that which is 
+wanting cannot be numbered." Ecclesiastes:1,15

@@ -1,0 +1,18 @@
+---
+title: "Breaking Wave"
+date: 2014-09-02 19:20:53 00:00
+permalink: /videos/2396
+source: "http://vimeo.com/103736199"
+thumbnail: "http://i.vimeocdn.com/video/486066524_1280.jpg"
+user:
+  username: "ed"
+  name: "Ed Mackowiak"
+tags: ["sculpture","kinetic"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F103736199&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F103736199&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F486066524_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"1080\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Breaking Wave is an anamorphic kinetic sculpture created for Biogen-Idec’s new headquarters in Cambridge, MA by Plebian Design and Hypersonic. 
+
+Breaking Wave tells the story of the search for patterns, and the surprising results that come by changing our point of view. 804 suspended spheres move in a wave-like formation. When the wave crests and breaks, the balls hover momentarily in a cloud. From almost anywhere in the room, this cloud is purely chaotic, but step into one of two hidden spots, and this apparent chaos shows a hidden pattern. From the first, a labyrinth hints at the search for knowledge, and from the second, a Fibonacci spiral inspired flower reminds us of the natural order and patterns found in nature.
+
+http://www.hypersonic.cc/projects/breakingwave

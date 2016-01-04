@@ -1,0 +1,13 @@
+---
+title: "Symmetry"
+date: 2012-05-15 05:07:39 00:00
+permalink: /videos/26
+source: "https://vimeo.com/22564317"
+thumbnail: "http://b.vimeocdn.com/ts/145/962/145962205_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["short film"]
+html: "<iframe src=\"http://player.vimeo.com/video/22564317\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

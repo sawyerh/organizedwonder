@@ -1,0 +1,14 @@
+---
+title: "How the Web Works"
+date: 2012-06-01 20:15:38 00:00
+permalink: /videos/734
+source: "https://vimeo.com/43213519"
+thumbnail: "http://b.vimeocdn.com/ts/299/921/299921844_640.jpg"
+user:
+  username: "jacquestardie"
+  name: "Jacques"
+tags: ["talk","web"]
+html: "<iframe src=\"http://player.vimeo.com/video/43213519\" width=\"640\" height=\"480\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Turns out that the fundamental principles that led to the success of the web will lead you there, too. Drawing on 15 years of web design and development experience, Jeff Veen (Adobe Creative Cloud, Typekit) takes you on a guided tour of what makes things work on this amazing platform we’re all building together. You’ll learn how to stop selling ice, why web browsers work the way they do, and where Rupert Murdoch can stick his business model.

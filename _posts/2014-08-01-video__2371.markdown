@@ -1,0 +1,25 @@
+---
+title: "\"A Truncated Story of Infinity\" - A Short by Paul Trillo"
+date: 2014-08-01 21:41:15 00:00
+permalink: /videos/2371
+source: "http://vimeo.com/101882592"
+thumbnail: "http://i.vimeocdn.com/video/483763025_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["short film"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F101882592&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F101882592&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F483763025_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"1080\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+A look at the infinite possibilities within the everyday. Following a day in the life of Vincent, "Subject X" and his many variations that exist throughout the universe. The story begins to fracture into different threads when he follows a would be lover down the street.
+
+This piece was created for the "Everyday Adventure" series originally commissioned by Nokia Brand Labs.
+
+This film was inspired by Brian Greene's "The Hidden Reality" amazon.com/The-Hidden-Reality-Parallel-Universes/dp/0307278123
+and Douglas Hofstadter's "I am a Strange Loop" amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793
+
+Directed by Paul Trillo
+Co Produced By Keith Ferreira
+Director of Photography Andrew Georgopoulos
+Sound Design and Score by Noah Cunningham
+Executive Producer Costas Syrmos (Nokia Brand Labs)

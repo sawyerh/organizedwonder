@@ -1,0 +1,13 @@
+---
+title: "Venise"
+date: 2012-06-10 21:29:49 00:00
+permalink: /videos/822
+source: "http://player.vimeo.com/video/40977797"
+thumbnail: "http://b.vimeocdn.com/ts/283/515/283515438_960.jpg"
+user:
+  username: "patocha"
+  name: "Patocha"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/40977797\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

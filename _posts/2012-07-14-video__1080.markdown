@@ -1,0 +1,14 @@
+---
+title: "Creative Mornings / Melbourne 01 / 2012 / Hosted by The Jacky Winter Group"
+date: 2012-07-14 07:19:21 00:00
+permalink: /videos/1080
+source: "https://vimeo.com/45559106"
+thumbnail: "http://b.vimeocdn.com/ts/316/934/316934881_960.jpg"
+user:
+  username: "bobsta14"
+  name: "Bobby Haiqalsyah"
+tags: ["creativemornings","design","talk","melbourne"]
+html: "<iframe src=\"http://player.vimeo.com/video/45559106\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+The first edition of Creative Mornings Melbourne kicked off on Friday 29th of June, with creative types and curious ears strolling out to The Compound Interest in Collingwood to hear Tim Devine & Jesse Stevens of Media Lab talk about art, technology and the importance of critical design.

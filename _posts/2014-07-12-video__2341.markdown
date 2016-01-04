@@ -1,0 +1,14 @@
+---
+title: "Larry Page: Where's Google going next?"
+date: 2014-07-12 16:25:23 00:00
+permalink: /videos/2341
+source: "http://www.ted.com/talks/larry_page_where_s_google_going_next?utm_campaign=&utm_medium=on.ted.com-twitter&utm_content=awesm-publisher&awesm=on.ted.com_c0GQi&utm_source=t.co#t-742104"
+thumbnail: "http://img.tedcdn.com/r/images.ted.com/images/ted/305ffd312450b409757879c70f073bb0d8883656_1600x1200.jpg?c=1280%2C720&ll=1&quality=89&w=1200"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["google","ted talk","future","charlie rose"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fembed.ted.com%2Ftalks%2Flarry_page_where_s_google_going_next.html&wmode=transparent&url=http%3A%2F%2Fwww.ted.com%2Ftalks%2Flarry_page_where_s_google_going_next&image=http%3A%2F%2Fimg.tedcdn.com%2Fr%2Fimages.ted.com%2Fimages%2Fted%2F305ffd312450b409757879c70f073bb0d8883656_1600x1200.jpg%3Fc%3D1280%252C720%26ll%3D1%26quality%3D89%26w%3D1200&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=ted\" width=\"640\" height=\"360\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Onstage at TED2014, Charlie Rose interviews Google CEO Larry Page about his far-off vision for the company. It includes aerial bikeways and internet balloons … and then it gets even more interesting, as Page talks through the company’s recent acquisition of Deep Mind, an AI that is learning some surprising things.

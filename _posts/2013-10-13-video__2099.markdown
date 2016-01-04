@@ -1,0 +1,14 @@
+---
+title: "Webstock '13: Aza Raskin - Design is the beauty of turning constraints into advantages"
+date: 2013-10-13 12:41:28 00:00
+permalink: /videos/2099
+source: "https://vimeo.com/62973059"
+thumbnail: "http://b.vimeocdn.com/ts/441/644/441644543_1280.jpg"
+user:
+  username: "akmur"
+  name: "Alessandro Muraro"
+tags: ["design"]
+html: "<iframe src=\"http://player.vimeo.com/video/62973059\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+It’s not about thinking outside the box. It’s about finding the right box to think inside. The power of constraints is learning to choose the right problem.

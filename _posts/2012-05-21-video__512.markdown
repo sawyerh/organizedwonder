@@ -1,0 +1,14 @@
+---
+title: "RSA Animate - 21st century enlightenment"
+date: 2012-05-21 13:28:57 00:00
+permalink: /videos/512
+source: "http://www.youtube.com/watch?v=AC7ANGMy0yo&feature=fvwrel"
+thumbnail: "http://i2.ytimg.com/vi/AC7ANGMy0yo/hqdefault.jpg"
+user:
+  username: "yewfai"
+  name: "yewfai"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/AC7ANGMy0yo?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Matthew Taylor explores the meaning of 21st century enlightenment, how the idea might help us meet the challenges we face today.

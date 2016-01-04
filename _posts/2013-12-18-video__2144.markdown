@@ -1,0 +1,16 @@
+---
+title: "The 12 Days of Keefmas"
+date: 2013-12-18 20:47:01 00:00
+permalink: /videos/2144
+source: "https://vimeo.com/tremendous/keefmas"
+thumbnail: "http://b.vimeocdn.com/ts/458/285/458285381_1280.jpg"
+user:
+  username: "keaggy"
+  name: "Bill Keaggy"
+tags: ["music","parody",70,"keith richards","keef","rolling stones","stones","birthday","song","holiday","christmas","keefmas"]
+html: "<iframe src=\"http://player.vimeo.com/video/82033544\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"Merry Keefmas from The Tremendousness Collective!\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Wishing you a Merry Keefmas!
+
+In the spirit of debauched inclusivity, this holiday season The Tremendousness Collective have decided to celebrate something everyone can believe in—something all of us can look at with a wide-eyed sense of wonder and awe—Keith Richards’ 70th birthday, which happens to be today, December 18, 2013!

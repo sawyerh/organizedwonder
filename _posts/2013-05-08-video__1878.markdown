@@ -1,0 +1,14 @@
+---
+title: "plastic bag - werner herzog"
+date: 2013-05-08 20:48:53 00:00
+permalink: /videos/1878
+source: "http://youtu.be/YDBtCb61Sd4"
+thumbnail: "http://i2.ytimg.com/vi/YDBtCb61Sd4/hqdefault.jpg"
+user:
+  username: "hawkinsjustin"
+  name: "Justin Hawkins"
+tags: ["short film","werner herzog","plastic bag"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/YDBtCb61Sd4?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Short film created for the FUTURESTATES project, more info and episodes at: http://www.futurestates.tv/

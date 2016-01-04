@@ -1,0 +1,14 @@
+---
+title: "Paranormal Interactivity by Jeremy Keith (An Event Apart)"
+date: 2012-11-25 01:44:25 00:00
+permalink: /videos/1501
+source: "https://vimeo.com/34978760"
+thumbnail: "http://b.vimeocdn.com/ts/355/433/355433004_640.jpg"
+user:
+  username: "javiermotis"
+  name: "Javier Motis"
+tags: ["web design","ux","css"]
+html: "<iframe src=\"http://player.vimeo.com/video/34978760\" width=\"640\" height=\"480\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Interaction is the secret sauce of the web. Understanding interaction is key to understanding the web as its own medium—it’s not print, it’s not television, and it’s certainly not the desktop.

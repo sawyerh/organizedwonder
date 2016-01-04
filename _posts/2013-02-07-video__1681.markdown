@@ -1,0 +1,14 @@
+---
+title: "Une Fille Comme Les Autres"
+date: 2013-02-07 16:45:52 00:00
+permalink: /videos/1681
+source: "https://vimeo.com/34247028"
+thumbnail: "http://b.vimeocdn.com/ts/233/075/233075614_1280.jpg"
+user:
+  username: "kimcross"
+  name: "Kim Cross"
+tags: ["awesome","comedy","fashion film"]
+html: "<iframe src=\"http://player.vimeo.com/video/34247028\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Director: Matthew Frost

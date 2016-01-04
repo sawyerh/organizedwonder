@@ -1,0 +1,13 @@
+---
+title: "Baroque.me: J.S. Bach - Cello Suite No. 1 - Prelude"
+date: 2012-05-19 14:59:27 00:00
+permalink: /videos/412
+source: "https://vimeo.com/31179423"
+thumbnail: "http://b.vimeocdn.com/ts/209/922/209922239_640.jpg"
+user:
+  username: "kris"
+  name: "Kris LoCascio"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/31179423\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

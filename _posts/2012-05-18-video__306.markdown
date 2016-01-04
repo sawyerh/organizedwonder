@@ -1,0 +1,13 @@
+---
+title: "Birth of a Book"
+date: 2012-05-18 22:23:16 00:00
+permalink: /videos/306
+source: "http://vimeo.com/38681202"
+thumbnail: "http://b.vimeocdn.com/ts/266/394/266394925_960.jpg"
+user:
+  username: "whataboutzana"
+  name: "Zana Fauzi"
+tags: ["short film","books","literature"]
+html: "<iframe src=\"http://player.vimeo.com/video/38681202\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

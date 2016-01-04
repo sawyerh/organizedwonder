@@ -1,0 +1,14 @@
+---
+title: "Gerrit Noordzij on drawing"
+date: 2012-05-19 03:53:11 00:00
+permalink: /videos/352
+source: "http://vimeo.com/10521941"
+thumbnail: "http://b.vimeocdn.com/ts/553/143/55314376_640.jpg"
+user:
+  username: "aaronmoodie"
+  name: "Aaron Moodie"
+tags: ["typography","type"]
+html: "<iframe src=\"http://player.vimeo.com/video/10521941\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Noordzij explains sketching type during his talk at TypeMedia, March 25, 2010.

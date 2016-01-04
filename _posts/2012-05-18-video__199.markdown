@@ -1,0 +1,14 @@
+---
+title: "OFFF Paris 2010 Sponsors Titles"
+date: 2012-05-18 11:59:24 00:00
+permalink: /videos/199
+source: "http://vimeo.com/12888493"
+thumbnail: "http://b.vimeocdn.com/ts/730/901/73090142_640.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["music","motion design"]
+html: "<iframe src=\"http://player.vimeo.com/video/12888493\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+vidéo réalisé par Julien Vallée est destiné à présenter le commanditaire du Festival OFFF « Internationnal Festival for de post-production création culture »

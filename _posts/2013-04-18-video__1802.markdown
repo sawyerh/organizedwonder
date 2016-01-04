@@ -1,0 +1,13 @@
+---
+title: "How a blind girl sees the world. (Animation)"
+date: 2013-04-18 05:40:33 00:00
+permalink: /videos/1802
+source: "http://www.youtube.com/watch?feature=player_embedded&v=XOIWoz85cNQ#!"
+thumbnail: "http://i1.ytimg.com/vi/XOIWoz85cNQ/hqdefault.jpg"
+user:
+  username: "susie"
+  name: "Susie"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/XOIWoz85cNQ?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

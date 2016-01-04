@@ -1,0 +1,14 @@
+---
+title: "The Art of Creative Coding"
+date: 2013-01-07 15:04:17 00:00
+permalink: /videos/1613
+source: "http://www.youtube.com/watch?feature=player_embedded&v=eBV14-3LT-g"
+thumbnail: "http://i2.ytimg.com/vi/eBV14-3LT-g/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["pbs","code"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/eBV14-3LT-g?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Programming plays a huge role in the world that surrounds us, and though its uses are often purely functional, there is a growing community of artists who use the language of code as their medium. Their work includes everything from computer generated art to elaborate interactive installations, all with the goal of expanding our sense of what is possible with digital tools. To simplify the coding process, several platforms and libraries have been assembled to allow coders to cut through the nitty-gritty of programming and focus on the creative aspects of the project. These platforms all share a strong open source philosophy that encourages growth and experimentation, creating a rich community of artists that share their strategies and work with unprecedented openness.

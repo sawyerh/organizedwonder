@@ -1,0 +1,14 @@
+---
+title: "Breaking Good Habits - Harry Roberts"
+date: 2012-07-21 11:31:49 00:00
+permalink: /videos/1110
+source: "http://vimeo.com/44773888#at=0"
+thumbnail: "http://b.vimeocdn.com/ts/311/124/311124404_960.jpg"
+user:
+  username: "lhid"
+  name: "Leban Hyde"
+tags: ["web design","development","front-end","code","css"]
+html: "<iframe src=\"http://player.vimeo.com/video/44773888\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+From Front-Trends 2012

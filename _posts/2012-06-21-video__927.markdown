@@ -1,0 +1,14 @@
+---
+title: "A Conversation with Jimmy Fallon and Sean Parker"
+date: 2012-06-21 01:02:02 00:00
+permalink: /videos/927
+source: "http://youtu.be/yCyMz-u-HcQ"
+thumbnail: "http://i2.ytimg.com/vi/yCyMz-u-HcQ/hqdefault.jpg"
+user:
+  username: "byderekj"
+  name: "Derek Jensen"
+tags: ["technology","business","talk","story","entrepreneur","culture"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/yCyMz-u-HcQ?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+The chemistry of Fallon and Parker is great talking about technology, why certain things are done, and what's next.

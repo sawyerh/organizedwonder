@@ -1,0 +1,15 @@
+---
+title: "\"El modelo minero-energético. Imperialismo y proyectos de nación\". Ponencia de Frank Molano"
+date: 2013-01-10 10:01:49 00:00
+permalink: /videos/1619
+source: "http://www.youtube.com/watch?feature=player_embedded&v=YRCYDhxzTSw#at=19"
+thumbnail: "http://i2.ytimg.com/vi/YRCYDhxzTSw/hqdefault.jpg"
+user:
+  username: "taita"
+  name: "Iván Castrillón"
+tags: ["minería","desarrollo sostenible"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/YRCYDhxzTSw?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Ponencia presentada por Frank Molano, Catedrático de la Universidad Distrital Francisco José de Caldas, historiador e integrante del MODEP en el Foro Nacional Minero Energético en Pereira, 16-17 de noviembre del 2012
+Crónicas de un despojo / Miércoles 9 de enero de 2013

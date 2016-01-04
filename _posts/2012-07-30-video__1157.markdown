@@ -1,0 +1,14 @@
+---
+title: "Benjamin Zander: Classical music with shining eyes"
+date: 2012-07-30 03:14:10 00:00
+permalink: /videos/1157
+source: "http://www.youtube.com/watch?v=r9LCwI5iErE"
+thumbnail: "http://i3.ytimg.com/vi/r9LCwI5iErE/hqdefault.jpg"
+user:
+  username: "chergaoui"
+  name: "Ahmed C."
+tags: ["music","ted talk"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/r9LCwI5iErE?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Benjamin Zander has two infectious passions: classical music, and helping us all realize our untapped love for it -- and by extension, our untapped love for all new possibilities, new experiences, new connections

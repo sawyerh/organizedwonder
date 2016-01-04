@@ -1,0 +1,14 @@
+---
+title: "Bellroy Travel Wallet"
+date: 2012-05-22 20:19:59 00:00
+permalink: /videos/566
+source: "https://vimeo.com/30705121"
+thumbnail: "http://b.vimeocdn.com/ts/206/386/206386729_640.jpg"
+user:
+  username: "bordusko"
+  name: "Aleksandrs Bordusko"
+tags: ["shopping"]
+html: "<iframe src=\"http://player.vimeo.com/video/30705121\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Promotional video of a wallet for travellers

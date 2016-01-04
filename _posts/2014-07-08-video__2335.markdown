@@ -1,0 +1,14 @@
+---
+title: "Seth Godin | Nearly Impossible 2013"
+date: 2014-07-08 18:43:58 00:00
+permalink: /videos/2335
+source: "https://vimeo.com/98687468"
+thumbnail: "http://i.vimeocdn.com/video/479501449_1280.jpg"
+user:
+  username: "ram"
+  name: "Rusty Meadows"
+tags: ["talk","entrepreneur","brooklyn","maker","nearly impossible"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F98687468&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F98687468&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F479501449_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Seth Godin speaks in Brooklyn at the Nearly Impossible Conference.

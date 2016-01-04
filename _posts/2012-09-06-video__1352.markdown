@@ -1,0 +1,13 @@
+---
+title: "A crude awaikening: the oil crash"
+date: 2012-09-06 07:34:57 00:00
+permalink: /videos/1352
+source: "http://vimeo.com/25154742"
+thumbnail: "http://b.vimeocdn.com/ts/165/429/165429437_295.jpg"
+user:
+  username: "nunile"
+  name: "Maria"
+tags: ["politics"]
+html: "<iframe src=\"http://player.vimeo.com/video/25154742\" width=\"592\" height=\"336\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

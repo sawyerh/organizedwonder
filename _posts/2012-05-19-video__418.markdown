@@ -1,0 +1,13 @@
+---
+title: "Giant soap bubbles - Bulles de savon géantes"
+date: 2012-05-19 15:04:39 00:00
+permalink: /videos/418
+source: "http://vimeo.com/33828832"
+thumbnail: "http://b.vimeocdn.com/ts/229/931/229931227_640.jpg"
+user:
+  username: "happyhealthybalance"
+  name: "happyhealthybalance"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/33828832\" width=\"640\" height=\"352\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

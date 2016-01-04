@@ -1,0 +1,14 @@
+---
+title: "Forever's Not So Long"
+date: 2012-05-15 14:58:49 00:00
+permalink: /videos/62
+source: "http://vimeo.com/3568757"
+thumbnail: "http://b.vimeocdn.com/ts/420/164/4201645_940.jpg"
+user:
+  username: "nick"
+  name: "Nick Sergeant"
+tags: ["short film"]
+html: "<iframe src=\"http://player.vimeo.com/video/3568757\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+George discovers that the end of the world is the perfect time to lose everything.

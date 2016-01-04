@@ -1,0 +1,14 @@
+---
+title: "Gnarly in Pink"
+date: 2014-09-26 21:43:44 00:00
+permalink: /videos/2408
+source: "http://vimeo.com/99185645"
+thumbnail: "http://i.vimeocdn.com/video/480273094_1280.jpg"
+user:
+  username: "zachacole"
+  name: "Zach Cole"
+tags: ["short documentary","skateboarding","nyt","nytimes"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F99185645&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F99185645&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F480273094_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+This short film celebrates the “Pink Helmet Posse,” three 6-year-old girls who share an unusual passion: skateboarding.

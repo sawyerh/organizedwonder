@@ -1,0 +1,13 @@
+---
+title: "Wilson Miner: \"Steal This Talk\""
+date: 2015-08-02 16:17:33 00:00
+permalink: /videos/2550
+source: "https://www.youtube.com/watch?v=B69C0QvgOTk"
+thumbnail: "https://i.ytimg.com/vi/B69C0QvgOTk/hqdefault.jpg"
+user:
+  username: "sbgriffi"
+  name: "Stuart G."
+tags: []
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FB69C0QvgOTk%3Fwmode%3Dtransparent%26feature%3Doembed&wmode=transparent&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DB69C0QvgOTk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FB69C0QvgOTk%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

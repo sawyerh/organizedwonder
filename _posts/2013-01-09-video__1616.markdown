@@ -1,0 +1,13 @@
+---
+title: "Sheryl Sandberg: Why we have too few women leaders | Video on TED.com"
+date: 2013-01-09 06:40:42 00:00
+permalink: /videos/1616
+source: "http://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders.html"
+thumbnail: "http://images.ted.com/images/ted/acd634e9df033ccf8054acb31b5107408e945a2a_389x292.jpg"
+user:
+  username: "stephawu"
+  name: "stephanie wu"
+tags: []
+html: "<iframe src=\"http://embed.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

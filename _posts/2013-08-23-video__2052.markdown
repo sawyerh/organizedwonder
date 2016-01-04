@@ -1,0 +1,14 @@
+---
+title: "Quantum Computers Explained"
+date: 2013-08-23 16:23:55 00:00
+permalink: /videos/2052
+source: "http://www.youtube.com/watch?v=T2DXrs0OpHU"
+thumbnail: "http://i1.ytimg.com/vi/T2DXrs0OpHU/hqdefault.jpg"
+user:
+  username: "zalew"
+  name: "Jakub Zalewski"
+tags: ["science","animation","quantum","physics","computing"]
+html: "<iframe width=\"640\" height=\"480\" src=\"http://www.youtube.com/embed/T2DXrs0OpHU?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Theoretical Physicists John Preskill and Spiros Michalakis describe how things are different in the Quantum World and how that can lead to powerful Quantum Computers.

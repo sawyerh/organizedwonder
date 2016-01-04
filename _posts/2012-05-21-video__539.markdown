@@ -1,0 +1,13 @@
+---
+title: "Ilse Collection"
+date: 2012-05-21 23:20:29 00:00
+permalink: /videos/539
+source: "http://vimeo.com/41608533"
+thumbnail: "http://b.vimeocdn.com/ts/290/105/290105282_1280.jpg"
+user:
+  username: "sk"
+  name: "SK"
+tags: ["design"]
+html: "<iframe src=\"http://player.vimeo.com/video/41608533\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

@@ -1,0 +1,14 @@
+---
+title: "Going to California"
+date: 2013-02-02 02:08:57 00:00
+permalink: /videos/1663
+source: "http://vimeo.com/58311823"
+thumbnail: "http://b.vimeocdn.com/ts/405/350/405350673_1280.jpg"
+user:
+  username: "perrysieben"
+  name: "Perry Sieben"
+tags: ["short film","story","short","drama"]
+html: "<iframe src=\"http://player.vimeo.com/video/58311823\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Two best friends are placed in an volatile situation which can only result in two outcomes: fight or flight.

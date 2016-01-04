@@ -1,0 +1,14 @@
+---
+title: "GMail Explained"
+date: 2012-05-16 21:23:36 00:00
+permalink: /videos/81
+source: "http://www.youtube.com/watch?v=5Be2YnlRIg8#!"
+thumbnail: "http://i2.ytimg.com/vi/5Be2YnlRIg8/hqdefault.jpg"
+user:
+  username: "miggi"
+  name: "Miguel Angel Cardona Jr."
+tags: ["animation","motion graphics","google"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/5Be2YnlRIg8?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+A nice little animation explaining how GMail really works.

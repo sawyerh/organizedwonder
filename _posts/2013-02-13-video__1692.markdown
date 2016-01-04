@@ -1,0 +1,14 @@
+---
+title: "JJ Abrams: The Mystery Box"
+date: 2013-02-13 00:56:31 00:00
+permalink: /videos/1692
+source: "http://www.youtube.com/watch?v=vpjVgF5JDq8"
+thumbnail: "http://i3.ytimg.com/vi/vpjVgF5JDq8/hqdefault.jpg"
+user:
+  username: "ecrissman"
+  name: "Eric Crissman"
+tags: ["talk","creativity","ted talk","creative process"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/vpjVgF5JDq8?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+http://www.ted.com J.J. Abrams traces his love for the unseen mystery - a passion thats evident in his films and TV shows, including Cloverfield, Lost and Alias -- back to its magical beginnings.

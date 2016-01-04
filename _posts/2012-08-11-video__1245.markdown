@@ -1,0 +1,14 @@
+---
+title: "Damian Palin: Mining minerals from seawater | Video on TED.com"
+date: 2012-08-11 03:16:23 00:00
+permalink: /videos/1245
+source: "http://www.ted.com/talks/damian_palin_mining_minerals_from_seawater.html"
+thumbnail: "http://images.ted.com/images/ted/f20e1c010c1649ac1248ba361ce6b2614633666c_389x292.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["ted","water"]
+html: "<object width=\"526\" height=\"374\">\n<param name=\"wmode\" value=\"transparent\"><param name=\"movie\" value=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowScriptAccess\" value=\"always\"><param name=\"wmode\" value=\"transparent\"><param name=\"bgColor\" value=\"#ffffff\"><param name=\"flashvars\" value=\"vu=http://video.ted.com/talk/stream/2012U/Blank/DamianPalin_2012U-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/DamianPalin_2012U-embed.jpg&amp;vw=512&amp;vh=288&amp;ap=0&amp;ti=1470&amp;lang=en&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=damian_palin_mining_minerals_from_seawater;year=2012;theme=talks_from_ted_fellows;theme=tales_of_invention;event=TED2012;tag=mining;tag=science;tag=technology;tag=water;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;\"><embed src=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" pluginspace=\"http://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" bgcolor=\"#ffffff\" width=\"526\" height=\"374\" allowfullscreen=\"true\" allowscriptaccess=\"always\" flashvars=\"vu=http://video.ted.com/talk/stream/2012U/Blank/DamianPalin_2012U-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/DamianPalin_2012U-embed.jpg&amp;vw=512&amp;vh=288&amp;ap=0&amp;ti=1470&amp;lang=en&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=damian_palin_mining_minerals_from_seawater;year=2012;theme=talks_from_ted_fellows;theme=tales_of_invention;event=TED2012;tag=mining;tag=science;tag=technology;tag=water;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;\"></embed></object>"
+---
+
+The world needs clean water, and more and more, we're pulling it from the oceans, desalinating it, and drinking it. But what to do with the salty brine left behind? In this intriguing short talk, TED Fellow Damian Palin proposes an idea: Mine it for other minerals we need, with the help of some collaborative metal-munching bacteria.

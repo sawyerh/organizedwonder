@@ -1,0 +1,13 @@
+---
+title: "Empire State of Pen"
+date: 2012-05-24 16:42:05 00:00
+permalink: /videos/603
+source: "http://vimeo.com/42635813"
+thumbnail: "http://b.vimeocdn.com/ts/295/822/295822046_960.jpg"
+user:
+  username: "bruno"
+  name: "Bruno Monteiro"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/42635813\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

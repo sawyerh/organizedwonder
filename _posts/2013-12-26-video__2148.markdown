@@ -1,0 +1,13 @@
+---
+title: "The Psychology of Evil"
+date: 2013-12-26 18:58:33 00:00
+permalink: /videos/2148
+source: "http://www.ted.com/talks/philip_zimbardo_on_the_psychology_of_evil.html"
+thumbnail: "http://images.ted.com/images/ted/120ccfcc17a4370989d4dffdea7c040842854036_389x292.jpg"
+user:
+  username: "miggi"
+  name: "Miguel Angel Cardona Jr."
+tags: ["ted","ted talk"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fembed.ted.com%2Ftalks%2Fphilip_zimbardo_on_the_psychology_of_evil.html&url=http%3A%2F%2Fwww.ted.com%2Ftalks%2Fphilip_zimbardo_on_the_psychology_of_evil.html&image=http%3A%2F%2Fimages.ted.com%2Fimages%2Fted%2F120ccfcc17a4370989d4dffdea7c040842854036_389x292.jpg&key=950020ba825211e1a0764040d3dc5c07&type=text%2Fhtml&schema=ted\" width=\"560\" height=\"315\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

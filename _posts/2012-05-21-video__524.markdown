@@ -1,0 +1,14 @@
+---
+title: "Embracing otherness embracing myself by Thandie Newton"
+date: 2012-05-21 14:03:58 00:00
+permalink: /videos/524
+source: "http://www.ted.com/talks/lang/en/thandie_newton_embracing_otherness_embracing_myself.html"
+thumbnail: "http://images.ted.com/images/ted/bb3a13dd41e04c40bd1f27fda135fbce6a4be7e7_389x292.jpg"
+user:
+  username: "telmabaptista"
+  name: "Telma Patrícia Ruivo Baptista"
+tags: ["talk","self","thandie newton"]
+html: "<object width=\"526\" height=\"374\"><param name=\"wmode\" value=\"transparent\"><param name=\"movie\" value=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowScriptAccess\" value=\"always\"><param name=\"wmode\" value=\"transparent\"><param name=\"bgColor\" value=\"#ffffff\"><param name=\"flashvars\" value=\"vh=288&amp;ap=0&amp;vu=http://download.ted.com/talks/ThandieNewton_2011G-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/ThandieNewton-2011.embed_thumbnail.jpg&amp;vw=512\"><embed src=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" pluginspace=\"http://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" bgcolor=\"#ffffff\" width=\"526\" height=\"374\" allowfullscreen=\"true\" allowscriptaccess=\"always\" flashvars=\"vh=288&amp;ap=0&amp;vu=http://download.ted.com/talks/ThandieNewton_2011G-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/ThandieNewton-2011.embed_thumbnail.jpg&amp;vw=512\"></embed></object>"
+---
+
+"You know how newborn babies believe their part of everything, they're not separate. Well that fundamental sense of oneness is lost on us very quickly. It's like that initial stage is over: oneness infancy, unformed, primitive is no longer valid or real. What is real is separateness. And at some point in the early babyhood, the idea of self starts to form, our little portion of oneness it's given a name, it's told all kind of things about itself, and all this details, opinions and ideas, became facts which go towards ourselves, our identity. And that self becomes the vehicle to navigating our social work. But the self is a projection based on other people's projections. is it really who we really are or who we really want to be? Or should be?"

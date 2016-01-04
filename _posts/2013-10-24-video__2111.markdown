@@ -1,0 +1,14 @@
+---
+title: "The Grand"
+date: 2013-10-24 20:49:49 00:00
+permalink: /videos/2111
+source: "https://vimeo.com/75527182"
+thumbnail: "http://b.vimeocdn.com/ts/450/456/450456608_1280.jpg"
+user:
+  username: "walkinbyfaith10"
+  name: "Jessica Sun"
+tags: ["short documentary"]
+html: "<iframe src=\"http://player.vimeo.com/video/75527182\" width=\"1920\" height=\"800\" frameborder=\"0\" title=\"The Grand\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+A short film revealing the artistry and craft that goes into building one of the most iconic instruments of all - The Grand Piano.

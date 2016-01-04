@@ -1,0 +1,13 @@
+---
+title: "Creative Morning Berlin #13: Erik Spiekermann"
+date: 2013-05-15 14:43:55 00:00
+permalink: /videos/1893
+source: "https://vimeo.com/49744848"
+thumbnail: "http://b.vimeocdn.com/ts/343/091/343091601_1280.jpg"
+user:
+  username: "kingsley"
+  name: "Kingsley Harris"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/49744848\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

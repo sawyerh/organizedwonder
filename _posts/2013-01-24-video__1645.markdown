@@ -1,0 +1,14 @@
+---
+title: "le danseur"
+date: 2013-01-24 10:55:26 00:00
+permalink: /videos/1645
+source: "http://vimeo.com/57670626"
+thumbnail: "http://b.vimeocdn.com/ts/399/864/399864422_640.jpg"
+user:
+  username: "arstewart"
+  name: "Aaron R. Stewart"
+tags: ["short film","paris","dancer","ballet"]
+html: "<iframe src=\"http://player.vimeo.com/video/57670626\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+A dancer decides to dance in the Paris metro.

@@ -1,0 +1,13 @@
+---
+title: "Day 40: Disney World (40 Days of Dating)"
+date: 2013-10-14 17:53:23 00:00
+permalink: /videos/2103
+source: "https://vimeo.com/73917402"
+thumbnail: "http://b.vimeocdn.com/ts/448/171/448171411_1280.jpg"
+user:
+  username: "jl"
+  name: "John Gregory Liwag"
+tags: ["jessica walsh","40 days of dating","sagmeister & walsh","timothy goodman"]
+html: "<iframe src=\"http://player.vimeo.com/video/73917402\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

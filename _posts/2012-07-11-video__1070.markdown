@@ -1,0 +1,14 @@
+---
+title: "Does the Kinect Make Microsoft an Arts Benefactor? | Idea Channel | PBS"
+date: 2012-07-11 17:30:08 00:00
+permalink: /videos/1070
+source: "http://www.youtube.com/watch?v=h4VMbeB5Hlk&feature=player_embedded"
+thumbnail: "http://i1.ytimg.com/vi/h4VMbeB5Hlk/hqdefault.jpg"
+user:
+  username: "trinadafilipina"
+  name: "Trina Dikitanan"
+tags: ["kinect","arts"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/h4VMbeB5Hlk?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+If you haven't had a chance to play with Microsoft's Kinect, you're missing out on some great video games and some amazing art! The Kinect is a crazy awesome piece of XBox 360 hardware that maps your physical movements onto any screen. Artists of all stripes have embraced the Kinect - using the gesture recognition technology to create some pretty amazing interactive artworks and insanely impressive visuals. These works wouldn't have existed without this amazing piece of technology, making the corporate giant Microsoft the 21st century's incarnation of Lorzeno de Medici.

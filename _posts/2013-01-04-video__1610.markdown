@@ -1,0 +1,13 @@
+---
+title: "Vision 2012 highlights"
+date: 2013-01-04 16:52:51 00:00
+permalink: /videos/1610
+source: "https://vimeo.com/53848247"
+thumbnail: "http://b.vimeocdn.com/ts/372/095/372095093_640.jpg"
+user:
+  username: "indicia"
+  name: "Nick Barthram"
+tags: ["qibristol#1"]
+html: "<iframe src=\"http://player.vimeo.com/video/53848247\" width=\"654\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

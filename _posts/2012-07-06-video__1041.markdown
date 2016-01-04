@@ -1,0 +1,13 @@
+---
+title: "Western Spaghetti by PES"
+date: 2012-07-06 18:17:40 00:00
+permalink: /videos/1041
+source: "https://www.youtube.com/watch?v=qBjLW5_dGAM&feature=player_embedded"
+thumbnail: "http://i2.ytimg.com/vi/qBjLW5_dGAM/hqdefault.jpg"
+user:
+  username: "rethinkedteam"
+  name: "rethinkED"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/qBjLW5_dGAM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

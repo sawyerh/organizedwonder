@@ -1,0 +1,14 @@
+---
+title: "Ken Burns: On Story"
+date: 2013-03-29 14:28:34 00:00
+permalink: /videos/1754
+source: "https://vimeo.com/40972394"
+thumbnail: "http://b.vimeocdn.com/ts/283/992/283992691_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["interview","storytelling","ken burns"]
+html: "<iframe src=\"http://player.vimeo.com/video/40972394\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+What makes a great story? For legendary filmmaker Ken Burns, the answer is both complicated and personal. In this short documentary about the craft of storytelling, he explains his lifelong mission to wake the dead. Recently featured on The Atlantic. (theatlantic.com/video/archive/2012/05/ken-burns-on-story/257165/)

@@ -1,0 +1,13 @@
+---
+title: "BIF-7: Mallika Chopra"
+date: 2013-07-16 06:44:36 00:00
+permalink: /videos/2007
+source: "http://blip.tv/thebif/bif-7-mallika-chopra-5657325"
+thumbnail: "http://a.images.blip.tv/BIF-BIF7MalikaChopra540.jpg"
+user:
+  username: "hawkinsjustin"
+  name: "Justin Hawkins"
+tags: []
+html: "<iframe src=\"http://blip.tv/play/gYArgtmmUQI.x?p=1\" width=\"590\" height=\"332\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

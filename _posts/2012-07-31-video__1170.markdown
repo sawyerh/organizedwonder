@@ -1,0 +1,14 @@
+---
+title: "Tad Carpenter at WMC Fest 2012"
+date: 2012-07-31 15:37:16 00:00
+permalink: /videos/1170
+source: "http://www.youtube.com/watch?v=FShtB5IQXRs&feature=g-upl"
+thumbnail: "http://i3.ytimg.com/vi/FShtB5IQXRs/hqdefault.jpg"
+user:
+  username: "jfinley"
+  name: "Jeff Finley"
+tags: ["lecture","entrepreneur","festival","graphic design","inspirational","design conference","wmc fest","cleveland","speaker","diy","ohio","midwest"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/FShtB5IQXRs?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Designer and illustrator Tad Carpenter gives a presentation at Weapons of Mass Creation Fest 2012 in Cleveland, OH - http://wmcfest.com

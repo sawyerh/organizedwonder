@@ -1,0 +1,14 @@
+---
+title: "Declarations of Independence"
+date: 2012-07-08 04:41:21 00:00
+permalink: /videos/1050
+source: "http://vimeo.com/45077507"
+thumbnail: "http://b.vimeocdn.com/ts/313/359/313359732_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["craft","lettering"]
+html: "<iframe src=\"http://player.vimeo.com/video/45077507\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+A short documentary of the hand-printed and hand-drawn poster designed for the Jack Daniels "Declarations of Independence" campaign celebrating the continuing history of American craftsmanship.

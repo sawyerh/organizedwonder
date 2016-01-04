@@ -1,0 +1,14 @@
+---
+title: "THAT WILL BE THE DAY // Aldo Aréchar"
+date: 2012-11-13 22:04:33 00:00
+permalink: /videos/1485
+source: "http://vimeo.com/53444911"
+thumbnail: "http://b.vimeocdn.com/ts/369/154/369154406_1280.jpg"
+user:
+  username: "og"
+  name: "Olivier Grandguillot"
+tags: ["music","animation","creative","short"]
+html: "<iframe src=\"http://player.vimeo.com/video/53444911\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+'THAT WILL BE THE DAY' is an audio/visual collaboration between composer Aldo Aréchar and motion graphics artist Matthew DiVito AKA Mr. Div

@@ -1,0 +1,19 @@
+---
+title: "To Do List"
+date: 2012-08-31 10:31:08 00:00
+permalink: /videos/1334
+source: "http://vimeo.com/42230413"
+thumbnail: "http://b.vimeocdn.com/ts/292/905/292905970_960.jpg"
+user:
+  username: "zit_dantes"
+  name: "Zit Dantes"
+tags: ["animation","design","motion design","time"]
+html: "<iframe src=\"http://player.vimeo.com/video/42230413\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+o Do List is a personal project about the things Tendril director Daniel Luna and longtime collaborator/friend Yaniv Fridman cherish and aspire to do in their every day lives. We hope it inspires you!
+
+CREDITS
+Production Company: Tendril Design+Animation Inc.
+Created by: Yaniv Fridman, Daniel Luna
+Music & Sound Design: Roger Lima of WhiteNoise Lab

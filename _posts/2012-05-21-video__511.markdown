@@ -1,0 +1,14 @@
+---
+title: "Alain de Botton - The Pleasures and Sorrows of Work"
+date: 2012-05-21 13:28:16 00:00
+permalink: /videos/511
+source: "http://www.youtube.com/watch?v=yNKOpjgS5ao&feature=related"
+thumbnail: "http://i2.ytimg.com/vi/yNKOpjgS5ao/hqdefault.jpg"
+user:
+  username: "yewfai"
+  name: "yewfai"
+tags: ["talk"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/yNKOpjgS5ao?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Alain de Botton; renowned essayist, philosopher and founder of 'The School of Life' examined the nature and function of work in this thought-provoking lecture. Most of our waking hours are spent at work, and yet we rarely challenge the basic assumptions that lie behind this time-consuming, life-altering activity.

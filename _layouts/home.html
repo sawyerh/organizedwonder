@@ -8,8 +8,26 @@ layout: default
 
 <div class="page">
   <section class="videos">
-    {% for video in site.videos %}
+    {% for video in paginator.posts %}
       {% include video_thumbnail.html video=video %}
     {% endfor %}
   </section>
+
+  <nav class="pagination">
+    {% if paginator.previous_page %}
+      <span class="prev">
+        <a href="{{ paginator.previous_page_path }}" rel="prev">&larr;</a>
+      </span>
+    {% endif %}
+
+    <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+    {% if paginator.next_page %}
+      <span class="next">
+        <a href="{{ paginator.next_page_path }}" rel="next">&rarr;</a>
+      </span>
+    {% endif %}
+  </nav>
+
+  {% include footer.html %}
 </div>

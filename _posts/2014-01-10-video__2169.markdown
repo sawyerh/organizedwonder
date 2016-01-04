@@ -1,0 +1,14 @@
+---
+title: "UX Week 2013 | Dan Klyn | Make Things Be Good: Five Essential Lessons from the Life and Work of Richard Saul Wurman"
+date: 2014-01-10 17:50:36 00:00
+permalink: /videos/2169
+source: "http://vimeo.com/74401319"
+thumbnail: "http://b.vimeocdn.com/ts/451/554/451554371_1280.jpg"
+user:
+  username: "loremipsam"
+  name: "Lauren Woodrick"
+tags: ["design","ux","information architecture"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F74401319&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F74401319&image=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F451%2F554%2F451554371_1280.jpg&key=950020ba825211e1a0764040d3dc5c07&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+"Dan Klyn has spent the past five years researching RSW’s life’s work in search of information architecture practices, and what he’s come back with is far more important. In 20 minutes and exclusively for UX Week, Klyn spills the beans. He’ll present five key teachings derived from a study and interpretation of the life and work of Richard Saul Wurman. Five of the most powerful patterns by the master patternmaker. Five essential teachings for anybody who makes things. Five principles for making things be good."

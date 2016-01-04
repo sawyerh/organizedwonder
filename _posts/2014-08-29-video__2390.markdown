@@ -1,0 +1,13 @@
+---
+title: "Chris Bosh Safari in South Africa"
+date: 2014-08-29 17:04:12 00:00
+permalink: /videos/2390
+source: "https://vimeo.com/102881067"
+thumbnail: "http://i.vimeocdn.com/video/484980895_960.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["travel","south africa"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F102881067&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F102881067&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F484980895_960.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1248\" height=\"702\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

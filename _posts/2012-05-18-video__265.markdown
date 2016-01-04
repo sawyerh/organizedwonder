@@ -1,0 +1,14 @@
+---
+title: "Jay O'Callahan: The Power of Storytelling"
+date: 2012-05-18 15:43:37 00:00
+permalink: /videos/265
+source: "http://vimeo.com/14806071"
+thumbnail: "http://b.vimeocdn.com/ts/881/039/88103947_640.jpg"
+user:
+  username: "baddyglass"
+  name: "Kirill Egorov"
+tags: ["99% conference"]
+html: "<iframe src=\"http://player.vimeo.com/video/14806071\" width=\"640\" height=\"480\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+At the 99% Conference, veteran storyteller Jay O'Callahan illustrates how stories tap into our imagination, engage those around us, and inspire amazing achievements. Stories, he argues, are what make us alive.

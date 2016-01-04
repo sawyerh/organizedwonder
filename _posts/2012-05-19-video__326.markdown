@@ -1,0 +1,14 @@
+---
+title: "Walker Art Center: Khoi Vinh, New York"
+date: 2012-05-19 00:11:14 00:00
+permalink: /videos/326
+source: "http://www.youtube.com/watch?feature=player_embedded&v=kK0MBA3ps64#!"
+thumbnail: "http://i4.ytimg.com/vi/kK0MBA3ps64/hqdefault.jpg"
+user:
+  username: "marshmallowfeev"
+  name: "bekah nutt"
+tags: ["design","talk","web design","walker art center"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/kK0MBA3ps64?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+As a child, Khoi Vinh emigrated to the United States from Vietnam. He studied illustration and practiced graphic design for print before moving to New York City in 1998, where he began his career in web and interactive design. From 2006 to 2010, he gained acclaim as design director of nytimes.com, working with colleagues to transform the early web version of the newspaper into the robust, multifaceted digital platform that we know and use today. Named one of the 50 most influential designers by Fast Company, Vinh shares his thoughts about media, technology, and design on his blog at subtraction.com and at conferences worldwide. Since leaving the New York Times Company in 2010, Vinh cofounded Lascaux Co., which recently launched Mixel for iPad, the world's first social collage app that allows users to make, share, and remix their creations.

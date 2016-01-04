@@ -1,0 +1,13 @@
+---
+title: "RUDY'S BARBERSHOP: RUDY'S SAVES"
+date: 2012-08-26 17:00:32 00:00
+permalink: /videos/1313
+source: "https://vimeo.com/24180366#"
+thumbnail: "http://b.vimeocdn.com/ts/158/162/158162334_640.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["barbershop"]
+html: "<iframe src=\"http://player.vimeo.com/video/24180366\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

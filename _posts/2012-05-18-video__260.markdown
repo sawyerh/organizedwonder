@@ -1,0 +1,14 @@
+---
+title: "Paul Rand"
+date: 2012-05-18 15:00:50 00:00
+permalink: /videos/260
+source: "http://www.youtube.com/watch?feature=player_embedded&v=hH446lgDrW8"
+thumbnail: "http://i1.ytimg.com/vi/hH446lgDrW8/hqdefault.jpg"
+user:
+  username: "calescence"
+  name: "Shannon McWeeney"
+tags: ["graphic design","paul rand"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/hH446lgDrW8?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Open your eyes and listen closely.

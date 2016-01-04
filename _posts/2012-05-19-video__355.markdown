@@ -1,0 +1,15 @@
+---
+title: "Painter Kureshi"
+date: 2012-05-19 03:55:16 00:00
+permalink: /videos/355
+source: "http://vimeo.com/22240175"
+thumbnail: "http://b.vimeocdn.com/ts/143/936/143936477_295.jpg"
+user:
+  username: "aaronmoodie"
+  name: "Aaron Moodie"
+tags: ["typography","type","sign painting"]
+html: "<iframe src=\"http://player.vimeo.com/video/22240175\" width=\"480\" height=\"272\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Handpainted Type is a project that is dedicated to preserving the typographic practice
+of street painters around India. These painters, with the advent of local DTP (Desktop Publishers) shops, are rapidly going out of business with many businesses and shops switching to the quicker, cheaper but uglier vinyls. Many painters have given up their practice altogether.

@@ -1,0 +1,14 @@
+---
+title: "STORYBOARD: Things I See From My Cab"
+date: 2012-05-23 19:01:22 00:00
+permalink: /videos/589
+source: "https://vimeo.com/41706879"
+thumbnail: "http://b.vimeocdn.com/ts/295/431/295431534_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["nyc","tumblr","storyboard"]
+html: "<iframe src=\"http://player.vimeo.com/video/41706879\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Tumblr's Jessica Bennett goes on a ride-along with New York City taxi driver Max Cohen, the creator of the photo blog, Things I See From My Cab. (Producers: Jessica Bennett and Jon Groat)

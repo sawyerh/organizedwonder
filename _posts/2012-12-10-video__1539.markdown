@@ -1,0 +1,14 @@
+---
+title: "Understand Music"
+date: 2012-12-10 15:46:12 00:00
+permalink: /videos/1539
+source: "http://vimeo.com/54763818#"
+thumbnail: "http://b.vimeocdn.com/ts/380/549/380549046_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["music","animation","typography"]
+html: "<iframe src=\"http://player.vimeo.com/video/54763818\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Music is a good thing. But what we did not know until we started with the research for this piece: Music is also a pretty damn complex thing. This experimental animation is about the attempt to understand all the parts and bits of it. Have a look. You might agree with our conclusion!

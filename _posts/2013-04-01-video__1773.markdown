@@ -1,0 +1,13 @@
+---
+title: "Alexis Madrigal: Why Startups Need To Solve Real Problems Again"
+date: 2013-04-01 16:47:53 00:00
+permalink: /videos/1773
+source: "https://vimeo.com/52256863"
+thumbnail: "http://b.vimeocdn.com/ts/360/503/360503343_295.jpg"
+user:
+  username: "mackenziechild"
+  name: "Mackenzie Child"
+tags: ["startup","business","talk","entrepreneur"]
+html: "<iframe src=\"http://player.vimeo.com/video/52256863\" width=\"480\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

@@ -1,0 +1,13 @@
+---
+title: "Arthur C. Clarke Predicts the Internet & PC"
+date: 2012-05-18 02:10:01 00:00
+permalink: /videos/131
+source: "http://www.youtube.com/watch?v=OIRZebE8O84&feature=player_embedded"
+thumbnail: "http://i4.ytimg.com/vi/OIRZebE8O84/hqdefault.jpg"
+user:
+  username: "swissmiss"
+  name: "swissmiss"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/OIRZebE8O84?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

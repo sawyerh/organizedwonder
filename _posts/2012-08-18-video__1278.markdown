@@ -1,0 +1,13 @@
+---
+title: "Timothy Prestero: Design for people, not awards"
+date: 2012-08-18 06:40:48 00:00
+permalink: /videos/1278
+source: "http://on.ted.com/Prestero"
+thumbnail: "http://images.ted.com/images/ted/d91a1f2a256a77fcc435b9c488211555e67a5687_389x292.jpg"
+user:
+  username: "a0315819a"
+  name: "Eric Wu"
+tags: []
+html: "<object width=\"526\" height=\"374\">\n<param name=\"wmode\" value=\"transparent\"><param name=\"movie\" value=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowScriptAccess\" value=\"always\"><param name=\"wmode\" value=\"transparent\"><param name=\"bgColor\" value=\"#ffffff\"><param name=\"flashvars\" value=\"vu=http://video.ted.com/talk/stream/2012X/Blank/TimothyPrestero_2012X-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/TimothyPrestero_2012X-embed.jpg&amp;vw=512&amp;vh=288&amp;ap=0&amp;ti=1549&amp;lang=en&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=timothy_prestero_design_for_people_not_awards;year=2012;theme=design_like_you_give_a_damn;theme=tales_of_invention;theme=medicine_without_borders;event=TEDxBoston+2012;tag=design;tag=health+care;tag=product+design;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;\"><embed src=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" pluginspace=\"http://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" bgcolor=\"#ffffff\" width=\"526\" height=\"374\" allowfullscreen=\"true\" allowscriptaccess=\"always\" flashvars=\"vu=http://video.ted.com/talk/stream/2012X/Blank/TimothyPrestero_2012X-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/TimothyPrestero_2012X-embed.jpg&amp;vw=512&amp;vh=288&amp;ap=0&amp;ti=1549&amp;lang=en&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=timothy_prestero_design_for_people_not_awards;year=2012;theme=design_like_you_give_a_damn;theme=tales_of_invention;theme=medicine_without_borders;event=TEDxBoston+2012;tag=design;tag=health+care;tag=product+design;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;\"></embed></object>"
+---
+

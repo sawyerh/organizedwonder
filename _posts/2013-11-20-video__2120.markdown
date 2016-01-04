@@ -1,0 +1,14 @@
+---
+title: "Elle Luna on Finding Your Must"
+date: 2013-11-20 03:58:17 00:00
+permalink: /videos/2120
+source: "http://vimeo.com/77436516"
+thumbnail: "http://b.vimeocdn.com/ts/452/609/452609427_640.jpg"
+user:
+  username: "kuan"
+  name: "Kuan Luo"
+tags: ["art","design","creativity"]
+html: "<iframe src=\"http://player.vimeo.com/video/77436516\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"Designers + Geeks: Find Your Must\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+This talk isn't about jobs or careers; it's about callings, and how scary and vulnerable and totally worth it finding that which you must do can be. - SF Designers & Geeks talk

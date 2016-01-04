@@ -1,0 +1,20 @@
+---
+title: "Helena Price"
+date: 2014-04-24 14:26:54 00:00
+permalink: /videos/2278
+source: "http://vimeo.com/92670774"
+thumbnail: "http://i.vimeocdn.com/video/472459090_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["photography","like knows like"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F92670774&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F92670774&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F472459090_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+From: http://likeknowslike.com/portfolio/helena-price/
+
+Helena worked at startups in the Silicon Valley, but she recently decided to pursue her dream of being a full-time photographer. She’s done work for Google, Dropbox, Rdio, Samsung, Square, Uber, and more.
+
+Check out her amazing work here:
+blog.helenaprice.com
+helenaprice.com

@@ -1,0 +1,13 @@
+---
+title: "Oh, The Temptation"
+date: 2012-05-19 19:21:46 00:00
+permalink: /videos/437
+source: "https://vimeo.com/5239013"
+thumbnail: "http://b.vimeocdn.com/ts/163/135/16313544_940.jpg"
+user:
+  username: "ram"
+  name: "Rusty Meadows"
+tags: ["kids","temptation","research","behavior"]
+html: "<iframe src=\"http://player.vimeo.com/video/5239013\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

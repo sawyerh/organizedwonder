@@ -1,0 +1,14 @@
+---
+title: "BAS JAN ADER - In Search of The Miraculous"
+date: 2012-07-18 12:06:39 00:00
+permalink: /videos/1098
+source: "https://vimeo.com/11764389#"
+thumbnail: "http://b.vimeocdn.com/ts/652/688/65268840_1280.jpg"
+user:
+  username: "yridomot"
+  name: "Spyros Simotas"
+tags: ["art","documentary","bas jan ader","widow"]
+html: "<iframe src=\"http://player.vimeo.com/video/11764389\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+A heart breaking documentary of Bas Jan Ader's widow explaining the last piece of Bas Jan Ader's work "In Search of the Miraculous"

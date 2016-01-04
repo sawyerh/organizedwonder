@@ -1,0 +1,13 @@
+---
+title: "Adrift"
+date: 2013-09-26 23:19:00 00:00
+permalink: /videos/2087
+source: "http://vimeo.com/69445362"
+thumbnail: "http://b.vimeocdn.com/ts/442/291/442291353_1280.jpg"
+user:
+  username: "leonkotlyar"
+  name: "Leon Kotlyar"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/69445362\" width=\"1280\" height=\"692\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

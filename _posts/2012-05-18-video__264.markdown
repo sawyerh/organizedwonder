@@ -1,0 +1,13 @@
+---
+title: "Tim Barber"
+date: 2012-05-18 15:09:13 00:00
+permalink: /videos/264
+source: "http://vimeo.com/21957459"
+thumbnail: "http://b.vimeocdn.com/ts/141/571/141571751_640.jpg"
+user:
+  username: "gabekelley"
+  name: "Gabe Kelley"
+tags: ["documentary","photography","tim barber"]
+html: "<iframe src=\"http://player.vimeo.com/video/21957459\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

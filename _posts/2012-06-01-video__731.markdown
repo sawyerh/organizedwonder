@@ -1,0 +1,19 @@
+---
+title: "\"Golden Tree\" by Martin Brooks"
+date: 2012-06-01 06:20:18 00:00
+permalink: /videos/731
+source: "https://vimeo.com/29106106"
+thumbnail: "http://b.vimeocdn.com/ts/194/689/194689207_640.jpg"
+user:
+  username: "anom"
+  name: "Anom Birowo"
+tags: ["funny","bike"]
+html: "<iframe src=\"http://player.vimeo.com/video/29106106\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+A professional display of 50 No Handed Bike Moves* performed to "Golden Tree" by Martin Brooks.
+More from Martin Brooks here: myspace.com/martinbrooks
+vimeo.com/user4541890
+Made by niniandoff.com
+twitter.com/NinianDoff
+*approved by the Official Federation of No Handed Bikes Skills (tm)

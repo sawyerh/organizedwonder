@@ -1,0 +1,13 @@
+---
+title: "William H. Whyte: The Social Life of Small Urban Spaces - The Street Corner"
+date: 2012-05-18 02:10:29 00:00
+permalink: /videos/133
+source: "http://vimeo.com/6821934"
+thumbnail: "http://b.vimeocdn.com/ts/231/229/231229467_640.jpg"
+user:
+  username: "swissmiss"
+  name: "swissmiss"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/6821934\" width=\"640\" height=\"480\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

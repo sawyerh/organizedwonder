@@ -1,0 +1,14 @@
+---
+title: "Droplet Collisions at 5000fps - The Slow Mo Guys"
+date: 2012-06-28 23:45:51 00:00
+permalink: /videos/1001
+source: "http://www.youtube.com/watch?v=cNI-LIVs-to&feature=player_embedded"
+thumbnail: "http://i4.ytimg.com/vi/cNI-LIVs-to/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["slow motion","water"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/cNI-LIVs-to?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+In the slowest slow mo video yet, Gav shows us the classic colliding droplets shot in liquid. Using a mixture of coloured water and milk shot at 5000 frames per second (200 times slower than real-time.)

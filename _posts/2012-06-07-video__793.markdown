@@ -1,0 +1,14 @@
+---
+title: "Tracking the trackers"
+date: 2012-06-07 15:09:13 00:00
+permalink: /videos/793
+source: "https://www.youtube.com/watch?v=f_f5wNw-2c0"
+thumbnail: "http://i3.ytimg.com/vi/f_f5wNw-2c0/hqdefault.jpg"
+user:
+  username: "zalew"
+  name: "Jakub Zalewski"
+tags: ["internet","privacy"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/f_f5wNw-2c0?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+As you surf the Web, information is being collected about you. Web tracking is not 100% evil -- personal data can make your browsing more efficient; cookies can help your favorite websites stay in business. But, says Gary Kovacs, it's your right to know what data is being collected about you and how it affects your online life. He unveils a Firefox add-on to do just that.

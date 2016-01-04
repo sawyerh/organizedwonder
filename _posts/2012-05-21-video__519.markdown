@@ -1,0 +1,14 @@
+---
+title: "J.K. Rowling Speaks at Harvard Commencement"
+date: 2012-05-21 13:40:58 00:00
+permalink: /videos/519
+source: "http://www.youtube.com/watch?v=wHGqp8lz36c&feature=related"
+thumbnail: "http://i4.ytimg.com/vi/wHGqp8lz36c/hqdefault.jpg"
+user:
+  username: "yewfai"
+  name: "yewfai"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/wHGqp8lz36c?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+J.K.Rowling at Harvard Commencement in 2008.

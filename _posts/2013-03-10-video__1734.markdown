@@ -1,0 +1,14 @@
+---
+title: "Social jetlag and its consequences"
+date: 2013-03-10 14:18:26 00:00
+permalink: /videos/1734
+source: "http://www.youtube.com/watch?feature=player_embedded&v=t5ylqK-aPX8"
+thumbnail: "http://i1.ytimg.com/vi/t5ylqK-aPX8/hqdefault.jpg"
+user:
+  username: "jazzish"
+  name: "Ana"
+tags: ["science","time","time perception","social jetlag"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/t5ylqK-aPX8?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Why are most people in industrialized societies so tired? The reason lies in an increasing discrepancy between our body clocks' internal time and the social demands on work/school days (social jetlag). Because we predominately work inside, our body clocks have become later over the years while work times have stayed approximately the same.

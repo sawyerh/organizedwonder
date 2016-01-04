@@ -1,0 +1,13 @@
+---
+title: "No Mas Presents: Dock Ellis & The LSD No-No by James Blagden"
+date: 2012-05-19 15:01:31 00:00
+permalink: /videos/415
+source: "http://www.youtube.com/watch?v=_vUhSYLRw14"
+thumbnail: "http://i4.ytimg.com/vi/_vUhSYLRw14/hqdefault.jpg"
+user:
+  username: "kris"
+  name: "Kris LoCascio"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/_vUhSYLRw14?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

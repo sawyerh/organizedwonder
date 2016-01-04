@@ -1,0 +1,14 @@
+---
+title: "Helen Fisher: The brain in love (TED)"
+date: 2013-04-26 23:31:21 00:00
+permalink: /videos/1852
+source: "http://www.youtube.com/watch?feature=player_embedded&v=OYfoGTIG7pY"
+thumbnail: "http://i4.ytimg.com/vi/OYfoGTIG7pY/hqdefault.jpg"
+user:
+  username: "smah"
+  name: "Sharon Mah"
+tags: ["science","ted","love","brain","helen fisher"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/OYfoGTIG7pY?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+"Why do we crave love so much, even to the point that we would die for it? To learn more about our very real, very physical need for romantic love, Helen Fisher and her research team took MRIs of people in love -- and people who had just been dumped." (via http://www.ted.com )

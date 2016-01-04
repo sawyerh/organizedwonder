@@ -1,0 +1,13 @@
+---
+title: "SARABANDE II"
+date: 2012-05-22 17:02:43 00:00
+permalink: /videos/557
+source: "http://vimeo.com/42469949"
+thumbnail: "http://b.vimeocdn.com/ts/294/661/294661505_960.jpg"
+user:
+  username: "devittcm"
+  name: "Christine Devitt"
+tags: ["fashion","visual"]
+html: "<iframe src=\"http://player.vimeo.com/video/42469949\" width=\"1280\" height=\"544\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

@@ -1,0 +1,14 @@
+---
+title: "stoop sitting"
+date: 2012-05-23 00:16:12 00:00
+permalink: /videos/571
+source: "http://vimeo.com/5526305"
+thumbnail: "http://b.vimeocdn.com/ts/184/160/18416020_940.jpg"
+user:
+  username: "leonkotlyar"
+  name: "Leon Kotlyar"
+tags: ["short documentary"]
+html: "<iframe src=\"http://player.vimeo.com/video/5526305\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Continuous Video Series from www.everyoneforevernow.com

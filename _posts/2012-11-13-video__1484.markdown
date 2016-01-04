@@ -1,0 +1,13 @@
+---
+title: "Maira Kalman, the illustrated woman | Video on TED.com"
+date: 2012-11-13 17:17:55 00:00
+permalink: /videos/1484
+source: "http://www.ted.com/talks/maira_kalman_the_illustrated_woman.html"
+thumbnail: "http://images.ted.com/images/ted/18376_389x292.jpg"
+user:
+  username: "jackbeil"
+  name: "Jack"
+tags: []
+html: "<iframe src=\"http://embed.ted.com/talks/maira_kalman_the_illustrated_woman.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

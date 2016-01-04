@@ -1,0 +1,13 @@
+---
+title: "barcelona go!"
+date: 2014-07-10 00:46:52 00:00
+permalink: /videos/2337
+source: "http://vimeo.com/m/98123388"
+thumbnail: "http://i.vimeocdn.com/video/478770627_1280.jpg"
+user:
+  username: "buffler"
+  name: "jeremy buller"
+tags: []
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F98123388&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F98123388&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F478770627_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"1080\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

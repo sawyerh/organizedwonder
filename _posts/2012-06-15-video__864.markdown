@@ -1,0 +1,20 @@
+---
+title: "Make It Count"
+date: 2012-06-15 06:36:29 00:00
+permalink: /videos/864
+source: "https://vimeo.com/40004005"
+thumbnail: "http://b.vimeocdn.com/ts/276/249/276249600_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["adventure","travel"]
+html: "<iframe src=\"http://player.vimeo.com/video/40004005\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+"Nike asked me to make a movie about what it means to make it count.
+
+Instead of making their movie, I spent the entire budget traveling around the world with my friend Max. 
+
+We'd keep going until the money ran out.
+
+It took 10 days."

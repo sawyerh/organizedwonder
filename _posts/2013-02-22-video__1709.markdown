@@ -1,0 +1,13 @@
+---
+title: "Time Lapse: Philadelphia"
+date: 2013-02-22 01:17:09 00:00
+permalink: /videos/1709
+source: "http://vimeo.com/58032782"
+thumbnail: "http://b.vimeocdn.com/ts/402/595/402595477_1280.jpg"
+user:
+  username: "leonkotlyar"
+  name: "Leon Kotlyar"
+tags: ["philadelphia"]
+html: "<iframe src=\"http://player.vimeo.com/video/58032782\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

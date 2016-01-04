@@ -1,0 +1,14 @@
+---
+title: "Screen Wars: How connected screens are changing the way we move, meet and buy"
+date: 2013-05-23 19:27:03 00:00
+permalink: /videos/1909
+source: "http://vimeo.com/66253810"
+thumbnail: "http://b.vimeocdn.com/ts/437/588/437588682_640.jpg"
+user:
+  username: "lhid"
+  name: "Leban Hyde"
+tags: ["mobile","marketing","strategy","webinar"]
+html: "<iframe src=\"http://player.vimeo.com/video/66253810\" width=\"1004\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+All screens are now connected. They not only define our content but more importantly the way the we consume and use this content. The 2010s will not only be defined by screens but by the spaces between them and the greatest challenge facing our digital economy will be how to connect the content, commerce and communication seamlessly across these screens.

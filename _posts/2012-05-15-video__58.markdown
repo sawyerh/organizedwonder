@@ -1,0 +1,16 @@
+---
+title: "Frank Chimero - The Shape of Design"
+date: 2012-05-15 12:07:53 00:00
+permalink: /videos/58
+source: "http://vimeo.com/17084347"
+thumbnail: "http://b.vimeocdn.com/ts/105/659/105659173_640.jpg"
+user:
+  username: "kringstad"
+  name: "Kjell-Roger Ringstad"
+tags: ["design","frank chimero","why","ethos","graphic design"]
+html: "<iframe src=\"http://player.vimeo.com/video/17084347\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Frank Chimero's talk from Build that led up to him writing his book also called "The Shape of Design". 
+
+A talk for all people who make stuff.

@@ -1,0 +1,20 @@
+---
+title: "Nicolas Jaar Live DJ Set - Boiler Room NYC"
+date: 2013-05-07 13:35:12 00:00
+permalink: /videos/1871
+source: "https://www.youtube.com/watch?feature=player_embedded&v=IUjWumGIqe8"
+thumbnail: "http://i2.ytimg.com/vi/IUjWumGIqe8/hqdefault.jpg"
+user:
+  username: "alexgweiser"
+  name: "Alex G Weiser"
+tags: ["music","nyc","dj","dance","culture","dj set","techno"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/IUjWumGIqe8?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+45 minute DJ set form Nicolas Jaar.
+
+"Throughout an excellent debut LP and a handful of stellar EPs, Nicolas Jaar has proven himself worthy in a number of roles throughout the past few years: a producer with fine attention to detail, a justifiably patient songwriter, and a seductive singer. His skills extend to a live context as well, revealing him to be a coherent and focused DJ. This particular talent manifests itself in this set Jaar recently performed in NYC for Boiler Room, which marks the first time he has contributed to the established underground music show.
+
+Over the course of the set’s 45 minutes, Jaar pulls together a series of minimal yet hypnotic microhouse grooves which are peppered with interjections from static-infused radio samples. Especially admirable is the way he never loses sight of his aesthetic, maintaining the smooth and seductive vibe which defines his studio material. A subtle approach to the tension-and-release technique also proves rewarding, with Jaar refusing to allow the bass to remain prominent for extended stretches of time, which allows for a stimulating sense of dynamic. The set is consistently understated, but also passionate and vitalizing, hopping from idea to idea with enlivening finesse."
+-- Anthony Fantano of The Needle Drop
+http://theneedledrop.com/2013/04/nicolas-jaar-boiler-room-nyc-dj-set/

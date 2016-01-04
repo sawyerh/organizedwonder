@@ -1,0 +1,13 @@
+---
+title: "Postcard from 1952"
+date: 2012-05-25 01:05:57 00:00
+permalink: /videos/609
+source: "http://vimeo.com/41669642"
+thumbnail: "http://b.vimeocdn.com/ts/288/837/288837367_960.jpg"
+user:
+  username: "bonnieandclide"
+  name: "Bonnie Barrett"
+tags: ["art","music video","explosions in the sky","fim"]
+html: "<iframe src=\"http://player.vimeo.com/video/41669642\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

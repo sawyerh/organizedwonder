@@ -1,0 +1,16 @@
+---
+title: "Why Great Ideas Get Rejected"
+date: 2013-02-27 16:09:58 00:00
+permalink: /videos/1715
+source: "http://youtu.be/pT8dq2D593U"
+thumbnail: "http://i1.ytimg.com/vi/pT8dq2D593U/hqdefault.jpg"
+user:
+  username: "nassoskappa"
+  name: "Nassos K."
+tags: ["science","creativity","ted talk"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/pT8dq2D593U?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Recent psychological evidence reveals a subtle bias against creative ideas.
+
+Have you ever debuted an exciting new idea to the world only to receive a lukewarm or even highly critical response? You are not alone. In this talk from TEDxOU, David Burkus shares the mounting evidence shows that we all possess an inherent bias against creativity and the good news that there actually is something we can do about it.

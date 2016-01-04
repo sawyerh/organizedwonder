@@ -1,0 +1,14 @@
+---
+title: "Legs"
+date: 2012-05-16 15:20:01 00:00
+permalink: /videos/77
+source: "http://vimeo.com/40887261"
+thumbnail: "http://b.vimeocdn.com/ts/282/824/282824879_640.jpg"
+user:
+  username: "miggi"
+  name: "Miguel Angel Cardona Jr."
+tags: ["animation"]
+html: "<iframe src=\"http://player.vimeo.com/video/40887261\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Beautiful 20 seconds of animation.

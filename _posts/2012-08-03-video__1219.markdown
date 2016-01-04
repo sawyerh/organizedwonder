@@ -1,0 +1,14 @@
+---
+title: "Eyeo2012 - Jonathan Harris"
+date: 2012-08-03 20:03:28 00:00
+permalink: /videos/1219
+source: "http://vimeo.com/46239783"
+thumbnail: "http://b.vimeocdn.com/ts/322/000/322000760_960.jpg"
+user:
+  username: "bryanconnor"
+  name: "Bryan Connor"
+tags: ["design","life","creativity","photography","we feel fine"]
+html: "<iframe src=\"http://player.vimeo.com/video/46239783\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Jonathan talks about some major turning points in his life — things he used to believe that he no longer believes, painful moments that ended up being doorways into something else, highs and lows, and other ways in which life’s topography determines one's art. He relates all this against the backdrop of a desire to humanize the Web and evolve the art of storytelling, touching on insights and principles picked up along the way.

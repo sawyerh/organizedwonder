@@ -1,0 +1,14 @@
+---
+title: "Full Circle"
+date: 2012-05-17 17:26:48 00:00
+permalink: /videos/104
+source: "https://vimeo.com/37077712"
+thumbnail: "http://b.vimeocdn.com/ts/280/135/280135649_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["fashion","awesome"]
+html: "<iframe src=\"http://player.vimeo.com/video/37077712\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Full Circle is the first fashion film for new London / Melbourne label Klezinski. This film is a creative collaboration between artist/film-maker Callum Cooper, sound artist John Kassab and Klezinski. Full Circle is a showcase of hand-crafted fashion pieces from its initial range. Klezinski makes apparel, accessories, art and interior products utilising sustainable manufacturing processes and materials.

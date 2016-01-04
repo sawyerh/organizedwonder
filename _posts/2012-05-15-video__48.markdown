@@ -1,0 +1,32 @@
+---
+title: "Made by Hand / No 2 The Knife Maker"
+date: 2012-05-15 05:46:13 00:00
+permalink: /videos/48
+source: "https://vimeo.com/31455885"
+thumbnail: "http://b.vimeocdn.com/ts/212/219/212219981_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["documentary","nyc","craft","brooklyn"]
+html: "<iframe src=\"http://player.vimeo.com/video/31455885\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+"A project from http://bureauofcommongoods.com, Made by Hand is a new short film series celebrating the people who make things by hand—sustainably, locally, and with a love for their craft.
+
+In our second film, we meet writer turned knife maker Joel Bukiewicz of Cut Brooklyn. He talks about the human element of craft, and the potential for a skill to mature into an art. And in sharing his story, he alights on the real meaning of handmade—a movement whose riches are measured in people, not cash.
+
+director-producer KEEF
+director of photography JOSHUA KRASZEWSKI
+editor MATT SHAPIRO
+music MICHAEL TRAINOR & NATHAN ROSENBERG
+music produced at THE DOG HOUSE NYC
+sound recordist ROBERT ALBRECHT
+re-recording mixer NICHOLAS MONTGOMERY
+assistant re-recording mixer JOHN GUMAER
+gaffer ADAM ORELLANA
+title design MANDY BROWN
+special thanks
+JOEL BUKIEWICZ & CUT BROOKLYN
+
+thisismadebyhand.com
+cutbrooklyn.com"

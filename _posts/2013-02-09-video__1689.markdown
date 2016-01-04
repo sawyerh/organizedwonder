@@ -1,0 +1,14 @@
+---
+title: "White Bedroom, CGI artwork"
+date: 2013-02-09 22:31:36 00:00
+permalink: /videos/1689
+source: "https://vimeo.com/58894324"
+thumbnail: "http://b.vimeocdn.com/ts/409/019/409019419_1280.jpg"
+user:
+  username: "taita"
+  name: "Iván Castrillón"
+tags: ["morar","blanco","diseño","amoblamiento"]
+html: "<iframe src=\"http://player.vimeo.com/video/58894324\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Simplemente blanco

@@ -1,0 +1,14 @@
+---
+title: "Feynman on Scientific Method."
+date: 2012-05-21 13:03:47 00:00
+permalink: /videos/501
+source: "http://www.youtube.com/watch?feature=player_embedded&v=EYPapE-3FRw"
+thumbnail: "http://i2.ytimg.com/vi/EYPapE-3FRw/hqdefault.jpg"
+user:
+  username: "yewfai"
+  name: "yewfai"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/EYPapE-3FRw?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Physicist Richard Feynman explains the scientific and unscientific methods of understanding nature.

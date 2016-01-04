@@ -1,0 +1,13 @@
+---
+title: "Mis ahorros, su botín"
+date: 2012-09-06 07:39:17 00:00
+permalink: /videos/1357
+source: "http://www.youtube.com/watch?v=W0VLki0OfFo"
+thumbnail: "http://i4.ytimg.com/vi/W0VLki0OfFo/hqdefault.jpg"
+user:
+  username: "nunile"
+  name: "Maria"
+tags: ["politics"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/W0VLki0OfFo?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

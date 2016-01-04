@@ -1,0 +1,14 @@
+---
+title: "Don't Cry - Short Film"
+date: 2014-03-17 17:51:11 00:00
+permalink: /videos/2249
+source: "http://www.youtube.com/watch?v=1VmmNLdAc8U"
+thumbnail: "http://i.ytimg.com/vi/1VmmNLdAc8U/hqdefault.jpg"
+user:
+  username: "facelessfilmsuk"
+  name: "Faceless Films"
+tags: ["art","short film","creativity","inspiration","cinema","dark","beauty","video","short","british","drama","indie film","student film","indie","new","uk"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2F1VmmNLdAc8U%3Fwmode%3Dtransparent&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1VmmNLdAc8U&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2F1VmmNLdAc8U%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+The Welcoming of Death...

@@ -1,0 +1,39 @@
+---
+title: "SmartCard Solutions for Schools"
+date: 2015-09-29 10:08:02 00:00
+permalink: /videos/2567
+source: "https://www.youtube.com/watch?v=KM-9E5rnioc"
+thumbnail: "https://i.ytimg.com/vi/KM-9E5rnioc/hqdefault.jpg"
+user:
+  username: "sysaedwin"
+  name: "Sysa Edwin"
+tags: ["smart cards for schools","rfid student tracking system"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FKM-9E5rnioc%3Fwmode%3Dtransparent%26feature%3Doembed&wmode=transparent&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKM-9E5rnioc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKM-9E5rnioc%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Edsys provides smart card solutions which helps in fee collection, student tracking, library and book store management for schools.
+
+Know more details here http://www.edsys.in/smart-card-soluti...
+Student Tracking
+
+Real time information about Student & Vehicles
+Providing GPS safety and security to vehicles & students
+Automated SMS alerts to Parents
+Generate various MIS Reports
+Student,Parents,Vehicle and Drivers data can be stored
+
+Canteen/Cafeteria
+
+With the help of RFID School Management System Students can use their Edsys Smart card to make purchases from the school or college canteen/cafeteria. The appropriate amount would be deducted from the point of sale (POS) and attendant would issue the item. At the time of purchase, students can check the available balance on their Edsys Smart cards. Parents would get statements of purchase made against the money loaded on to the Edsys Smart Card.
+
+Fee Collection
+
+Parents can use Edsys Smart Cards to pay school fees. These cards have encoded information that help to identify students and pull up their payment information. These cards are far more convenient than the traditional method of providing name, roll number or other details to pull up records. Parents can top up the credit on the Edsys Smart Card by paying the amount to cashier/accountant at the Fee Collection counter.
+
+Library
+
+Once RFID School Management System is employed,Librarians can use Edsys Smart cards to pull out student records and use it to issue or return library books/items. If library facility is used for reading, students would have to mark library attendance using Edsys Smart cards.
+
+Book Store Management
+
+Students can be issued books, magazines, etc from the Book Store using their Edsys Smart cards. Items issued from store will be recorded and reconciled with payment. Parents would get statement of items student procured from store.

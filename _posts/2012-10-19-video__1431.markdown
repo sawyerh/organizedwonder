@@ -1,0 +1,14 @@
+---
+title: "Simplicity Matters"
+date: 2012-10-19 08:59:59 00:00
+permalink: /videos/1431
+source: "http://www.confreaks.com/videos/860-railsconf2012-keynote-simplicity-matters"
+thumbnail: "http://i3.ytimg.com/vi/rI8tNMsozo0/hqdefault.jpg"
+user:
+  username: "danigb"
+  name: "Danigb"
+tags: ["design","programming","simplicity","complexity"]
+html: "<embed width=\"640\" height=\"380\" flashvars=\"file=http://cdn.confreaks.com/system/assets/datas/3187/original/860-railsconf2012-keynote-small.mp4&amp;image=None&amp;plugins=viral-2&amp;viral.allowmenu=true\" allownetworking=\"all\" allowscriptaccess=\"always\" allowfullscreen=\"true\" quality=\"high\" name=\"mpl\" id=\"mpl\" style=\"\" src=\"http://confreaks.net/media/player.swf\" type=\"application/x-shockwave-flash\" wmode=\"transparent\"></embed>"
+---
+
+Simplicity as a decision.

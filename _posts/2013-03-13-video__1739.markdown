@@ -1,0 +1,14 @@
+---
+title: "The Stolen Wings"
+date: 2013-03-13 09:50:52 00:00
+permalink: /videos/1739
+source: "http://youtu.be/7lGtg8qRkPQ"
+thumbnail: "http://i4.ytimg.com/vi/7lGtg8qRkPQ/hqdefault.jpg"
+user:
+  username: "av"
+  name: "Gerard Lough"
+tags: ["short film","light painting","fantasy"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/7lGtg8qRkPQ?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+A babysitter makes up an elaborate fairy tale to keep a little girl amused... but is she all she seems?

@@ -1,0 +1,14 @@
+---
+title: "Nathan Wolfe's jungle search for viruses"
+date: 2012-07-06 21:43:51 00:00
+permalink: /videos/1045
+source: "http://www.ted.com/talks/nathan_wolfe_hunts_for_the_next_aids.html"
+thumbnail: "http://images.ted.com/images/ted/80325_389x292.jpg"
+user:
+  username: "jeremyhfisher"
+  name: "Jeremy Fisher"
+tags: ["ted talk","epidemiology"]
+html: "<object width=\"526\" height=\"374\">\n<param name=\"wmode\" value=\"transparent\"><param name=\"movie\" value=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowScriptAccess\" value=\"always\"><param name=\"wmode\" value=\"transparent\"><param name=\"bgColor\" value=\"#ffffff\"><param name=\"flashvars\" value=\"vu=http://video.ted.com/talk/stream/2009/Blank/NathanWolfe_2009-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/NathanWolfe-2009.embed_thumbnail.jpg&amp;vw=512&amp;vh=288&amp;ap=0&amp;ti=499&amp;lang=en&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=nathan_wolfe_hunts_for_the_next_aids;year=2009;theme=bold_predictions_stern_warnings;theme=to_boldly_go;theme=might_you_live_a_great_deal_longer;theme=medicine_without_borders;theme=technology_history_and_destiny;theme=africa_the_next_chapter;event=TED2009;tag=AIDS;tag=Africa;tag=adventure;tag=biodiversity;tag=biology;tag=disease;tag=exploration;tag=global+issues;tag=health;tag=microbiology;tag=pandemic;tag=primates;tag=science;tag=virus;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;\"><embed src=\"http://video.ted.com/assets/player/swf/EmbedPlayer.swf\" pluginspace=\"http://www.macromedia.com/go/getflashplayer\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" bgcolor=\"#ffffff\" width=\"526\" height=\"374\" allowfullscreen=\"true\" allowscriptaccess=\"always\" flashvars=\"vu=http://video.ted.com/talk/stream/2009/Blank/NathanWolfe_2009-320k.mp4&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/NathanWolfe-2009.embed_thumbnail.jpg&amp;vw=512&amp;vh=288&amp;ap=0&amp;ti=499&amp;lang=en&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=nathan_wolfe_hunts_for_the_next_aids;year=2009;theme=bold_predictions_stern_warnings;theme=to_boldly_go;theme=might_you_live_a_great_deal_longer;theme=medicine_without_borders;theme=technology_history_and_destiny;theme=africa_the_next_chapter;event=TED2009;tag=AIDS;tag=Africa;tag=adventure;tag=biodiversity;tag=biology;tag=disease;tag=exploration;tag=global+issues;tag=health;tag=microbiology;tag=pandemic;tag=primates;tag=science;tag=virus;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;\"></embed></object>"
+---
+
+Virus hunter Nathan Wolfe is outwitting the next pandemic by staying two steps ahead: discovering deadly new viruses where they first emerge -- passing from animals to humans among poor subsistence hunters in Africa -- before they claim millions of lives.

@@ -1,0 +1,13 @@
+---
+title: "Tim Brown: Tales of creativity and play | Video on TED.com"
+date: 2013-04-24 13:41:49 00:00
+permalink: /videos/1841
+source: "http://www.ted.com/talks/tim_brown_on_creativity_and_play.html"
+thumbnail: "http://images.ted.com/images/ted/58155_389x292.jpg"
+user:
+  username: "kk"
+  name: "Kellyn Walker"
+tags: ["ted","tim brown"]
+html: "<iframe src=\"http://embed.ted.com/talks/tim_brown_on_creativity_and_play.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

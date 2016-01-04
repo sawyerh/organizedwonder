@@ -1,0 +1,14 @@
+---
+title: "The Future Belongs to the Curious"
+date: 2012-05-18 17:36:00 00:00
+permalink: /videos/278
+source: "http://vimeo.com/34853044"
+thumbnail: "http://b.vimeocdn.com/ts/237/710/237710524_1280.jpg"
+user:
+  username: "rsantaferraro"
+  name: "Rocky Santaferraro"
+tags: ["creativity","inspiration"]
+html: "<iframe src=\"http://player.vimeo.com/video/34853044\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+From the moment we open our eyes it fuels our existence. We are on a mission to remind everyone to never lose your sense of curiosity or wonder. Long live learning!

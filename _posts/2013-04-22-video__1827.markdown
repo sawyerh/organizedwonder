@@ -1,0 +1,13 @@
+---
+title: "A day with 3sixteen"
+date: 2013-04-22 20:44:59 00:00
+permalink: /videos/1827
+source: "https://vimeo.com/63594345"
+thumbnail: "http://b.vimeocdn.com/ts/433/928/433928676_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["fashion"]
+html: "<iframe src=\"http://player.vimeo.com/video/63594345\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

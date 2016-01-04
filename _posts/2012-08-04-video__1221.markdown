@@ -1,0 +1,20 @@
+---
+title: "Inventor Portrait: Steven Sasson"
+date: 2012-08-04 04:44:56 00:00
+permalink: /videos/1221
+source: "https://vimeo.com/22180298"
+thumbnail: "http://b.vimeocdn.com/ts/309/328/309328681_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["inventor"]
+html: "<iframe src=\"http://player.vimeo.com/video/22180298\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+This video is part of an ongoing series of photo and video portraits of contemporary inventors from all walks of life. More can be seen at http://dfpblog.com/inventors
+
+It's been way too long since I've posted one of these. This is my portrait of Steven Sasson, inventor of the digital camera. He was the 32nd inventor in my project. I shot him in October at Kodak's headquarters in Rochester, just a couple weeks before President Obama awarded him the National Medal of Technology.
+
+When he initially mentioned that the first digital camera held 30 pictures, I assumed that was due to the storage capacity of the digital tape. It was really interesting to hear that he picked 30 as an artificial limitation, and his explanation why.
+
+Update: A lot of people have asked what the subject of that first photo was. It's an interesting story, but the short answer is that the first digital photo was a picture of a lab technician named Joy. And he didn't save the image.

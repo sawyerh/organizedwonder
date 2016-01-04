@@ -1,0 +1,13 @@
+---
+title: "Walk The Light - Kyle Steed"
+date: 2012-05-21 07:59:56 00:00
+permalink: /videos/478
+source: "https://vimeo.com/20898754"
+thumbnail: "http://b.vimeocdn.com/ts/134/011/134011053_640.jpg"
+user:
+  username: "charlybr"
+  name: "CharlyBr"
+tags: ["talk","illustrator"]
+html: "<iframe src=\"http://player.vimeo.com/video/20898754\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

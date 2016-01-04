@@ -1,0 +1,17 @@
+---
+title: "Spider Drove a Taxi (NY Times Op-Docs)"
+date: 2014-04-04 19:52:27 00:00
+permalink: /videos/2260
+source: "https://vimeo.com/84437206"
+thumbnail: "http://i.vimeocdn.com/video/461309005_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["nyc","short documentary","nytimes"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F84437206&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F84437206&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F461309005_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"1080\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Spider Drove a Taxi celebrates New York City’s taxi drivers through the life of Johnnie Footman, known as Spider, who was the city’s oldest cabby. This is one of five films commissioned in conjunction with The New York Times Magazine’s The Lives They Lived issue, which commemorates people who died this year.
+
+Also watch Drivers Wanted the feature documentary this short is based on.
+DriversWantedFilm.com

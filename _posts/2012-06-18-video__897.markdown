@@ -1,0 +1,13 @@
+---
+title: "The Evolution of Music Online | Off Book | PBS"
+date: 2012-06-18 04:25:27 00:00
+permalink: /videos/897
+source: "http://www.youtube.com/watch?v=puC38rhREvc&list=PLC3D565688483CCB5&index=10&feature=plcp"
+thumbnail: "http://i1.ytimg.com/vi/puC38rhREvc/hqdefault.jpg"
+user:
+  username: "trinadafilipina"
+  name: "Trina Dikitanan"
+tags: ["music","design","evolution"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/puC38rhREvc?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

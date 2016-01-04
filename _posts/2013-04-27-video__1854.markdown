@@ -1,0 +1,14 @@
+---
+title: "Keone Madrid & Mariel Madrid: “Don’t Stop the Music” by Jamie Cullum"
+date: 2013-04-27 00:18:33 00:00
+permalink: /videos/1854
+source: "http://www.youtube.com/watch?v=lt9IarhLfTM"
+thumbnail: "http://i1.ytimg.com/vi/lt9IarhLfTM/hqdefault.jpg"
+user:
+  username: "psyoko"
+  name: "Yoko Sakao Ohama"
+tags: ["dance","choreography","classroom"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/lt9IarhLfTM?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Guhhh

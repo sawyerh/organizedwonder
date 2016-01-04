@@ -1,0 +1,19 @@
+---
+title: "George Orson Welles interview on The War of the Worlds broadcast (October 31 1938)"
+date: 2013-08-07 18:56:14 00:00
+permalink: /videos/2043
+source: "https://www.youtube.com/watch?v=uuEGiruAFSw"
+thumbnail: "http://i1.ytimg.com/vi/uuEGiruAFSw/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["interview","film","orson welles","radio"]
+html: "<iframe width=\"640\" height=\"480\" src=\"http://www.youtube.com/embed/uuEGiruAFSw?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Their October 30, 1938 radio adaptation of The War of the Worlds by H. G. Wells brought Welles instant fame. 
+
+The combination of the news bulletin form of the performance with the between-breaks dial spinning habits of listeners from the rival and far more popular Edgar Bergen/Charlie McCarthy program was later reported in the media to have created widespread confusion among listeners who failed to hear the introduction, although the extent of this confusion has recently come into question.
+Panic was reported to have spread (after citation from rumors) among many listeners who believed the news reports of a Martian invasion. 
+
+The myth of the result created by the combination was reported as fact around the world and disparagingly mentioned by Adolf Hitler in a public speech a few months later.

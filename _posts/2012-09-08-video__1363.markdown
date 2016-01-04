@@ -1,0 +1,16 @@
+---
+title: "Molecular Visualizations of DNA - Original High Quality Version"
+date: 2012-09-08 14:20:48 00:00
+permalink: /videos/1363
+source: "http://www.youtube.com/watch?feature=player_embedded&v=OjPcT1uUZiE"
+thumbnail: "http://i4.ytimg.com/vi/OjPcT1uUZiE/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["science","visualization"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/OjPcT1uUZiE?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+These DNA molecular visualizations were created for the multifaceted 'DNA' project, celebrating the 50th anniversary in 2003 of the discovery of the double helix. The 'DNA' project includes a five-part documentary series, museum film and 'DNAi' online resources for teachers and students.
+
+The dynamics and molecular shapes were based on X-ray crystallographic models and other published scientific data sets. Leading scientists, including many Nobel Laureates, critiqued the animations during their development. Particular effort was made to ensure the relative shapes, sizes and 'real-time' dynamics were as accurate as possible.

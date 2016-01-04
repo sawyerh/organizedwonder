@@ -1,0 +1,13 @@
+---
+title: "Dan Harmon, Community - XOXO Festival (2012)"
+date: 2012-12-01 09:45:01 00:00
+permalink: /videos/1523
+source: "http://youtu.be/ej_aFOnT04g"
+thumbnail: "http://i2.ytimg.com/vi/ej_aFOnT04g/hqdefault.jpg"
+user:
+  username: "hawkinsjustin"
+  name: "Justin Hawkins"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/ej_aFOnT04g?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

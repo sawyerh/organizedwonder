@@ -1,0 +1,14 @@
+---
+title: "TEAM #3"
+date: 2012-08-14 13:21:08 00:00
+permalink: /videos/1259
+source: "http://vimeo.com/47504219"
+thumbnail: "http://b.vimeocdn.com/ts/329/503/329503924_960.jpg"
+user:
+  username: "lhid"
+  name: "Leban Hyde"
+tags: ["art","design","trailer","short","print"]
+html: "<iframe src=\"http://player.vimeo.com/video/47504219\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+T.E.A.M - Together Everyone Achieves More

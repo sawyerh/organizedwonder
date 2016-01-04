@@ -1,0 +1,16 @@
+---
+title: "Platinum Palladium Printing with Leica M Monochrom"
+date: 2014-01-08 17:12:20 00:00
+permalink: /videos/2165
+source: "https://vimeo.com/66352973"
+thumbnail: "http://b.vimeocdn.com/ts/437/768/437768077_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["photography","black and white"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F66352973&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F66352973&image=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F437%2F768%2F437768077_1280.jpg&key=950020ba825211e1a0764040d3dc5c07&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Manuel Gomes Teixeira, photographer and Platinum Palladium printer, usually uses traditional methods, with photographic film in medium and large format cameras.
+
+Invited by the exclusive distributor of Leica cameras in Portugal, he tested the Leica Monochrom. The high quality files, showing a rich tonal range, adapt very well to Platinum printing.

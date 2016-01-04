@@ -1,0 +1,14 @@
+---
+title: "Copy"
+date: 2012-05-18 12:55:15 00:00
+permalink: /videos/208
+source: "http://vimeo.com/17902560"
+thumbnail: "http://b.vimeocdn.com/ts/291/709/291709093_1280.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["music","animation","yasuda takahiro"]
+html: "<iframe src=\"http://player.vimeo.com/video/17902560\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Excellent et très court clip [45s pour le clip et le reste de crédits] pour KaisokuTokyo intitulé Copy réalisé par Yasuda Takahiro.

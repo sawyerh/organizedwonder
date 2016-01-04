@@ -1,0 +1,16 @@
+---
+title: "How Life Begins in the Deep Ocean"
+date: 2012-08-20 15:00:39 00:00
+permalink: /videos/1288
+source: "http://www.youtube.com/watch?v=i_R7ouD8-Eo&feature=player_embedded#!"
+thumbnail: "http://i2.ytimg.com/vi/i_R7ouD8-Eo/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["nature","ted-ed"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/i_R7ouD8-Eo?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+View full lesson on TED-Ed BETA: http://ed.ted.com/lessons/how-life-begins-in-the-deep-ocean
+
+Where do squid, jellyfish and other sea creatures begin life? The story of a sea urchin reveals a stunningly beautiful saga of fertilization, development and growth in the ocean depths.

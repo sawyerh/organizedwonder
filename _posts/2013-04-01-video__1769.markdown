@@ -1,0 +1,14 @@
+---
+title: "Jessica Hische – From Berlin With Love"
+date: 2013-04-01 00:22:59 00:00
+permalink: /videos/1769
+source: "https://vimeo.com/60556612"
+thumbnail: "http://b.vimeocdn.com/ts/420/412/420412889_640.jpg"
+user:
+  username: "jl"
+  name: "John Gregory Liwag"
+tags: ["interview","lettering"]
+html: "<iframe src=\"http://player.vimeo.com/video/60556612\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Jessica Hische gets in-depth and speaks specifically about lettering. Inspiring.

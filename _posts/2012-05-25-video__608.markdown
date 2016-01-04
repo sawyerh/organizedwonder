@@ -1,0 +1,13 @@
+---
+title: "Explosions in the Sky Poster Design"
+date: 2012-05-25 01:04:27 00:00
+permalink: /videos/608
+source: "http://vimeo.com/30357729"
+thumbnail: "http://b.vimeocdn.com/ts/233/194/233194255_1280.jpg"
+user:
+  username: "bonnieandclide"
+  name: "Bonnie Barrett"
+tags: ["music","graphic design","band poster","explosions in the sky"]
+html: "<iframe src=\"http://player.vimeo.com/video/30357729\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

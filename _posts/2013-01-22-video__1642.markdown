@@ -1,0 +1,14 @@
+---
+title: "Blom & Blom"
+date: 2013-01-22 14:51:51 00:00
+permalink: /videos/1642
+source: "http://vimeo.com/47231123"
+thumbnail: "http://b.vimeocdn.com/ts/328/814/328814739_960.jpg"
+user:
+  username: "hoodwink73"
+  name: "Arijit Bhattacharya"
+tags: ["short film","design","old"]
+html: "<iframe src=\"http://player.vimeo.com/video/47231123\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+This short film tells the story of two brothers who collect and restore forgotten objects from forgotten places, in order to give these authentic pieces a new existence. Following their particular passion for industrial artefacts from the former DDR, they stroll across East Germany in search of abandoned factories and the stories they hold.

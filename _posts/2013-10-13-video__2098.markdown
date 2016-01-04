@@ -1,0 +1,14 @@
+---
+title: "Webstock '13: Bruce Sterling - What a feeling!"
+date: 2013-10-13 12:35:29 00:00
+permalink: /videos/2098
+source: "https://vimeo.com/63012862"
+thumbnail: "http://b.vimeocdn.com/ts/441/644/441644400_1280.jpg"
+user:
+  username: "akmur"
+  name: "Alessandro Muraro"
+tags: ["design"]
+html: "<iframe src=\"http://player.vimeo.com/video/63012862\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+In a performance full of subtle shades of meaning highlighting the delicate ebb and flow of the agitations of the body, Bruce Sterling, renowned science fiction author, design essayist, Net critic and a founder of the EFF, will recreate the famous audition scene from iconic eighties movie Flashdance.

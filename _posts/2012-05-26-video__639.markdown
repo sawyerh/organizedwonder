@@ -1,0 +1,13 @@
+---
+title: "Reggie Watts disorients you in the most entertaining way"
+date: 2012-05-26 12:25:47 00:00
+permalink: /videos/639
+source: "http://www.youtube.com/watch?v=BdHK_r9RXTc"
+thumbnail: "http://i3.ytimg.com/vi/BdHK_r9RXTc/hqdefault.jpg"
+user:
+  username: "fox"
+  name: "Larry Fox"
+tags: ["ted","hip-hop","reggie watts","ted talks"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/BdHK_r9RXTc?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

@@ -1,0 +1,14 @@
+---
+title: "Happy valentine's day"
+date: 2012-05-18 11:43:06 00:00
+permalink: /videos/193
+source: "http://vimeo.com/3186196"
+thumbnail: "http://b.vimeocdn.com/ts/775/775218_640.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["sticky monster lab","animation","valentine's day"]
+html: "<iframe src=\"http://player.vimeo.com/video/3186196\" width=\"504\" height=\"284\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Film d'animation par Sticky Monster Lab

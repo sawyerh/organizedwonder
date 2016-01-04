@@ -1,0 +1,14 @@
+---
+title: "The House Beast by Matt Briggs (from Shoot the Buffalo)"
+date: 2012-05-20 21:18:26 00:00
+permalink: /videos/470
+source: "http://www.youtube.com/watch?feature=player_embedded&v=dhwMimHrgrk"
+thumbnail: "http://i1.ytimg.com/vi/dhwMimHrgrk/hqdefault.jpg"
+user:
+  username: "carolynzick"
+  name: "Carolyn Z"
+tags: ["literature","pnw"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/dhwMimHrgrk?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Matt Briggs reading his short The House Beast

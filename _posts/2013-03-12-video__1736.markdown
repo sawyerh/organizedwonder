@@ -1,0 +1,14 @@
+---
+title: "Alt-J Poster Process Video"
+date: 2013-03-12 15:38:02 00:00
+permalink: /videos/1736
+source: "http://vimeo.com/60338294"
+thumbnail: "http://b.vimeocdn.com/ts/419/064/419064464_1280.jpg"
+user:
+  username: "hleeena"
+  name: "Lena"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/60338294\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+A process video on this poster design for an Alt-J show in Kansas City, MO by DKNG Studios

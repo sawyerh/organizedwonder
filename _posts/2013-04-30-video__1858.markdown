@@ -1,0 +1,14 @@
+---
+title: "Juliette of the Herbs"
+date: 2013-04-30 03:37:29 00:00
+permalink: /videos/1858
+source: "https://vimeo.com/18952969"
+thumbnail: "http://b.vimeocdn.com/ts/119/693/119693673_295.jpg"
+user:
+  username: "ericaheinz"
+  name: "Erica Heinz"
+tags: ["documentary","nature","health","medicine"]
+html: "<iframe src=\"http://player.vimeo.com/video/18952969\" width=\"320\" height=\"240\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Charming story of the pioneer in herbal medicine.

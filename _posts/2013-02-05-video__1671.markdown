@@ -1,0 +1,13 @@
+---
+title: "Peaches - Kick It"
+date: 2013-02-05 19:40:21 00:00
+permalink: /videos/1671
+source: "https://vimeo.com/45556177"
+thumbnail: "http://b.vimeocdn.com/ts/316/850/316850621_295.jpg"
+user:
+  username: "yotterno1"
+  name: "Carrie Yotter"
+tags: ["film","video","peaches","iggy pop","kick it"]
+html: "<iframe src=\"http://player.vimeo.com/video/45556177\" width=\"384\" height=\"288\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

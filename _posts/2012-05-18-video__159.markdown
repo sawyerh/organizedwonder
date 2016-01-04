@@ -1,0 +1,13 @@
+---
+title: "Frank Chimero - Design of Everything"
+date: 2012-05-18 04:57:31 00:00
+permalink: /videos/159
+source: "http://www.youtube.com/watch?v=zDqFSrLeEcQ"
+thumbnail: "http://i3.ytimg.com/vi/zDqFSrLeEcQ/hqdefault.jpg"
+user:
+  username: "calescence"
+  name: "Shannon McWeeney"
+tags: ["design","cusp 2010","creative process"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/zDqFSrLeEcQ?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

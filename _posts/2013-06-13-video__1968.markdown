@@ -1,0 +1,14 @@
+---
+title: "The Impossible Image"
+date: 2013-06-13 00:33:02 00:00
+permalink: /videos/1968
+source: "http://vimeo.com/67115692#"
+thumbnail: "http://b.vimeocdn.com/ts/438/872/438872188_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["short film","behind the scenes","photography","cinematography"]
+html: "<iframe src=\"http://player.vimeo.com/video/67115692\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Artist and photographer Richard Mosse reveals the stories behind the making of his latest film, 'The Enclave' (2013), in the Democratic Republic of Congo, which will be shown in the Irish Pavilion at this year’s 55th Venice Biennale.

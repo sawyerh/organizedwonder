@@ -1,0 +1,13 @@
+---
+title: "After the 2012 transit of Venus in ultra..."
+date: 2012-06-07 13:49:47 00:00
+permalink: /videos/789
+source: "http://exp.lore.com/post/24607225430/after-the-2012-transit-of-venus-in-ultra-high"
+thumbnail: "http://img.youtube.com/vi/4Z9rM8ChTjY/2.jpg"
+user:
+  username: "yridomot"
+  name: "Spyros Simotas"
+tags: []
+html: "<iframe width=\"400\" height=\"224\" src=\"http://www.youtube.com/embed/4Z9rM8ChTjY?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

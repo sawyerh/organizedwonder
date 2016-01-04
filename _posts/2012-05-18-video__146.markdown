@@ -1,0 +1,16 @@
+---
+title: "The Standardistas - The Journey"
+date: 2012-05-18 03:06:18 00:00
+permalink: /videos/146
+source: "https://vimeo.com/34155414"
+thumbnail: "http://b.vimeocdn.com/ts/232/386/232386843_960.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["talk","build"]
+html: "<iframe src=\"http://player.vimeo.com/video/34155414\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+The Standardistas discuss the evolution from apprentice, to journeyman, and ultimately to master.
+
+"The first years you work in a craft you are an apprentice — this takes three or four years. Then you are a journeyman. You move from one master to another and learn their tricks and other secrets." — Josef Albers

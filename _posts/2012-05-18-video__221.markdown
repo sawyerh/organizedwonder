@@ -1,0 +1,14 @@
+---
+title: "A Thousand Words"
+date: 2012-05-18 13:18:06 00:00
+permalink: /videos/221
+source: "http://vimeo.com/2884813"
+thumbnail: "http://b.vimeocdn.com/ts/997/469/99746999_1280.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["short film","ted chung"]
+html: "<iframe src=\"http://player.vimeo.com/video/2884813\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Un femme oublie son appareil photo dans le train. Un homme le récupère et va tenter de retrouver cette femme à partir des photos qu'elle a prise. A Thousand Words est un court métrage réalisé par Ted Chung

@@ -1,0 +1,14 @@
+---
+title: "Aris Venetikidis making sense of maps"
+date: 2012-11-20 21:30:38 00:00
+permalink: /videos/1496
+source: "http://www.ted.com/talks/aris_venetikidis_making_sense_of_maps.html"
+thumbnail: "http://images.ted.com/images/ted/e9baebea40cbe9c1a26f6edd57f0833e4bb90aef_389x292.jpg"
+user:
+  username: "fbutour"
+  name: "Florian Butour"
+tags: ["ted","design","urban exploration","talk","maps"]
+html: "<iframe src=\"http://embed.ted.com/talks/aris_venetikidis_making_sense_of_maps.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+En tant que concepteur, Aris Venetikidis est fasciné par les cartes que nous dessinons dans nos esprits lorsque nous nous déplaçons dans une ville, et qui ressemblent moins à un plan des rues qu'à un diagramme ou à un schéma de câblage, à une image abstraite des relations que nous établissons entre les lieux.

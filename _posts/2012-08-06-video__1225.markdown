@@ -1,0 +1,13 @@
+---
+title: "Breaking Good Habits - Harry Roberts on OOCSS principles"
+date: 2012-08-06 02:13:35 00:00
+permalink: /videos/1225
+source: "https://vimeo.com/44773888"
+thumbnail: "http://b.vimeocdn.com/ts/311/124/311124404_960.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["programming","front-trends"]
+html: "<iframe src=\"http://player.vimeo.com/video/44773888\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

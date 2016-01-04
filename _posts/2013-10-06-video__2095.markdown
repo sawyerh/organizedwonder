@@ -1,0 +1,13 @@
+---
+title: "Rachel Hinman: The Mobile Frontier"
+date: 2013-10-06 20:01:24 00:00
+permalink: /videos/2095
+source: "https://vimeo.com/39230026"
+thumbnail: "http://b.vimeocdn.com/ts/270/499/270499597_640.jpg"
+user:
+  username: "walkinbyfaith10"
+  name: "Jessica Sun"
+tags: ["uci","mobile design"]
+html: "<iframe src=\"http://player.vimeo.com/video/39230026\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

@@ -1,0 +1,14 @@
+---
+title: "Space X Employees Cheers Launch"
+date: 2012-05-23 23:35:22 00:00
+permalink: /videos/595
+source: "http://vimeo.com/42608730"
+thumbnail: "http://b.vimeocdn.com/ts/295/649/295649632_960.jpg"
+user:
+  username: "kazu1205"
+  name: "Kazoo"
+tags: ["space","inspirational","smile"]
+html: "<iframe src=\"http://player.vimeo.com/video/42608730\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Can't help but feel proud of these guys. Very inspirational.

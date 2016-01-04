@@ -1,0 +1,14 @@
+---
+title: "VANITY FAIR: Christopher Hitchens's Ten Commandments"
+date: 2012-05-18 05:48:01 00:00
+permalink: /videos/173
+source: "http://www.youtube.com/watch?v=v-63cTYJDCA&list=FL15pVQHppr2yiV5INxwJHPw&index=63&feature=plpp_video"
+thumbnail: "http://i3.ytimg.com/vi/v-63cTYJDCA/hqdefault.jpg"
+user:
+  username: "sergio k"
+  name: "Sergio Kostianovsky"
+tags: ["ten commandments","christopher hitchens","religion"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/v-63cTYJDCA?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Christopher Hitchens deconstructs the ten commandments and adds a few of his own for the April issue of Vanity Fair.

@@ -1,0 +1,14 @@
+---
+title: "State of Cinema: Steven Soderbergh"
+date: 2013-05-09 19:48:59 00:00
+permalink: /videos/1882
+source: "http://vimeo.com/65060864#"
+thumbnail: "http://b.vimeocdn.com/ts/435/931/435931943_640.jpg"
+user:
+  username: "alonzo"
+  name: "Alonzo Felix"
+tags: ["san francisco","film"]
+html: "<iframe src=\"http://player.vimeo.com/video/65060864\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Director Steven Soderbergh gives the keynote at the 56th San Francisco International Film Festival.

@@ -1,0 +1,16 @@
+---
+title: "Rear Window Timelapse by Jeff Desom"
+date: 2012-05-18 17:06:09 00:00
+permalink: /videos/272
+source: "http://vimeo.com/37120554"
+thumbnail: "http://b.vimeocdn.com/ts/254/853/254853117_640.jpg"
+user:
+  username: "marshmallowfeev"
+  name: "bekah nutt"
+tags: ["art","short film","film","cinema"]
+html: "<iframe src=\"http://player.vimeo.com/video/37120554\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+a visual installation by Jeff Desom based on footage from Alfred Hitchcock's "Rear Window" (1954) 
+In the words of the artist:
+"I dissected all of Hitchcock's Rear Window and stiched it back together in After Effects. I stabilized all the shots with camera movement in them. Since everything was filmed from pretty much the same angle I was able to match them into a single panoramic view of the entire backyard without any greater distortions. The order of events stays true to the movie's plot."

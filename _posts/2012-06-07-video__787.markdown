@@ -1,0 +1,17 @@
+---
+title: "Anthony Burrill - Hello Mr Stella"
+date: 2012-06-07 08:24:50 00:00
+permalink: /videos/787
+source: "https://vimeo.com/31425231#"
+thumbnail: "http://b.vimeocdn.com/ts/211/802/211802233_1280.jpg"
+user:
+  username: "lewis"
+  name: "LEWIS"
+tags: ["music","design","anthony burrill"]
+html: "<iframe src=\"http://player.vimeo.com/video/31425231\" width=\"1280\" height=\"640\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+An animated film conceived and produced in collaboration with Paul Plowman.
+Made as a response to 'Takht-i-Sulayman Variation I' by Frank Stella (1969)
+Music composed and performed by Acid Washed.
+Exhibited in 'No Object Is An Island' at Cranbrook Art Museum, Detroit, Michigan (2011)

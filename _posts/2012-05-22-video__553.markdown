@@ -1,0 +1,15 @@
+---
+title: "The Right to Understand by Sandra Fisher-Martins"
+date: 2012-05-22 15:46:31 00:00
+permalink: /videos/553
+source: "http://www.youtube.com/watch?v=tP2y0vU7EG8"
+thumbnail: "http://i1.ytimg.com/vi/tP2y0vU7EG8/hqdefault.jpg"
+user:
+  username: "telmabaptista"
+  name: "Telma Patrícia Ruivo Baptista"
+tags: ["talk","portugues claro","plain language"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/tP2y0vU7EG8?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Sandra Fisher-Martins runs Português Claro, a training and consultancy firm that introduced plain language in Portugal and has been helping Portuguese companies and government agencies communicate clearly since 2007.
+Sandra is particularly interested in the use of plain language and information design in public documents as a way of helping citizens make informed choices about their health, education, welfare, and civil rights.

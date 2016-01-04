@@ -1,0 +1,14 @@
+---
+title: "The Beauty of Pollination - Moving Art™"
+date: 2012-09-15 00:51:06 00:00
+permalink: /videos/1376
+source: "http://www.youtube.com/watch?v=MQiszdkOwuU&feature=youtu.be"
+thumbnail: "http://i2.ytimg.com/vi/MQiszdkOwuU/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["nature"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/MQiszdkOwuU?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+This video was shown at the TED conference in 2011, with scenes from "Wings of Life", a film about the threat to essential pollinators that produce over a third of the food we eat. The seductive love dance between flowers and pollinators sustains the fabric of life and is the mystical keystone event where the animal and plant worlds intersect that make the world go round.

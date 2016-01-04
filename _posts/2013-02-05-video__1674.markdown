@@ -1,0 +1,13 @@
+---
+title: "Vanessa Bruno - Miracle"
+date: 2013-02-05 20:18:55 00:00
+permalink: /videos/1674
+source: "https://vimeo.com/19525481"
+thumbnail: "http://b.vimeocdn.com/ts/123/819/123819548_295.jpg"
+user:
+  username: "yotterno1"
+  name: "Carrie Yotter"
+tags: ["vanessa","bruno","miracle","lou","doillon","stephanie di gusto"]
+html: "<iframe src=\"http://player.vimeo.com/video/19525481\" width=\"360\" height=\"200\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

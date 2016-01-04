@@ -1,0 +1,14 @@
+---
+title: "Getty Images spotlight on Daniel Howells"
+date: 2012-06-14 16:35:28 00:00
+permalink: /videos/859
+source: "https://vimeo.com/28719719"
+thumbnail: "http://b.vimeocdn.com/ts/191/787/191787906_640.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["interview","design","daniel howells"]
+html: "<iframe src=\"http://player.vimeo.com/video/28719719\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Developing for a world beyond Flash. Setting up Site Inspire. Running the digital agency, Kulor. Daniel Howells tells us all about it and what he loves about his work.

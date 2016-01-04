@@ -1,0 +1,14 @@
+---
+title: "Will"
+date: 2012-05-18 09:27:45 00:00
+permalink: /videos/185
+source: "http://vimeo.com/41369274"
+thumbnail: "http://b.vimeocdn.com/ts/286/496/286496648_960.jpg"
+user:
+  username: "talkingstranger"
+  name: "Michelle Meeker"
+tags: ["animation"]
+html: "<iframe src=\"http://player.vimeo.com/video/41369274\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Beautiful film. This won the top prize at the 2012 CalArts Character Animation Producers' Show.

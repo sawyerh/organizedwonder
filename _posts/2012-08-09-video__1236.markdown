@@ -1,0 +1,13 @@
+---
+title: "the dark side of the lens"
+date: 2012-08-09 02:02:50 00:00
+permalink: /videos/1236
+source: "http://vimeo.com/14074949?action=share&ref=nf"
+thumbnail: "http://b.vimeocdn.com/ts/819/560/81956031_640.jpg"
+user:
+  username: "kimcross"
+  name: "Kim Cross"
+tags: ["surfing","cinematography","action sports"]
+html: "<iframe src=\"http://player.vimeo.com/video/14074949\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

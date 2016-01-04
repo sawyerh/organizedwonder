@@ -1,0 +1,14 @@
+---
+title: "Jon Contino"
+date: 2012-09-11 18:10:02 00:00
+permalink: /videos/1365
+source: "http://vimeo.com/49155684"
+thumbnail: "http://b.vimeocdn.com/ts/339/708/339708591_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["typography","designer","jon contino"]
+html: "<iframe src=\"http://player.vimeo.com/video/49155684\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+http://joncontino.com

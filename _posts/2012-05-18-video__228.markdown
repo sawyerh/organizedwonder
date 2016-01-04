@@ -1,0 +1,14 @@
+---
+title: "Quimby The Mouse"
+date: 2012-05-18 13:33:21 00:00
+permalink: /videos/228
+source: "http://vimeo.com/4412391"
+thumbnail: "http://b.vimeocdn.com/ts/105/082/10508229_940.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["short film","animation","chris ware"]
+html: "<iframe src=\"http://player.vimeo.com/video/4412391\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Animation Chris Ware

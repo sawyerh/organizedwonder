@@ -1,0 +1,23 @@
+---
+title: "Sketching, Wireframing, Prototyping - How to Be Agile and Avoid Half-Baked User Experience"
+date: 2012-09-28 22:22:21 00:00
+permalink: /videos/1399
+source: "http://www.ustream.tv/recorded/25221096"
+thumbnail: "http://static-cdn1.ustream.tv/images/uphoto_file/1/2/4/9/12494883/th/smalls2_120_12494883_logofec_1346758424.jpg"
+user:
+  username: "pips1"
+  name: "Philipp Schroeder"
+tags: ["ux","agile","prototyping","sketching","team work","tools","wireframing"]
+html: "<object classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" width=\"480\" height=\"296\" id=\"utv534464\" name=\"utv_n_268657\"><param name=\"wmode\" value=\"transparent\"><param name=\"flashvars\" value=\"loc=%2F&amp;autoplay=false&amp;vid=25221096\"><param name=\"wmode\" value=\"opaque\"><param name=\"allowfullscreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><param name=\"src\" value=\"http://www.ustream.tv/flash/viewer.swf\"><embed flashvars=\"loc=%2F&amp;autoplay=false&amp;vid=25221096\" width=\"480\" height=\"296\" wmode=\"transparent\" allowfullscreen=\"true\" allowscriptaccess=\"always\" id=\"utv534464\" name=\"utv_n_268657\" src=\"http://www.ustream.tv/flash/viewer.swf\" type=\"application/x-shockwave-flash\"></embed></object>"
+---
+
+Compelling and powerful web applications such as Google Maps and Facebook have become mainstream and are setting a benchmark in terms of usability and design. Meanwhile, agile development is taking the software development world by storm. UX designers used to the traditional "waterfall" way of working - with lots of design documentation and big handovers - often struggle with the new development approach.
+
+Without any claim to silver bullets, I will outline some practices and guiding principles for improving user interfaces by iterating on frontend design & code by way of sketching, wireframing and prototyping.
+
+I intend to share some lessons learned from working in a agile development environment and talk about ways of collaborating effectively with stakeholders & team members.
+Compelling and powerful web applications such as Google Maps and Facebook have become mainstream and are setting a benchmark in terms of usability and design. Meanwhile, agile development is taking the software development world by storm. UX designers used to the traditional "waterfall" way of working - with lots of design documentation and big handovers - often struggle with the new development approach.
+
+Without any claim to silver bullets, I will outline some practices and guiding principles for improving user interfaces by iterating on frontend design & code by way of sketching, wireframing and prototyping.
+
+I intend to share some lessons learned from working in a agile development environment and talk about ways of collaborating effectively with stakeholders & team members.

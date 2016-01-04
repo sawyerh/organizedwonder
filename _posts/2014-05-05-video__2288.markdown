@@ -1,0 +1,13 @@
+---
+title: "Natalie Westling's Supermodel Skateboarding Tips"
+date: 2014-05-05 14:56:21 00:00
+permalink: /videos/2288
+source: "https://www.youtube.com/watch?v=rCo5sX6D9M8"
+thumbnail: "http://i1.ytimg.com/vi/rCo5sX6D9M8/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["skateboarding","nowness"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FrCo5sX6D9M8%3Fwmode%3Dtransparent%26feature%3Doembed&wmode=transparent&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrCo5sX6D9M8&image=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FrCo5sX6D9M8%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

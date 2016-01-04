@@ -1,0 +1,13 @@
+---
+title: "Brain-based Learning Model (Neuroplasticity)"
+date: 2012-09-06 07:38:02 00:00
+permalink: /videos/1355
+source: "http://www.youtube.com/watch?&v=VvZ-9ofM7Go#!"
+thumbnail: "http://i3.ytimg.com/vi/VvZ-9ofM7Go/hqdefault.jpg"
+user:
+  username: "nunile"
+  name: "Maria"
+tags: ["neurology"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/VvZ-9ofM7Go?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

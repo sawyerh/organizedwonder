@@ -1,0 +1,13 @@
+---
+title: "Inventor Portrait: Ralph Baer"
+date: 2012-05-19 14:32:25 00:00
+permalink: /videos/397
+source: "https://vimeo.com/37870722"
+thumbnail: "http://b.vimeocdn.com/ts/260/917/260917133_1280.jpg"
+user:
+  username: "kris"
+  name: "Kris LoCascio"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/37870722\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

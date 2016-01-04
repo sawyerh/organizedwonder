@@ -1,0 +1,14 @@
+---
+title: "Maciej Cegłowski, Pinboard - XOXO Festival (2013)"
+date: 2013-10-14 21:23:40 00:00
+permalink: /videos/2104
+source: "http://www.youtube.com/watch?v=eky5uKILXtM"
+thumbnail: "http://i1.ytimg.com/vi/eky5uKILXtM/hqdefault.jpg"
+user:
+  username: "destroytoday"
+  name: "Jonnie Hallman"
+tags: ["talk","development","xoxo"]
+html: "<iframe width=\"640\" height=\"480\" src=\"http://www.youtube.com/embed/eky5uKILXtM?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Startups are usually devoid of personality on Twitter, but Pinboard is a bookmarking site with attitude—skewering well-funded competitors and Silicon Valley culture. Behind the account is programmer, writer and painter Maciej Cegłowski, who created Pinboard out of frustration with Delicious' post-Yahoo redesigns. He bootstrapped the site with a crazy idea—take money from your users.

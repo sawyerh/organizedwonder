@@ -1,0 +1,13 @@
+---
+title: "Shovels & Rope // Gasoline"
+date: 2012-06-02 23:15:49 00:00
+permalink: /videos/740
+source: "http://www.youtube.com/watch?v=u1XMhdAGDgc&list=FLA3CMEw1_afdBrD3Pq2LTpA&index=44&feature=plpp_video"
+thumbnail: "http://i2.ytimg.com/vi/u1XMhdAGDgc/hqdefault.jpg"
+user:
+  username: "laumabre"
+  name: "Lauma"
+tags: ["music"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/u1XMhdAGDgc?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

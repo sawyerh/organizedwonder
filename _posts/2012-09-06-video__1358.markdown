@@ -1,0 +1,13 @@
+---
+title: "The Power of Community. How Cuba Survived Peak Oil (sub español) on Vimeo"
+date: 2012-09-06 07:39:51 00:00
+permalink: /videos/1358
+source: "http://vimeo.com/8653921"
+thumbnail: "http://b.vimeocdn.com/ts/409/544/40954466_295.jpg"
+user:
+  username: "nunile"
+  name: "Maria"
+tags: ["politics"]
+html: "<iframe src=\"http://player.vimeo.com/video/8653921\" width=\"304\" height=\"224\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

@@ -1,0 +1,19 @@
+---
+title: "Eyeo 2014 - Robert Hodgin"
+date: 2014-09-16 19:57:15 00:00
+permalink: /videos/2403
+source: "https://vimeo.com/103537259"
+thumbnail: "http://i.vimeocdn.com/video/485833209_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["talk","programming","creative process","eyeo"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F103537259&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F103537259&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F485833209_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Robert Hodgin delivers the final talk of Eyeo Festival 2014.
+
+|| @flight404
+|| @eyeofestival
+
+*Team Eyeo Produces the Eyeo Festival every June, and INST-INT in September. ( inst-int.com )

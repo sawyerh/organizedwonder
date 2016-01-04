@@ -1,0 +1,18 @@
+---
+title: "A Tale of Two Bridges | Living City | The New York Times"
+date: 2014-09-19 01:56:09 00:00
+permalink: /videos/2404
+source: "https://www.youtube.com/watch?v=H6R9yV5sykg"
+thumbnail: "http://i.ytimg.com/vi/H6R9yV5sykg/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["nyc","architecture","short documentary","nytimes"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FH6R9yV5sykg%3Fwmode%3Dtransparent%26feature%3Doembed&wmode=transparent&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH6R9yV5sykg&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FH6R9yV5sykg%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+With thousands of bridges in New York State deemed structurally deficient, there are two choices: repair or rebuild. The 60-year-old Tappan Zee Bridge and the Brooklyn Bridge are the latest examples.
+
+Produced by: Melanie Burford and Greg Moyer
+
+Read the story here: http://nyti.ms/1uWSUdr

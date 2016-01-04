@@ -1,0 +1,16 @@
+---
+title: "Aaron Draplin, Draplin Design Company"
+date: 2012-06-14 16:36:34 00:00
+permalink: /videos/860
+source: "http://www.youtube.com/watch?v=iqoJm-nmvTU"
+thumbnail: "http://i2.ytimg.com/vi/iqoJm-nmvTU/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["design","talk","aaron draplin","walker art center"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/iqoJm-nmvTU?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Although he makes his home in Portland, Oregon, Aaron Draplin is more a product of being born, raised, and educated in the Midwest. A native of Detroit, he studied graphic design at the Minneapolis College of Art and Design before heading out west to work as art director of _Snowboarder_ magazine. He founded Draplin Design Company (DDC) in 2004, producing a wide range of award-winning projects and developing products for businesses such as Coal Headwear; board designs for Ride, Forum, and Gnu; conceiving _Field Notes_ journals with Coudal Partners in Chicago; and the array of merchandise for the DDC brand enterprise. Draplin's iconic forms and bold designs are steeped in a no-nonsense Midwestern vernacular and work ethic. They project an authenticity and attitude that seems inseparable from his self-deprecating personality and his clients' passions, reflected in the DDC motto, "Work hard and do good work for good people."
+
+Part of Insights 2012 Design Lecture Series http://www.walkerart.org/calendar/2012/insights-2012-design-lecture-series

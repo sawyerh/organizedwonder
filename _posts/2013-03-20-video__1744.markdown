@@ -1,0 +1,13 @@
+---
+title: "Quentin Jones for NYLON"
+date: 2013-03-20 21:45:44 00:00
+permalink: /videos/1744
+source: "http://vimeo.com/23956477"
+thumbnail: "http://b.vimeocdn.com/ts/158/076/158076203_640.jpg"
+user:
+  username: "kk"
+  name: "Kellyn Walker"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/23956477\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

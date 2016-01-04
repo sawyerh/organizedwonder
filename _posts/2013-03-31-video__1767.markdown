@@ -1,0 +1,14 @@
+---
+title: "PHILLIP ANNAND"
+date: 2013-03-31 23:27:07 00:00
+permalink: /videos/1767
+source: "https://vimeo.com/7627282"
+thumbnail: "http://b.vimeocdn.com/ts/333/234/33323457_640.jpg"
+user:
+  username: "jl"
+  name: "John Gregory Liwag"
+tags: ["interview"]
+html: "<iframe src=\"http://player.vimeo.com/video/7627282\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Phillip T. Annand of The Award Tour and the Madbury Club speaks on blogging. A video is a couple years old, but it's still relevant about wanting to push the boundaries — not just copying the next person.

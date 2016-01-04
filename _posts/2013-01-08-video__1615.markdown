@@ -1,0 +1,14 @@
+---
+title: "Keith Yamashita: The 3 Habits of Great Creative Teams"
+date: 2013-01-08 23:05:51 00:00
+permalink: /videos/1615
+source: "http://vimeo.com/55814448"
+thumbnail: "http://b.vimeocdn.com/ts/387/335/387335677_640.jpg"
+user:
+  username: "hleeena"
+  name: "Lena"
+tags: ["design","creativity"]
+html: "<iframe src=\"http://player.vimeo.com/video/55814448\" width=\"640\" height=\"480\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+When the your team is faced with adversity does it stand strong and act boldly or does it crumble under pressure? Based on his work with over 1000 teams, Keith Yamashita shares his insights about great collaborative environments including: have an awareness beyond your day-to-day, respect the unique talents of your team members, and actively cultivate meaningful one-on-one relationships.

@@ -1,0 +1,14 @@
+---
+title: "a story for tomorrow."
+date: 2012-05-23 00:25:38 00:00
+permalink: /videos/573
+source: "http://vimeo.com/36519586"
+thumbnail: "http://b.vimeocdn.com/ts/250/512/250512455_960.jpg"
+user:
+  username: "leonkotlyar"
+  name: "Leon Kotlyar"
+tags: ["travel","inspirational"]
+html: "<iframe src=\"http://player.vimeo.com/video/36519586\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+by gnarly bay productions, Inc.

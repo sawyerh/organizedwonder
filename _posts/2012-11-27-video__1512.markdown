@@ -1,0 +1,13 @@
+---
+title: "2012/10 Maira Kalman"
+date: 2012-11-27 14:37:29 00:00
+permalink: /videos/1512
+source: "http://vimeo.com/53526343#"
+thumbnail: "http://b.vimeocdn.com/ts/370/267/370267334_1280.jpg"
+user:
+  username: "jackbeil"
+  name: "Jack"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/53526343\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

@@ -1,0 +1,15 @@
+---
+title: "OTM - Noodlecat"
+date: 2012-06-26 16:28:38 00:00
+permalink: /videos/982
+source: "https://vimeo.com/32326504"
+thumbnail: "http://b.vimeocdn.com/ts/218/614/218614404_640.jpg"
+user:
+  username: "jfinley"
+  name: "Jeff Finley"
+tags: ["short documentary","cleveland","go media","on the map"]
+html: "<iframe src=\"http://player.vimeo.com/video/32326504\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Noodlecat is a slurpalicious Japanese-American mash-up from Chef Jonathon Sawyer. Inspired by Tokyo noodle worship and noodle houses, Noodlecat recreates traditionally inspired flavors using locally sourced and seasonal ingredients following sustainable business practices in all areas of restaurant operation.
+On the Map is a video series featuring the people and places that make Cleveland a creative, culturally rich, and inspiring place to live and work.

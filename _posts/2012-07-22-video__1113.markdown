@@ -1,0 +1,14 @@
+---
+title: "Inspiration and Work Ethic - Jack White"
+date: 2012-07-22 19:26:19 00:00
+permalink: /videos/1113
+source: "http://www.youtube.com/watch?v=MckHLBWuz7E&feature=player_embedded"
+thumbnail: "http://i2.ytimg.com/vi/MckHLBWuz7E/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["inspiration","jack white"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/MckHLBWuz7E?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Jack White on inspiration and work ethic. Found via Explore, http://exp.lore.com/post/27692246569/inspiration-and-work-ethic-they-ride-right-next

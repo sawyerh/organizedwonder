@@ -1,0 +1,14 @@
+---
+title: "Up There"
+date: 2012-05-15 05:27:36 00:00
+permalink: /videos/35
+source: "https://vimeo.com/10562000"
+thumbnail: "http://b.vimeocdn.com/ts/556/143/55614364_640.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["painting","documentary","nyc"]
+html: "<iframe src=\"http://player.vimeo.com/video/10562000\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+A short documentary about the men and women who hand-paint billboards on the side of buildings.

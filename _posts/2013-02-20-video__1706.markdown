@@ -1,0 +1,14 @@
+---
+title: "Gilles Deleuze on Cinema - What is the Creative Act? (1987)"
+date: 2013-02-20 09:52:53 00:00
+permalink: /videos/1706
+source: "http://www.youtube.com/watch?feature=player_embedded&v=7DskjRer95s"
+thumbnail: "http://i4.ytimg.com/vi/7DskjRer95s/hqdefault.jpg"
+user:
+  username: "fbutour"
+  name: "Florian Butour"
+tags: ["talk","creativity","cinema","philosophy","gilles deuleuze"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/7DskjRer95s?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+This 45 minute talk at a conference in 1987 on the "act of creation" in cinema is perhaps the most intimate capture of Gilles Deleuze on film besides the Abécédaire interview. Gilles Deleuze speaks continuously and fluidly in a raspy but gentle and sincere voice that betrays much reverence for the work of figures such as Bresson and Kurosawa, particularly as concerns what Deleuze claims to be an absolute need of theirs to adapt the works of Shakespeare and Dostoevsky for film. Other figures discussed include Syberberg, Straub and Duras, along with a discussion of Foucault and disciplinary societies. Deleuze concludes with a meditation on what he calls the "mysterious connection between the work of art and the act of resistance."

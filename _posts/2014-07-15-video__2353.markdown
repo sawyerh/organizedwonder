@@ -1,0 +1,13 @@
+---
+title: "The Creative Class ep. #5 - Stefan Sagmeister"
+date: 2014-07-15 19:12:53 00:00
+permalink: /videos/2353
+source: "https://vimeo.com/98330466"
+thumbnail: "http://i.vimeocdn.com/video/479044022_1280.jpg"
+user:
+  username: "jhnlwg"
+  name: "JHNLWG"
+tags: ["short documentary","stefan sagmeister","sagmeister"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F98330466&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F98330466&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F479044022_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"1080\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

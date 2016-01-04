@@ -1,0 +1,13 @@
+---
+title: "Planningness 2012 - How to Play Go and Navigate Real World Complexity"
+date: 2012-06-08 15:38:25 00:00
+permalink: /videos/804
+source: "http://vimeo.com/42811532"
+thumbnail: "http://b.vimeocdn.com/ts/297/116/297116082_640.jpg"
+user:
+  username: "rushmore"
+  name: "Nick Barthram"
+tags: ["planning"]
+html: "<iframe src=\"http://player.vimeo.com/video/42811532\" width=\"640\" height=\"400\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

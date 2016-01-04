@@ -1,0 +1,17 @@
+---
+title: "Look Up at the Stars, Portugal!"
+date: 2012-05-21 09:53:26 00:00
+permalink: /videos/482
+source: "http://vimeo.com/17375004"
+thumbnail: "http://b.vimeocdn.com/ts/107/846/107846995_640.jpg"
+user:
+  username: "telmabaptista"
+  name: "Telma Patrícia Ruivo Baptista"
+tags: ["inspiring","lisbon","portugal","short film"]
+html: "<iframe src=\"http://player.vimeo.com/video/17375004\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+A portrait of Portugal as a boy's life was ending, his energy blasting off...back up into the atmosphere.
+Shot and edited by Matthew Brown
+Shot with the naked Canon HV40 and edited with Sony Vegas
+Music - "Sarajevo" by Max Richter

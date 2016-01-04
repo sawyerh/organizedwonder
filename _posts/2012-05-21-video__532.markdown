@@ -1,0 +1,14 @@
+---
+title: "Etsy Art & Culture | Off Book | PBS"
+date: 2012-05-21 17:49:27 00:00
+permalink: /videos/532
+source: "http://www.youtube.com/watch?feature=plpp&v=jMcSaQRztsY"
+thumbnail: "http://i3.ytimg.com/vi/jMcSaQRztsY/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["craft","pbs","short documentary","etsy"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/jMcSaQRztsY?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+America has a long tradition of handmade arts and crafts. In the manufacturing age, however, much of this work was overshadowed by the homogenizing force of retail culture. But the passion for handmade arts didn't disappear, and persisted through the years in local craft fairs. Now in the age of the internet, these local craft cultures and artists have found a unifying online community, Etsy, that provides a platform for communication and sales to appreciative fans and customers, as well as a medium to connect with each other and share ideas across the globe.

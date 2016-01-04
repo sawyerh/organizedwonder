@@ -1,0 +1,14 @@
+---
+title: "Hammock-driven Development"
+date: 2012-06-18 20:03:03 00:00
+permalink: /videos/907
+source: "http://blip.tv/clojure/hammock-driven-development-4475586"
+thumbnail: "http://a.images.blip.tv/Richhickey-HammockdrivenDevelopment465-524.jpg"
+user:
+  username: "nick"
+  name: "Nick Sergeant"
+tags: ["development","clojure"]
+html: "<span><iframe src=\"http://blip.tv/play/AYKRliYC.html?p=1\" width=\"640\" height=\"390\" frameborder=\"0\" allowfullscreen></iframe><embed type=\"application/x-shockwave-flash\" src=\"http://a.blip.tv/api.swf#AYKRliYC\" style=\"display:none\" wmode=\"transparent\"></embed></span>"
+---
+
+Rich Hickey's second, "philosophical" talk at the first Clojure Conj, in Durham, North Carolina on October 23rd, 2010. Many thanks to Matt Courtney, who graciously provided the equipment and expertise that made this recording possible.

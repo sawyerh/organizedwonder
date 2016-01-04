@@ -1,0 +1,14 @@
+---
+title: "Paperman - Full Animated Short Film"
+date: 2013-01-31 04:25:33 00:00
+permalink: /videos/1659
+source: "http://www.youtube.com/watch?v=aTLySbGoMX0&feature=player_embedded"
+thumbnail: "http://i2.ytimg.com/vi/aTLySbGoMX0/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["short film","disney","animated short"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/aTLySbGoMX0?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Introducing a groundbreaking technique that seamlessly merges computer-generated and hand-drawn animation techniques, first-time director John Kahrs takes the art of animation in a bold new direction with the Oscar®-nominated short, "Paperman." Using a minimalist black-and-white style, the short follows the story of a lonely young man in mid-century New York City, whose destiny takes an unexpected turn after a chance meeting with a beautiful woman on his morning commute. Convinced the girl of his dreams is gone forever, he gets a second chance when he spots her in a skyscraper window across the avenue from his office. With only his heart, imagination and a stack of papers to get her attention, his efforts are no match for what the fates have in store for him. Created by a small, innovative team working at Walt Disney Animation Studios, "Paperman" pushes the animation medium in an exciting new direction.

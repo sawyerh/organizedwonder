@@ -1,0 +1,13 @@
+---
+title: "BIF-7: Mari Kuraishi"
+date: 2013-07-16 06:46:12 00:00
+permalink: /videos/2012
+source: "http://blip.tv/thebif/mari-kurashi_online-v1-hd-blip-5658137"
+thumbnail: "http://a.images.blip.tv/BIF-BIF7MariKuraishi797.jpg"
+user:
+  username: "hawkinsjustin"
+  name: "Justin Hawkins"
+tags: []
+html: "<iframe src=\"http://blip.tv/play/gYArgtmsfQI.x?p=1\" width=\"590\" height=\"332\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

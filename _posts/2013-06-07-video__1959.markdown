@@ -1,0 +1,13 @@
+---
+title: "STOP STEALING DREAMS: Seth Godin at TEDxYouth@BFS"
+date: 2013-06-07 02:10:33 00:00
+permalink: /videos/1959
+source: "http://www.youtube.com/watch?feature=player_embedded&v=sXpbONjV1Jc#!"
+thumbnail: "http://i4.ytimg.com/vi/sXpbONjV1Jc/hqdefault.jpg"
+user:
+  username: "swissmiss"
+  name: "swissmiss"
+tags: ["seth godin","stop stealing dreams"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/sXpbONjV1Jc?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

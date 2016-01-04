@@ -1,0 +1,13 @@
+---
+title: "Neil Gaiman Addresses the University of the Arts Class of 2012"
+date: 2012-05-23 05:15:44 00:00
+permalink: /videos/580
+source: "http://vimeo.com/42372767"
+thumbnail: "http://b.vimeocdn.com/ts/294/187/294187408_640.jpg"
+user:
+  username: "calescence"
+  name: "Shannon McWeeney"
+tags: ["art","creativity","writing","neil gaiman","advice"]
+html: "<iframe src=\"http://player.vimeo.com/video/42372767\" width=\"640\" height=\"480\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

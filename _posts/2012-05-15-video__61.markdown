@@ -1,0 +1,14 @@
+---
+title: "Macworld 1997: The return of Steve Jobs"
+date: 2012-05-15 14:38:29 00:00
+permalink: /videos/61
+source: "http://www.youtube.com/watch?v=IOs6hnTI4lw&feature=g-vrec"
+thumbnail: "http://i2.ytimg.com/vi/IOs6hnTI4lw/hqdefault.jpg"
+user:
+  username: "alialithinks"
+  name: "Ali Ali"
+tags: ["talk","apple","conference","steve jobs"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/IOs6hnTI4lw?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+What an amazing day that turned Apple around.

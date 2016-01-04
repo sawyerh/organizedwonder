@@ -1,0 +1,14 @@
+---
+title: "BIGGEST TEAHUPOO EVER"
+date: 2012-07-04 18:49:50 00:00
+permalink: /videos/1027
+source: "https://vimeo.com/35328567"
+thumbnail: "http://b.vimeocdn.com/ts/241/424/241424418_960.jpg"
+user:
+  username: "buffler"
+  name: "jeremy buller"
+tags: ["surfing"]
+html: "<iframe src=\"http://player.vimeo.com/video/35328567\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+'the biggest and gnarliest Teahupoo ever ridden... The French Navy labeled this day a double code red'

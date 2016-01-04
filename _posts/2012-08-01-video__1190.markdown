@@ -1,0 +1,13 @@
+---
+title: "Everything is Connected"
+date: 2012-08-01 06:35:57 00:00
+permalink: /videos/1190
+source: "http://vimeo.com/34635783"
+thumbnail: "http://b.vimeocdn.com/ts/236/195/236195836_1280.jpg"
+user:
+  username: "kelvino"
+  name: "Kelvino Widagdo"
+tags: ["science","brian cox"]
+html: "<iframe src=\"http://player.vimeo.com/video/34635783\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

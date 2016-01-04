@@ -1,0 +1,18 @@
+---
+title: "The Sweeping Shadow - Total Solar Eclipse, Nov 14 2012,The Granite, FNQ, Australia."
+date: 2012-12-17 22:20:58 00:00
+permalink: /videos/1557
+source: "https://vimeo.com/53641212"
+thumbnail: "http://b.vimeocdn.com/ts/382/265/382265085_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["space","timelapse"]
+html: "<iframe src=\"http://player.vimeo.com/video/53641212\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+"I was fortunate to view the eclipse from "The Granite' in far north Queensland this November. Inspired by Joe Cali's short but spectacular footage of the 2008 event (vimeo.com/51646602), I sought a high vantage point to capture the sweep of the shadow. Clear views north and east proved difficult to find, so I had to hike an 850m peak the night before and sleep on a rock ledge.
+
+The clip includes 3 timelapses at various focal lengths. The first used a constant exposure, while the latter 2 tracked the light in the final 2 minutes either side of C2/C3, using bulb scripting. Eclipse Orchestrator software managed the light curve, while the cameras were triggered by a custom microcontroller built by Thomas Bethel. Many thanks to Fred Bruenjes and Thomas Bethel.
+
+You can find out more about my eclipse experience here: facebook.com/ColinLeggPhotography"

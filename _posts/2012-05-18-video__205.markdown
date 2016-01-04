@@ -1,0 +1,13 @@
+---
+title: "Murmuration"
+date: 2012-05-18 12:46:28 00:00
+permalink: /videos/205
+source: "http://vimeo.com/31158841"
+thumbnail: "http://b.vimeocdn.com/ts/209/801/209801744_640.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["bird","poetry","escape"]
+html: "<iframe src=\"http://player.vimeo.com/video/31158841\" width=\"640\" height=\"512\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

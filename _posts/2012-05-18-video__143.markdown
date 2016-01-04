@@ -1,0 +1,14 @@
+---
+title: "Ira Glass on being creative"
+date: 2012-05-18 02:36:10 00:00
+permalink: /videos/143
+source: "http://www.youtube.com/watch?v=BI23U7U2aUY&feature=g-like"
+thumbnail: "http://i3.ytimg.com/vi/BI23U7U2aUY/hqdefault.jpg"
+user:
+  username: "steve_flory"
+  name: "Steve Flory"
+tags: ["interview","creativity","writing","ira glass","creative gap"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/BI23U7U2aUY?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Ira Glass talking on not only story telling but also being creative and getting better at what you do and getting over the creative gap.

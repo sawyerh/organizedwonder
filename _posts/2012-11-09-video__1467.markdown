@@ -1,0 +1,13 @@
+---
+title: "Advanced Git"
+date: 2012-11-09 22:42:16 00:00
+permalink: /videos/1467
+source: "http://vimeo.com/49444883"
+thumbnail: "http://b.vimeocdn.com/ts/341/145/341145942_1280.jpg"
+user:
+  username: "domoku"
+  name: "Kuku Kaka"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/49444883\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

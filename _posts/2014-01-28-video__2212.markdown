@@ -1,0 +1,26 @@
+---
+title: "43,000 Feet"
+date: 2014-01-28 21:53:38 00:00
+permalink: /videos/2212
+source: "https://vimeo.com/85116343"
+thumbnail: "http://b.vimeocdn.com/ts/462/283/462283367_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["short film"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F85116343&url=http%3A%2F%2Fvimeo.com%2F85116343&image=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F462%2F283%2F462283367_1280.jpg&key=950020ba825211e1a0764040d3dc5c07&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+When statistician John Wilkins is sucked out of a plane at 43000 feet, he calculates that he has exactly 3 minutes and 48 seconds before he hits the ground.
+
+Director: Campbell Hooper
+Producers: Heather Lee, Amber Easby
+Director of Photography: Andrew Stroud
+Writer: Matthew Harris
+Exec. Producers: Rob Sarkies, Vicky Pope
+Sales Agent: NZ Film
+with Dylan Pharazyn as John Wilkins
+
+This short was funded by the New Zealand Film Commission.
+
+campbellhooper.tv

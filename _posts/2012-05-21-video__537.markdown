@@ -1,0 +1,14 @@
+---
+title: "Andy Spade & Anthony Sperduti: Think Small"
+date: 2012-05-21 21:31:10 00:00
+permalink: /videos/537
+source: "https://vimeo.com/18413932"
+thumbnail: "http://b.vimeocdn.com/ts/205/141/205141675_295.jpg"
+user:
+  username: "jl"
+  name: "John Gregory Liwag"
+tags: ["advertising","think small","branding","digital strategy","publishing","talk"]
+html: "<iframe src=\"http://player.vimeo.com/video/18413932\" width=\"480\" height=\"320\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Partners & Spade discuss the importance of following through with projects despite not having funding or a brand connected right away.

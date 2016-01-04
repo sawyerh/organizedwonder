@@ -1,0 +1,14 @@
+---
+title: "Doyland Young"
+date: 2013-10-30 15:52:32 00:00
+permalink: /videos/2114
+source: "http://www.youtube.com/watch?v=T8_tOrJHIr8"
+thumbnail: "http://i1.ytimg.com/vi/T8_tOrJHIr8/hqdefault.jpg"
+user:
+  username: "themanro"
+  name: "Roman Rusinov"
+tags: ["design","typography"]
+html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/T8_tOrJHIr8?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Must watch

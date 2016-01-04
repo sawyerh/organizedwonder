@@ -1,0 +1,13 @@
+---
+title: "Massimo Vignelli"
+date: 2012-05-19 10:42:06 00:00
+permalink: /videos/366
+source: "https://vimeo.com/14421480"
+thumbnail: "http://b.vimeocdn.com/ts/292/862/292862663_1280.jpg"
+user:
+  username: "gustavocpimenta"
+  name: "Gustavo Pimenta"
+tags: ["design","typography","type design"]
+html: "<iframe src=\"http://player.vimeo.com/video/14421480\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

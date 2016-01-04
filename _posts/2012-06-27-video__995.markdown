@@ -1,0 +1,13 @@
+---
+title: "Ira Glass on Storytelling"
+date: 2012-06-27 17:22:27 00:00
+permalink: /videos/995
+source: "http://youtu.be/baCJFAGEuJM"
+thumbnail: "http://i3.ytimg.com/vi/baCJFAGEuJM/hqdefault.jpg"
+user:
+  username: "milesfitzgerald"
+  name: "Miles Fitzgerald"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/baCJFAGEuJM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

@@ -1,0 +1,14 @@
+---
+title: "Telephoneme | MK12"
+date: 2012-05-18 12:02:11 00:00
+permalink: /videos/200
+source: "http://www.youtube.com/watch?feature=player_embedded&v=DZ-mXhlJK6Y"
+thumbnail: "http://i1.ytimg.com/vi/DZ-mXhlJK6Y/hqdefault.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["short film","animation","motion design","short music","sound"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/DZ-mXhlJK6Y?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+MK12 est un studio américain spécialisé dans le motion design qui excelle dans un style a la fois rétro, simple et complexe en même temps. Le film tourne autour de l'alphabet et du pouvoir qu'auraient certains mots lorsqu'ils sont prononcés. Par exemple, la phrase Never Kill a Snake With Your Bare Hands lorsqu'elle est entendu, aurait le pouvoir de déclencher sur le cerveau du récipient un état de léthargie rendant la personne réceptive a de futures manipulations cérébrales

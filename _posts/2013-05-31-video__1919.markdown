@@ -1,0 +1,13 @@
+---
+title: "Evolving Design Communities by Huge"
+date: 2013-05-31 19:31:54 00:00
+permalink: /videos/1919
+source: "http://new.livestream.com/hugeinc/events/2103961"
+thumbnail: "http://img.new.livestream.com/events/0000000000201a99/0ef503f8-6633-4922-b8da-7747b6ace04f_60x90.png"
+user:
+  username: "kingsley"
+  name: "Kingsley Harris"
+tags: []
+html: "<iframe src=\"https://new.livestream.com/accounts/646193/events/2103961/player\" width=\"640\" height=\"360\"></iframe>"
+---
+

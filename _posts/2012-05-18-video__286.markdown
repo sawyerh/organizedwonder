@@ -1,0 +1,13 @@
+---
+title: "James Burke, Connections Epsiode 4, \"Faith In Numbers\""
+date: 2012-05-18 20:09:29 00:00
+permalink: /videos/286
+source: "http://youtu.be/ORY-mXXgJg4"
+thumbnail: "http://i4.ytimg.com/vi/ORY-mXXgJg4/hqdefault.jpg"
+user:
+  username: "ivanzhao"
+  name: "Ivan Zhao"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/ORY-mXXgJg4?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

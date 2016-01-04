@@ -1,0 +1,13 @@
+---
+title: "L'ECUME DES JOURS / bande-annonce"
+date: 2013-05-21 02:52:16 00:00
+permalink: /videos/1907
+source: "http://www.youtube.com/watch?v=kkgtLs0W8SI&feature=player_embedded"
+thumbnail: "http://i.ytimg.com/vi/kkgtLs0W8SI/hqdefault.jpg"
+user:
+  username: "kk"
+  name: "Kellyn Walker"
+tags: []
+html: "<iframe title=\"YouTube video player\" width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/kkgtLs0W8SI?wmode=transparent\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

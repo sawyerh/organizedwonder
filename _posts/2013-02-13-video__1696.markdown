@@ -1,0 +1,13 @@
+---
+title: "Sivu 'Better Man Than He'"
+date: 2013-02-13 02:12:48 00:00
+permalink: /videos/1696
+source: "https://vimeo.com/57444237"
+thumbnail: "http://b.vimeocdn.com/ts/398/524/398524863_1280.jpg"
+user:
+  username: "kimcross"
+  name: "Kim Cross"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/57444237\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

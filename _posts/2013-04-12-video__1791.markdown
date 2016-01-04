@@ -1,0 +1,13 @@
+---
+title: "12 O'CLOCK BOYS - TRAILER"
+date: 2013-04-12 15:28:00 00:00
+permalink: /videos/1791
+source: "http://www.youtube.com/watch?feature=player_embedded&v=5Mij2zrF8vw"
+thumbnail: "http://i2.ytimg.com/vi/5Mij2zrF8vw/hqdefault.jpg"
+user:
+  username: "byedit"
+  name: "Nitzan — Edit"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/5Mij2zrF8vw?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

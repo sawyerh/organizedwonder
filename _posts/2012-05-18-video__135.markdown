@@ -1,0 +1,13 @@
+---
+title: "Serpentine Dance by Lina Esbrard (1902) by Alice Guy"
+date: 2012-05-18 02:11:10 00:00
+permalink: /videos/135
+source: "http://www.youtube.com/watch?v=hgbNYmQKWGk&feature=player_embedded"
+thumbnail: "http://i1.ytimg.com/vi/hgbNYmQKWGk/hqdefault.jpg"
+user:
+  username: "swissmiss"
+  name: "swissmiss"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/hgbNYmQKWGk?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

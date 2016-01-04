@@ -1,0 +1,13 @@
+---
+title: "Richard Feynman - The Key To Science"
+date: 2012-05-18 04:43:33 00:00
+permalink: /videos/151
+source: "http://www.youtube.com/watch?feature=player_embedded&v=b240PGCMwV0"
+thumbnail: "http://i3.ytimg.com/vi/b240PGCMwV0/hqdefault.jpg"
+user:
+  username: "calescence"
+  name: "Shannon McWeeney"
+tags: ["science","feynman","modelling","theory","computation"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/b240PGCMwV0?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

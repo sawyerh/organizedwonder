@@ -1,0 +1,15 @@
+---
+title: "Your CSS is a Mess"
+date: 2013-03-25 15:41:41 00:00
+permalink: /videos/1750
+source: "http://vimeo.com/61755493"
+thumbnail: "http://b.vimeocdn.com/ts/429/480/429480714_1280.jpg"
+user:
+  username: "lhid"
+  name: "Leban Hyde"
+tags: ["design","talk","web","css","smacss"]
+html: "<iframe src=\"http://player.vimeo.com/video/61755493\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+This talk by Jonathan Snook was held at Smashing Conference 2012 in Freiburg, Germany.
+CSS is easy. You take some selectors, add some properties, maybe a dash of media queries and presto, you have a beautiful site. And yet, as projects change and as teams grow, we begin to see the frustration build with increasingly complex selectors and overuse of !important. This session will look at common problems and solutions that will make your CSS (and your projects) easier to manage and easier to scale.

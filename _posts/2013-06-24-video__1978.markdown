@@ -1,0 +1,14 @@
+---
+title: "Google Street View Hyperlapse"
+date: 2013-06-24 16:59:12 00:00
+permalink: /videos/1978
+source: "http://vimeo.com/63653873"
+thumbnail: "http://b.vimeocdn.com/ts/434/115/434115086_1280.jpg"
+user:
+  username: "ericaheinz"
+  name: "Erica Heinz"
+tags: ["timelapse","hyperlapse"]
+html: "<iframe src=\"http://player.vimeo.com/video/63653873\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Street view road trip, using hyper-lapse video (a combination of time-lapse and sweeping camera movements typically focused on a point-of-interest)

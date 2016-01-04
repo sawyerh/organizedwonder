@@ -1,0 +1,14 @@
+---
+title: "Spirograph Promo"
+date: 2012-07-30 13:10:08 00:00
+permalink: /videos/1162
+source: "http://vimeo.com/43023483"
+thumbnail: "http://b.vimeocdn.com/ts/298/623/298623302_1280.jpg"
+user:
+  username: "lhid"
+  name: "Leban Hyde"
+tags: ["animation","design","typography"]
+html: "<iframe src=\"http://player.vimeo.com/video/43023483\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Spirograph is an animated typeface by Calango.

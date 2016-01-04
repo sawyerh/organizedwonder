@@ -1,0 +1,13 @@
+---
+title: "Frank Höhne"
+date: 2013-02-04 16:29:36 00:00
+permalink: /videos/1665
+source: "http://vimeo.com/55468322"
+thumbnail: "http://b.vimeocdn.com/ts/383/908/383908635_640.jpg"
+user:
+  username: "jackbeil"
+  name: "Jack"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/55468322\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

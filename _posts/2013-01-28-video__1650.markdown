@@ -1,0 +1,18 @@
+---
+title: "the event of a thread"
+date: 2013-01-28 19:57:09 00:00
+permalink: /videos/1650
+source: "https://vimeo.com/57463725"
+thumbnail: "http://b.vimeocdn.com/ts/398/366/398366956_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["paul octavious","art exhibit","ann hamilton"]
+html: "<iframe src=\"http://player.vimeo.com/video/57463725\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+"I've never been to an exhibit like Ann Hamiltons: the event of a thread before that had inspired me to no end. So one day I brought my parents and a camera and documented my experience.
+
+Music / Sufjan Stevens - Redford ( for Yia -Yia and Pappou)
+
+pauloctavious.com"

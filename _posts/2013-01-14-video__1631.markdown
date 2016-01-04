@@ -1,0 +1,13 @@
+---
+title: "Connecting (full film)"
+date: 2013-01-14 00:03:18 00:00
+permalink: /videos/1631
+source: "https://vimeo.com/52861634#"
+thumbnail: "http://b.vimeocdn.com/ts/364/865/364865123_1280.jpg"
+user:
+  username: "themanro"
+  name: "Roman Rusinov"
+tags: ["design","ux","ui"]
+html: "<iframe src=\"http://player.vimeo.com/video/52861634\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

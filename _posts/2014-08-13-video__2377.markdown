@@ -1,0 +1,13 @@
+---
+title: "Why we have too few women leaders"
+date: 2014-08-13 17:48:40 00:00
+permalink: /videos/2377
+source: "http://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders"
+thumbnail: "http://img.tedcdn.com/r/images.ted.com/images/ted/2903dbe09eafe9200099d4423c0864ed61f8bea0_1600x1200.jpg?c=1280%2C720&ll=1&quality=89&w=1200"
+user:
+  username: "kk"
+  name: "Kellyn Walker"
+tags: []
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fembed.ted.com%2Ftalks%2Fsheryl_sandberg_why_we_have_too_few_women_leaders.html&wmode=transparent&url=http%3A%2F%2Fwww.ted.com%2Ftalks%2Fsheryl_sandberg_why_we_have_too_few_women_leaders&image=http%3A%2F%2Fimg.tedcdn.com%2Fr%2Fimages.ted.com%2Fimages%2Fted%2F2903dbe09eafe9200099d4423c0864ed61f8bea0_1600x1200.jpg%3Fc%3D1280%252C720%26ll%3D1%26quality%3D89%26w%3D1200&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=ted\" width=\"640\" height=\"360\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

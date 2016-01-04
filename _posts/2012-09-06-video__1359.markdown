@@ -1,0 +1,13 @@
+---
+title: "El cuarto poder, la película"
+date: 2012-09-06 07:43:48 00:00
+permalink: /videos/1359
+source: "http://www.vimeo.com/34371453"
+thumbnail: "http://b.vimeocdn.com/ts/234/275/234275357_640.jpg"
+user:
+  username: "nunile"
+  name: "Maria"
+tags: ["politics"]
+html: "<iframe src=\"http://player.vimeo.com/video/34371453\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

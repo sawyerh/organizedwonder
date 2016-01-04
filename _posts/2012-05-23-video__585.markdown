@@ -1,0 +1,16 @@
+---
+title: "Getty Images Digital Talent - Creative Review"
+date: 2012-05-23 15:12:47 00:00
+permalink: /videos/585
+source: "http://www.youtube.com/watch?feature=player_embedded&v=I6mQLlaAXnQ"
+thumbnail: "http://i2.ytimg.com/vi/I6mQLlaAXnQ/hqdefault.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["interview","design","ian coyle"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/I6mQLlaAXnQ?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+We approached some of the most inspiring creative talents of the moment and asked them what lay behind their work, what motivated them, and what they believe the future of creativity holds
+
+Here are some of their stories.

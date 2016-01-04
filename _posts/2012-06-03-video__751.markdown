@@ -1,0 +1,13 @@
+---
+title: "Como preparar Hossomaki"
+date: 2012-06-03 17:06:53 00:00
+permalink: /videos/751
+source: "http://www.youtube.com/watch?v=8eK0kHnvJdQ&feature=related"
+thumbnail: "http://i1.ytimg.com/vi/8eK0kHnvJdQ/hqdefault.jpg"
+user:
+  username: "rogeriomondi"
+  name: "RogerioMondi"
+tags: ["receitas","hossomaki"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/8eK0kHnvJdQ?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

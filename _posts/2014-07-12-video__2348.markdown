@@ -1,0 +1,14 @@
+---
+title: "Andreas Raptopoulos: Drones for good"
+date: 2014-07-12 18:35:31 00:00
+permalink: /videos/2348
+source: "http://vimeo.com/52167573"
+thumbnail: "http://i.vimeocdn.com/video/362275677_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["technology","talk","poptech"]
+html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F52167573&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F52167573&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F362275677_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Andreas Raptopoulos is the founder and CEO of Matternet, building a network of unmanned aerial vehicles to transport medicine and goods in places with poor road infrastructure. “It is estimated that it is going to take sub-Saharan Africa 50 years to catch up on road infrastructure. So we saw this and we thought, ‘Can we leapfrog?’”

@@ -1,0 +1,14 @@
+---
+title: "Walker Art Center: Michael Hart, Mono"
+date: 2012-05-19 00:26:56 00:00
+permalink: /videos/331
+source: "http://www.youtube.com/watch?feature=player_embedded&v=SqX979xGap0#!"
+thumbnail: "http://i4.ytimg.com/vi/SqX979xGap0/hqdefault.jpg"
+user:
+  username: "marshmallowfeev"
+  name: "bekah nutt"
+tags: ["design","talk"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/SqX979xGap0?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+After successful careers at leading ad agencies, Michael Hart, Chris Lange, and James Scott founded Minneapolis-based Mono, a firm specializing in inventive communication solutions for a variety of clients, including Herman Miller, Apple, Blu Dot, Airstream, and USA Network. Mono was named Small Agency of the Year by Advertising Age in 2010.

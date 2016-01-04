@@ -1,0 +1,13 @@
+---
+title: "Stefan Sagmeister"
+date: 2013-05-13 15:35:13 00:00
+permalink: /videos/1886
+source: "http://bcove.me/uopciids"
+thumbnail: "http://brightcove.vo.llnwd.net/d21/unsecured/media/97927510001/97927510001_2318755030001_video-still-for-video-2318722534001.jpg?pubId=97927510001"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["interview","aiga","stefan sagmeister"]
+html: "<object id=\"flashObj\" width=\"640\" height=\"420\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0\"><param name=\"wmode\" value=\"transparent\"><param name=\"movie\" value=\"http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;isUI=1\"><param name=\"bgcolor\" value=\"#FFFFFF\"><param name=\"flashVars\" value=\"@videoPlayer=2318722534001&amp;autoStart=false&amp;playerID=1101641210001&amp;domain=embed&amp;dynamicStreaming=true\"><param name=\"base\" value=\"http://admin.brightcove.com\"><param name=\"seamlesstabbing\" value=\"false\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"swLiveConnect\" value=\"true\"><param name=\"allowScriptAccess\" value=\"always\"><embed src=\"http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;isUI=1\" bgcolor=\"#FFFFFF\" flashvars=\"@videoPlayer=2318722534001&amp;playerID=1101641210001&amp;domain=embed&amp;dynamicStreaming=true&amp;autoStart=false\" base=\"http://admin.brightcove.com\" name=\"flashObj\" width=\"480\" height=\"270\" seamlesstabbing=\"false\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" swliveconnect=\"true\" pluginspage=\"http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash\" wmode=\"transparent\"></embed></object>"
+---
+

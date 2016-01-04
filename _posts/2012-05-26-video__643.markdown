@@ -1,0 +1,13 @@
+---
+title: "23 and 1/2 Hours"
+date: 2012-05-26 21:56:36 00:00
+permalink: /videos/643
+source: "http://www.youtube.com/watch?feature=player_embedded&v=aUaInS6HIGo"
+thumbnail: "http://i2.ytimg.com/vi/aUaInS6HIGo/hqdefault.jpg"
+user:
+  username: "mfayeshin"
+  name: "M. Shin"
+tags: []
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/aUaInS6HIGo?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

@@ -1,0 +1,13 @@
+---
+title: "Brucia la luna"
+date: 2012-06-28 09:44:55 00:00
+permalink: /videos/999
+source: "http://youtu.be/_zGUULhly2o"
+thumbnail: "http://i4.ytimg.com/vi/_zGUULhly2o/hqdefault.jpg"
+user:
+  username: "zit_dantes"
+  name: "Zit Dantes"
+tags: ["music video","movie","el padrino"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/_zGUULhly2o?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+

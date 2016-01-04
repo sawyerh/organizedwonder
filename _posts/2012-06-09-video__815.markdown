@@ -1,0 +1,14 @@
+---
+title: "Larry Smith: Why you will fail to have a great career"
+date: 2012-06-09 09:02:52 00:00
+permalink: /videos/815
+source: "http://www.youtube.com/watch?v=iKHTawgyKWQ"
+thumbnail: "http://i2.ytimg.com/vi/iKHTawgyKWQ/hqdefault.jpg"
+user:
+  username: "renhe"
+  name: "René Hempe"
+tags: ["life","ted talk","career","words of wisom"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/iKHTawgyKWQ?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Unless...

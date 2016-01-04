@@ -1,0 +1,14 @@
+---
+title: "Synesthesia"
+date: 2012-05-18 13:29:07 00:00
+permalink: /videos/226
+source: "http://vimeo.com/5297531"
+thumbnail: "http://b.vimeocdn.com/ts/167/619/16761934_640.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["art","short film"]
+html: "<iframe src=\"http://player.vimeo.com/video/5297531\" width=\"640\" height=\"368\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Réalisé par Terri Timely, « Synesthesia » est un court métrage décalé. Entre recette de cuisine électronique et trip sous acide

@@ -1,0 +1,14 @@
+---
+title: "Designing Bond's World"
+date: 2012-07-04 18:57:41 00:00
+permalink: /videos/1028
+source: "http://vimeo.com/45067313"
+thumbnail: "http://b.vimeocdn.com/ts/313/267/313267501_640.jpg"
+user:
+  username: "byderekj"
+  name: "Derek Jensen"
+tags: ["interview","design"]
+html: "<iframe src=\"http://player.vimeo.com/video/45067313\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+This film focuses on the creation of the iconic world inhabited by James Bond over 50 years. We spend time with award winning set designer, Sir Ken Adam; as well as Aston Martin’s Head of Design; along with the designers and the makers of the legendary Golden Gun.

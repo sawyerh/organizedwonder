@@ -1,0 +1,13 @@
+---
+title: "Solipsist"
+date: 2012-05-25 01:13:12 00:00
+permalink: /videos/610
+source: "http://vimeo.com/37848135"
+thumbnail: "http://b.vimeocdn.com/ts/260/812/260812088_1280.jpg"
+user:
+  username: "bonnieandclide"
+  name: "Bonnie Barrett"
+tags: ["art","film","slamdance 2012"]
+html: "<iframe src=\"http://player.vimeo.com/video/37848135\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+

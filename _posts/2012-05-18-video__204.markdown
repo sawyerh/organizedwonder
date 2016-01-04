@@ -1,0 +1,14 @@
+---
+title: "I Need Nothing"
+date: 2012-05-18 12:44:21 00:00
+permalink: /videos/204
+source: "http://vimeo.com/29399425"
+thumbnail: "http://b.vimeocdn.com/ts/203/529/203529236_1280.jpg"
+user:
+  username: "apropos"
+  name: "Barbara"
+tags: ["music","clip","vinyl"]
+html: "<iframe src=\"http://player.vimeo.com/video/29399425\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+---
+
+Voici un clip entièrement réalisé à la pochette de vinyle. Vidéo conçue par les portugais Caoceito

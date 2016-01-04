@@ -1,0 +1,14 @@
+---
+title: "The Cut"
+date: 2013-04-24 20:22:51 00:00
+permalink: /videos/1843
+source: "https://vimeo.com/63008760"
+thumbnail: "http://b.vimeocdn.com/ts/434/922/434922437_1280.jpg"
+user:
+  username: "joshlong"
+  name: "Josh Long"
+tags: ["build conference","mandy brown"]
+html: "<iframe src=\"http://player.vimeo.com/video/63008760\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Mandy talks about the importance of editing our work whether written or otherwise.

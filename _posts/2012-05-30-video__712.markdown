@@ -1,0 +1,13 @@
+---
+title: "Terry Pratchett - Choosing to die"
+date: 2012-05-30 20:57:00 00:00
+permalink: /videos/712
+source: "http://vimeo.com/25239708"
+thumbnail: "http://b.vimeocdn.com/ts/166/106/166106320_295.jpg"
+user:
+  username: "howsuperduper"
+  name: "Rachel Patterson"
+tags: []
+html: "<iframe src=\"http://player.vimeo.com/video/25239708\" width=\"608\" height=\"344\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

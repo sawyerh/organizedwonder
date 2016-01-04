@@ -1,0 +1,14 @@
+---
+title: "Homeless Man Ronald Davis"
+date: 2013-04-25 18:01:58 00:00
+permalink: /videos/1845
+source: "http://www.youtube.com/watch?v=iIGCGOKvO4I"
+thumbnail: "http://i2.ytimg.com/vi/iIGCGOKvO4I/hqdefault.jpg"
+user:
+  username: "msteinruck"
+  name: "Mark Steinruck"
+tags: []
+html: "<iframe width=\"640\" height=\"480\" src=\"http://www.youtube.com/embed/iIGCGOKvO4I?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+"No matter what people think about me, I know I'm a human first."

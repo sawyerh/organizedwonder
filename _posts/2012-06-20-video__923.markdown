@@ -1,0 +1,13 @@
+---
+title: "Summit On The Summit"
+date: 2012-06-20 14:00:50 00:00
+permalink: /videos/923
+source: "https://vimeo.com/13046884"
+thumbnail: "http://b.vimeocdn.com/ts/742/713/74271329_640.jpg"
+user:
+  username: "trinadafilipina"
+  name: "Trina Dikitanan"
+tags: ["documentary","photography","michael muller"]
+html: "<iframe src=\"http://player.vimeo.com/video/13046884\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+

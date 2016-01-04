@@ -1,0 +1,14 @@
+---
+title: "Aaron Sorkin: D10 Interview"
+date: 2012-06-17 16:34:12 00:00
+permalink: /videos/885
+source: "http://video.allthingsd.com/video/d10-video-aaron-sorkin-full-session/2DEACB1E-590D-4ADC-A467-C9140BBDEE98"
+thumbnail: "http://m.wsj.net/video/20120615/053012atdsorkinfull/053012atdsorkinfull_167x94.jpg"
+user:
+  username: "alonzo"
+  name: "Alonzo Felix"
+tags: ["interview","aaron sorkin","screenwriting"]
+html: "<object id=\"wsj_fp\" width=\"512\" height=\"360\"><param name=\"wmode\" value=\"transparent\"><param name=\"movie\" value=\"http://s.wsj.net/media/swf/main.swf\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><param name=\"flashvars\" value=\"videoGUID={2DEACB1E-590D-4ADC-A467-C9140BBDEE98}&amp;playerid=4001&amp;plyMediaEnabled=1&amp;configURL=http://m.wsj.net/video-players/&amp;autoStart=false\" base=\"http://s.wsj.net/media/swf/\"><embed src=\"http://s.wsj.net/media/swf/main.swf\" bgcolor=\"#FFFFFF\" flashvars=\"videoGUID={2DEACB1E-590D-4ADC-A467-C9140BBDEE98}&amp;playerid=4001&amp;plyMediaEnabled=1&amp;configURL=http://m.wsj.net/video-players/&amp;autoStart=false\" base=\"http://s.wsj.net/media/swf/\" name=\"microflashPlayer\" width=\"512\" height=\"360\" seamlesstabbing=\"false\" type=\"application/x-shockwave-flash\" swliveconnect=\"true\" pluginspage=\"http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash\" wmode=\"transparent\"></embed></object>"
+---
+
+At last month's D10 conference, screenwriter Aaron Sorkin (The West Wing, The Social Network, A Few Good Men) sat down with Walt Mossberg to discuss his new HBO show The Newsroom (premiering June 24th) and his latest project, adapting Walter Isaacson's biography of Steve Jobs into a movie for Sony Pictures.

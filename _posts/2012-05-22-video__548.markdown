@@ -1,0 +1,14 @@
+---
+title: "Keith Yamashita @ 2012 Better by Design"
+date: 2012-05-22 07:27:45 00:00
+permalink: /videos/548
+source: "http://www.youtube.com/watch?v=lL_VIAnOaaM"
+thumbnail: "http://i1.ytimg.com/vi/lL_VIAnOaaM/hqdefault.jpg"
+user:
+  username: "kazu1205"
+  name: "Kazoo"
+tags: ["talk","creative","consulting","ceo"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/lL_VIAnOaaM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+Keith Yamashita's presentation from the 2012 Better by Design CEO Summit.

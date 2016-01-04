@@ -1,0 +1,14 @@
+---
+title: "Behind the scenes at a McDonald's photo shoot"
+date: 2012-09-28 04:46:06 00:00
+permalink: /videos/1397
+source: "http://www.youtube.com/watch?v=oSd0keSj2W8"
+thumbnail: "http://i4.ytimg.com/vi/oSd0keSj2W8/hqdefault.jpg"
+user:
+  username: "milesroxas"
+  name: "Miles Roxas"
+tags: ["behind the scenes","design","advertising","photography"]
+html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/oSd0keSj2W8?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+---
+
+An exclusive behind-the-scenes tour of a McDonald's Canada photo shoot.

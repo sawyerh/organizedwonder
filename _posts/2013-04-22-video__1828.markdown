@@ -1,0 +1,14 @@
+---
+title: "The Smokehouse"
+date: 2013-04-22 20:49:34 00:00
+permalink: /videos/1828
+source: "https://vimeo.com/48864768"
+thumbnail: "http://b.vimeocdn.com/ts/337/056/337056578_1280.jpg"
+user:
+  username: "sawyer"
+  name: "Sawyer Hollenshead"
+tags: ["short documentary"]
+html: "<iframe src=\"http://player.vimeo.com/video/48864768\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+---
+
+Smith joined forces with Victorian grower, gatherer, hunter and cook Rohan Anderson to build a pioneer-style cold smokehouse on his property just outside Ballarat. This short film by Melbourne-based production studio Commoner captures the vision of the smokehouse build and the story of Anderson’s motivation. A step-by-step account of the process was featured in Smith Journal volume four.
