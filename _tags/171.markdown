@@ -1,6 +1,0 @@
----
-title: "craigslist"
-id: tag.id
-permalink: "/tags/craigslist"
-videos: [93]
----

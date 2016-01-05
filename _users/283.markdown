@@ -1,9 +1,0 @@
----
-title: "alvin harrison"
-date: 2012-05-18 11:36:39 00:00
-permalink: /alvin
-twitter: ""
-likes: [120,605,48]
-id: 283
-gravatar: "http://www.gravatar.com/avatar/9684d014083fbd673963c779def58490"
----

@@ -1,6 +1,0 @@
----
-title: "underground cartoonist"
-id: tag.id
-permalink: "/tags/underground%20cartoonist"
-videos: [1149]
----

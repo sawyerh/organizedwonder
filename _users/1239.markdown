@@ -1,9 +1,0 @@
----
-title: "Izidor Matušov"
-date: 2012-07-22 18:27:57 00:00
-permalink: /izidor
-twitter: ""
-likes: [1068,39,580,1155,1108,1249,1238,2033]
-id: 1239
-gravatar: "http://www.gravatar.com/avatar/abeb4d3fa51c19d88731b0e3e84f417a"
----

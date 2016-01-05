@@ -1,9 +1,0 @@
----
-title: "gwenael doux"
-date: 2012-05-18 12:54:15 00:00
-permalink: /gwendoux
-twitter: ""
-likes: [31,118,45,605,818,802,793,775]
-id: 299
-gravatar: "http://www.gravatar.com/avatar/70e5e5d1604b00c373fe08e3eb0d0a7e"
----

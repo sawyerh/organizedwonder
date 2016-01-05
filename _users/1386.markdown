@@ -1,9 +1,0 @@
----
-title: "matthieu mingasson"
-date: 2012-10-16 11:35:45 00:00
-permalink: /activeside
-twitter: "activeside"
-likes: [1263]
-id: 1386
-gravatar: "http://www.gravatar.com/avatar/850ca690a2aaec144b41c4406e23fa12"
----

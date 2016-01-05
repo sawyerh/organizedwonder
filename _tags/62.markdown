@@ -1,6 +1,0 @@
----
-title: "skydiving"
-id: tag.id
-permalink: "/tags/skydiving"
-videos: [28,47]
----

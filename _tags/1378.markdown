@@ -1,6 +1,0 @@
----
-title: "minería"
-id: tag.id
-permalink: "/tags/miner%C3%ADa"
-videos: [1619]
----

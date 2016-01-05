@@ -1,6 +1,0 @@
----
-title: "game"
-id: tag.id
-permalink: "/tags/game"
-videos: [855,1212,1779]
----

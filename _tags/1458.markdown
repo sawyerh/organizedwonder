@@ -1,6 +1,0 @@
----
-title: "miracle"
-id: tag.id
-permalink: "/tags/miracle"
-videos: [1674]
----

@@ -1,6 +1,0 @@
----
-title: "high school"
-id: tag.id
-permalink: "/tags/high%20school"
-videos: [1248]
----

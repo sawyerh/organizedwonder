@@ -1,6 +1,0 @@
----
-title: "studioaka"
-id: tag.id
-permalink: "/tags/studioaka"
-videos: [1267]
----

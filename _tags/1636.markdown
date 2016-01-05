@@ -1,6 +1,0 @@
----
-title: "medical"
-id: tag.id
-permalink: "/tags/medical"
-videos: [1979]
----

@@ -1,6 +1,0 @@
----
-title: "action"
-id: tag.id
-permalink: "/tags/action"
-videos: [855,956,1980,2214]
----

@@ -1,6 +1,0 @@
----
-title: "authenticity"
-id: tag.id
-permalink: "/tags/authenticity"
-videos: [914]
----

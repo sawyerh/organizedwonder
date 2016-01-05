@@ -1,6 +1,0 @@
----
-title: "neuroscience"
-id: tag.id
-permalink: "/tags/neuroscience"
-videos: [1611]
----

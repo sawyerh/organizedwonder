@@ -1,6 +1,0 @@
----
-title: "shopify"
-id: tag.id
-permalink: "/tags/shopify"
-videos: [1999]
----

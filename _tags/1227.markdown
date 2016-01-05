@@ -1,6 +1,0 @@
----
-title: "icons"
-id: tag.id
-permalink: "/tags/icons"
-videos: [1407]
----

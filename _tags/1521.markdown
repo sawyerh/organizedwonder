@@ -1,6 +1,0 @@
----
-title: "gritty"
-id: tag.id
-permalink: "/tags/gritty"
-videos: [1717]
----

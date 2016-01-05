@@ -1,6 +1,0 @@
----
-title: "paul irish"
-id: tag.id
-permalink: "/tags/paul%20irish"
-videos: [1003]
----

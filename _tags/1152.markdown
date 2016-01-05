@@ -1,6 +1,0 @@
----
-title: "print"
-id: tag.id
-permalink: "/tags/print"
-videos: [1257,1258,1259,1851]
----

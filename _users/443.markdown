@@ -1,9 +1,0 @@
----
-title: "Shawn Hileman"
-date: 2012-05-19 12:56:13 00:00
-permalink: /shawnhileman
-twitter: ""
-likes: [39,100,310]
-id: 443
-gravatar: "http://www.gravatar.com/avatar/12e001ace33ccec28add2dfb72f1c000"
----

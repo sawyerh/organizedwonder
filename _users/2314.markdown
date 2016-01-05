@@ -1,9 +1,0 @@
----
-title: "Saleem Asad"
-date: 2014-07-26 08:57:29 00:00
-permalink: /sonnycheeba21
-twitter: ""
-likes: [89,2328]
-id: 2314
-gravatar: "http://www.gravatar.com/avatar/af2610482bd51076afe064f9da41774f"
----

@@ -1,9 +1,0 @@
----
-title: "Megan de Castro"
-date: 2013-02-11 20:24:29 00:00
-permalink: /megandecastro
-twitter: ""
-likes: [107,1680,1650,39,1034,1670,1574,645,646,7,1769,1796,1886,2363,2340,43,2242,287,277,2039,1838,2159,2513,2514,2516,2449,2535,2536,2553]
-id: 1796
-gravatar: "http://www.gravatar.com/avatar/e079de4eb582d746d9d7f8b53b0d232b"
----

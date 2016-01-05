@@ -1,9 +1,0 @@
----
-title: "Ken Voskuil"
-date: 2012-05-21 21:22:00 00:00
-permalink: /kaesve
-twitter: ""
-likes: [393,26,25,545,671,69,1019,729,1758,1727,1747,1862,287,1231,1888,1365,1896]
-id: 581
-gravatar: "http://www.gravatar.com/avatar/251fec3e96861180c2695e17db077e78"
----

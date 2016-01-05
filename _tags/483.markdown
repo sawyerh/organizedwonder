@@ -1,6 +1,0 @@
----
-title: "psychology"
-id: tag.id
-permalink: "/tags/psychology"
-videos: [521,861,872,1276]
----

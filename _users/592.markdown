@@ -1,9 +1,0 @@
----
-title: "Rachel Anne Diesel"
-date: 2012-05-22 01:21:02 00:00
-permalink: /radiesel
-twitter: "upsidedownview"
-likes: [1068,916,1055,948,836,260,1076,1024,1050,38,248,979,1112,1103,58,448,1181,1246,1564,1741,808]
-id: 592
-gravatar: "http://www.gravatar.com/avatar/2397fa7127250a615cefa903ce635dbf"
----

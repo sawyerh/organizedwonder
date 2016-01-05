@@ -1,6 +1,0 @@
----
-title: "badass"
-id: tag.id
-permalink: "/tags/badass"
-videos: [544]
----

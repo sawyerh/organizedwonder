@@ -1,9 +1,0 @@
----
-title: "Rob"
-date: 2012-05-19 07:18:56 00:00
-permalink: /zaph_d
-twitter: "zaph_d"
-likes: [358,248,137,69,67,426,427,425]
-id: 424
-gravatar: "http://www.gravatar.com/avatar/30abc867a65ce31aee5f3c9bd4fdcee4"
----

@@ -1,6 +1,0 @@
----
-title: "indie film"
-id: tag.id
-permalink: "/tags/indie%20film"
-videos: [2249]
----

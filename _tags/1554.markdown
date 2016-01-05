@@ -1,6 +1,0 @@
----
-title: "taylor knox"
-id: tag.id
-permalink: "/tags/taylor%20knox"
-videos: [1772]
----

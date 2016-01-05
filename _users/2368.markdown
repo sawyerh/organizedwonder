@@ -1,9 +1,0 @@
----
-title: "Bryce Thompson"
-date: 2015-03-11 01:09:44 00:00
-permalink: /mynameisbryce
-twitter: "mynameisbryce"
-likes: [2474,2525]
-id: 2368
-gravatar: "http://www.gravatar.com/avatar/5de4a096da704ed5ddf4b11f9aab2675"
----

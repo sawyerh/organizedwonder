@@ -1,6 +1,0 @@
----
-title: "fear"
-id: tag.id
-permalink: "/tags/fear"
-videos: [523,947,1573,2168]
----

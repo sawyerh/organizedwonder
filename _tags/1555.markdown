@@ -1,6 +1,0 @@
----
-title: "surfer mag"
-id: tag.id
-permalink: "/tags/surfer%20mag"
-videos: [1772]
----

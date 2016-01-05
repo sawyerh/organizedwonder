@@ -1,6 +1,0 @@
----
-title: "frank chimero"
-id: tag.id
-permalink: "/tags/frank%20chimero"
-videos: [58,1486]
----

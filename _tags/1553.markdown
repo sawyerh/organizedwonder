@@ -1,6 +1,0 @@
----
-title: "kelly slater"
-id: tag.id
-permalink: "/tags/kelly%20slater"
-videos: [1772]
----

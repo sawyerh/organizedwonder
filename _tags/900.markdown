@@ -1,6 +1,0 @@
----
-title: "chinese"
-id: tag.id
-permalink: "/tags/chinese"
-videos: [956]
----

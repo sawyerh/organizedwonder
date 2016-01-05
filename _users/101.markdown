@@ -1,9 +1,0 @@
----
-title: "James Thornton"
-date: 2012-05-17 20:30:23 00:00
-permalink: /espeed
-twitter: ""
-likes: [109,39,130]
-id: 101
-gravatar: "http://www.gravatar.com/avatar/c3ec3527fcc81f17634ec02c356630aa"
----

@@ -1,6 +1,0 @@
----
-title: "rfid student tracking system"
-id: tag.id
-permalink: "/tags/rfid%20student%20tracking%20system"
-videos: [2567]
----

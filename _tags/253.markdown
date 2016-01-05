@@ -1,6 +1,0 @@
----
-title: "poptech2010"
-id: tag.id
-permalink: "/tags/poptech2010"
-videos: [171]
----

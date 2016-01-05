@@ -1,6 +1,0 @@
----
-title: "dschool"
-id: tag.id
-permalink: "/tags/dschool"
-videos: [1707]
----

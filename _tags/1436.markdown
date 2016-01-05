@@ -1,6 +1,0 @@
----
-title: "central park"
-id: tag.id
-permalink: "/tags/central%20park"
-videos: [1648]
----

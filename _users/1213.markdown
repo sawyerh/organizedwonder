@@ -1,9 +1,0 @@
----
-title: "Maru Stephens"
-date: 2012-07-20 16:30:11 00:00
-permalink: /marustephens
-twitter: "MaruStephens"
-likes: [1047,258,25,252,1137]
-id: 1213
-gravatar: "http://www.gravatar.com/avatar/b9ee158af7b3f4c79f16a46477bd6f89"
----

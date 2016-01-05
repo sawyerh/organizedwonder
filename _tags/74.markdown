@@ -1,6 +1,0 @@
----
-title: "story"
-id: tag.id
-permalink: "/tags/story"
-videos: [33,54,76,112,149,269,270,361,469,927,1663,2314,2318]
----

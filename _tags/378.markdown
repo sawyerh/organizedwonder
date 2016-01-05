@@ -1,6 +1,0 @@
----
-title: "cancer"
-id: tag.id
-permalink: "/tags/cancer"
-videos: [341,1127]
----

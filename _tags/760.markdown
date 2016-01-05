@@ -1,6 +1,0 @@
----
-title: "the intelligence squared debate"
-id: tag.id
-permalink: "/tags/the%20intelligence%20squared%20debate"
-videos: [854]
----

@@ -1,6 +1,0 @@
----
-title: "explosions in the sky"
-id: tag.id
-permalink: "/tags/explosions%20in%20the%20sky"
-videos: [608,609]
----

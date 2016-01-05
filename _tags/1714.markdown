@@ -1,6 +1,0 @@
----
-title: "seplacure"
-id: tag.id
-permalink: "/tags/seplacure"
-videos: [2080]
----

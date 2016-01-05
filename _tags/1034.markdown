@@ -1,6 +1,0 @@
----
-title: "bas jan ader"
-id: tag.id
-permalink: "/tags/bas%20jan%20ader"
-videos: [1088,1098]
----

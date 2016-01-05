@@ -1,6 +1,0 @@
----
-title: "jack daniels"
-id: tag.id
-permalink: "/tags/jack%20daniels"
-videos: [723,993]
----

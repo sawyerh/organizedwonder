@@ -1,6 +1,0 @@
----
-title: "theory"
-id: tag.id
-permalink: "/tags/theory"
-videos: [151]
----

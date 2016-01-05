@@ -1,6 +1,0 @@
----
-title: "john maeda"
-id: tag.id
-permalink: "/tags/john%20maeda"
-videos: [1241]
----

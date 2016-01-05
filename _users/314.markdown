@@ -1,9 +1,0 @@
----
-title: "for bread + love"
-date: 2012-05-18 13:27:42 00:00
-permalink: /forbreadandlove
-twitter: "forbreadandlove"
-likes: [76,16,18,1,134,319,541,534,535,618,615,614,616]
-id: 314
-gravatar: "http://www.gravatar.com/avatar/26b58349e6edf1347fefd752e7cfcd0a"
----

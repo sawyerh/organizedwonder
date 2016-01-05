@@ -1,6 +1,0 @@
----
-title: "offset"
-id: tag.id
-permalink: "/tags/offset"
-videos: [1565]
----

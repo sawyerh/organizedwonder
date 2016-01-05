@@ -1,6 +1,0 @@
----
-title: "actors"
-id: tag.id
-permalink: "/tags/actors"
-videos: [1361]
----

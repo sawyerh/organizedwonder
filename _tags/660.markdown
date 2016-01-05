@@ -1,6 +1,0 @@
----
-title: "history"
-id: tag.id
-permalink: "/tags/history"
-videos: [741,1311,1772,2034,2126,2232,2511]
----

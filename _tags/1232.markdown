@@ -1,6 +1,0 @@
----
-title: "product-design"
-id: tag.id
-permalink: "/tags/product-design"
-videos: [1408]
----

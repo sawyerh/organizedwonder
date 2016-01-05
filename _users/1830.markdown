@@ -1,9 +1,0 @@
----
-title: "Lauren O'Neill"
-date: 2013-03-04 04:55:40 00:00
-permalink: /laurenoneill
-twitter: "laurenoneill"
-likes: [69,1345,444,122,125,1661,1375,1725,1726,1191,1727,932,107,1728,1433,1729]
-id: 1830
-gravatar: "http://www.gravatar.com/avatar/854d461ed17b75541fb5151211528cc9"
----

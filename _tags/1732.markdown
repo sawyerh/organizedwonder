@@ -1,6 +1,0 @@
----
-title: "axel teyssier"
-id: tag.id
-permalink: "/tags/axel%20teyssier"
-videos: [2096]
----

@@ -1,6 +1,0 @@
----
-title: "network visualization"
-id: tag.id
-permalink: "/tags/network%20visualization"
-videos: [1013]
----

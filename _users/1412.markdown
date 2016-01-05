@@ -1,9 +1,0 @@
----
-title: "nick tilden"
-date: 2012-11-09 16:49:13 00:00
-permalink: /ineedsubstance
-twitter: ""
-likes: [1371]
-id: 1412
-gravatar: "http://www.gravatar.com/avatar/edd0fb7eddd86ee6cdf035471efb5f1a"
----

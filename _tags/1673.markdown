@@ -1,6 +1,0 @@
----
-title: "chris heilmann"
-id: tag.id
-permalink: "/tags/chris%20heilmann"
-videos: [2015]
----

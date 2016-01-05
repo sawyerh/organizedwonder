@@ -1,6 +1,0 @@
----
-title: "video"
-id: tag.id
-permalink: "/tags/video"
-videos: [855,1364,1581,1582,1625,1641,1671,1678,2249]
----

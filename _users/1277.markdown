@@ -1,9 +1,0 @@
----
-title: "Sam Sehnert"
-date: 2012-08-05 03:52:04 00:00
-permalink: /sam_sehnert
-twitter: "sam_sehnert"
-likes: [1214,1065]
-id: 1277
-gravatar: "http://www.gravatar.com/avatar/80eb6435260836f20ed3d960e29c18fb"
----

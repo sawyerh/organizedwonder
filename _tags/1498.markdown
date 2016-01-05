@@ -1,6 +1,0 @@
----
-title: "fish"
-id: tag.id
-permalink: "/tags/fish"
-videos: [1698]
----

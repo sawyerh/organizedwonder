@@ -1,9 +1,0 @@
----
-title: "Jurre Antonisse"
-date: 2012-11-13 22:55:21 00:00
-permalink: /jurreantonisse
-twitter: "jurreantonisse"
-likes: [1469,1647]
-id: 1533
-gravatar: "http://www.gravatar.com/avatar/289b119df56ca53d4e88d35537a06ef8"
----

@@ -1,6 +1,0 @@
----
-title: "compose"
-id: tag.id
-permalink: "/tags/compose"
-videos: [2547]
----

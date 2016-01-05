@@ -1,6 +1,0 @@
----
-title: "logos"
-id: tag.id
-permalink: "/tags/logos"
-videos: [823,930]
----

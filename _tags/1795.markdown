@@ -1,6 +1,0 @@
----
-title: "bigdata"
-id: tag.id
-permalink: "/tags/bigdata"
-videos: [2173]
----

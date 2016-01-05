@@ -1,6 +1,0 @@
----
-title: "bmx"
-id: tag.id
-permalink: "/tags/bmx"
-videos: [5,18]
----

@@ -1,6 +1,0 @@
----
-title: "vr"
-id: tag.id
-permalink: "/tags/vr"
-videos: [2471]
----

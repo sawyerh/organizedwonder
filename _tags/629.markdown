@@ -1,6 +1,0 @@
----
-title: "tech"
-id: tag.id
-permalink: "/tags/tech"
-videos: [703,2488,2572]
----

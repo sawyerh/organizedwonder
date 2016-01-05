@@ -1,6 +1,0 @@
----
-title: "noir"
-id: tag.id
-permalink: "/tags/noir"
-videos: [1792]
----

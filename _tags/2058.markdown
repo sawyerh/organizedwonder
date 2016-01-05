@@ -1,6 +1,0 @@
----
-title: "beast"
-id: tag.id
-permalink: "/tags/beast"
-videos: [2521]
----

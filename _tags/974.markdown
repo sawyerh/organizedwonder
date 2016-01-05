@@ -1,6 +1,0 @@
----
-title: "wood"
-id: tag.id
-permalink: "/tags/wood"
-videos: [1025]
----

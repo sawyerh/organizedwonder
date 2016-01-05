@@ -1,9 +1,0 @@
----
-title: "Jarrod Saunders"
-date: 2015-06-22 09:48:48 00:00
-permalink: /dynisty
-twitter: ""
-likes: [2531]
-id: 2403
-gravatar: "http://www.gravatar.com/avatar/2d5a6c266bc584c4230c674da55c8258"
----

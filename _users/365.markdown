@@ -1,9 +1,0 @@
----
-title: "Fernando Paravela"
-date: 2012-05-18 17:00:00 00:00
-permalink: /paravela
-twitter: ""
-likes: [67,258]
-id: 365
-gravatar: "http://www.gravatar.com/avatar/436fab23ac1644fb9d13a3a050b92944"
----

@@ -1,9 +1,0 @@
----
-title: "Jeff Suarez"
-date: 2012-05-17 22:57:32 00:00
-permalink: /jeffsuarez
-twitter: ""
-likes: [18]
-id: 137
-gravatar: "http://www.gravatar.com/avatar/b2e9304a60663ce24cd8e4e8fed328d6"
----

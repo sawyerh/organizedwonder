@@ -1,6 +1,0 @@
----
-title: "the grid"
-id: tag.id
-permalink: "/tags/the%20grid"
-videos: [1495]
----

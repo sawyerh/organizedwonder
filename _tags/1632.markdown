@@ -1,6 +1,0 @@
----
-title: "winner"
-id: tag.id
-permalink: "/tags/winner"
-videos: [1979]
----

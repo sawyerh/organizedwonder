@@ -1,6 +1,0 @@
----
-title: "jack dorsey"
-id: tag.id
-permalink: "/tags/jack%20dorsey"
-videos: [467,1371]
----

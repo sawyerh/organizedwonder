@@ -1,9 +1,0 @@
----
-title: "Chris Kerins"
-date: 2012-05-24 20:50:31 00:00
-permalink: /ckerins
-twitter: ""
-likes: [604,134,606,699,1095,1531,1533]
-id: 670
-gravatar: "http://www.gravatar.com/avatar/9fc8efdea57afaa9076fbc3990d7bea4"
----

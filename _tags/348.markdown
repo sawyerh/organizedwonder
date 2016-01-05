@@ -1,6 +1,0 @@
----
-title: "mail chimp"
-id: tag.id
-permalink: "/tags/mail%20chimp"
-videos: [277]
----

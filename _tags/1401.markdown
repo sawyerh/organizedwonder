@@ -1,6 +1,0 @@
----
-title: "ben thorne"
-id: tag.id
-permalink: "/tags/ben%20thorne"
-videos: [1633]
----

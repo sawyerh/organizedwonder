@@ -1,6 +1,0 @@
----
-title: "sci fi"
-id: tag.id
-permalink: "/tags/sci%20fi"
-videos: [855]
----

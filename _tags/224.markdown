@@ -1,6 +1,0 @@
----
-title: "cusp 2010"
-id: tag.id
-permalink: "/tags/cusp%202010"
-videos: [159]
----

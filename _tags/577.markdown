@@ -1,6 +1,0 @@
----
-title: "rsa animate"
-id: tag.id
-permalink: "/tags/rsa%20animate"
-videos: [613,1096]
----

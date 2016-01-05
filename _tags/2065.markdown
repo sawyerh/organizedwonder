@@ -1,6 +1,0 @@
----
-title: "distribution"
-id: tag.id
-permalink: "/tags/distribution"
-videos: [2532]
----

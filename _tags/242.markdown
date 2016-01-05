@@ -1,6 +1,0 @@
----
-title: "mao tsedong"
-id: tag.id
-permalink: "/tags/mao%20tsedong"
-videos: [167]
----

@@ -1,6 +1,0 @@
----
-title: "portrait"
-id: tag.id
-permalink: "/tags/portrait"
-videos: [611]
----

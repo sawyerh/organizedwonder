@@ -1,6 +1,0 @@
----
-title: "second screen"
-id: tag.id
-permalink: "/tags/second%20screen"
-videos: [432]
----

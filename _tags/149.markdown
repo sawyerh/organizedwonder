@@ -1,6 +1,0 @@
----
-title: "mystery"
-id: tag.id
-permalink: "/tags/mystery"
-videos: [72,846,2509]
----

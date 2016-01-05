@@ -1,6 +1,0 @@
----
-title: "bill gates"
-id: tag.id
-permalink: "/tags/bill%20gates"
-videos: [2552]
----

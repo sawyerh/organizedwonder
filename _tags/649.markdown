@@ -1,6 +1,0 @@
----
-title: "desing"
-id: tag.id
-permalink: "/tags/desing"
-videos: [722]
----

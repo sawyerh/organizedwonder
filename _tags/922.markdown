@@ -1,6 +1,0 @@
----
-title: "retail"
-id: tag.id
-permalink: "/tags/retail"
-videos: [984,1999]
----

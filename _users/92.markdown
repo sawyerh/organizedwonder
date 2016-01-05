@@ -1,9 +1,0 @@
----
-title: "Kevin Huynh"
-date: 2012-05-17 14:06:28 00:00
-permalink: /kevinhuynh
-twitter: "kevinhuynh"
-likes: [31]
-id: 92
-gravatar: "http://www.gravatar.com/avatar/1989ea0aa0d28421da0f73319c28d561"
----

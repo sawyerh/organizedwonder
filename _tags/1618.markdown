@@ -1,6 +1,0 @@
----
-title: "stop stealing dreams"
-id: tag.id
-permalink: "/tags/stop%20stealing%20dreams"
-videos: [1959]
----

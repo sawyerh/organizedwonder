@@ -1,6 +1,0 @@
----
-title: "webvisions"
-id: tag.id
-permalink: "/tags/webvisions"
-videos: [2015]
----

@@ -1,6 +1,0 @@
----
-title: "eric bonerz"
-id: tag.id
-permalink: "/tags/eric%20bonerz"
-videos: [475]
----

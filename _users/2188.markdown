@@ -1,9 +1,0 @@
----
-title: "Sarah"
-date: 2014-01-16 09:39:47 00:00
-permalink: /plantsarah
-twitter: ""
-likes: [2198,1233]
-id: 2188
-gravatar: "http://www.gravatar.com/avatar/f6ae99129885c82cb70615564c0c943f"
----

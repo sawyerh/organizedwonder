@@ -1,9 +1,0 @@
----
-title: "Alessandro Muraro"
-date: 2013-10-13 11:59:13 00:00
-permalink: /akmur
-twitter: ""
-likes: [2098,2099,2100,1982,2101,1876,521,2102,1670,2104]
-id: 2084
-gravatar: "http://www.gravatar.com/avatar/7fa6101cd43067653cf4ac6c7ca54305"
----

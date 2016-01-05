@@ -1,6 +1,0 @@
----
-title: "george lois"
-id: tag.id
-permalink: "/tags/george%20lois"
-videos: [1550]
----

@@ -1,6 +1,0 @@
----
-title: "front-trends"
-id: tag.id
-permalink: "/tags/front-trends"
-videos: [1225]
----

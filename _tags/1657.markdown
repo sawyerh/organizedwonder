@@ -1,6 +1,0 @@
----
-title: "nick night"
-id: tag.id
-permalink: "/tags/nick%20night"
-videos: [1991]
----

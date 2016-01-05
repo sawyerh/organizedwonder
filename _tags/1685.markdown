@@ -1,6 +1,0 @@
----
-title: "evironment"
-id: tag.id
-permalink: "/tags/evironment"
-videos: [2023]
----

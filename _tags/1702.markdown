@@ -1,6 +1,0 @@
----
-title: "affordances"
-id: tag.id
-permalink: "/tags/affordances"
-videos: [2062]
----

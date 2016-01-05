@@ -1,9 +1,0 @@
----
-title: "Jeremy Fisher"
-date: 2012-07-06 21:40:31 00:00
-permalink: /jeremyhfisher
-twitter: "jeremyhfisher"
-likes: [1045]
-id: 1155
-gravatar: "http://www.gravatar.com/avatar/28849795085ef95ac87defd3e7e56b4e"
----

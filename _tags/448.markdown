@@ -1,6 +1,0 @@
----
-title: "square"
-id: tag.id
-permalink: "/tags/square"
-videos: [467,1371]
----

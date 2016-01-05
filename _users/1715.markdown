@@ -1,9 +1,0 @@
----
-title: "Simon Jones"
-date: 2013-01-02 14:13:54 00:00
-permalink: /jonesy2008
-twitter: "jonesy2008"
-likes: [1545,515,1271,1108,1459]
-id: 1715
-gravatar: "http://www.gravatar.com/avatar/ef7711b6923f30c1b65ba3cdab17087b"
----

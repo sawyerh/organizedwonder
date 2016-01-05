@@ -1,9 +1,0 @@
----
-title: "Linda Raue"
-date: 2012-08-13 21:16:30 00:00
-permalink: /linda
-twitter: ""
-likes: [1254,1108,1285]
-id: 1292
-gravatar: "http://www.gravatar.com/avatar/97914149052f3d8ed8da0edafd335c43"
----

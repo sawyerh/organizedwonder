@@ -1,6 +1,0 @@
----
-title: "dan wieden"
-id: tag.id
-permalink: "/tags/dan%20wieden"
-videos: [70]
----

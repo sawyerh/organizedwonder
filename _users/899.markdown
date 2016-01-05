@@ -1,9 +1,0 @@
----
-title: "Clément Faydi"
-date: 2012-06-08 18:55:42 00:00
-permalink: /cfaydi
-twitter: "cfaydi"
-likes: [808,39,555,698,69]
-id: 899
-gravatar: "http://www.gravatar.com/avatar/0c42e4d495e3af6f5a348ba3f2a0cf6d"
----

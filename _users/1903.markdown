@@ -1,9 +1,0 @@
----
-title: "Thomas Michaud"
-date: 2013-04-02 12:02:23 00:00
-permalink: /coldcoffee
-twitter: "ColdCoffee"
-likes: [1750,1712,1736,1613]
-id: 1903
-gravatar: "http://www.gravatar.com/avatar/f59be24381ff29b7e1059b86a4dded6f"
----

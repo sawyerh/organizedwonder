@@ -1,6 +1,0 @@
----
-title: "colleges"
-id: tag.id
-permalink: "/tags/colleges"
-videos: [261]
----

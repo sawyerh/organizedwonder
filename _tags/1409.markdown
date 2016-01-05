@@ -1,6 +1,0 @@
----
-title: "industrial"
-id: tag.id
-permalink: "/tags/industrial"
-videos: [1637]
----

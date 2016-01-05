@@ -1,9 +1,0 @@
----
-title: "Brent Dixon"
-date: 2012-05-30 20:35:33 00:00
-permalink: /itsjustbrent
-twitter: "itsjustbrent"
-likes: [2072,344]
-id: 795
-gravatar: "http://www.gravatar.com/avatar/bfeb6907746be0d2465003312a54c4a5"
----

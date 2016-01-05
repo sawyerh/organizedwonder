@@ -1,9 +1,0 @@
----
-title: "Susan Huotari"
-date: 2013-01-11 11:41:57 00:00
-permalink: /susanh
-twitter: ""
-likes: [1066]
-id: 1736
-gravatar: "http://www.gravatar.com/avatar/9369bf815c92c063b8e62ea861b9cb4d"
----

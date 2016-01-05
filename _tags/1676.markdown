@@ -1,6 +1,0 @@
----
-title: "co2"
-id: tag.id
-permalink: "/tags/co2"
-videos: [2016]
----

@@ -1,6 +1,0 @@
----
-title: "vulnerability"
-id: tag.id
-permalink: "/tags/vulnerability"
-videos: [201]
----

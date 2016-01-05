@@ -1,6 +1,0 @@
----
-title: "cats"
-id: tag.id
-permalink: "/tags/cats"
-videos: [1043]
----

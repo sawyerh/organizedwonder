@@ -1,6 +1,0 @@
----
-title: "humans"
-id: tag.id
-permalink: "/tags/humans"
-videos: [1052]
----

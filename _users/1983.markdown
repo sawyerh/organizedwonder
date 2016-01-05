@@ -1,9 +1,0 @@
----
-title: "Ali Nazeer"
-date: 2013-05-29 10:22:06 00:00
-permalink: /paindu
-twitter: ""
-likes: [876]
-id: 1983
-gravatar: "http://www.gravatar.com/avatar/0747a4d2883e359f9421e5b7fa1476bf"
----

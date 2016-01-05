@@ -1,6 +1,0 @@
----
-title: "radiohead"
-id: tag.id
-permalink: "/tags/radiohead"
-videos: [217]
----

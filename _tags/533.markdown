@@ -1,6 +1,0 @@
----
-title: "eugene mirman"
-id: tag.id
-permalink: "/tags/eugene%20mirman"
-videos: [564]
----

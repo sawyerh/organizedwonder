@@ -1,9 +1,0 @@
----
-title: "Mathew Nash"
-date: 2013-04-23 00:42:01 00:00
-permalink: /mtthw
-twitter: "_hew"
-likes: [1814]
-id: 1947
-gravatar: "http://www.gravatar.com/avatar/aa684d6ad52e210c1deedc1bd21f9c85"
----

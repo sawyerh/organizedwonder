@@ -1,6 +1,0 @@
----
-title: "upwave"
-id: tag.id
-permalink: "/tags/upwave"
-videos: [2279]
----

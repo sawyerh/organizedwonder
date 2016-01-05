@@ -1,6 +1,0 @@
----
-title: "sound production"
-id: tag.id
-permalink: "/tags/sound%20production"
-videos: [2496]
----

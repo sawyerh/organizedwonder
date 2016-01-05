@@ -1,6 +1,0 @@
----
-title: "race"
-id: tag.id
-permalink: "/tags/race"
-videos: [123,2413]
----

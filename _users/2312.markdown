@@ -1,9 +1,0 @@
----
-title: "bencutting"
-date: 2014-07-24 12:46:32 00:00
-permalink: /bencutting
-twitter: ""
-likes: [2365]
-id: 2312
-gravatar: "http://www.gravatar.com/avatar/ebaed26568279ea296203d828450ff6b"
----

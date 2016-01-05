@@ -1,9 +1,0 @@
----
-title: "Alex G Weiser"
-date: 2013-04-08 16:31:24 00:00
-permalink: /alexgweiser
-twitter: "alexgweiser"
-likes: [1864,1849,1797,1762,1871,248,73,147,1005,300,447,541,1865,1873]
-id: 1919
-gravatar: "http://www.gravatar.com/avatar/1b4f4561ecf04d9b0fc15fa533230798"
----

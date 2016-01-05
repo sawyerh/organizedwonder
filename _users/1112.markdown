@@ -1,9 +1,0 @@
----
-title: "Mary"
-date: 2012-06-26 12:18:30 00:00
-permalink: /mary
-twitter: ""
-likes: [359,325,627,120,916,316]
-id: 1112
-gravatar: "http://www.gravatar.com/avatar/17c9595231afcb65beda701a81423b6d"
----

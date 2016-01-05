@@ -1,6 +1,0 @@
----
-title: "craftsmanship"
-id: tag.id
-permalink: "/tags/craftsmanship"
-videos: [2507,2569,2577]
----

@@ -1,9 +1,0 @@
----
-title: "Jonas Mondschein"
-date: 2012-05-20 01:21:09 00:00
-permalink: /j%C3%B3nasm
-twitter: ""
-likes: [135]
-id: 481
-gravatar: "http://www.gravatar.com/avatar/08fc355e935660ccffe2c928dc288e43"
----

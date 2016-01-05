@@ -1,9 +1,0 @@
----
-title: "jon setzen"
-date: 2012-05-18 21:16:06 00:00
-permalink: /jonsetzen
-twitter: ""
-likes: [1530,1788,1535,1758,1726]
-id: 391
-gravatar: "http://www.gravatar.com/avatar/8bfd7f1984806b6152c43d602e744ce6"
----

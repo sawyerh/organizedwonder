@@ -1,6 +1,0 @@
----
-title: "rock climbing"
-id: tag.id
-permalink: "/tags/rock%20climbing"
-videos: [841]
----

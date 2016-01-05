@@ -1,6 +1,0 @@
----
-title: "dave foster"
-id: tag.id
-permalink: "/tags/dave%20foster"
-videos: [1887]
----

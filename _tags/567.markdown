@@ -1,6 +1,0 @@
----
-title: "patience"
-id: tag.id
-permalink: "/tags/patience"
-videos: [611]
----

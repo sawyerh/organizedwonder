@@ -1,6 +1,0 @@
----
-title: "j cole"
-id: tag.id
-permalink: "/tags/j%20cole"
-videos: [2551]
----

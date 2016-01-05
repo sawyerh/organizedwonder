@@ -1,9 +1,0 @@
----
-title: "Eric Fader"
-date: 2012-05-17 21:36:07 00:00
-permalink: /booyah
-twitter: ""
-likes: [97]
-id: 115
-gravatar: "http://www.gravatar.com/avatar/7810bd42b1055fc6b1649dd18451fe07"
----

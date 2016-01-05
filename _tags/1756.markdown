@@ -1,6 +1,0 @@
----
-title: "civil disobedience"
-id: tag.id
-permalink: "/tags/civil%20disobedience"
-videos: [2126]
----

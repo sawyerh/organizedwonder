@@ -1,9 +1,0 @@
----
-title: "Telma Patrícia Ruivo Baptista"
-date: 2012-05-18 14:28:13 00:00
-permalink: /telmabaptista
-twitter: ""
-likes: [252,254,255,135,73,482,483,497,521,72,524,530,553,1032]
-id: 326
-gravatar: "http://www.gravatar.com/avatar/0823215b7ca8943237a9745165d6d9f7"
----

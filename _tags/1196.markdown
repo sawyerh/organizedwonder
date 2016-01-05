@@ -1,6 +1,0 @@
----
-title: "mickey rourke"
-id: tag.id
-permalink: "/tags/mickey%20rourke"
-videos: [1361]
----

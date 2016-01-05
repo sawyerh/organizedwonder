@@ -1,6 +1,0 @@
----
-title: "wowereit"
-id: tag.id
-permalink: "/tags/wowereit"
-videos: [167]
----

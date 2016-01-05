@@ -1,9 +1,0 @@
----
-title: "Jenner Alagao"
-date: 2012-06-27 05:08:19 00:00
-permalink: /xyren_poh
-twitter: ""
-likes: [840,106]
-id: 1122
-gravatar: "http://www.gravatar.com/avatar/7b4de6f226bc56e7e7e9634c87a3bfa2"
----

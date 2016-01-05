@@ -1,6 +1,0 @@
----
-title: "small business"
-id: tag.id
-permalink: "/tags/small%20business"
-videos: [1126,1137]
----

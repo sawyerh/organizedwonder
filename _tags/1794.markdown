@@ -1,6 +1,0 @@
----
-title: "tedx"
-id: tag.id
-permalink: "/tags/tedx"
-videos: [2275,2170,2490]
----

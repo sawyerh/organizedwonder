@@ -1,6 +1,0 @@
----
-title: "western"
-id: tag.id
-permalink: "/tags/western"
-videos: [2339]
----

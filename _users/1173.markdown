@@ -1,9 +1,0 @@
----
-title: "Joel Bews"
-date: 2012-07-11 05:29:19 00:00
-permalink: /jobbies
-twitter: "jobbies"
-likes: [1042,1097]
-id: 1173
-gravatar: "http://www.gravatar.com/avatar/211196d52cc72eb3a7c63dfea8eee62d"
----

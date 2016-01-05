@@ -1,6 +1,0 @@
----
-title: "digital age"
-id: tag.id
-permalink: "/tags/digital%20age"
-videos: [527]
----

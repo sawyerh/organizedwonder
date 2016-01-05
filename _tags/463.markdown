@@ -1,6 +1,0 @@
----
-title: "surf"
-id: tag.id
-permalink: "/tags/surf"
-videos: [476,1772]
----

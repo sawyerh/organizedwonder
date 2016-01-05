@@ -1,6 +1,0 @@
----
-title: "win"
-id: tag.id
-permalink: "/tags/win"
-videos: [1624]
----

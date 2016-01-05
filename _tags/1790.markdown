@@ -1,6 +1,0 @@
----
-title: "priest"
-id: tag.id
-permalink: "/tags/priest"
-videos: [2168]
----

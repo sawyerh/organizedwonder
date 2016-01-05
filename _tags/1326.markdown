@@ -1,6 +1,0 @@
----
-title: 70
-id: tag.id
-permalink: "/tags/70"
-videos: [1577,2144]
----

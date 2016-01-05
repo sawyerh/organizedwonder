@@ -1,9 +1,0 @@
----
-title: "Kevin Chu"
-date: 2012-12-24 04:19:39 00:00
-permalink: /kevinchu
-twitter: ""
-likes: [1545]
-id: 1698
-gravatar: "http://www.gravatar.com/avatar/5bc7ddc2251b07dbf307b4f48bb4f2f4"
----

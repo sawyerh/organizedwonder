@@ -1,9 +1,0 @@
----
-title: "Amina Kadribasic"
-date: 2012-05-19 21:35:17 00:00
-permalink: /amintai
-twitter: ""
-likes: [67,312,366,63,434,111,406,394]
-id: 469
-gravatar: "http://www.gravatar.com/avatar/9a62ce57e9ce2814763e92ba812dd523"
----

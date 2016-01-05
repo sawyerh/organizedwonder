@@ -1,6 +1,0 @@
----
-title: "herman miller"
-id: tag.id
-permalink: "/tags/herman%20miller"
-videos: [1713]
----

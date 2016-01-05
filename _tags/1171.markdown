@@ -1,6 +1,0 @@
----
-title: "bill buxton"
-id: tag.id
-permalink: "/tags/bill%20buxton"
-videos: [1297,1298,1299,2177]
----

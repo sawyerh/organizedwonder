@@ -1,6 +1,0 @@
----
-title: "game of thrones"
-id: tag.id
-permalink: "/tags/game%20of%20thrones"
-videos: [856]
----

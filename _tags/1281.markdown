@@ -1,6 +1,0 @@
----
-title: "woody allen"
-id: tag.id
-permalink: "/tags/woody%20allen"
-videos: [1522]
----

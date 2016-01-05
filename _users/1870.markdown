@@ -1,9 +1,0 @@
----
-title: "Bill Keaggy"
-date: 2013-03-29 18:15:46 00:00
-permalink: /keaggy
-twitter: "keaggy"
-likes: [2006,2144]
-id: 1870
-gravatar: "http://www.gravatar.com/avatar/4e103e05d7be5084aa747e7d596fb899"
----

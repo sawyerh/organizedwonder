@@ -1,6 +1,0 @@
----
-title: "woodturning"
-id: tag.id
-permalink: "/tags/woodturning"
-videos: [799]
----

@@ -1,6 +1,0 @@
----
-title: "receitas"
-id: tag.id
-permalink: "/tags/receitas"
-videos: [751,750,752]
----

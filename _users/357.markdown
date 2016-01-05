@@ -1,9 +1,0 @@
----
-title: "Zach Waugh"
-date: 2012-05-18 16:29:11 00:00
-permalink: /zachwaugh
-twitter: "zachwaugh"
-likes: [258,248,1075]
-id: 357
-gravatar: "http://www.gravatar.com/avatar/8f0b58e74434edaf2917c9d3d657188e"
----

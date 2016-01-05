@@ -1,6 +1,0 @@
----
-title: "school"
-id: tag.id
-permalink: "/tags/school"
-videos: [1606]
----

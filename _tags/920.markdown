@@ -1,6 +1,0 @@
----
-title: "bicycles"
-id: tag.id
-permalink: "/tags/bicycles"
-videos: [983]
----

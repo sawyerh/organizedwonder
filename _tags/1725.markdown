@@ -1,6 +1,0 @@
----
-title: "coincidence"
-id: tag.id
-permalink: "/tags/coincidence"
-videos: [2085]
----

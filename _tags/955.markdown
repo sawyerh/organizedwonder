@@ -1,6 +1,0 @@
----
-title: "google i/o"
-id: tag.id
-permalink: "/tags/google%20i%2Fo"
-videos: [1003]
----

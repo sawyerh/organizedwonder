@@ -1,9 +1,0 @@
----
-title: "Bruno Monteiro"
-date: 2013-10-12 12:23:01 00:00
-permalink: /bmatwork
-twitter: "BMatWork"
-likes: [39,1564]
-id: 2083
-gravatar: "http://www.gravatar.com/avatar/58ca2c33dbf5768b93def11888d909ff"
----

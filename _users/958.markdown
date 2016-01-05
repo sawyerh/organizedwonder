@@ -1,9 +1,0 @@
----
-title: "Siddharth Ashok"
-date: 2012-06-12 21:40:50 00:00
-permalink: /siddr
-twitter: ""
-likes: [835,834,1672,1545]
-id: 958
-gravatar: "http://www.gravatar.com/avatar/15fdf39d269619ba028be0081bcd3915"
----

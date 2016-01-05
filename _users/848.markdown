@@ -1,9 +1,0 @@
----
-title: "gdo:"
-date: 2012-06-03 22:42:05 00:00
-permalink: /captainmono
-twitter: "cptmono"
-likes: [772,773,774,775,776,777,778,518,920,958,960,968,1006,1232,1447,1339,1459,1463,583,1535,69,1637]
-id: 848
-gravatar: "http://www.gravatar.com/avatar/203a42cc3c278f9cb424ccc0a24a67cb"
----

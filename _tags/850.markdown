@@ -1,6 +1,0 @@
----
-title: "duke ellington"
-id: tag.id
-permalink: "/tags/duke%20ellington"
-videos: [915]
----

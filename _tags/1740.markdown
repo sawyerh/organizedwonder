@@ -1,6 +1,0 @@
----
-title: "40 days of dating"
-id: tag.id
-permalink: "/tags/40%20days%20of%20dating"
-videos: [2103]
----

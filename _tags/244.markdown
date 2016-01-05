@@ -1,6 +1,0 @@
----
-title: "teufelsberg"
-id: tag.id
-permalink: "/tags/teufelsberg"
-videos: [167]
----

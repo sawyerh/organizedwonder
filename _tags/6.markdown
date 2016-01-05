@@ -1,6 +1,0 @@
----
-title: "carl sagan"
-id: tag.id
-permalink: "/tags/carl%20sagan"
-videos: [2,1006,1540,1900,1901,1905]
----

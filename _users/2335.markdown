@@ -1,9 +1,0 @@
----
-title: "Anna Maren Noack"
-date: 2014-09-24 17:07:03 00:00
-permalink: /annamaren
-twitter: "@annamarennoack"
-likes: [2404,2180]
-id: 2335
-gravatar: "http://www.gravatar.com/avatar/1a46b4bde3e897553629288e151c2d5c"
----

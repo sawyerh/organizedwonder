@@ -1,9 +1,0 @@
----
-title: "Crina Curtescu"
-date: 2013-06-17 13:42:56 00:00
-permalink: /crina
-twitter: ""
-likes: [1967,1968,1914]
-id: 2029
-gravatar: "http://www.gravatar.com/avatar/380926221608cdf0b4d7610c1b3f19e0"
----

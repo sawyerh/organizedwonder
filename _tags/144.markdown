@@ -1,6 +1,0 @@
----
-title: "advertising"
-id: tag.id
-permalink: "/tags/advertising"
-videos: [70,108,537,745,1093,1382,1397,1425,1445,1768,2276,1889,2157,2361,2414]
----

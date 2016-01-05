@@ -1,9 +1,0 @@
----
-title: "Michael Thompson"
-date: 2012-10-01 01:19:20 00:00
-permalink: /mthomp
-twitter: ""
-likes: [859,1271]
-id: 1358
-gravatar: "http://www.gravatar.com/avatar/edb8793f85530a6d187a04684aff4b10"
----

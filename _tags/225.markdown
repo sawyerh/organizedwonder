@@ -1,6 +1,0 @@
----
-title: "creative process"
-id: tag.id
-permalink: "/tags/creative%20process"
-videos: [159,448,637,715,723,1666,1692,1725,1726,2276,2039,2336,2403,2414,2556,2569]
----

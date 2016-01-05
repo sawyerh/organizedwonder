@@ -1,6 +1,0 @@
----
-title: "work"
-id: tag.id
-permalink: "/tags/work"
-videos: [115,682,1760,1880]
----

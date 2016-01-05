@@ -1,9 +1,0 @@
----
-title: "Nicolas Bourges"
-date: 2012-05-22 20:30:45 00:00
-permalink: /nbourges
-twitter: "@nbourges"
-likes: [69,429,1028,431,432,1100]
-id: 624
-gravatar: "http://www.gravatar.com/avatar/48624c6fba098fb30ffd854ca7575b67"
----

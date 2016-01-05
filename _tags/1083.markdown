@@ -1,6 +1,0 @@
----
-title: "johnny cupcakes"
-id: tag.id
-permalink: "/tags/johnny%20cupcakes"
-videos: [1150]
----

@@ -1,9 +1,0 @@
----
-title: "Avraham Niv"
-date: 2013-04-22 20:29:26 00:00
-permalink: /nivavr
-twitter: ""
-likes: [1814]
-id: 1943
-gravatar: "http://www.gravatar.com/avatar/7a621328ccbb5c66dc36da73d2d22298"
----

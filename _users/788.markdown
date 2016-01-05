@@ -1,9 +1,0 @@
----
-title: "Stephenson"
-date: 2012-05-30 15:57:52 00:00
-permalink: /stephenson
-twitter: ""
-likes: [67,310,915,905,62,954,945,998,1003,1000,596,881,1095,1375]
-id: 788
-gravatar: "http://www.gravatar.com/avatar/a9738542767a4533269c7870ea713b36"
----

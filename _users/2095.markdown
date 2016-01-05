@@ -1,9 +1,0 @@
----
-title: "george norris"
-date: 2013-11-03 21:57:46 00:00
-permalink: /stoplion
-twitter: "stoplion"
-likes: [1672]
-id: 2095
-gravatar: "http://www.gravatar.com/avatar/11d1e342db6933494fd632ac70c5eca0"
----

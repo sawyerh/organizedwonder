@@ -1,6 +1,0 @@
----
-title: "frank ocean"
-id: tag.id
-permalink: "/tags/frank%20ocean"
-videos: [2352]
----

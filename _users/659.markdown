@@ -1,9 +1,0 @@
----
-title: "Yosen"
-date: 2012-05-24 00:53:25 00:00
-permalink: /yosen
-twitter: "grafikide"
-likes: [502,20,328,39,682,912,1314,92]
-id: 659
-gravatar: "http://www.gravatar.com/avatar/86e71396b382daa5232882e1b85f65ba"
----

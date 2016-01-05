@@ -1,6 +1,0 @@
----
-title: "speech"
-id: tag.id
-permalink: "/tags/speech"
-videos: [19,56,333,507,508,518,520,549,1879,2126]
----

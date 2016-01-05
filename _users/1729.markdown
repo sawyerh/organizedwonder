@@ -1,9 +1,0 @@
----
-title: "Mark Steinruck"
-date: 2013-01-10 13:19:35 00:00
-permalink: /msteinruck
-twitter: ""
-likes: [1495,1621,1634,324,1699,1731,872,466,1845,1884,1890,1916,1967,2305,2363,1992,2022,2026,2035,2040,2042,2047,2050,2055,2083,2106,2125,2164]
-id: 1729
-gravatar: "http://www.gravatar.com/avatar/d28eee8ad0e3d86b2c743ad29e5da883"
----

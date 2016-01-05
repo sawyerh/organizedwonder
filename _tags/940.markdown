@@ -1,6 +1,0 @@
----
-title: "youtube"
-id: tag.id
-permalink: "/tags/youtube"
-videos: [1000]
----

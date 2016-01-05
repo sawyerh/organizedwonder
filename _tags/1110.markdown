@@ -1,6 +1,0 @@
----
-title: "visual augmentation"
-id: tag.id
-permalink: "/tags/visual%20augmentation"
-videos: [1210]
----

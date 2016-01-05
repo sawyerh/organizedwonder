@@ -1,6 +1,0 @@
----
-title: "elon musk"
-id: tag.id
-permalink: "/tags/elon%20musk"
-videos: [1500,1838,2021,2544]
----

@@ -1,9 +1,0 @@
----
-title: "Michelle Meeker"
-date: 2012-05-18 09:24:50 00:00
-permalink: /talkingstranger
-twitter: ""
-likes: [185,100]
-id: 268
-gravatar: "http://www.gravatar.com/avatar/5d6e39e087edfdf36226c7564d280d81"
----

@@ -1,9 +1,0 @@
----
-title: "Dennis Kramer"
-date: 2013-03-25 18:57:56 00:00
-permalink: /dennispkramer
-twitter: "dennispkramer"
-likes: [1751,1659,1743,1721,1876,1895,2109,1565]
-id: 1862
-gravatar: "http://www.gravatar.com/avatar/d84455d4e831198d884b4ce3d875e555"
----

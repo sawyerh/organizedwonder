@@ -1,6 +1,0 @@
----
-title: "media temple"
-id: tag.id
-permalink: "/tags/media%20temple"
-videos: [979]
----

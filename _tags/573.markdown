@@ -1,6 +1,0 @@
----
-title: "cover"
-id: tag.id
-permalink: "/tags/cover"
-videos: [612,856,1460,1718]
----

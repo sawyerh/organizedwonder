@@ -1,9 +1,0 @@
----
-title: "Wesley George"
-date: 2012-11-21 21:48:58 00:00
-permalink: /worldsfaire
-twitter: ""
-likes: [1498,1586,2021]
-id: 1602
-gravatar: "http://www.gravatar.com/avatar/4675463342b97e057b9489d083a827d1"
----

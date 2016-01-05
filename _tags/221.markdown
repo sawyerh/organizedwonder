@@ -1,6 +1,0 @@
----
-title: "computation"
-id: tag.id
-permalink: "/tags/computation"
-videos: [151]
----

@@ -1,9 +1,0 @@
----
-title: "Sysa Edwin"
-date: 2015-09-29 09:54:43 00:00
-permalink: /sysaedwin
-twitter: ""
-likes: [2566,2567,2568,2574]
-id: 2421
-gravatar: "http://www.gravatar.com/avatar/94985e1b20c37fe42c19ede70d763d51"
----

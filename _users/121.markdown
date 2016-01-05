@@ -1,9 +1,0 @@
----
-title: "Wil Chung"
-date: 2012-05-17 21:54:00 00:00
-permalink: /iamwil
-twitter: "iamwil"
-likes: [39,109,73,143,25]
-id: 121
-gravatar: "http://www.gravatar.com/avatar/915aac3dfde2fb502ce415d77643a72d"
----

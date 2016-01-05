@@ -1,9 +1,0 @@
----
-title: "Jay Clark"
-date: 2012-11-11 18:52:59 00:00
-permalink: /runlevelsix
-twitter: ""
-likes: [1375,481,1421,1268,1431]
-id: 1477
-gravatar: "http://www.gravatar.com/avatar/d9b0f4e3bb558b1b6f0c16432bab95d9"
----

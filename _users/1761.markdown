@@ -1,9 +1,0 @@
----
-title: "Leslie Carlson Vaughan"
-date: 2013-01-23 17:04:02 00:00
-permalink: /carlsonvaughan
-twitter: ""
-likes: [1635,1609,1574,446,1196]
-id: 1761
-gravatar: "http://www.gravatar.com/avatar/35458c964d8137ceb116edeed0b162b4"
----

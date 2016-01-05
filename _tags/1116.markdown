@@ -1,6 +1,0 @@
----
-title: "cardboard"
-id: tag.id
-permalink: "/tags/cardboard"
-videos: [1222]
----

@@ -1,6 +1,0 @@
----
-title: "sound"
-id: tag.id
-permalink: "/tags/sound"
-videos: [200,383,917,1144,2257,2496,2547]
----

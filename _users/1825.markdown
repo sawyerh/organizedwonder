@@ -1,9 +1,0 @@
----
-title: "Jonathan Baker"
-date: 2013-02-28 01:57:36 00:00
-permalink: /jonathantwin
-twitter: ""
-likes: [1717]
-id: 1825
-gravatar: "http://www.gravatar.com/avatar/55de519a594b86af3c42e92ebb29c977"
----

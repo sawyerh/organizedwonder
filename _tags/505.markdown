@@ -1,6 +1,0 @@
----
-title: "etsy"
-id: tag.id
-permalink: "/tags/etsy"
-videos: [532,563]
----

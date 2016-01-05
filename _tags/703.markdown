@@ -1,6 +1,0 @@
----
-title: "let's make mistakes"
-id: tag.id
-permalink: "/tags/let's%20make%20mistakes"
-videos: [800]
----

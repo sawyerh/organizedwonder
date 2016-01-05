@@ -1,6 +1,0 @@
----
-title: "fontmaking"
-id: tag.id
-permalink: "/tags/fontmaking"
-videos: [179]
----

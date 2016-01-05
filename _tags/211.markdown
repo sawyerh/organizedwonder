@@ -1,6 +1,0 @@
----
-title: "ira glass"
-id: tag.id
-permalink: "/tags/ira%20glass"
-videos: [143,2213]
----

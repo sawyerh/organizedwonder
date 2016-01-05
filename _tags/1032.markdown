@@ -1,6 +1,0 @@
----
-title: "australia"
-id: tag.id
-permalink: "/tags/australia"
-videos: [1085,2080,2081,2082]
----

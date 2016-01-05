@@ -1,9 +1,0 @@
----
-title: "Shannon McWeeney"
-date: 2012-05-18 04:37:33 00:00
-permalink: /calescence
-twitter: "Calescence"
-likes: [151,159,165,166,168,169,170,172,174,177,178,179,237,256,257,258,260,100,336,338,341,339,340,545,546,580,581,683,447,839,953,954]
-id: 203
-gravatar: "http://www.gravatar.com/avatar/8d3b030bbd2416a466074f73c321de85"
----

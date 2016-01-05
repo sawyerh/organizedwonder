@@ -1,6 +1,0 @@
----
-title: "barbershop"
-id: tag.id
-permalink: "/tags/barbershop"
-videos: [1313]
----

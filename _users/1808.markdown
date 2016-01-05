@@ -1,9 +1,0 @@
----
-title: "Wendy Schipper"
-date: 2013-02-20 20:15:14 00:00
-permalink: /wendyschipper
-twitter: ""
-likes: [1550]
-id: 1808
-gravatar: "http://www.gravatar.com/avatar/0d76a8d434b117ee5d02d962b2d2cf16"
----

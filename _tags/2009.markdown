@@ -1,6 +1,0 @@
----
-title: "details"
-id: tag.id
-permalink: "/tags/details"
-videos: [2474,2507,2547,2565]
----

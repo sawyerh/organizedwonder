@@ -1,6 +1,0 @@
----
-title: "open source"
-id: tag.id
-permalink: "/tags/open%20source"
-videos: [1479,2555]
----

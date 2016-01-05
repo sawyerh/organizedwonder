@@ -1,6 +1,0 @@
----
-title: "ted chung"
-id: tag.id
-permalink: "/tags/ted%20chung"
-videos: [221]
----

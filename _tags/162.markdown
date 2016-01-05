@@ -1,6 +1,0 @@
----
-title: "installation"
-id: tag.id
-permalink: "/tags/installation"
-videos: [656,1145,1377,1797]
----

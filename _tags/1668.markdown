@@ -1,6 +1,0 @@
----
-title: "obesity"
-id: tag.id
-permalink: "/tags/obesity"
-videos: [2006]
----

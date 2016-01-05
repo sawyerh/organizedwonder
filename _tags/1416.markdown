@@ -1,6 +1,0 @@
----
-title: "chapman"
-id: tag.id
-permalink: "/tags/chapman"
-videos: [1640]
----

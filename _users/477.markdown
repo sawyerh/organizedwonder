@@ -1,9 +1,0 @@
----
-title: "Paul Nowikowski"
-date: 2012-05-20 00:14:07 00:00
-permalink: /paulnowikowski
-twitter: "paulnowikowski"
-likes: [447]
-id: 477
-gravatar: "http://www.gravatar.com/avatar/bf04c8744d3ac8ba579a6c8716fa3e4e"
----

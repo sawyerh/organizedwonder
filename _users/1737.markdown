@@ -1,9 +1,0 @@
----
-title: "Katarina Orlandini"
-date: 2013-01-11 12:56:16 00:00
-permalink: /kati_o
-twitter: ""
-likes: [2115]
-id: 1737
-gravatar: "http://www.gravatar.com/avatar/739e376684d9e1a5d6a95f7d6b976339"
----

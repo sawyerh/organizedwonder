@@ -1,6 +1,0 @@
----
-title: "ronnie corbett"
-id: tag.id
-permalink: "/tags/ronnie%20corbett"
-videos: [857]
----

@@ -1,6 +1,0 @@
----
-title: "commencement speech"
-id: tag.id
-permalink: "/tags/commencement%20speech"
-videos: [498,564,620,1200,1201,1998]
----

@@ -1,6 +1,0 @@
----
-title: "gopro"
-id: tag.id
-permalink: "/tags/gopro"
-videos: [2272]
----

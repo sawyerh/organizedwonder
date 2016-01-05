@@ -1,6 +1,0 @@
----
-title: "nicole sullivan"
-id: tag.id
-permalink: "/tags/nicole%20sullivan"
-videos: [1983]
----

@@ -1,6 +1,0 @@
----
-title: "shakespeare & co"
-id: tag.id
-permalink: "/tags/shakespeare%20%26%20co"
-videos: [1053]
----

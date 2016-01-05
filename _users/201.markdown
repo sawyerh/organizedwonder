@@ -1,9 +1,0 @@
----
-title: "Mihai Evoiu"
-date: 2012-05-18 04:20:03 00:00
-permalink: /mihai
-twitter: ""
-likes: [73,1538,1495,112]
-id: 201
-gravatar: "http://www.gravatar.com/avatar/f0c1efe743db7f33fac9eccf321e04dd"
----

@@ -1,6 +1,0 @@
----
-title: "plain language"
-id: tag.id
-permalink: "/tags/plain%20language"
-videos: [553]
----

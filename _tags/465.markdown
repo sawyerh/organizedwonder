@@ -1,6 +1,0 @@
----
-title: "lisbon"
-id: tag.id
-permalink: "/tags/lisbon"
-videos: [482]
----

@@ -1,9 +1,0 @@
----
-title: "Jon Osmond"
-date: 2012-06-13 01:50:46 00:00
-permalink: /osmond
-twitter: "osmond"
-likes: [754]
-id: 973
-gravatar: "http://www.gravatar.com/avatar/09f10bdcef7532ea166c6f88d73c35ea"
----

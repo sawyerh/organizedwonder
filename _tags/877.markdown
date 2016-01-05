@@ -1,6 +1,0 @@
----
-title: "first person"
-id: tag.id
-permalink: "/tags/first%20person"
-videos: [941]
----

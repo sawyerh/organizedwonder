@@ -1,6 +1,0 @@
----
-title: "blowing"
-id: tag.id
-permalink: "/tags/blowing"
-videos: [990]
----

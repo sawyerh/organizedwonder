@@ -1,6 +1,0 @@
----
-title: "ted conference"
-id: tag.id
-permalink: "/tags/ted%20conference"
-videos: [2463]
----

@@ -1,6 +1,0 @@
----
-title: "leather"
-id: tag.id
-permalink: "/tags/leather"
-videos: [1312]
----

@@ -1,6 +1,0 @@
----
-title: "ideation"
-id: tag.id
-permalink: "/tags/ideation"
-videos: [1408]
----

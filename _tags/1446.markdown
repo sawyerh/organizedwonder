@@ -1,6 +1,0 @@
----
-title: "animated short"
-id: tag.id
-permalink: "/tags/animated%20short"
-videos: [1659]
----

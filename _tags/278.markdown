@@ -1,6 +1,0 @@
----
-title: "sticky monster lab"
-id: tag.id
-permalink: "/tags/sticky%20monster%20lab"
-videos: [193,380]
----

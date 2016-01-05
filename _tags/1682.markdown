@@ -1,6 +1,0 @@
----
-title: "spirituality"
-id: tag.id
-permalink: "/tags/spirituality"
-videos: [2019]
----

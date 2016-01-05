@@ -1,6 +1,0 @@
----
-title: "eames"
-id: tag.id
-permalink: "/tags/eames"
-videos: [721,2198]
----

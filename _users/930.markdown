@@ -1,9 +1,0 @@
----
-title: "Aniket Pant"
-date: 2012-06-12 10:38:48 00:00
-permalink: /borncssed
-twitter: "aniket_pant"
-likes: [834,69,1002]
-id: 930
-gravatar: "http://www.gravatar.com/avatar/b6500b41998cd1ed4aa28464ec0118bb"
----

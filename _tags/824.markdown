@@ -1,6 +1,0 @@
----
-title: "elizabeth gilbert"
-id: tag.id
-permalink: "/tags/elizabeth%20gilbert"
-videos: [869,1239]
----

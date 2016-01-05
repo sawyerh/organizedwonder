@@ -1,6 +1,0 @@
----
-title: "rodeo"
-id: tag.id
-permalink: "/tags/rodeo"
-videos: [1865]
----

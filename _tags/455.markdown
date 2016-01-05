@@ -1,6 +1,0 @@
----
-title: "francis ford coppola"
-id: tag.id
-permalink: "/tags/francis%20ford%20coppola"
-videos: [475]
----

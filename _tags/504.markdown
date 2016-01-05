@@ -1,6 +1,0 @@
----
-title: "j.k.rowling"
-id: tag.id
-permalink: "/tags/j.k.rowling"
-videos: [530]
----

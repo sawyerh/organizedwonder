@@ -1,6 +1,0 @@
----
-title: "chalk"
-id: tag.id
-permalink: "/tags/chalk"
-videos: [1061]
----

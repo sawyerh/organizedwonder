@@ -1,6 +1,0 @@
----
-title: "maker"
-id: tag.id
-permalink: "/tags/maker"
-videos: [2335]
----

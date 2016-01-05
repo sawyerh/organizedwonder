@@ -1,9 +1,0 @@
----
-title: "Jun"
-date: 2012-05-18 02:44:18 00:00
-permalink: /junyosh
-twitter: "junyosh"
-likes: [112]
-id: 173
-gravatar: "http://www.gravatar.com/avatar/ef4b0c6c3ff09253d89bc6d660d97bc9"
----

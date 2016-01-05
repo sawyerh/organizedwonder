@@ -1,6 +1,0 @@
----
-title: "british"
-id: tag.id
-permalink: "/tags/british"
-videos: [1602,2249]
----

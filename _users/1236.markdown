@@ -1,9 +1,0 @@
----
-title: "Elliott Fienberg"
-date: 2012-07-22 16:15:06 00:00
-permalink: /mrtunes
-twitter: ""
-likes: [1109,703,73,84]
-id: 1236
-gravatar: "http://www.gravatar.com/avatar/28b00ebca3921d3ca9dfea836e6750c3"
----

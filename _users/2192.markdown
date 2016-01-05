@@ -1,9 +1,0 @@
----
-title: "Abby Bedford"
-date: 2014-01-16 12:29:38 00:00
-permalink: /abbybedford
-twitter: ""
-likes: [886,2056,860,932]
-id: 2192
-gravatar: "http://www.gravatar.com/avatar/3ac8922c76e27f5a977fe1c6673b46b7"
----

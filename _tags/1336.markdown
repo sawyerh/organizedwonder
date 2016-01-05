@@ -1,6 +1,0 @@
----
-title: "sushi"
-id: tag.id
-permalink: "/tags/sushi"
-videos: [1580,2388]
----

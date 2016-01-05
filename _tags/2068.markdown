@@ -1,6 +1,0 @@
----
-title: "hustle"
-id: tag.id
-permalink: "/tags/hustle"
-videos: [2546]
----

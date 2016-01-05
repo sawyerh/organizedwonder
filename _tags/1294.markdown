@@ -1,6 +1,0 @@
----
-title: "csm"
-id: tag.id
-permalink: "/tags/csm"
-videos: [1543]
----

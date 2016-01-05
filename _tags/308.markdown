@@ -1,6 +1,0 @@
----
-title: "dark"
-id: tag.id
-permalink: "/tags/dark"
-videos: [211,1717,2249]
----

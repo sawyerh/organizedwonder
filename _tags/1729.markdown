@@ -1,6 +1,0 @@
----
-title: "mobile design"
-id: tag.id
-permalink: "/tags/mobile%20design"
-videos: [2095]
----

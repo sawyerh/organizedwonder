@@ -1,6 +1,0 @@
----
-title: "airplane"
-id: tag.id
-permalink: "/tags/airplane"
-videos: [544]
----

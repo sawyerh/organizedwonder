@@ -1,9 +1,0 @@
----
-title: "Richard Sison"
-date: 2012-11-10 04:16:24 00:00
-permalink: /richardsison
-twitter: "RichardSison"
-likes: [1339,1471]
-id: 1435
-gravatar: "http://www.gravatar.com/avatar/6d1dae46e0c9f32fdf16bec78a513476"
----

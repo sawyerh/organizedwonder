@@ -1,6 +1,0 @@
----
-title: "ink dots"
-id: tag.id
-permalink: "/tags/ink%20dots"
-videos: [611]
----

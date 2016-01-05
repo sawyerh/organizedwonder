@@ -1,9 +1,0 @@
----
-title: "Jessica Robbins"
-date: 2013-12-05 16:51:08 00:00
-permalink: /jessicarobbins
-twitter: ""
-likes: [2120]
-id: 2108
-gravatar: "http://www.gravatar.com/avatar/d43adcdaba014ebafd7641c375111221"
----

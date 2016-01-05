@@ -1,6 +1,0 @@
----
-title: "metaphor"
-id: tag.id
-permalink: "/tags/metaphor"
-videos: [351]
----

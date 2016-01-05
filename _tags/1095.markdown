@@ -1,6 +1,0 @@
----
-title: "smell"
-id: tag.id
-permalink: "/tags/smell"
-videos: [1165]
----

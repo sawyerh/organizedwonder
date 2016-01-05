@@ -1,6 +1,0 @@
----
-title: "trees"
-id: tag.id
-permalink: "/tags/trees"
-videos: [2023]
----

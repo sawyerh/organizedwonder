@@ -1,6 +1,0 @@
----
-title: "caine's arcade"
-id: tag.id
-permalink: "/tags/caine's%20arcade"
-videos: [1302]
----

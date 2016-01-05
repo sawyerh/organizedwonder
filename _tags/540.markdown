@@ -1,6 +1,0 @@
----
-title: "neil gaiman"
-id: tag.id
-permalink: "/tags/neil%20gaiman"
-videos: [580]
----

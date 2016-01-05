@@ -1,6 +1,0 @@
----
-title: "coca-cola"
-id: tag.id
-permalink: "/tags/coca-cola"
-videos: [2490,2491,2492]
----

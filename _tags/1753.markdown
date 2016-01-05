@@ -1,6 +1,0 @@
----
-title: "behavior design"
-id: tag.id
-permalink: "/tags/behavior%20design"
-videos: [2115,2211,2354]
----

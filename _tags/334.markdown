@@ -1,6 +1,0 @@
----
-title: "windmills"
-id: tag.id
-permalink: "/tags/windmills"
-videos: [261]
----

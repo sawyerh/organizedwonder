@@ -1,6 +1,0 @@
----
-title: "#musicvideo"
-id: tag.id
-permalink: "/tags/%23musicvideo"
-videos: [1694]
----

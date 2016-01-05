@@ -1,9 +1,0 @@
----
-title: "Tomi Tontti"
-date: 2013-11-13 11:00:15 00:00
-permalink: /biftommy
-twitter: ""
-likes: [69,66]
-id: 2099
-gravatar: "http://www.gravatar.com/avatar/741357136a446b9e6c0f4c5caecde124"
----

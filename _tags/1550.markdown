@@ -1,6 +1,0 @@
----
-title: "crytography"
-id: tag.id
-permalink: "/tags/crytography"
-videos: [1753]
----

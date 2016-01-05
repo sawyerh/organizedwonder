@@ -1,9 +1,0 @@
----
-title: "Gerard Lough"
-date: 2013-03-13 09:46:32 00:00
-permalink: /av
-twitter: ""
-likes: [1738,1739,1740,1792,1793,1794]
-id: 1842
-gravatar: "http://www.gravatar.com/avatar/37503faf9355483f76278832b70c4b22"
----

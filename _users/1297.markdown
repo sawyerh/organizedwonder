@@ -1,9 +1,0 @@
----
-title: "Steven Park"
-date: 2012-08-14 20:27:12 00:00
-permalink: /sparkwebdev
-twitter: ""
-likes: [25]
-id: 1297
-gravatar: "http://www.gravatar.com/avatar/d96bc1e34e71d9add5a7d11dc2415175"
----

@@ -1,6 +1,0 @@
----
-title: "band"
-id: tag.id
-permalink: "/tags/band"
-videos: [645]
----

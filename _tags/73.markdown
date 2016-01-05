@@ -1,6 +1,0 @@
----
-title: "aaron draplin"
-id: tag.id
-permalink: "/tags/aaron%20draplin"
-videos: [33,75,100,145,754,860,1104,1132,1133,2457]
----

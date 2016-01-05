@@ -1,6 +1,0 @@
----
-title: "vector graphics"
-id: tag.id
-permalink: "/tags/vector%20graphics"
-videos: [1653]
----

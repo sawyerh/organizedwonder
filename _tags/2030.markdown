@@ -1,6 +1,0 @@
----
-title: "iteration"
-id: tag.id
-permalink: "/tags/iteration"
-videos: [2501]
----

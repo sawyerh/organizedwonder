@@ -1,6 +1,0 @@
----
-title: "newsreels"
-id: tag.id
-permalink: "/tags/newsreels"
-videos: [241]
----

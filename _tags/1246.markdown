@@ -1,6 +1,0 @@
----
-title: 1971
-id: tag.id
-permalink: "/tags/1971"
-videos: [1440]
----

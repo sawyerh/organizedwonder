@@ -1,6 +1,0 @@
----
-title: "cross"
-id: tag.id
-permalink: "/tags/cross"
-videos: [167]
----

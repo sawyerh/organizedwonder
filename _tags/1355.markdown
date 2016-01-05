@@ -1,6 +1,0 @@
----
-title: "author"
-id: tag.id
-permalink: "/tags/author"
-videos: [1602]
----

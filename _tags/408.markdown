@@ -1,6 +1,0 @@
----
-title: "jon hopkins"
-id: tag.id
-permalink: "/tags/jon%20hopkins"
-videos: [388,597]
----

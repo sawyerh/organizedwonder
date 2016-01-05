@@ -1,6 +1,0 @@
----
-title: "entertainment"
-id: tag.id
-permalink: "/tags/entertainment"
-videos: [870,2214]
----

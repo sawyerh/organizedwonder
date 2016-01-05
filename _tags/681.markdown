@@ -1,6 +1,0 @@
----
-title: "creative company"
-id: tag.id
-permalink: "/tags/creative%20company"
-videos: [771]
----

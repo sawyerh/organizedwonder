@@ -1,6 +1,0 @@
----
-title: "make"
-id: tag.id
-permalink: "/tags/make"
-videos: [607]
----

@@ -1,6 +1,0 @@
----
-title: "arduino"
-id: tag.id
-permalink: "/tags/arduino"
-videos: [1563]
----

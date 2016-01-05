@@ -1,6 +1,0 @@
----
-title: "breakdancing"
-id: tag.id
-permalink: "/tags/breakdancing"
-videos: [683]
----

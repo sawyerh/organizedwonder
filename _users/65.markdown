@@ -1,9 +1,0 @@
----
-title: "Miguel Angel Cardona Jr."
-date: 2012-05-16 15:16:53 00:00
-permalink: /miggi
-twitter: "miggi"
-likes: [77,81,82,84,69,9,623,624,625,626,366,635,711,708,605,300,1135,1151,1166,1233,1253,1368,1409,1457,1454,1461,1490,638,1492,2121,2072,2051,2148]
-id: 65
-gravatar: "http://www.gravatar.com/avatar/1beadc32543d0a48cdb3217a7ed09b85"
----

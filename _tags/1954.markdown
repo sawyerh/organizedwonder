@@ -1,6 +1,0 @@
----
-title: "climbing"
-id: tag.id
-permalink: "/tags/climbing"
-videos: [2367]
----

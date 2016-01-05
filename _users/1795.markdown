@@ -1,9 +1,0 @@
----
-title: "John Verdery"
-date: 2013-02-10 09:16:25 00:00
-permalink: /stats
-twitter: ""
-likes: [1631]
-id: 1795
-gravatar: "http://www.gravatar.com/avatar/361de9bf315f60438350b2afacfefec5"
----

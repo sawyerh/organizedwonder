@@ -1,6 +1,0 @@
----
-title: "kara"
-id: tag.id
-permalink: "/tags/kara"
-videos: [348]
----

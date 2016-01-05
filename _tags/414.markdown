@@ -1,6 +1,0 @@
----
-title: "talks"
-id: tag.id
-permalink: "/tags/talks"
-videos: [430,704,1253,1375]
----

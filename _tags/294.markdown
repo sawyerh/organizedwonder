@@ -1,6 +1,0 @@
----
-title: "shame"
-id: tag.id
-permalink: "/tags/shame"
-videos: [201]
----

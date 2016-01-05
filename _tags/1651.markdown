@@ -1,6 +1,0 @@
----
-title: "suspense"
-id: tag.id
-permalink: "/tags/suspense"
-videos: [1980,2509]
----

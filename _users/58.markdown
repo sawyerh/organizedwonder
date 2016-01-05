@@ -1,9 +1,0 @@
----
-title: "Art Blanc"
-date: 2012-05-16 14:49:03 00:00
-permalink: /art_blanc
-twitter: "art_blanc"
-likes: [73,39,68,69,67,66,30,932,100,43,782,630,444,1217,429,545,771,1268,1197,1155,1336,555,580]
-id: 58
-gravatar: "http://www.gravatar.com/avatar/00ef06a6a4ff9b8d1b893d5deea1b81c"
----

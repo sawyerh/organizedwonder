@@ -1,6 +1,0 @@
----
-title: "acceptance"
-id: tag.id
-permalink: "/tags/acceptance"
-videos: [1648]
----

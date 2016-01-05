@@ -1,6 +1,0 @@
----
-title: "ted-ed"
-id: tag.id
-permalink: "/tags/ted-ed"
-videos: [1288,1530,1682,2295]
----

@@ -1,6 +1,0 @@
----
-title: "ceo"
-id: tag.id
-permalink: "/tags/ceo"
-videos: [548]
----

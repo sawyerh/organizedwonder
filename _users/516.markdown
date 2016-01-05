@@ -1,9 +1,0 @@
----
-title: "Felix Hummel"
-date: 2012-05-20 21:03:35 00:00
-permalink: /felixhummel
-twitter: "felixhummel"
-likes: [455,109]
-id: 516
-gravatar: "http://www.gravatar.com/avatar/6f5a257cb92f2dc355e537ec45ddcd92"
----

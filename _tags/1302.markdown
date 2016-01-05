@@ -1,6 +1,0 @@
----
-title: "service design"
-id: tag.id
-permalink: "/tags/service%20design"
-videos: [1555,1575]
----

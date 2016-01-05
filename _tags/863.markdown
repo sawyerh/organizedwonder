@@ -1,6 +1,0 @@
----
-title: "debate"
-id: tag.id
-permalink: "/tags/debate"
-videos: [928,1000]
----

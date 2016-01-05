@@ -1,6 +1,0 @@
----
-title: "running parkour"
-id: tag.id
-permalink: "/tags/running%20parkour"
-videos: [1612]
----

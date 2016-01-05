@@ -1,9 +1,0 @@
----
-title: "Lisa Merlini"
-date: 2012-05-21 18:25:02 00:00
-permalink: /lcmerlini
-twitter: ""
-likes: [134,534,535,839,391,785,671,253,846]
-id: 562
-gravatar: "http://www.gravatar.com/avatar/1891d7b4e404e0fd92713e090afad998"
----

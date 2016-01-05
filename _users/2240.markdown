@@ -1,9 +1,0 @@
----
-title: "Jeff Rodanski"
-date: 2014-01-27 20:43:20 00:00
-permalink: /jeffrodanski
-twitter: "jeffrodanski"
-likes: [2210]
-id: 2240
-gravatar: "http://www.gravatar.com/avatar/a2cf51ec5822373b49623cbbaed9bc86"
----

@@ -1,6 +1,0 @@
----
-title: "illustrator"
-id: tag.id
-permalink: "/tags/illustrator"
-videos: [478,1094]
----

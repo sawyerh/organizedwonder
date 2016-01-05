@@ -1,6 +1,0 @@
----
-title: "acrobatics"
-id: tag.id
-permalink: "/tags/acrobatics"
-videos: [2225]
----

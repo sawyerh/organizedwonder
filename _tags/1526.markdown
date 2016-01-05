@@ -1,6 +1,0 @@
----
-title: "pittsburgh"
-id: tag.id
-permalink: "/tags/pittsburgh"
-videos: [1717]
----

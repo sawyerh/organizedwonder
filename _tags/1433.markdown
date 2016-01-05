@@ -1,6 +1,0 @@
----
-title: "inspire"
-id: tag.id
-permalink: "/tags/inspire"
-videos: [1648,2042]
----

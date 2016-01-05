@@ -1,6 +1,0 @@
----
-title: "stalker"
-id: tag.id
-permalink: "/tags/stalker"
-videos: [1085]
----

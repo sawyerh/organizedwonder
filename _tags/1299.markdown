@@ -1,6 +1,0 @@
----
-title: "miami"
-id: tag.id
-permalink: "/tags/miami"
-videos: [1548]
----

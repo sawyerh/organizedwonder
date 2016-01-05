@@ -1,6 +1,0 @@
----
-title: "sir ken robinson"
-id: tag.id
-permalink: "/tags/sir%20ken%20robinson"
-videos: [7]
----

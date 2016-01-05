@@ -1,9 +1,0 @@
----
-title: "becky murphy"
-date: 2012-06-14 15:04:10 00:00
-permalink: /becky
-twitter: ""
-likes: [879,880,911]
-id: 1022
-gravatar: "http://www.gravatar.com/avatar/60962be38968348463dc7552f6ac505f"
----

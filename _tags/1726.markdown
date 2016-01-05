@@ -1,6 +1,0 @@
----
-title: "health care"
-id: tag.id
-permalink: "/tags/health%20care"
-videos: [2088]
----

@@ -1,9 +1,0 @@
----
-title: "Andrei Zhidelev"
-date: 2012-09-22 12:34:28 00:00
-permalink: /gemini
-twitter: ""
-likes: [1895,584,1819,1346,2198,942,248]
-id: 1339
-gravatar: "http://www.gravatar.com/avatar/639c64bfe8305540a17ddad81a3a3a70"
----

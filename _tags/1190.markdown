@@ -1,6 +1,0 @@
----
-title: "lawrence weiner"
-id: tag.id
-permalink: "/tags/lawrence%20weiner"
-videos: [1336]
----

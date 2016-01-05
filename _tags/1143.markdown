@@ -1,6 +1,0 @@
----
-title: "soulmates"
-id: tag.id
-permalink: "/tags/soulmates"
-videos: [1249]
----

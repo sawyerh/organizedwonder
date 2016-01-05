@@ -1,6 +1,0 @@
----
-title: "explore"
-id: tag.id
-permalink: "/tags/explore"
-videos: [2183,2483]
----

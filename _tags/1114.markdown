@@ -1,6 +1,0 @@
----
-title: "we feel fine"
-id: tag.id
-permalink: "/tags/we%20feel%20fine"
-videos: [1219]
----

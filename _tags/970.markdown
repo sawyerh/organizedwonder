@@ -1,6 +1,0 @@
----
-title: "connection"
-id: tag.id
-permalink: "/tags/connection"
-videos: [1022]
----

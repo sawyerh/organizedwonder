@@ -1,6 +1,0 @@
----
-title: "off book"
-id: tag.id
-permalink: "/tags/off%20book"
-videos: [1095,2072,2073]
----

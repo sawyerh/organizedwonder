@@ -1,9 +1,0 @@
----
-title: "Fabien Rondeau"
-date: 2012-11-21 22:03:22 00:00
-permalink: /faboo03
-twitter: ""
-likes: [105]
-id: 1603
-gravatar: "http://www.gravatar.com/avatar/eed4dc156ff2f71080bef8a39f50ab51"
----

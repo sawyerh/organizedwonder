@@ -1,6 +1,0 @@
----
-title: "1080p"
-id: tag.id
-permalink: "/tags/1080p"
-videos: [1980]
----

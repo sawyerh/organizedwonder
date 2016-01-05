@@ -1,9 +1,0 @@
----
-title: "Steve Losh"
-date: 2012-06-18 20:04:27 00:00
-permalink: /sjl
-twitter: "stevelosh"
-likes: [907,908,909,1138,1272,1273]
-id: 1065
-gravatar: "http://www.gravatar.com/avatar/143487689572bcc7084c2b6aa1f48c46"
----

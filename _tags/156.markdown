@@ -1,6 +1,0 @@
----
-title: "whyown.it"
-id: tag.id
-permalink: "/tags/whyown.it"
-videos: [79]
----

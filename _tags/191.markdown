@@ -1,6 +1,0 @@
----
-title: "denim"
-id: tag.id
-permalink: "/tags/denim"
-videos: [110]
----

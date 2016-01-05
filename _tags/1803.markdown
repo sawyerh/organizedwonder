@@ -1,6 +1,0 @@
----
-title: 1950
-id: tag.id
-permalink: "/tags/1950"
-videos: [2186]
----

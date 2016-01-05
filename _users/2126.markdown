@@ -1,9 +1,0 @@
----
-title: "Jeanne"
-date: 2014-01-14 18:48:48 00:00
-permalink: /jeanne20
-twitter: ""
-likes: [2174,2175,2176,258]
-id: 2126
-gravatar: "http://www.gravatar.com/avatar/ad288fe353195b1a8d1e1ea5e92358eb"
----

@@ -1,9 +1,0 @@
----
-title: "jason clark"
-date: 2012-05-21 03:52:47 00:00
-permalink: /jaclark
-twitter: "jaclark"
-likes: [53,84,515,604,1344]
-id: 526
-gravatar: "http://www.gravatar.com/avatar/dd6284aeeda2e1a400252f5d6ab54fa3"
----

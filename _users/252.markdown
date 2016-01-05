@@ -1,9 +1,0 @@
----
-title: "Rachel Patterson"
-date: 2012-05-18 08:25:29 00:00
-permalink: /howsuperduper
-twitter: ""
-likes: [438,592,593,628,712,1602,1769]
-id: 252
-gravatar: "http://www.gravatar.com/avatar/57e5cf831db6f0dea699ef9dab182475"
----

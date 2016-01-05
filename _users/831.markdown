@@ -1,9 +1,0 @@
----
-title: "Joey Bright"
-date: 2012-06-02 01:36:35 00:00
-permalink: /joey
-twitter: "JoeyyBrightt"
-likes: [103,467]
-id: 831
-gravatar: "http://www.gravatar.com/avatar/ba62ea8e8ee3f9f14ebf4320887138a7"
----

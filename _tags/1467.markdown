@@ -1,6 +1,0 @@
----
-title: "motley"
-id: tag.id
-permalink: "/tags/motley"
-videos: [1676]
----

@@ -1,9 +1,0 @@
----
-title: "Kevin Chiu"
-date: 2013-01-26 04:26:17 00:00
-permalink: /saturnlight
-twitter: ""
-likes: [1648,1599]
-id: 1769
-gravatar: "http://www.gravatar.com/avatar/9ad2c7ccc1d8a1f156bb40045dffcc8c"
----

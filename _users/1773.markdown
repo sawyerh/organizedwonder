@@ -1,9 +1,0 @@
----
-title: "Aaron D"
-date: 2013-01-28 01:39:43 00:00
-permalink: /luxe
-twitter: ""
-likes: [1637]
-id: 1773
-gravatar: "http://www.gravatar.com/avatar/bff03d05ea9cd2954bfb4cd536e56716"
----

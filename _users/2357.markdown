@@ -1,9 +1,0 @@
----
-title: "Alex Finger"
-date: 2014-12-17 20:44:37 00:00
-permalink: /alexlady
-twitter: ""
-likes: [945,834,2431]
-id: 2357
-gravatar: "http://www.gravatar.com/avatar/3f1f0a828c1e4e165b9a9a2b40133b7c"
----

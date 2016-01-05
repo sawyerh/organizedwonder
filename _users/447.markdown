@@ -1,9 +1,0 @@
----
-title: "Kris LoCascio"
-date: 2012-05-19 14:23:45 00:00
-permalink: /kris
-twitter: "krislocascio"
-likes: [111,394,395,300,54,396,397,398,399,400,344,401,402,403,404,405,406,407,412,415]
-id: 447
-gravatar: "http://www.gravatar.com/avatar/989ef1bdfe4b1385672834f26fc708cb"
----

@@ -1,9 +1,0 @@
----
-title: "Elizabeth Grenat"
-date: 2012-11-27 04:00:59 00:00
-permalink: /lgrenat
-twitter: ""
-likes: [980,1450,1493,515,538]
-id: 1626
-gravatar: "http://www.gravatar.com/avatar/0156c4bcc8047042f9c027cfa0529c3d"
----

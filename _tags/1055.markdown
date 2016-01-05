@@ -1,6 +1,0 @@
----
-title: "silicon valley"
-id: tag.id
-permalink: "/tags/silicon%20valley"
-videos: [1109]
----

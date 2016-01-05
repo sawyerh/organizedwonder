@@ -1,9 +1,0 @@
----
-title: "Tim Church"
-date: 2012-05-25 06:38:46 00:00
-permalink: /tim_church
-twitter: "tim_church"
-likes: [596,267,324,613,73,573,614,615,616,617,618,588,627,201,843,715]
-id: 677
-gravatar: "http://www.gravatar.com/avatar/dd9f1b8a0384adae24a15d331a763c4b"
----

@@ -1,6 +1,0 @@
----
-title: "stephen fry"
-id: tag.id
-permalink: "/tags/stephen%20fry"
-videos: [854,858]
----

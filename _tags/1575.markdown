@@ -1,6 +1,0 @@
----
-title: "europe"
-id: tag.id
-permalink: "/tags/europe"
-videos: [1808]
----

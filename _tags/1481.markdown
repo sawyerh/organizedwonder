@@ -1,6 +1,0 @@
----
-title: "amoblamiento"
-id: tag.id
-permalink: "/tags/amoblamiento"
-videos: [1689]
----

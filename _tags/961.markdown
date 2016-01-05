@@ -1,6 +1,0 @@
----
-title: "waywire#"
-id: tag.id
-permalink: "/tags/waywire%23"
-videos: [1007]
----

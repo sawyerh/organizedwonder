@@ -1,6 +1,0 @@
----
-title: "field notes"
-id: tag.id
-permalink: "/tags/field%20notes"
-videos: [75,2254]
----

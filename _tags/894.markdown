@@ -1,6 +1,0 @@
----
-title: "leadership"
-id: tag.id
-permalink: "/tags/leadership"
-videos: [953,1194,2131,2473,2527,2544]
----

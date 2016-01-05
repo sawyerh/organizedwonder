@@ -1,6 +1,0 @@
----
-title: "christmas"
-id: tag.id
-permalink: "/tags/christmas"
-videos: [2144]
----

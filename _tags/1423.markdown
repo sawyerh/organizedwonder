@@ -1,6 +1,0 @@
----
-title: "ballet"
-id: tag.id
-permalink: "/tags/ballet"
-videos: [1645]
----

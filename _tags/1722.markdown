@@ -1,6 +1,0 @@
----
-title: "lapalux"
-id: tag.id
-permalink: "/tags/lapalux"
-videos: [2082]
----

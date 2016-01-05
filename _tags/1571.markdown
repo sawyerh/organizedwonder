@@ -1,6 +1,0 @@
----
-title: "time lapse"
-id: tag.id
-permalink: "/tags/time%20lapse"
-videos: [1795]
----

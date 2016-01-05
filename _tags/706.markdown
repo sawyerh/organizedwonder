@@ -1,6 +1,0 @@
----
-title: "facebook"
-id: tag.id
-permalink: "/tags/facebook"
-videos: [802,2265,2013,2025,2416]
----

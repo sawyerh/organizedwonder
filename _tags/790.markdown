@@ -1,6 +1,0 @@
----
-title: "instrumental"
-id: tag.id
-permalink: "/tags/instrumental"
-videos: [856]
----

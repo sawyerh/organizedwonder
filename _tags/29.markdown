@@ -1,6 +1,0 @@
----
-title: "scott wilson"
-id: tag.id
-permalink: "/tags/scott%20wilson"
-videos: [14]
----

@@ -1,6 +1,0 @@
----
-title: "wonder"
-id: tag.id
-permalink: "/tags/wonder"
-videos: [256,534,884,1005,1006,1039,1040,1042,1727,1780]
----

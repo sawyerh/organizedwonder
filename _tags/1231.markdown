@@ -1,6 +1,0 @@
----
-title: "product development"
-id: tag.id
-permalink: "/tags/product%20development"
-videos: [1408]
----

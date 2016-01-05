@@ -1,9 +1,0 @@
----
-title: "Julien Zanni"
-date: 2013-04-22 21:27:37 00:00
-permalink: /evryjazz
-twitter: "julienzanni"
-likes: [2076]
-id: 1945
-gravatar: "http://www.gravatar.com/avatar/cfe3bd93985fbad686c3850a76ad7a4e"
----

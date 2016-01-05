@@ -1,6 +1,0 @@
----
-title: "sugar"
-id: tag.id
-permalink: "/tags/sugar"
-videos: [2006]
----

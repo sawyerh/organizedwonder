@@ -1,9 +1,0 @@
----
-title: "Holly Tiwari"
-date: 2012-05-25 21:47:33 00:00
-permalink: /holly
-twitter: ""
-likes: [583,122,159]
-id: 687
-gravatar: "http://www.gravatar.com/avatar/e1aa3d84f43ef4bf5ec5381995a0ddf7"
----

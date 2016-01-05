@@ -1,6 +1,0 @@
----
-title: "grantland"
-id: tag.id
-permalink: "/tags/grantland"
-videos: [2244,2298,2318]
----

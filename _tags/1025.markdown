@@ -1,6 +1,0 @@
----
-title: "advertisement"
-id: tag.id
-permalink: "/tags/advertisement"
-videos: [1083]
----

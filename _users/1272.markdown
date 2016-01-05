@@ -1,9 +1,0 @@
----
-title: "Noah Lucas"
-date: 2012-08-02 22:07:36 00:00
-permalink: /noah_lucas
-twitter: "Noah_Lucas"
-likes: [130]
-id: 1272
-gravatar: "http://www.gravatar.com/avatar/d0a2dc1cd1d7b0be44c4ff1ef14b80df"
----

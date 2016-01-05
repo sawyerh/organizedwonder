@@ -1,6 +1,0 @@
----
-title: "nba"
-id: tag.id
-permalink: "/tags/nba"
-videos: [561,2231]
----

@@ -1,6 +1,0 @@
----
-title: "drawing"
-id: tag.id
-permalink: "/tags/drawing"
-videos: [335,353,1061,1073,2166]
----

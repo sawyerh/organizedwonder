@@ -1,6 +1,0 @@
----
-title: "iraq"
-id: tag.id
-permalink: "/tags/iraq"
-videos: [34]
----

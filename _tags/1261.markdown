@@ -1,6 +1,0 @@
----
-title: "forbes"
-id: tag.id
-permalink: "/tags/forbes"
-videos: [1480]
----

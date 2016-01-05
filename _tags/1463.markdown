@@ -1,6 +1,0 @@
----
-title: "coco"
-id: tag.id
-permalink: "/tags/coco"
-videos: [1675]
----

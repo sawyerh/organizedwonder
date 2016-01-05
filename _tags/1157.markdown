@@ -1,6 +1,0 @@
----
-title: "cowbird technology"
-id: tag.id
-permalink: "/tags/cowbird%20technology"
-videos: [1262]
----

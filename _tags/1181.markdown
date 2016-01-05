@@ -1,6 +1,0 @@
----
-title: "aging"
-id: tag.id
-permalink: "/tags/aging"
-videos: [1322]
----

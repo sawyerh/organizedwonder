@@ -1,6 +1,0 @@
----
-title: "smile"
-id: tag.id
-permalink: "/tags/smile"
-videos: [595]
----

@@ -1,9 +1,0 @@
----
-title: "Chris Taylor"
-date: 2012-07-23 14:20:34 00:00
-permalink: /christaylorgemi
-twitter: "ChrisTaylorGEMi"
-likes: [1108]
-id: 1245
-gravatar: "http://www.gravatar.com/avatar/bdce97ac5630ac66450d488f6a91accc"
----

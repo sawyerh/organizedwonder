@@ -1,6 +1,0 @@
----
-title: "fishing"
-id: tag.id
-permalink: "/tags/fishing"
-videos: [805]
----

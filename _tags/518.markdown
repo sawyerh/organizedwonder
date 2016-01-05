@@ -1,6 +1,0 @@
----
-title: "learning"
-id: tag.id
-permalink: "/tags/learning"
-videos: [546]
----

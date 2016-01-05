@@ -1,6 +1,0 @@
----
-title: "parkour"
-id: tag.id
-permalink: "/tags/parkour"
-videos: [29,2225]
----

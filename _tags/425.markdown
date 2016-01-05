@@ -1,6 +1,0 @@
----
-title: "behavior"
-id: tag.id
-permalink: "/tags/behavior"
-videos: [437,636]
----

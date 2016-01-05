@@ -1,6 +1,0 @@
----
-title: "sketching"
-id: tag.id
-permalink: "/tags/sketching"
-videos: [1399,2027]
----

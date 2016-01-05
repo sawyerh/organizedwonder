@@ -1,6 +1,0 @@
----
-title: "tuan nini"
-id: tag.id
-permalink: "/tags/tuan%20nini"
-videos: [1691]
----

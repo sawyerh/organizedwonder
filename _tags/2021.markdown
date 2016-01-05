@@ -1,6 +1,0 @@
----
-title: "movie score"
-id: tag.id
-permalink: "/tags/movie%20score"
-videos: [2496]
----

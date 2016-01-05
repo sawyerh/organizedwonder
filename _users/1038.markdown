@@ -1,9 +1,0 @@
----
-title: "Benny Jien"
-date: 2012-06-15 14:31:41 00:00
-permalink: /bennyjien
-twitter: ""
-likes: [719,850]
-id: 1038
-gravatar: "http://www.gravatar.com/avatar/f23725c31d5a102750bb9c56ad3f1984"
----

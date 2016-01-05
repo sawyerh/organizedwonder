@@ -1,6 +1,0 @@
----
-title: "let go"
-id: tag.id
-permalink: "/tags/let%20go"
-videos: [977]
----

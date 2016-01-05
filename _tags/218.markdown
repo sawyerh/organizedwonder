@@ -1,6 +1,0 @@
----
-title: "feynman"
-id: tag.id
-permalink: "/tags/feynman"
-videos: [151]
----

@@ -1,6 +1,0 @@
----
-title: "paper"
-id: tag.id
-permalink: "/tags/paper"
-videos: [1341,2444]
----

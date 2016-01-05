@@ -1,6 +1,0 @@
----
-title: "silent"
-id: tag.id
-permalink: "/tags/silent"
-videos: [938]
----

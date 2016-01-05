@@ -1,9 +1,0 @@
----
-title: "Laurence Smith"
-date: 2012-11-19 16:08:10 00:00
-permalink: /gogaclan
-twitter: ""
-likes: [1493]
-id: 1582
-gravatar: "http://www.gravatar.com/avatar/bda5c2cbfd5ca7aba2642c4bbd768713"
----

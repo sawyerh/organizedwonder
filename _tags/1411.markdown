@@ -1,6 +1,0 @@
----
-title: "train"
-id: tag.id
-permalink: "/tags/train"
-videos: [1638]
----

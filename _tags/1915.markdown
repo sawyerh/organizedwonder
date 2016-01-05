@@ -1,6 +1,0 @@
----
-title: "madlib"
-id: tag.id
-permalink: "/tags/madlib"
-videos: [2319]
----

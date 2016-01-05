@@ -1,9 +1,0 @@
----
-title: "Ralfs Miķelsons"
-date: 2013-03-30 13:23:50 00:00
-permalink: /ralfs_mikelsons
-twitter: "ralfs_mikelsons"
-likes: [1545,73,1755,1756,1095]
-id: 1883
-gravatar: "http://www.gravatar.com/avatar/264872897808fa0fcedb1aacb4ab9ec3"
----

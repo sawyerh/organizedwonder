@@ -1,6 +1,0 @@
----
-title: "lhc"
-id: tag.id
-permalink: "/tags/lhc"
-videos: [1032]
----

@@ -1,6 +1,0 @@
----
-title: "civilization"
-id: tag.id
-permalink: "/tags/civilization"
-videos: [1588]
----

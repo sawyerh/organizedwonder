@@ -1,9 +1,0 @@
----
-title: "Mitch Guy"
-date: 2012-07-22 12:40:38 00:00
-permalink: /mitchguy
-twitter: "MitchGuy"
-likes: [111]
-id: 1235
-gravatar: "http://www.gravatar.com/avatar/c6b6d3dffadf65073efff5f1f3bab208"
----

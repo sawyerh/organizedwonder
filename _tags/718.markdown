@@ -1,6 +1,0 @@
----
-title: "product"
-id: tag.id
-permalink: "/tags/product"
-videos: [808,1869]
----

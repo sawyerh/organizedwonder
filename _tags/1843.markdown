@@ -1,6 +1,0 @@
----
-title: "journalism"
-id: tag.id
-permalink: "/tags/journalism"
-videos: [2221]
----

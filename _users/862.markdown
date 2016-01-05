@@ -1,9 +1,0 @@
----
-title: "Amogh Chougule"
-date: 2012-06-06 11:11:54 00:00
-permalink: /amoghsc
-twitter: ""
-likes: [703,670]
-id: 862
-gravatar: "http://www.gravatar.com/avatar/2f78bbb027fd6dee97dfa11991dc1086"
----

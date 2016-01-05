@@ -1,6 +1,0 @@
----
-title: "hotflush"
-id: tag.id
-permalink: "/tags/hotflush"
-videos: [2080]
----

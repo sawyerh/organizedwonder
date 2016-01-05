@@ -1,6 +1,0 @@
----
-title: "john c. jay"
-id: tag.id
-permalink: "/tags/john%20c.%20jay"
-videos: [2159]
----

@@ -1,9 +1,0 @@
----
-title: "Jay Roberts"
-date: 2013-05-06 16:48:54 00:00
-permalink: /thetinyhorse
-twitter: ""
-likes: [1868,1869,1889]
-id: 1964
-gravatar: "http://www.gravatar.com/avatar/cdf356e3741a68d664f6f07cc90d18bf"
----

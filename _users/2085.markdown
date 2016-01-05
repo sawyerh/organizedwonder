@@ -1,9 +1,0 @@
----
-title: "Mauany Alencar"
-date: 2013-10-13 21:22:53 00:00
-permalink: /mauany
-twitter: ""
-likes: [2403,2233,2014,1375]
-id: 2085
-gravatar: "http://www.gravatar.com/avatar/6621f65b35f8eb524bda9c8286f97e31"
----

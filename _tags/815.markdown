@@ -1,6 +1,0 @@
----
-title: "smartphone"
-id: tag.id
-permalink: "/tags/smartphone"
-videos: [862,863]
----

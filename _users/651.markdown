@@ -1,9 +1,0 @@
----
-title: "Aaron Copeland"
-date: 2012-05-23 16:09:59 00:00
-permalink: /aaron
-twitter: ""
-likes: [587,599,680]
-id: 651
-gravatar: "http://www.gravatar.com/avatar/c665200d03041984bad5a3f068349b19"
----

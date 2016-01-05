@@ -1,9 +1,0 @@
----
-title: "Andrew vines"
-date: 2012-10-02 05:30:31 00:00
-permalink: /sbuvines97
-twitter: ""
-likes: [111]
-id: 1362
-gravatar: "http://www.gravatar.com/avatar/4cf35c5ed81e5cf7af2c43c6a63cd9be"
----

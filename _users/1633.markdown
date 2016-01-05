@@ -1,9 +1,0 @@
----
-title: "Tony Li"
-date: 2012-11-28 07:27:17 00:00
-permalink: /tli004
-twitter: ""
-likes: [366]
-id: 1633
-gravatar: "http://www.gravatar.com/avatar/ba5ec22d515b6e8c61d417ec60ca72f4"
----

@@ -1,6 +1,0 @@
----
-title: "think small"
-id: tag.id
-permalink: "/tags/think%20small"
-videos: [537]
----

@@ -1,6 +1,0 @@
----
-title: "orange"
-id: tag.id
-permalink: "/tags/orange"
-videos: [857,1648]
----

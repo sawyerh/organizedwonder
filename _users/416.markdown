@@ -1,9 +1,0 @@
----
-title: "Codesign"
-date: 2012-05-19 02:57:18 00:00
-permalink: /codesigner
-twitter: "codesignllc"
-likes: [350]
-id: 416
-gravatar: "http://www.gravatar.com/avatar/f8d5cc693363b6e953f31d5125b6c55d"
----

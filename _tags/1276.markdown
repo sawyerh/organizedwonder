@@ -1,6 +1,0 @@
----
-title: "spacex"
-id: tag.id
-permalink: "/tags/spacex"
-videos: [1500]
----

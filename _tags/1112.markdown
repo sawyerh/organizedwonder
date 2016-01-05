@@ -1,6 +1,0 @@
----
-title: "michael hansmeyer"
-id: tag.id
-permalink: "/tags/michael%20hansmeyer"
-videos: [1215]
----

@@ -1,6 +1,0 @@
----
-title: "spoof"
-id: tag.id
-permalink: "/tags/spoof"
-videos: [661,2230]
----

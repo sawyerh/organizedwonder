@@ -1,9 +1,0 @@
----
-title: "Jonas Nilsson"
-date: 2012-05-31 11:51:57 00:00
-permalink: /mynameisnilsson
-twitter: ""
-likes: [702,528]
-id: 806
-gravatar: "http://www.gravatar.com/avatar/5164ada9a5b3ec6fa30a8a206ee25726"
----

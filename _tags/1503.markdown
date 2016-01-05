@@ -1,6 +1,0 @@
----
-title: "pictograms"
-id: tag.id
-permalink: "/tags/pictograms"
-videos: [1703]
----

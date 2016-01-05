@@ -1,6 +1,0 @@
----
-title: "narration"
-id: tag.id
-permalink: "/tags/narration"
-videos: [1131]
----

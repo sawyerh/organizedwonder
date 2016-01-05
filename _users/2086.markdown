@@ -1,9 +1,0 @@
----
-title: "George Olaru"
-date: 2013-10-14 18:26:12 00:00
-permalink: /babbardel
-twitter: "BabBarDeL"
-likes: [1982]
-id: 2086
-gravatar: "http://www.gravatar.com/avatar/8386ac7ac722f92a64eb00a32b472b1d"
----

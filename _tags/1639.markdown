@@ -1,6 +1,0 @@
----
-title: "birmingham"
-id: tag.id
-permalink: "/tags/birmingham"
-videos: [1979]
----

@@ -1,6 +1,0 @@
----
-title: "david brooks"
-id: tag.id
-permalink: "/tags/david%20brooks"
-videos: [1401]
----

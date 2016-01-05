@@ -1,6 +1,0 @@
----
-title: "pirate bay"
-id: tag.id
-permalink: "/tags/pirate%20bay"
-videos: [1625]
----

@@ -1,6 +1,0 @@
----
-title: "paper animation"
-id: tag.id
-permalink: "/tags/paper%20animation"
-videos: [1888]
----

@@ -1,6 +1,0 @@
----
-title: "alec soth"
-id: tag.id
-permalink: "/tags/alec%20soth"
-videos: [1051]
----

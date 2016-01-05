@@ -1,6 +1,0 @@
----
-title: "jack nickell"
-id: tag.id
-permalink: "/tags/jack%20nickell"
-videos: [20]
----

@@ -1,6 +1,0 @@
----
-title: "yves behar"
-id: tag.id
-permalink: "/tags/yves%20behar"
-videos: [448]
----

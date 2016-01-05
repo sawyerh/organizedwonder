@@ -1,6 +1,0 @@
----
-title: "producer"
-id: tag.id
-permalink: "/tags/producer"
-videos: [2079,2080,2081,2082,2497,2546]
----

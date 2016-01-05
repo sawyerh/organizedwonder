@@ -1,9 +1,0 @@
----
-title: "zupped"
-date: 2013-05-01 02:00:50 00:00
-permalink: /zupped
-twitter: "zupped"
-likes: [1843]
-id: 1961
-gravatar: "http://www.gravatar.com/avatar/db136db3e0bc8606d6409639f8fc1801"
----

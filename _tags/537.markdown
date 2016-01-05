@@ -1,6 +1,0 @@
----
-title: "exploration"
-id: tag.id
-permalink: "/tags/exploration"
-videos: [569]
----

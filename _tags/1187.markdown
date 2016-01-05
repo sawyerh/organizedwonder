@@ -1,6 +1,0 @@
----
-title: "sharing"
-id: tag.id
-permalink: "/tags/sharing"
-videos: [1333]
----

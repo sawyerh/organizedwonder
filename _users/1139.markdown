@@ -1,9 +1,0 @@
----
-title: "Jameson Tyler"
-date: 2012-07-03 04:53:16 00:00
-permalink: /akyndofgreanishlite
-twitter: ""
-likes: [1019]
-id: 1139
-gravatar: "http://www.gravatar.com/avatar/e261ca12eae55f4381ba0ac1f7421976"
----

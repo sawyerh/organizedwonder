@@ -1,6 +1,0 @@
----
-title: "slavery"
-id: tag.id
-permalink: "/tags/slavery"
-videos: [1277]
----

@@ -1,6 +1,0 @@
----
-title: "personal goals"
-id: tag.id
-permalink: "/tags/personal%20goals"
-videos: [341]
----

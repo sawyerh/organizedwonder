@@ -1,6 +1,0 @@
----
-title: "medizin"
-id: tag.id
-permalink: "/tags/medizin"
-videos: [1331]
----

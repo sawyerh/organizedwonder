@@ -1,6 +1,0 @@
----
-title: "coming of age"
-id: tag.id
-permalink: "/tags/coming%20of%20age"
-videos: [1648]
----

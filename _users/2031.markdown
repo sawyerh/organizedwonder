@@ -1,9 +1,0 @@
----
-title: "amythical"
-date: 2013-06-23 03:13:33 00:00
-permalink: /amythical
-twitter: "amythical"
-likes: [1271]
-id: 2031
-gravatar: "http://www.gravatar.com/avatar/be124439077ee3d6a8ac4f73a21eaa9e"
----

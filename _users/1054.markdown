@@ -1,9 +1,0 @@
----
-title: "rethinkED"
-date: 2012-06-17 02:54:01 00:00
-permalink: /ecf
-twitter: "@rethinkedteam"
-likes: [850,884]
-id: 1054
-gravatar: "http://www.gravatar.com/avatar/326e9ec99088386b97a5f6e6f858bc8f"
----

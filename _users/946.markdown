@@ -1,9 +1,0 @@
----
-title: "Imola Unger"
-date: 2012-06-12 16:53:31 00:00
-permalink: /imolaunger
-twitter: "ImolaUnger"
-likes: [703]
-id: 946
-gravatar: "http://www.gravatar.com/avatar/987ec57e40ef67cd154b737d4e31612d"
----

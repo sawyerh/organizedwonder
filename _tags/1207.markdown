@@ -1,6 +1,0 @@
----
-title: "printer"
-id: tag.id
-permalink: "/tags/printer"
-videos: [1373]
----

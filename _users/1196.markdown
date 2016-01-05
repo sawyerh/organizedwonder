@@ -1,9 +1,0 @@
----
-title: "Mauro Di Ianni"
-date: 2012-07-19 09:20:20 00:00
-permalink: /fabulous_mauro
-twitter: "fabulous_mauro"
-likes: [1092]
-id: 1196
-gravatar: "http://www.gravatar.com/avatar/83f0cae9844d7d4b08d83756e4fa11ea"
----

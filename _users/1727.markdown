@@ -1,9 +1,0 @@
----
-title: "Tim Hopkins"
-date: 2013-01-10 03:00:40 00:00
-permalink: /timhops
-twitter: ""
-likes: [1509]
-id: 1727
-gravatar: "http://www.gravatar.com/avatar/a228275686114f336d09fd75e570eb2f"
----

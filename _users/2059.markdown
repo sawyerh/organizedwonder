@@ -1,9 +1,0 @@
----
-title: "Shonit Kishore"
-date: 2013-08-16 16:42:41 00:00
-permalink: /shonit
-twitter: ""
-likes: [208]
-id: 2059
-gravatar: "http://www.gravatar.com/avatar/bc7916e7e9bd9ca05b8eb637e878ee35"
----

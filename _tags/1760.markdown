@@ -1,6 +1,0 @@
----
-title: "experience"
-id: tag.id
-permalink: "/tags/experience"
-videos: [2127,2473]
----

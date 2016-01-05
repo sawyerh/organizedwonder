@@ -1,6 +1,0 @@
----
-title: "fiction"
-id: tag.id
-permalink: "/tags/fiction"
-videos: [1980]
----

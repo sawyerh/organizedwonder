@@ -1,6 +1,0 @@
----
-title: "arts"
-id: tag.id
-permalink: "/tags/arts"
-videos: [1070,1262]
----

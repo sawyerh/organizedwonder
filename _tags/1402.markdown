@@ -1,6 +1,0 @@
----
-title: "death"
-id: tag.id
-permalink: "/tags/death"
-videos: [1633,2257,1979]
----

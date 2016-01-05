@@ -1,6 +1,0 @@
----
-title: "immersive technology"
-id: tag.id
-permalink: "/tags/immersive%20technology"
-videos: [936]
----

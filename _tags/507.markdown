@@ -1,6 +1,0 @@
----
-title: "publish brand"
-id: tag.id
-permalink: "/tags/publish%20brand"
-videos: [536]
----

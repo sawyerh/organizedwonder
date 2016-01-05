@@ -1,6 +1,0 @@
----
-title: "clipboard"
-id: tag.id
-permalink: "/tags/clipboard"
-videos: [1627]
----

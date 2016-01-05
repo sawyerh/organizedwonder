@@ -1,6 +1,0 @@
----
-title: "aral sea"
-id: tag.id
-permalink: "/tags/aral%20sea"
-videos: [1240]
----

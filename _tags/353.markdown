@@ -1,6 +1,0 @@
----
-title: "ze frank"
-id: tag.id
-permalink: "/tags/ze%20frank"
-videos: [300]
----

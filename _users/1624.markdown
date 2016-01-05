@@ -1,9 +1,0 @@
----
-title: "Danny Banks"
-date: 2012-11-26 20:34:55 00:00
-permalink: /dbanksdesign
-twitter: "dbanksDesign"
-likes: [1375]
-id: 1624
-gravatar: "http://www.gravatar.com/avatar/36625b96213adb3306fe0edab280f1b2"
----

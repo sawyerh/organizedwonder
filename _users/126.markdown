@@ -1,9 +1,0 @@
----
-title: "Zack Bonebrake"
-date: 2012-05-17 22:00:25 00:00
-permalink: /gigonaut
-twitter: ""
-likes: [66]
-id: 126
-gravatar: "http://www.gravatar.com/avatar/a2545bf4e06bd08f261db6c5699652c1"
----

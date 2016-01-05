@@ -1,6 +1,0 @@
----
-title: "farming"
-id: tag.id
-permalink: "/tags/farming"
-videos: [670,2479]
----

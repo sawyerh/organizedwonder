@@ -1,6 +1,0 @@
----
-title: "wired"
-id: tag.id
-permalink: "/tags/wired"
-videos: [1903]
----

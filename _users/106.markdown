@@ -1,9 +1,0 @@
----
-title: "Ernad Halilovic"
-date: 2012-05-17 20:43:37 00:00
-permalink: /ignoramus
-twitter: ""
-likes: [108,39,577,608,1029]
-id: 106
-gravatar: "http://www.gravatar.com/avatar/c24de36bff6fc70b30f22dc8aa0c19cb"
----

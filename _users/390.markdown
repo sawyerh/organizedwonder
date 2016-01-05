@@ -1,9 +1,0 @@
----
-title: "Alejandro Casazi"
-date: 2012-05-18 20:30:31 00:00
-permalink: /casazi
-twitter: ""
-likes: [7,137,275]
-id: 390
-gravatar: "http://www.gravatar.com/avatar/9e45c37428f704e74f7cc66680c52845"
----

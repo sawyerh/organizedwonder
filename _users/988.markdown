@@ -1,9 +1,0 @@
----
-title: "Michael Kimb Jones"
-date: 2012-06-13 10:40:44 00:00
-permalink: /mkjones
-twitter: "mkjones"
-likes: [719,515]
-id: 988
-gravatar: "http://www.gravatar.com/avatar/2cd8df04a3be5cdefbd88ce598ec7a7d"
----

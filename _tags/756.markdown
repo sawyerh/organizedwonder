@@ -1,6 +1,0 @@
----
-title: "pointcloud"
-id: tag.id
-permalink: "/tags/pointcloud"
-videos: [849]
----

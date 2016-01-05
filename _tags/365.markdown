@@ -1,6 +1,0 @@
----
-title: "los angeles"
-id: tag.id
-permalink: "/tags/los%20angeles"
-videos: [327]
----

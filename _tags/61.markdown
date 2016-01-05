@@ -1,6 +1,0 @@
----
-title: "making of"
-id: tag.id
-permalink: "/tags/making%20of"
-videos: [27,936,2254]
----

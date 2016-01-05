@@ -1,9 +1,0 @@
----
-title: "Ozgur"
-date: 2012-06-01 23:05:39 00:00
-permalink: /ioioioioi
-twitter: ""
-likes: [704,700,782,783,784,328,886,180,1378,1336]
-id: 830
-gravatar: "http://www.gravatar.com/avatar/c966ed4362e8b6ce5f01cda5997a4ac7"
----

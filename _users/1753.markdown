@@ -1,9 +1,0 @@
----
-title: "Dan Forster"
-date: 2013-01-18 22:14:55 00:00
-permalink: /danforster
-twitter: ""
-likes: [58]
-id: 1753
-gravatar: "http://www.gravatar.com/avatar/5b632fb90311feef28e85d3468ff07e2"
----

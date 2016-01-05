@@ -1,6 +1,0 @@
----
-title: "cap & trade"
-id: tag.id
-permalink: "/tags/cap%20%26%20trade"
-videos: [2016]
----

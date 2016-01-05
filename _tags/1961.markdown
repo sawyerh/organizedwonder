@@ -1,6 +1,0 @@
----
-title: "mechanics"
-id: tag.id
-permalink: "/tags/mechanics"
-videos: [2398]
----

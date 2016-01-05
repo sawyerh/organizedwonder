@@ -1,6 +1,0 @@
----
-title: "homeless"
-id: tag.id
-permalink: "/tags/homeless"
-videos: [844]
----

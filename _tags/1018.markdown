@@ -1,6 +1,0 @@
----
-title: "melbourne"
-id: tag.id
-permalink: "/tags/melbourne"
-videos: [1080,2080,2081,2082]
----

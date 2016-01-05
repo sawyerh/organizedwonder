@@ -1,6 +1,0 @@
----
-title: "dragos"
-id: tag.id
-permalink: "/tags/dragos"
-videos: [1691]
----

@@ -1,6 +1,0 @@
----
-title: "37signals"
-id: tag.id
-permalink: "/tags/37signals"
-videos: [37,43,1064,1066]
----

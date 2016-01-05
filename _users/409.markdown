@@ -1,9 +1,0 @@
----
-title: "Patricia Northrop"
-date: 2012-05-19 01:07:41 00:00
-permalink: /pnorthrop
-twitter: "pnorthrop"
-likes: [263,253,201,7,138,335,318,306,299,278,258,252,175,39,430,807,1007]
-id: 409
-gravatar: "http://www.gravatar.com/avatar/f6c401fadc959a89977d35522de93750"
----

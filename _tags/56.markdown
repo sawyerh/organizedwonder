@@ -1,6 +1,0 @@
----
-title: "data visualization"
-id: tag.id
-permalink: "/tags/data%20visualization"
-videos: [24,186,332,921,1013,1271,1460,1537,1881,2383,2434,2494]
----

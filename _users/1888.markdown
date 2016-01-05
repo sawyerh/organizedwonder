@@ -1,9 +1,0 @@
----
-title: "David Anspaugh"
-date: 2013-03-30 20:08:05 00:00
-permalink: /manspaugh
-twitter: ""
-likes: [1719,48,1880]
-id: 1888
-gravatar: "http://www.gravatar.com/avatar/5e3f410366bc48c7d3d6f810c4a33e34"
----

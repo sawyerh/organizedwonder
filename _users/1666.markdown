@@ -1,9 +1,0 @@
----
-title: "Omar"
-date: 2012-12-08 03:51:55 00:00
-permalink: /omarrr
-twitter: ""
-likes: [1537]
-id: 1666
-gravatar: "http://www.gravatar.com/avatar/fe104d7c4d359831237fd6e337be2682"
----

@@ -1,9 +1,0 @@
----
-title: "Lauren Woodrick"
-date: 2014-01-07 18:19:15 00:00
-permalink: /loremipsam
-twitter: ""
-likes: [2169]
-id: 2118
-gravatar: "http://www.gravatar.com/avatar/6ad30b272d5190e7a679e5e22cc1c8ee"
----

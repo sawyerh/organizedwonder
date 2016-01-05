@@ -1,9 +1,0 @@
----
-title: "Maire"
-date: 2012-05-23 13:01:33 00:00
-permalink: /bonmaire
-twitter: ""
-likes: [481,530]
-id: 645
-gravatar: "http://www.gravatar.com/avatar/67533654ce4b4cb16b9398fb492dea83"
----

@@ -1,6 +1,0 @@
----
-title: "introvert"
-id: tag.id
-permalink: "/tags/introvert"
-videos: [1196]
----

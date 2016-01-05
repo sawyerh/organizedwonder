@@ -1,6 +1,0 @@
----
-title: "smacss"
-id: tag.id
-permalink: "/tags/smacss"
-videos: [1750]
----

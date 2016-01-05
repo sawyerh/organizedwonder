@@ -1,6 +1,0 @@
----
-title: "well-being"
-id: tag.id
-permalink: "/tags/well-being"
-videos: [913,914]
----

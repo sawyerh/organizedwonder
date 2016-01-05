@@ -1,6 +1,0 @@
----
-title: "the future of business"
-id: tag.id
-permalink: "/tags/the%20future%20of%20business"
-videos: [1487]
----

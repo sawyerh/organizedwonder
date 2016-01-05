@@ -1,6 +1,0 @@
----
-title: "screenwriting"
-id: tag.id
-permalink: "/tags/screenwriting"
-videos: [885]
----

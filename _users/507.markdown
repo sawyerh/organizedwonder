@@ -1,9 +1,0 @@
----
-title: "Rogerio Marques"
-date: 2012-05-20 16:23:49 00:00
-permalink: /rogeriomarques
-twitter: ""
-likes: [252]
-id: 507
-gravatar: "http://www.gravatar.com/avatar/41f3d193332bda66c92a046a074d0d25"
----

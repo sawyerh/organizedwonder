@@ -1,9 +1,0 @@
----
-title: "Adlan Al-Farooq Razalan"
-date: 2012-12-07 15:52:02 00:00
-permalink: /aafr
-twitter: ""
-likes: [1075]
-id: 1665
-gravatar: "http://www.gravatar.com/avatar/3be02ebd2d46e5325ef657a72e7c9340"
----

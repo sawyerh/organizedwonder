@@ -1,6 +1,0 @@
----
-title: "wireframing"
-id: tag.id
-permalink: "/tags/wireframing"
-videos: [1399]
----

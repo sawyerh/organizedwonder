@@ -1,6 +1,0 @@
----
-title: "intent"
-id: tag.id
-permalink: "/tags/intent"
-videos: [913]
----

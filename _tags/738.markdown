@@ -1,6 +1,0 @@
----
-title: "brand strategy"
-id: tag.id
-permalink: "/tags/brand%20strategy"
-videos: [828]
----

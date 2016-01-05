@@ -1,9 +1,0 @@
----
-title: "Chris Rothschild"
-date: 2012-07-16 09:48:35 00:00
-permalink: /rozzer
-twitter: "rozzer"
-likes: [818,1005,134,1004]
-id: 1185
-gravatar: "http://www.gravatar.com/avatar/6f238a636064a14fcd563204260dd4f9"
----

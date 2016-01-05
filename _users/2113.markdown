@@ -1,9 +1,0 @@
----
-title: "sans jaksin"
-date: 2013-12-22 19:31:32 00:00
-permalink: /hypocritezombie
-twitter: "hypocritezombie"
-likes: [2100,1888,874,1868,1988]
-id: 2113
-gravatar: "http://www.gravatar.com/avatar/6261aa312403bf30468bc496814b166c"
----

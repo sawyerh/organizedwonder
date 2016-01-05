@@ -1,9 +1,0 @@
----
-title: "Marc Sauerwald"
-date: 2012-06-12 20:25:09 00:00
-permalink: /marc-sauerwald
-twitter: ""
-likes: [834]
-id: 949
-gravatar: "http://www.gravatar.com/avatar/c39c14fe224d49747f8b54488b907239"
----

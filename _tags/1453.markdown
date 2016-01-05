@@ -1,6 +1,0 @@
----
-title: "peaches"
-id: tag.id
-permalink: "/tags/peaches"
-videos: [1671]
----

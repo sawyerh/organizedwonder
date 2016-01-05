@@ -1,6 +1,0 @@
----
-title: "uramaki"
-id: tag.id
-permalink: "/tags/uramaki"
-videos: [752]
----

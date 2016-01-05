@@ -1,6 +1,0 @@
----
-title: "va$htie"
-id: tag.id
-permalink: "/tags/va%24htie"
-videos: [40]
----

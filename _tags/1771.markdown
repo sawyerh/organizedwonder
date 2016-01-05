@@ -1,6 +1,0 @@
----
-title: "keith richards"
-id: tag.id
-permalink: "/tags/keith%20richards"
-videos: [2144]
----

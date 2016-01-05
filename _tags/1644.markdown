@@ -1,6 +1,0 @@
----
-title: "norwich"
-id: tag.id
-permalink: "/tags/norwich"
-videos: [1980]
----

@@ -1,6 +1,0 @@
----
-title: "marshall mcluhan"
-id: tag.id
-permalink: "/tags/marshall%20mcluhan"
-videos: [989]
----

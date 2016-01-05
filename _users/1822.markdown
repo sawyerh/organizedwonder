@@ -1,9 +1,0 @@
----
-title: "Nikolay Koval"
-date: 2013-02-26 11:18:15 00:00
-permalink: /wblake
-twitter: ""
-likes: [1402]
-id: 1822
-gravatar: "http://www.gravatar.com/avatar/cbf81a44d6cb3ef21604298d6fa5e3b7"
----

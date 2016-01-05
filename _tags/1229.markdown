@@ -1,6 +1,0 @@
----
-title: "ideo"
-id: tag.id
-permalink: "/tags/ideo"
-videos: [1408]
----

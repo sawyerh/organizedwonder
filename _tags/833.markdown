@@ -1,6 +1,0 @@
----
-title: "studio on fire"
-id: tag.id
-permalink: "/tags/studio%20on%20fire"
-videos: [875]
----

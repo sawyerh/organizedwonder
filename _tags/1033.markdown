@@ -1,6 +1,0 @@
----
-title: "typography animated text"
-id: tag.id
-permalink: "/tags/typography%20animated%20text"
-videos: [1087]
----

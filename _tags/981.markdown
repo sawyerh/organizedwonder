@@ -1,6 +1,0 @@
----
-title: "agency"
-id: tag.id
-permalink: "/tags/agency"
-videos: [1031]
----

@@ -1,6 +1,0 @@
----
-title: "philadelphia"
-id: tag.id
-permalink: "/tags/philadelphia"
-videos: [1709,2423]
----

@@ -1,9 +1,0 @@
----
-title: "SK"
-date: 2012-05-21 23:16:54 00:00
-permalink: /sk
-twitter: ""
-likes: [69,539]
-id: 589
-gravatar: "http://www.gravatar.com/avatar/21cc1460cadbf3757189e9c4e7b2f60a"
----

@@ -1,9 +1,0 @@
----
-title: "Rusty Meadows"
-date: 2012-05-18 21:37:27 00:00
-permalink: /ram
-twitter: "rameadows"
-likes: [69,109,137,134,434,435,436,437,2335,2340]
-id: 397
-gravatar: "http://www.gravatar.com/avatar/dd01733981299d1e9782e99c8a61bc0f"
----

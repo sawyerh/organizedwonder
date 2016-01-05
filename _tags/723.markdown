@@ -1,6 +1,0 @@
----
-title: "career"
-id: tag.id
-permalink: "/tags/career"
-videos: [815,1274]
----

@@ -1,9 +1,0 @@
----
-title: "Dan Denney"
-date: 2012-06-02 20:24:01 00:00
-permalink: /dandenney
-twitter: ""
-likes: [723,39,650]
-id: 835
-gravatar: "http://www.gravatar.com/avatar/a3c43a72878521f348f9c099c7efdedc"
----

@@ -1,9 +1,0 @@
----
-title: "mech"
-date: 2012-05-18 06:34:29 00:00
-permalink: /mechai
-twitter: "mechai"
-likes: [172]
-id: 222
-gravatar: "http://www.gravatar.com/avatar/ba78a76897cf876951c3d200191a6671"
----

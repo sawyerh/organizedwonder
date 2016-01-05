@@ -1,6 +1,0 @@
----
-title: "beatbox"
-id: tag.id
-permalink: "/tags/beatbox"
-videos: [1823]
----

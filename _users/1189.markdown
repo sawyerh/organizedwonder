@@ -1,9 +1,0 @@
----
-title: "lydivette"
-date: 2012-07-17 16:14:20 00:00
-permalink: /prijeti
-twitter: "stripjenga"
-likes: [1042,194,632,633,634,1456,915,788,1068,431,723,708,746,1051,354,1373,310,265,562]
-id: 1189
-gravatar: "http://www.gravatar.com/avatar/8afd56d35bbc31e69fcb78164e6ade84"
----

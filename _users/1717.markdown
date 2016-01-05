@@ -1,9 +1,0 @@
----
-title: "Nick Barthram"
-date: 2013-01-04 16:51:34 00:00
-permalink: /indicia
-twitter: ""
-likes: [1610]
-id: 1717
-gravatar: "http://www.gravatar.com/avatar/32b02bf1c803186115466d0866d92ad9"
----

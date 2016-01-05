@@ -1,6 +1,0 @@
----
-title: "made by hand"
-id: tag.id
-permalink: "/tags/made%20by%20hand"
-videos: [1718,1895,2046,2091]
----

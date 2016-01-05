@@ -1,9 +1,0 @@
----
-title: "j"
-date: 2012-05-23 10:16:19 00:00
-permalink: /t99p
-twitter: ""
-likes: [180,652]
-id: 644
-gravatar: "http://www.gravatar.com/avatar/85a713547d58edafeb534c7de8527364"
----

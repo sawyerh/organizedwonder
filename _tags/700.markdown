@@ -1,6 +1,0 @@
----
-title: "independence"
-id: tag.id
-permalink: "/tags/independence"
-videos: [799]
----

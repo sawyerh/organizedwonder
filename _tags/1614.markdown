@@ -1,6 +1,0 @@
----
-title: "jay silver"
-id: tag.id
-permalink: "/tags/jay%20silver"
-videos: [1915]
----

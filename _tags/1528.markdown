@@ -1,6 +1,0 @@
----
-title: "moody"
-id: tag.id
-permalink: "/tags/moody"
-videos: [1717]
----

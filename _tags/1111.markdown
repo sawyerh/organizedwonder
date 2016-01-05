@@ -1,6 +1,0 @@
----
-title: "audio"
-id: tag.id
-permalink: "/tags/audio"
-videos: [1212,2477,2496]
----

@@ -1,9 +1,0 @@
----
-title: "Sâmia Batista"
-date: 2013-03-30 00:48:41 00:00
-permalink: /samia
-twitter: ""
-likes: [1743,1718]
-id: 1879
-gravatar: "http://www.gravatar.com/avatar/96d15a7612f19d4ba8fa738da77fcaaa"
----

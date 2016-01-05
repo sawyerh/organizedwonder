@@ -1,6 +1,0 @@
----
-title: "calligraphy"
-id: tag.id
-permalink: "/tags/calligraphy"
-videos: [350,433,1251,1455]
----

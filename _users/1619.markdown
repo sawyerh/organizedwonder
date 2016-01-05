@@ -1,9 +1,0 @@
----
-title: "Shelesh Kumar"
-date: 2012-11-25 11:55:47 00:00
-permalink: /shelesh
-twitter: ""
-likes: [1545,1883,2016,252,2017,2018,2019,2020,2023,2027,1379]
-id: 1619
-gravatar: "http://www.gravatar.com/avatar/751d3fdb4ce577f7ec76b622d0bb1f04"
----

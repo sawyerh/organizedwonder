@@ -1,9 +1,0 @@
----
-title: "Ben Stott"
-date: 2012-05-31 18:27:14 00:00
-permalink: /benstott
-twitter: ""
-likes: [703]
-id: 812
-gravatar: "http://www.gravatar.com/avatar/2a52ace033c4bef96c0b14d4fbad0772"
----

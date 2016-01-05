@@ -1,6 +1,0 @@
----
-title: "fader"
-id: tag.id
-permalink: "/tags/fader"
-videos: [2273]
----

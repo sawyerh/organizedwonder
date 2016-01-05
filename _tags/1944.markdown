@@ -1,6 +1,0 @@
----
-title: "steve stoute"
-id: tag.id
-permalink: "/tags/steve%20stoute"
-videos: [2360]
----

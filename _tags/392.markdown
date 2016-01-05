@@ -1,6 +1,0 @@
----
-title: "hope"
-id: tag.id
-permalink: "/tags/hope"
-videos: [361]
----

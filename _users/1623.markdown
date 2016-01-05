@@ -1,9 +1,0 @@
----
-title: "Matt Kreiling"
-date: 2012-11-26 19:42:15 00:00
-permalink: /tinynow
-twitter: "tinynow"
-likes: [954]
-id: 1623
-gravatar: "http://www.gravatar.com/avatar/54749811ca54ae0978118abb6b3763b1"
----

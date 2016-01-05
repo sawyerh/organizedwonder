@@ -1,6 +1,0 @@
----
-title: "cosmology"
-id: tag.id
-permalink: "/tags/cosmology"
-videos: [282]
----

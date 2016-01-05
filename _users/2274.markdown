@@ -1,9 +1,0 @@
----
-title: "Thomas Price"
-date: 2014-04-01 14:59:08 00:00
-permalink: /thesmilefactory
-twitter: ""
-likes: [2257]
-id: 2274
-gravatar: "http://www.gravatar.com/avatar/be3a63119d8d9ddaf7d63133ab52ba02"
----

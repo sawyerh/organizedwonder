@@ -1,6 +1,0 @@
----
-title: "bio"
-id: tag.id
-permalink: "/tags/bio"
-videos: [1131]
----

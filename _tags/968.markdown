@@ -1,6 +1,0 @@
----
-title: "vice guide to karachi"
-id: tag.id
-permalink: "/tags/vice%20guide%20to%20karachi"
-videos: [1015,1016,1017,1018]
----

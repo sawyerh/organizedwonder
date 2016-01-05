@@ -1,6 +1,0 @@
----
-title: "midcentury"
-id: tag.id
-permalink: "/tags/midcentury"
-videos: [1713]
----

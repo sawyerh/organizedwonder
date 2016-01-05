@@ -1,6 +1,0 @@
----
-title: "testimonial"
-id: tag.id
-permalink: "/tags/testimonial"
-videos: [2540]
----

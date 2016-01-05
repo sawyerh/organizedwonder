@@ -1,6 +1,0 @@
----
-title: "reading"
-id: tag.id
-permalink: "/tags/reading"
-videos: [67]
----

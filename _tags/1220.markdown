@@ -1,6 +1,0 @@
----
-title: "prototyping"
-id: tag.id
-permalink: "/tags/prototyping"
-videos: [1399,2501,2513,2516,2553]
----

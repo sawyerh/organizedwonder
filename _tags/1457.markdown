@@ -1,6 +1,0 @@
----
-title: "bruno"
-id: tag.id
-permalink: "/tags/bruno"
-videos: [1674]
----

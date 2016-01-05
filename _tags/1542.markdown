@@ -1,6 +1,0 @@
----
-title: "cyberpunk"
-id: tag.id
-permalink: "/tags/cyberpunk"
-videos: [1738,1792]
----

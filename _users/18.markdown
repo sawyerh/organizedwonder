@@ -1,9 +1,0 @@
----
-title: "Kjell-Roger Ringstad"
-date: 2012-05-15 12:04:46 00:00
-permalink: /kringstad
-twitter: "kringstad"
-likes: [58,18,448,835,927]
-id: 18
-gravatar: "http://www.gravatar.com/avatar/a79b0c836d0978ec0c64838609daf33c"
----

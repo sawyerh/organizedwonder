@@ -1,6 +1,0 @@
----
-title: "vanessa"
-id: tag.id
-permalink: "/tags/vanessa"
-videos: [1674]
----

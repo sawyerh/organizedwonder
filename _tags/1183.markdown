@@ -1,6 +1,0 @@
----
-title: "zukunft"
-id: tag.id
-permalink: "/tags/zukunft"
-videos: [1331]
----

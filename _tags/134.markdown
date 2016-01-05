@@ -1,6 +1,0 @@
----
-title: "tattoos"
-id: tag.id
-permalink: "/tags/tattoos"
-videos: [64]
----

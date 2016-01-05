@@ -1,6 +1,0 @@
----
-title: "planning"
-id: tag.id
-permalink: "/tags/planning"
-videos: [804]
----

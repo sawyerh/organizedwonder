@@ -1,6 +1,0 @@
----
-title: "made"
-id: tag.id
-permalink: "/tags/made"
-videos: [1721]
----

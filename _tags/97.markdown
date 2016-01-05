@@ -1,6 +1,0 @@
----
-title: "we don't eat"
-id: tag.id
-permalink: "/tags/we%20don't%20eat"
-videos: [46]
----

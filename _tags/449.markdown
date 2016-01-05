@@ -1,6 +1,0 @@
----
-title: "foundation"
-id: tag.id
-permalink: "/tags/foundation"
-videos: [467,1987]
----

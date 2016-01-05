@@ -1,6 +1,0 @@
----
-title: "gaming"
-id: tag.id
-permalink: "/tags/gaming"
-videos: [1295]
----

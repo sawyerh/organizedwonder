@@ -1,6 +1,0 @@
----
-title: "creative commons"
-id: tag.id
-permalink: "/tags/creative%20commons"
-videos: [677]
----

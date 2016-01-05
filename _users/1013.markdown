@@ -1,9 +1,0 @@
----
-title: "Tim Blake"
-date: 2012-06-13 21:58:18 00:00
-permalink: /tim
-twitter: ""
-likes: [515]
-id: 1013
-gravatar: "http://www.gravatar.com/avatar/0aba325d9f2904106844f47611ea6739"
----

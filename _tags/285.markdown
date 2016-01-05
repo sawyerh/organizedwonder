@@ -1,6 +1,0 @@
----
-title: "michael langan"
-id: tag.id
-permalink: "/tags/michael%20langan"
-videos: [197]
----

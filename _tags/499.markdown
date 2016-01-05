@@ -1,6 +1,0 @@
----
-title: "consciousness"
-id: tag.id
-permalink: "/tags/consciousness"
-videos: [527]
----

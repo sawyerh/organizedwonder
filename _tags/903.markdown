@@ -1,6 +1,0 @@
----
-title: "gonzales"
-id: tag.id
-permalink: "/tags/gonzales"
-videos: [960]
----

@@ -1,6 +1,0 @@
----
-title: "charity"
-id: tag.id
-permalink: "/tags/charity"
-videos: [931,1480]
----

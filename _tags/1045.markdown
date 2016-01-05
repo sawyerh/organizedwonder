@@ -1,6 +1,0 @@
----
-title: "chance"
-id: tag.id
-permalink: "/tags/chance"
-videos: [1097]
----

@@ -1,6 +1,0 @@
----
-title: "extreme sports"
-id: tag.id
-permalink: "/tags/extreme%20sports"
-videos: [47,2089,2116,2215,2367]
----

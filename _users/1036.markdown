@@ -1,9 +1,0 @@
----
-title: "Alessandro Curcu"
-date: 2012-06-15 09:31:47 00:00
-permalink: /abactor
-twitter: ""
-likes: [300,1053,1407,1060]
-id: 1036
-gravatar: "http://www.gravatar.com/avatar/16ae68484916f6d6e715cfd661b98f0e"
----

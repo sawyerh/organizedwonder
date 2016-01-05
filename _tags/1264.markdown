@@ -1,6 +1,0 @@
----
-title: "stock"
-id: tag.id
-permalink: "/tags/stock"
-videos: [1480]
----

@@ -1,6 +1,0 @@
----
-title: "jay z"
-id: tag.id
-permalink: "/tags/jay%20z"
-videos: [1972,1973]
----

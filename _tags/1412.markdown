@@ -1,6 +1,0 @@
----
-title: "leaving"
-id: tag.id
-permalink: "/tags/leaving"
-videos: [1640]
----

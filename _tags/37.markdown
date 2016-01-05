@@ -1,6 +1,0 @@
----
-title: "nas"
-id: tag.id
-permalink: "/tags/nas"
-videos: [17,2264,2176]
----

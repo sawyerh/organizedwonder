@@ -1,9 +1,0 @@
----
-title: "Siting Liu"
-date: 2012-07-24 06:04:57 00:00
-permalink: /xlifeforgod
-twitter: ""
-likes: [1073,1118,1068,1048,1033,948]
-id: 1250
-gravatar: "http://www.gravatar.com/avatar/78985176185ec5f32e5b550e8ac72a36"
----

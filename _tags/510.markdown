@@ -1,6 +1,0 @@
----
-title: "branding"
-id: tag.id
-permalink: "/tags/branding"
-videos: [537,824,825,826,828,930,1102,1218,1425,1439,2039,2489,2493]
----

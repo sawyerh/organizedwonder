@@ -1,6 +1,0 @@
----
-title: "palladium"
-id: tag.id
-permalink: "/tags/palladium"
-videos: [951,952]
----

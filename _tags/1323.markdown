@@ -1,6 +1,0 @@
----
-title: "parks"
-id: tag.id
-permalink: "/tags/parks"
-videos: [1577]
----

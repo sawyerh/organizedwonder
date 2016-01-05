@@ -1,6 +1,0 @@
----
-title: "instantbight"
-id: tag.id
-permalink: "/tags/instantbight"
-videos: [1572]
----

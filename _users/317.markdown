@@ -1,9 +1,0 @@
----
-title: "Tim Cruickshank"
-date: 2012-05-18 14:01:43 00:00
-permalink: /timcruicky
-twitter: "timcruicky"
-likes: [248,73,69,25,48]
-id: 317
-gravatar: "http://www.gravatar.com/avatar/6b1daa73c96a8f5d83c705d5bf9de225"
----

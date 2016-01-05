@@ -1,6 +1,0 @@
----
-title: "post its"
-id: tag.id
-permalink: "/tags/post%20its"
-videos: [772]
----

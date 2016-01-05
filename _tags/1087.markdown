@@ -1,6 +1,0 @@
----
-title: "gratitude"
-id: tag.id
-permalink: "/tags/gratitude"
-videos: [1158]
----

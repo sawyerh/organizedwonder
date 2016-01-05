@@ -1,6 +1,0 @@
----
-title: "still alive"
-id: tag.id
-permalink: "/tags/still%20alive"
-videos: [855]
----

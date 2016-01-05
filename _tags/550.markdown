@@ -1,6 +1,0 @@
----
-title: "print design"
-id: tag.id
-permalink: "/tags/print%20design"
-videos: [590]
----

@@ -1,6 +1,0 @@
----
-title: "simon collison"
-id: tag.id
-permalink: "/tags/simon%20collison"
-videos: [1518]
----

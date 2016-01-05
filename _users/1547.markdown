@@ -1,9 +1,0 @@
----
-title: "Adam Vlasák"
-date: 2012-11-14 17:32:11 00:00
-permalink: /k23
-twitter: ""
-likes: [1493,16,2117]
-id: 1547
-gravatar: "http://www.gravatar.com/avatar/3a8b8c1e1c9d0b97c4ce5c3c7a7c48bf"
----

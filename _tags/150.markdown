@@ -1,6 +1,0 @@
----
-title: "awe"
-id: tag.id
-permalink: "/tags/awe"
-videos: [72]
----

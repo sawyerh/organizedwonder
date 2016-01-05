@@ -1,6 +1,0 @@
----
-title: "burn out"
-id: tag.id
-permalink: "/tags/burn%20out"
-videos: [937]
----

@@ -1,9 +1,0 @@
----
-title: "SC"
-date: 2012-07-07 02:07:10 00:00
-permalink: /backpages
-twitter: ""
-likes: [1025,1033,788,723,310,734,703,897,676,638,446,502,430,287,353,431,478,325,916,875,834,358,53]
-id: 1157
-gravatar: "http://www.gravatar.com/avatar/27be4af511d0520c46ffe0b8bfbd1749"
----

@@ -1,6 +1,0 @@
----
-title: "diabologum"
-id: tag.id
-permalink: "/tags/diabologum"
-videos: [190]
----

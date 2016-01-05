@@ -1,6 +1,0 @@
----
-title: "innovators"
-id: tag.id
-permalink: "/tags/innovators"
-videos: [2528]
----

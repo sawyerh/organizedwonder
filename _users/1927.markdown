@@ -1,9 +1,0 @@
----
-title: "John Merlino"
-date: 2013-04-11 20:47:04 00:00
-permalink: /johnmerlino
-twitter: "nettdrone"
-likes: [1743,287,715,25,518,1769,39,430]
-id: 1927
-gravatar: "http://www.gravatar.com/avatar/ddc344c6bee922102fd75a3b296045d0"
----

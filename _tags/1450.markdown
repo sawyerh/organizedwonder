@@ -1,6 +1,0 @@
----
-title: "drama"
-id: tag.id
-permalink: "/tags/drama"
-videos: [1663,1979,1980,2168,2249,2509]
----

@@ -1,9 +1,0 @@
----
-title: "Leonardo"
-date: 2013-06-11 23:44:23 00:00
-permalink: /groobox
-twitter: ""
-likes: [1760,1301,1389]
-id: 2026
-gravatar: "http://www.gravatar.com/avatar/e794f491af32ee84fd8a75bfc6e935f0"
----

@@ -1,6 +1,0 @@
----
-title: "rebel"
-id: tag.id
-permalink: "/tags/rebel"
-videos: [1117,1118]
----

@@ -1,9 +1,0 @@
----
-title: "Fabio Barbosa Calzavara"
-date: 2012-07-27 04:00:37 00:00
-permalink: /fabiofbc
-twitter: ""
-likes: [727]
-id: 1262
-gravatar: "http://www.gravatar.com/avatar/c45ca67602e7f7c7faa10d92e5f3573f"
----

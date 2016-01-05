@@ -1,6 +1,0 @@
----
-title: "heart"
-id: tag.id
-permalink: "/tags/heart"
-videos: [522]
----

@@ -1,6 +1,0 @@
----
-title: "sina safatian"
-id: tag.id
-permalink: "/tags/sina%20safatian"
-videos: [2349]
----

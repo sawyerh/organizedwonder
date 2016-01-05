@@ -1,9 +1,0 @@
----
-title: "Brent Steen"
-date: 2013-08-05 15:07:00 00:00
-permalink: /bsteen
-twitter: ""
-likes: [703,1005,583,66,2029,1905,1895,1843,1724,1524,1534,1375,69,310,134,252]
-id: 2053
-gravatar: "http://www.gravatar.com/avatar/35ef17c768331b5e5936a5e09e541f89"
----

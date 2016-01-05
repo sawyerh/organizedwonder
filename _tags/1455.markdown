@@ -1,6 +1,0 @@
----
-title: "kick it"
-id: tag.id
-permalink: "/tags/kick%20it"
-videos: [1671]
----

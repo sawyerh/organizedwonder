@@ -1,6 +1,0 @@
----
-title: "half-life"
-id: tag.id
-permalink: "/tags/half-life"
-videos: [855]
----

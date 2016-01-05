@@ -1,6 +1,0 @@
----
-title: "text"
-id: tag.id
-permalink: "/tags/text"
-videos: [547]
----

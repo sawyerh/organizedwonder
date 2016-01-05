@@ -1,6 +1,0 @@
----
-title: "statistics"
-id: tag.id
-permalink: "/tags/statistics"
-videos: [592,2149]
----

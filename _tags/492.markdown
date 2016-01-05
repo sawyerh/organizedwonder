@@ -1,6 +1,0 @@
----
-title: "courage"
-id: tag.id
-permalink: "/tags/courage"
-videos: [523,882,2470]
----

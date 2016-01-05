@@ -1,6 +1,0 @@
----
-title: "artist"
-id: tag.id
-permalink: "/tags/artist"
-videos: [916,1094,1253,1368,1578,1581,1797,2210,2336,2547,2578]
----

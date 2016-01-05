@@ -1,6 +1,0 @@
----
-title: "video game"
-id: tag.id
-permalink: "/tags/video%20game"
-videos: [765,896]
----

@@ -1,9 +1,0 @@
----
-title: "The Once-ler"
-date: 2012-05-18 21:17:47 00:00
-permalink: /iamcfish
-twitter: "iamcfish"
-likes: [277,287,288,54,299,111,453,780]
-id: 393
-gravatar: "http://www.gravatar.com/avatar/8858ae566187f9bb9096fbfd42e869ce"
----

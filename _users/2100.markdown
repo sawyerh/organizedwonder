@@ -1,9 +1,0 @@
----
-title: "Kuan Luo"
-date: 2013-11-20 03:44:31 00:00
-permalink: /kuan
-twitter: "kuanluo"
-likes: [990,2120,2122]
-id: 2100
-gravatar: "http://www.gravatar.com/avatar/790355a2c7ce1fcd07204245d365a17e"
----

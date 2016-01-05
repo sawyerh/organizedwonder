@@ -1,6 +1,0 @@
----
-title: "bible"
-id: tag.id
-permalink: "/tags/bible"
-videos: [98]
----

@@ -1,9 +1,0 @@
----
-title: "Tariq Odeh"
-date: 2012-06-07 10:29:43 00:00
-permalink: /tariq
-twitter: ""
-likes: [755,716,248]
-id: 885
-gravatar: "http://www.gravatar.com/avatar/e44c06d91f4ee8de2b49db7be4750ed6"
----

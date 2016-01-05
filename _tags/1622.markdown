@@ -1,6 +1,0 @@
----
-title: "midi"
-id: tag.id
-permalink: "/tags/midi"
-videos: [1963]
----

@@ -1,6 +1,0 @@
----
-title: "lgbt"
-id: tag.id
-permalink: "/tags/lgbt"
-videos: [1648]
----

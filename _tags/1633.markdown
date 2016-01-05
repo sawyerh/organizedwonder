@@ -1,6 +1,0 @@
----
-title: "dslr"
-id: tag.id
-permalink: "/tags/dslr"
-videos: [1979]
----

@@ -1,6 +1,0 @@
----
-title: "braille"
-id: tag.id
-permalink: "/tags/braille"
-videos: [2080]
----

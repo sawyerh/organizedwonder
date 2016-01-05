@@ -1,6 +1,0 @@
----
-title: "scary"
-id: tag.id
-permalink: "/tags/scary"
-videos: [1085]
----

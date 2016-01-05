@@ -1,6 +1,0 @@
----
-title: "activism"
-id: tag.id
-permalink: "/tags/activism"
-videos: [167]
----

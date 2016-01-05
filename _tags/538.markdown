@@ -1,6 +1,0 @@
----
-title: "urban studies"
-id: tag.id
-permalink: "/tags/urban%20studies"
-videos: [569]
----

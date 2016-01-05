@@ -1,6 +1,0 @@
----
-title: "helen fisher"
-id: tag.id
-permalink: "/tags/helen%20fisher"
-videos: [1852]
----

@@ -1,9 +1,0 @@
----
-title: "Mark Christian"
-date: 2012-12-28 05:13:41 00:00
-permalink: /mark3186
-twitter: ""
-likes: [1584,1590]
-id: 1711
-gravatar: "http://www.gravatar.com/avatar/ad2e0a26969706d561791b9913271c6a"
----

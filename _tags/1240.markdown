@@ -1,6 +1,0 @@
----
-title: "simplicity"
-id: tag.id
-permalink: "/tags/simplicity"
-videos: [1431]
----

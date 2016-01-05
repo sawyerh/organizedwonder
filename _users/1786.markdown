@@ -1,9 +1,0 @@
----
-title: "Liu Liu"
-date: 2013-02-04 06:10:10 00:00
-permalink: /liuliusquare
-twitter: "liuliusquare"
-likes: [1631]
-id: 1786
-gravatar: "http://www.gravatar.com/avatar/9c0186acb7453d2880ee38a7081e5e72"
----

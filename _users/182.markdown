@@ -1,9 +1,0 @@
----
-title: "Peter Tullio"
-date: 2012-05-18 03:14:09 00:00
-permalink: /tullio
-twitter: ""
-likes: [66,143,134,123,109,100]
-id: 182
-gravatar: "http://www.gravatar.com/avatar/6884642cdf61a48d0b447552d846e1a3"
----

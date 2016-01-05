@@ -1,9 +1,0 @@
----
-title: "Greg Norrell"
-date: 2012-05-26 13:14:29 00:00
-permalink: /gnorrell
-twitter: ""
-likes: [318,253,48]
-id: 692
-gravatar: "http://www.gravatar.com/avatar/7037eced2aa9e92dd572101f54601a30"
----

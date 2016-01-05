@@ -1,6 +1,0 @@
----
-title: "ornamental"
-id: tag.id
-permalink: "/tags/ornamental"
-videos: [1718]
----

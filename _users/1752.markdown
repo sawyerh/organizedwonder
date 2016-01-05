@@ -1,9 +1,0 @@
----
-title: "Whitney Stinson"
-date: 2013-01-18 20:41:14 00:00
-permalink: /wstinson
-twitter: ""
-likes: [1615]
-id: 1752
-gravatar: "http://www.gravatar.com/avatar/195af1776c2a5045e60bcdc42ba5b7f9"
----

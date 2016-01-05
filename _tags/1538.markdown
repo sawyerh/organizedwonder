@@ -1,6 +1,0 @@
----
-title: "prototype"
-id: tag.id
-permalink: "/tags/prototype"
-videos: [1733]
----

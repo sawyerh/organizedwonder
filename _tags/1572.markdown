@@ -1,6 +1,0 @@
----
-title: "magazine"
-id: tag.id
-permalink: "/tags/magazine"
-videos: [1795,1902]
----

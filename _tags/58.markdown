@@ -1,6 +1,0 @@
----
-title: "mule design"
-id: tag.id
-permalink: "/tags/mule%20design"
-videos: [25]
----

@@ -1,6 +1,0 @@
----
-title: "rick rubin"
-id: tag.id
-permalink: "/tags/rick%20rubin"
-videos: [2282,2328]
----

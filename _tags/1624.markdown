@@ -1,6 +1,0 @@
----
-title: "austerity"
-id: tag.id
-permalink: "/tags/austerity"
-videos: [1966]
----

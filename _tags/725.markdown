@@ -1,6 +1,0 @@
----
-title: "persuasion"
-id: tag.id
-permalink: "/tags/persuasion"
-videos: [816]
----

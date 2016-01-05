@@ -1,6 +1,0 @@
----
-title: "saul bass"
-id: tag.id
-permalink: "/tags/saul%20bass"
-videos: [1398]
----

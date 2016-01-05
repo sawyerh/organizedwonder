@@ -1,6 +1,0 @@
----
-title: "vietnam"
-id: tag.id
-permalink: "/tags/vietnam"
-videos: [940]
----

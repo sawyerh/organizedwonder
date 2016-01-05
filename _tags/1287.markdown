@@ -1,6 +1,0 @@
----
-title: "nutrition"
-id: tag.id
-permalink: "/tags/nutrition"
-videos: [1527]
----

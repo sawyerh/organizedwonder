@@ -1,9 +1,0 @@
----
-title: "Chris Plowman"
-date: 2014-01-18 15:38:18 00:00
-permalink: /chrisplowman
-twitter: ""
-likes: [703,2058,1281]
-id: 2223
-gravatar: "http://www.gravatar.com/avatar/f079d97469166fe77bbfa49421bc04dc"
----

@@ -1,9 +1,0 @@
----
-title: "Laura Bernataviciute"
-date: 2012-05-20 09:36:37 00:00
-permalink: /laurabernataviciute
-twitter: ""
-likes: [53]
-id: 491
-gravatar: "http://www.gravatar.com/avatar/e5c17c4aa10942166722719c18801c50"
----

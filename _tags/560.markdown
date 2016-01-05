@@ -1,6 +1,0 @@
----
-title: "family"
-id: tag.id
-permalink: "/tags/family"
-videos: [601]
----

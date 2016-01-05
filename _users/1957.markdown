@@ -1,9 +1,0 @@
----
-title: "Lauralee Flores"
-date: 2013-04-27 20:33:05 00:00
-permalink: /flores8
-twitter: ""
-likes: [39,66,1402,430,518]
-id: 1957
-gravatar: "http://www.gravatar.com/avatar/8033790668877cda3e0572f54be2c555"
----

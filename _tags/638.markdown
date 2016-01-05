@@ -1,6 +1,0 @@
----
-title: "mastery"
-id: tag.id
-permalink: "/tags/mastery"
-videos: [711]
----

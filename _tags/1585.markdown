@@ -1,6 +1,0 @@
----
-title: "stage"
-id: tag.id
-permalink: "/tags/stage"
-videos: [1830,1836,1837,1855,1965,1971]
----

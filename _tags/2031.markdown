@@ -1,6 +1,0 @@
----
-title: "hard work"
-id: tag.id
-permalink: "/tags/hard%20work"
-videos: [2501]
----

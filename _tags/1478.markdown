@@ -1,6 +1,0 @@
----
-title: "morar"
-id: tag.id
-permalink: "/tags/morar"
-videos: [1689]
----

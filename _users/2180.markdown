@@ -1,9 +1,0 @@
----
-title: "ms"
-date: 2014-01-16 06:29:59 00:00
-permalink: /ms
-twitter: "@manuschwendener"
-likes: [2188,2192,2193,2194,2186,2190]
-id: 2180
-gravatar: "http://www.gravatar.com/avatar/13e5f693b07f45409f595cc81d32e3fa"
----

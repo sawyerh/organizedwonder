@@ -1,6 +1,0 @@
----
-title: "global"
-id: tag.id
-permalink: "/tags/global"
-videos: [991]
----

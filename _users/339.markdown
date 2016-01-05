@@ -1,9 +1,0 @@
----
-title: "Asad Chishti"
-date: 2012-05-18 15:26:17 00:00
-permalink: /asadc
-twitter: "@asad_ch"
-likes: [53,112,309,1573,134,1578,1579,66,1582,333,1577,1580,1581,1603,1606,1624,2110]
-id: 339
-gravatar: "http://www.gravatar.com/avatar/f1da61f83a384b38bdf8281a65525ad9"
----

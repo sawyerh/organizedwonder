@@ -1,6 +1,0 @@
----
-title: "ball"
-id: tag.id
-permalink: "/tags/ball"
-videos: [1717]
----

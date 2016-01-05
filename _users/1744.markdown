@@ -1,9 +1,0 @@
----
-title: "Roy Wilhelm"
-date: 2013-01-15 14:09:44 00:00
-permalink: /bannedindc
-twitter: ""
-likes: [1399]
-id: 1744
-gravatar: "http://www.gravatar.com/avatar/6627dd8349cb92d76fc8ef87e2e85f9a"
----

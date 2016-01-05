@@ -1,6 +1,0 @@
----
-title: "walk"
-id: tag.id
-permalink: "/tags/walk"
-videos: [661]
----

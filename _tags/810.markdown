@@ -1,6 +1,0 @@
----
-title: "vision"
-id: tag.id
-permalink: "/tags/vision"
-videos: [862,863,1021,1022,1606,2097,2478,2527]
----

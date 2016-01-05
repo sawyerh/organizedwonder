@@ -1,6 +1,0 @@
----
-title: "sprinkle lab"
-id: tag.id
-permalink: "/tags/sprinkle%20lab"
-videos: [90]
----

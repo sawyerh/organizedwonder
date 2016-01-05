@@ -1,9 +1,0 @@
----
-title: "Ma Rco"
-date: 2012-11-30 11:08:51 00:00
-permalink: /mfischbach
-twitter: ""
-likes: [1514]
-id: 1642
-gravatar: "http://www.gravatar.com/avatar/5167aa2d37a0d942e148515992853655"
----

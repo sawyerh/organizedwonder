@@ -1,6 +1,0 @@
----
-title: "people watching"
-id: tag.id
-permalink: "/tags/people%20watching"
-videos: [940,939]
----

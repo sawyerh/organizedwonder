@@ -1,9 +1,0 @@
----
-title: "David Crompton"
-date: 2013-09-20 20:45:21 00:00
-permalink: /crompsy
-twitter: "David_Crompton"
-likes: [2239,2112,532,100,2213,2071,1871,2075,2076,2024,2036,2082,1973,1537,2081]
-id: 2072
-gravatar: "http://www.gravatar.com/avatar/082eaaa3339b5f2a7742e99e3718f50f"
----

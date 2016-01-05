@@ -1,6 +1,0 @@
----
-title: "take away show"
-id: tag.id
-permalink: "/tags/take%20away%20show"
-videos: [375,189]
----

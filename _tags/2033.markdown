@@ -1,6 +1,0 @@
----
-title: "apparrel"
-id: tag.id
-permalink: "/tags/apparrel"
-videos: [2507]
----

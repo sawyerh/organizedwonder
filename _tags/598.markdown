@@ -1,6 +1,0 @@
----
-title: "ubiquitous"
-id: tag.id
-permalink: "/tags/ubiquitous"
-videos: [655]
----

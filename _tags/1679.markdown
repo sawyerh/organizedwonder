@@ -1,6 +1,0 @@
----
-title: "eco"
-id: tag.id
-permalink: "/tags/eco"
-videos: [2018]
----

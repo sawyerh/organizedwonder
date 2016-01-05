@@ -1,9 +1,0 @@
----
-title: "Theo Folinas"
-date: 2012-06-26 22:01:18 00:00
-permalink: /theofolinas
-twitter: "theofolinas"
-likes: [895,942,963,990,275]
-id: 1117
-gravatar: "http://www.gravatar.com/avatar/4228f105e7a7850a9671b0614a48af7f"
----

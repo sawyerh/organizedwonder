@@ -1,9 +1,0 @@
----
-title: "Lauma"
-date: 2012-06-02 23:05:07 00:00
-permalink: /laumabre
-twitter: "laumabre"
-likes: [737,738,739,740,748,749,252]
-id: 838
-gravatar: "http://www.gravatar.com/avatar/85bc3ff8985d653f9abf5a0d2350241f"
----

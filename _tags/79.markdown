@@ -1,6 +1,0 @@
----
-title: "dj"
-id: tag.id
-permalink: "/tags/dj"
-videos: [36,1871,2079,2080,2081,2082,2228]
----

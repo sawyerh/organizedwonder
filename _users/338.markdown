@@ -1,9 +1,0 @@
----
-title: "Kirill Egorov"
-date: 2012-05-18 15:25:56 00:00
-permalink: /baddyglass
-twitter: ""
-likes: [115,265,267,2463,133,459,287,1095,953,2275,1664,2251,872,2441,16,2199,2235,2236]
-id: 338
-gravatar: "http://www.gravatar.com/avatar/e054fe2edb2dac5d7aac5749539ff94a"
----

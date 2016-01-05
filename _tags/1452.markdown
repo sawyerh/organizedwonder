@@ -1,6 +1,0 @@
----
-title: "responsive"
-id: tag.id
-permalink: "/tags/responsive"
-videos: [1666,1670,1989]
----

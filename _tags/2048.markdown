@@ -1,6 +1,0 @@
----
-title: "framer"
-id: tag.id
-permalink: "/tags/framer"
-videos: [2513,2553]
----

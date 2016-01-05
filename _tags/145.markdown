@@ -1,6 +1,0 @@
----
-title: "title design"
-id: tag.id
-permalink: "/tags/title%20design"
-videos: [71,101]
----

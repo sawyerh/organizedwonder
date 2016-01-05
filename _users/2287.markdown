@@ -1,9 +1,0 @@
----
-title: "Zach Cole"
-date: 2014-05-05 20:33:10 00:00
-permalink: /zachacole
-twitter: "zachacole"
-likes: [2291,2297,1535,1562,2316,2213,2330,2336,2314,2364,1381,2381,992,2326,2146,2391,2392,2393,2408,2414,2368,2417]
-id: 2287
-gravatar: "http://www.gravatar.com/avatar/8150d59d82614e1b05d62e23c543f48a"
----

@@ -1,6 +1,0 @@
----
-title: "frankl"
-id: tag.id
-permalink: "/tags/frankl"
-videos: [436]
----

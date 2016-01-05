@@ -1,9 +1,0 @@
----
-title: "José Ernesto Rodríguez"
-date: 2012-05-18 07:17:03 00:00
-permalink: /jerdesign
-twitter: "jerdesign"
-likes: [245]
-id: 233
-gravatar: "http://www.gravatar.com/avatar/ffa5e205baa6f16a0c1c5c48a0c59e3e"
----

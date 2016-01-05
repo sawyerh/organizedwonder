@@ -1,6 +1,0 @@
----
-title: "creative confidence"
-id: tag.id
-permalink: "/tags/creative%20confidence"
-videos: [258]
----

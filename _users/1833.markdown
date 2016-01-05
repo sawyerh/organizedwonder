@@ -1,9 +1,0 @@
----
-title: "Tom Reinhoudt"
-date: 2013-03-05 14:45:23 00:00
-permalink: /mrcurious
-twitter: ""
-likes: [1718,1733]
-id: 1833
-gravatar: "http://www.gravatar.com/avatar/31a32199464b05202a98be32a70778af"
----

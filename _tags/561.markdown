@@ -1,6 +1,0 @@
----
-title: "creation"
-id: tag.id
-permalink: "/tags/creation"
-videos: [605]
----

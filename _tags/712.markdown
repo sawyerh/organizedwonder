@@ -1,6 +1,0 @@
----
-title: "policy"
-id: tag.id
-permalink: "/tags/policy"
-videos: [805]
----

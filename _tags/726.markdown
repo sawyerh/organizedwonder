@@ -1,6 +1,0 @@
----
-title: "professional philosophie/"
-id: tag.id
-permalink: "/tags/professional%20philosophie%2F"
-videos: [816]
----

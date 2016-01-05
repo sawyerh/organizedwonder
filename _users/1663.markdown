@@ -1,9 +1,0 @@
----
-title: "Carlton Stith"
-date: 2012-12-07 11:26:57 00:00
-permalink: /carltonstith
-twitter: ""
-likes: [1531]
-id: 1663
-gravatar: "http://www.gravatar.com/avatar/87bb30f72b8ec0f37af38b3251a7ecac"
----

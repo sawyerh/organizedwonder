@@ -1,6 +1,0 @@
----
-title: "oocss"
-id: tag.id
-permalink: "/tags/oocss"
-videos: [1647,1983]
----

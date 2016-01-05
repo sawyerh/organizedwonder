@@ -1,9 +1,0 @@
----
-title: "zaggalo"
-date: 2012-07-26 20:48:29 00:00
-permalink: /zaggalo123
-twitter: "docujungle"
-likes: [1135]
-id: 1260
-gravatar: "http://www.gravatar.com/avatar/b7111e72980499d992ad10bdd92ab46f"
----

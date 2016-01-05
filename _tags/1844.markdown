@@ -1,6 +1,0 @@
----
-title: "management"
-id: tag.id
-permalink: "/tags/management"
-videos: [2224]
----

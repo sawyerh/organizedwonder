@@ -1,6 +1,0 @@
----
-title: "brightlounge"
-id: tag.id
-permalink: "/tags/brightlounge"
-videos: [269,270]
----

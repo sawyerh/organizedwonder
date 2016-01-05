@@ -1,9 +1,0 @@
----
-title: "Natali Chiara"
-date: 2012-06-28 17:15:40 00:00
-permalink: /luxgalaxiarum
-twitter: ""
-likes: [991,72,573,534,944,1002]
-id: 1130
-gravatar: "http://www.gravatar.com/avatar/9a6e0bf152ec4b8aeed1169b16850aac"
----

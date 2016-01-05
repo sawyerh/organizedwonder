@@ -1,6 +1,0 @@
----
-title: "starlings"
-id: tag.id
-permalink: "/tags/starlings"
-videos: [2194]
----

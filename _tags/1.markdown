@@ -1,6 +1,0 @@
----
-title: "base jumping"
-id: tag.id
-permalink: "/tags/base%20jumping"
-videos: [1]
----

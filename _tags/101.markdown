@@ -1,6 +1,0 @@
----
-title: "james victore"
-id: tag.id
-permalink: "/tags/james%20victore"
-videos: [50,1117,1128,2315]
----

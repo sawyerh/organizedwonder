@@ -1,6 +1,0 @@
----
-title: "freerunning"
-id: tag.id
-permalink: "/tags/freerunning"
-videos: [2225]
----

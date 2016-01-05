@@ -1,6 +1,0 @@
----
-title: "grit"
-id: tag.id
-permalink: "/tags/grit"
-videos: [1047]
----

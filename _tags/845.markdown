@@ -1,6 +1,0 @@
----
-title: "living"
-id: tag.id
-permalink: "/tags/living"
-videos: [913,914]
----

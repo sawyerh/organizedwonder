@@ -1,6 +1,0 @@
----
-title: "fonts"
-id: tag.id
-permalink: "/tags/fonts"
-videos: [2059]
----

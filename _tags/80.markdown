@@ -1,6 +1,0 @@
----
-title: "ryan singer"
-id: tag.id
-permalink: "/tags/ryan%20singer"
-videos: [37]
----

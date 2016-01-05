@@ -1,6 +1,0 @@
----
-title: "kanye"
-id: tag.id
-permalink: "/tags/kanye"
-videos: [1624,2237,2440,2475,2521]
----

@@ -1,6 +1,0 @@
----
-title: "course"
-id: tag.id
-permalink: "/tags/course"
-videos: [1707]
----

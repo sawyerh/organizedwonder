@@ -1,6 +1,0 @@
----
-title: "beyonce"
-id: tag.id
-permalink: "/tags/beyonce"
-videos: [2142,2143,2147,2162]
----

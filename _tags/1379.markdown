@@ -1,6 +1,0 @@
----
-title: "desarrollo sostenible"
-id: tag.id
-permalink: "/tags/desarrollo%20sostenible"
-videos: [1619]
----

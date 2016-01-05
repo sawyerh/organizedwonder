@@ -1,6 +1,0 @@
----
-title: "eben moglen"
-id: tag.id
-permalink: "/tags/eben%20moglen"
-videos: [1385]
----

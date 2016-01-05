@@ -1,6 +1,0 @@
----
-title: "victory journal"
-id: tag.id
-permalink: "/tags/victory%20journal"
-videos: [2417]
----

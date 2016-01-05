@@ -1,9 +1,0 @@
----
-title: "Lucía Guedes"
-date: 2012-09-22 18:53:18 00:00
-permalink: /esglobo
-twitter: "esglobo"
-likes: [1380,1006]
-id: 1340
-gravatar: "http://www.gravatar.com/avatar/e35f6a990a48c42891664a64a501a880"
----

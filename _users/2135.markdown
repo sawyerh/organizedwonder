@@ -1,9 +1,0 @@
----
-title: "Christopher Davis"
-date: 2014-01-16 03:26:39 00:00
-permalink: /cdavis565
-twitter: ""
-likes: [2150,2135,2125]
-id: 2135
-gravatar: "http://www.gravatar.com/avatar/10a8f02fce0e5dc68f11c6b5dd0f44a7"
----

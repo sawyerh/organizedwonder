@@ -1,9 +1,0 @@
----
-title: "Christopher Leckie"
-date: 2015-11-24 09:35:57 00:00
-permalink: /leckie
-twitter: ""
-likes: [1875,48,2254]
-id: 2426
-gravatar: "http://www.gravatar.com/avatar/91b74d32eeeaa90e47913f338363a502"
----

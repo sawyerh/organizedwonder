@@ -1,6 +1,0 @@
----
-title: "coffee"
-id: tag.id
-permalink: "/tags/coffee"
-videos: [582,716,924,1062,1463,2041]
----

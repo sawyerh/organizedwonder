@@ -1,9 +1,0 @@
----
-title: "Yoko Sakao Ohama"
-date: 2013-04-22 18:53:53 00:00
-permalink: /psyoko
-twitter: "psyoko"
-likes: [1820,1821,1822,1823,1824,1825,1829,1830,1831,1832,1833,1834,1835,1836,1837,1846,1847,1848,1853,1854,1855,1856,1857,1964,1965,1971,1974,1975,2077]
-id: 1942
-gravatar: "http://www.gravatar.com/avatar/0de8fc6d91f530ec7306054ec8edde58"
----

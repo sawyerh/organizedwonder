@@ -1,6 +1,0 @@
----
-title: "renaud tertrais"
-id: tag.id
-permalink: "/tags/renaud%20tertrais"
-videos: [2096]
----

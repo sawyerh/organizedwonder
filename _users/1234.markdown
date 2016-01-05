@@ -1,9 +1,0 @@
----
-title: "Andrew Chen"
-date: 2012-07-22 08:08:25 00:00
-permalink: /andrew
-twitter: ""
-likes: [1109,1103,25,20]
-id: 1234
-gravatar: "http://www.gravatar.com/avatar/2c9c63e72bc96de12e6acd7ba07d6f02"
----

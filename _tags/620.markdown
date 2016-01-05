@@ -1,6 +1,0 @@
----
-title: "khan academy"
-id: tag.id
-permalink: "/tags/khan%20academy"
-videos: [675]
----

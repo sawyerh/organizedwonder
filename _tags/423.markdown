@@ -1,6 +1,0 @@
----
-title: "temptation"
-id: tag.id
-permalink: "/tags/temptation"
-videos: [437]
----

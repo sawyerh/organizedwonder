@@ -1,6 +1,0 @@
----
-title: "robust"
-id: tag.id
-permalink: "/tags/robust"
-videos: [799]
----

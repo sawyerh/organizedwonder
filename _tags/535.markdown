@@ -1,6 +1,0 @@
----
-title: "population"
-id: tag.id
-permalink: "/tags/population"
-videos: [567]
----

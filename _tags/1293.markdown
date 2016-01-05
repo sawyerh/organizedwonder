@@ -1,6 +1,0 @@
----
-title: "jeremy keith"
-id: tag.id
-permalink: "/tags/jeremy%20keith"
-videos: [1542]
----

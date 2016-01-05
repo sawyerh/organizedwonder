@@ -1,6 +1,0 @@
----
-title: "antoine duchêne"
-id: tag.id
-permalink: "/tags/antoine%20duch%C3%AAne"
-videos: [2096]
----

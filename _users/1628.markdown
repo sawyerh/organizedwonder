@@ -1,9 +1,0 @@
----
-title: "Naema Baskanderi"
-date: 2012-11-27 14:44:45 00:00
-permalink: /naemacdn
-twitter: "naemaCdn"
-likes: [1497,1517,1465,1072,1066,1525]
-id: 1628
-gravatar: "http://www.gravatar.com/avatar/76ef83ad1039be6253de48c5b039796d"
----

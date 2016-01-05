@@ -1,6 +1,0 @@
----
-title: "george nelson"
-id: tag.id
-permalink: "/tags/george%20nelson"
-videos: [1713]
----

@@ -1,6 +1,0 @@
----
-title: "casey neistat"
-id: tag.id
-permalink: "/tags/casey%20neistat"
-videos: [2250,2369,2370]
----

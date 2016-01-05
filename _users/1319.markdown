@@ -1,9 +1,0 @@
----
-title: "David Lu"
-date: 2012-09-01 18:07:56 00:00
-permalink: /vellum
-twitter: "vellum"
-likes: [1341,629,467,545,58,1344,1371,158,724]
-id: 1319
-gravatar: "http://www.gravatar.com/avatar/7d7015f02af4ab90cda382a76b69e8f4"
----

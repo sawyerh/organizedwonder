@@ -1,6 +1,0 @@
----
-title: "escape"
-id: tag.id
-permalink: "/tags/escape"
-videos: [205]
----

@@ -1,9 +1,0 @@
----
-title: "Beth Wernet"
-date: 2012-05-23 04:20:55 00:00
-permalink: /bwernet
-twitter: "wernetyouthere"
-likes: [555,103,781,1008]
-id: 640
-gravatar: "http://www.gravatar.com/avatar/89f515130cf11d532b782079ee7c55b8"
----

@@ -1,6 +1,0 @@
----
-title: "drums"
-id: tag.id
-permalink: "/tags/drums"
-videos: [1963]
----

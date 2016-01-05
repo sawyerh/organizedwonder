@@ -1,6 +1,0 @@
----
-title: "redbull"
-id: tag.id
-permalink: "/tags/redbull"
-videos: [1556]
----

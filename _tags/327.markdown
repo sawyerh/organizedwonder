@@ -1,6 +1,0 @@
----
-title: "jim henson"
-id: tag.id
-permalink: "/tags/jim%20henson"
-videos: [256]
----

@@ -1,6 +1,0 @@
----
-title: "the great discontent"
-id: tag.id
-permalink: "/tags/the%20great%20discontent"
-videos: [2002]
----

@@ -1,9 +1,0 @@
----
-title: "Joshua Kagi"
-date: 2012-05-16 17:19:49 00:00
-permalink: /joshuakagi
-twitter: "joshuakagi"
-likes: [56,66,35,47]
-id: 74
-gravatar: "http://www.gravatar.com/avatar/54042b4153e4fe1ad88f7f082c56bea3"
----

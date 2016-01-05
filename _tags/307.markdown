@@ -1,6 +1,0 @@
----
-title: "exitmusic"
-id: tag.id
-permalink: "/tags/exitmusic"
-videos: [210]
----

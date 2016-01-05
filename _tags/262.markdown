@@ -1,6 +1,0 @@
----
-title: "pop art"
-id: tag.id
-permalink: "/tags/pop%20art"
-videos: [177]
----

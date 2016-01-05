@@ -1,6 +1,0 @@
----
-title: "discipline"
-id: tag.id
-permalink: "/tags/discipline"
-videos: [1587]
----

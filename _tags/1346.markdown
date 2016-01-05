@@ -1,6 +1,0 @@
----
-title: "world"
-id: tag.id
-permalink: "/tags/world"
-videos: [1586,2246,2016]
----

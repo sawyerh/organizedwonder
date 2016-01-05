@@ -1,6 +1,0 @@
----
-title: "kiku"
-id: tag.id
-permalink: "/tags/kiku"
-videos: [64]
----

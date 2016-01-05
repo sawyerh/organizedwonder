@@ -1,6 +1,0 @@
----
-title: "fim"
-id: tag.id
-permalink: "/tags/fim"
-videos: [609]
----

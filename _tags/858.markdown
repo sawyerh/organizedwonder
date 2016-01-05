@@ -1,6 +1,0 @@
----
-title: "compositing"
-id: tag.id
-permalink: "/tags/compositing"
-videos: [910]
----

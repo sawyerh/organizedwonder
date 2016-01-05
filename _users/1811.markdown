@@ -1,9 +1,0 @@
----
-title: "Brandon Christopher Henricks"
-date: 2013-02-21 15:30:36 00:00
-permalink: /brandonhenricks
-twitter: "unsakred"
-likes: [1613,1692,1066,1064]
-id: 1811
-gravatar: "http://www.gravatar.com/avatar/f3763a0d2dd6754a36fb92c21e1a7dde"
----

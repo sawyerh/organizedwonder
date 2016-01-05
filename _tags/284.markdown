@@ -1,6 +1,0 @@
----
-title: "clip"
-id: tag.id
-permalink: "/tags/clip"
-videos: [196,204,210,215,217,218,224,231,234,239,376,386]
----

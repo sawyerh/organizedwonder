@@ -1,6 +1,0 @@
----
-title: "uplifting"
-id: tag.id
-permalink: "/tags/uplifting"
-videos: [1633]
----

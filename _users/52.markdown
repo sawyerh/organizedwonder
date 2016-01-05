@@ -1,9 +1,0 @@
----
-title: "Ralitza Zaya Panayotova"
-date: 2012-05-16 05:11:55 00:00
-permalink: /zaya
-twitter: ""
-likes: [72]
-id: 52
-gravatar: "http://www.gravatar.com/avatar/db075f7ecc6180003118a41e69bd29d7"
----

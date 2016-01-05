@@ -1,9 +1,0 @@
----
-title: "Simon Vaughan"
-date: 2012-05-19 19:01:48 00:00
-permalink: /smnvghn
-twitter: ""
-likes: [248,427,426,137,425,358,431,432,433,130,70,115]
-id: 462
-gravatar: "http://www.gravatar.com/avatar/622c0146aa99feeb9c66d57e71d16826"
----

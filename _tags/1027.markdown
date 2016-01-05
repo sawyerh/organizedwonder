@@ -1,6 +1,0 @@
----
-title: "horror"
-id: tag.id
-permalink: "/tags/horror"
-videos: [1085,1793]
----

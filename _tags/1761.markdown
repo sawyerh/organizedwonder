@@ -1,6 +1,0 @@
----
-title: "experience design"
-id: tag.id
-permalink: "/tags/experience%20design"
-videos: [2130]
----

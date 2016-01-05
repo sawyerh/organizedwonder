@@ -1,6 +1,0 @@
----
-title: "ixd"
-id: tag.id
-permalink: "/tags/ixd"
-videos: [2211]
----

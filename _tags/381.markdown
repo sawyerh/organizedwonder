@@ -1,6 +1,0 @@
----
-title: "motivation"
-id: tag.id
-permalink: "/tags/motivation"
-videos: [349,459,613,1128,1247,1262,2139,2474]
----

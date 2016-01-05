@@ -1,6 +1,0 @@
----
-title: "emily cohen"
-id: tag.id
-permalink: "/tags/emily%20cohen"
-videos: [21]
----

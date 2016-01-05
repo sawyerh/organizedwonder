@@ -1,6 +1,0 @@
----
-title: "animated"
-id: tag.id
-permalink: "/tags/animated"
-videos: [1311,1364,1429]
----

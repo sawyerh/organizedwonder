@@ -1,9 +1,0 @@
----
-title: "Jonas Krøner"
-date: 2014-12-13 14:31:38 00:00
-permalink: /jonas
-twitter: ""
-likes: [2406]
-id: 2354
-gravatar: "http://www.gravatar.com/avatar/fec7595a07787e88bcdd44643054e1ad"
----

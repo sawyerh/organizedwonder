@@ -1,6 +1,0 @@
----
-title: "chi2012"
-id: tag.id
-permalink: "/tags/chi2012"
-videos: [161]
----

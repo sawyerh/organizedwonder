@@ -1,9 +1,0 @@
----
-title: "Danny Zevallos"
-date: 2012-08-27 14:33:18 00:00
-permalink: /dannyz
-twitter: "ThisIsDannyZ"
-likes: [1314]
-id: 1314
-gravatar: "http://www.gravatar.com/avatar/2d9255cc7361b81cfe28b53ffea3d5d6"
----

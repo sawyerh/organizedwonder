@@ -1,9 +1,0 @@
----
-title: "Helena de Groot"
-date: 2012-05-18 06:58:18 00:00
-permalink: /helenavelikaja
-twitter: ""
-likes: [143]
-id: 226
-gravatar: "http://www.gravatar.com/avatar/0a7839e18388daadadcab4bacc63ee25"
----

@@ -1,9 +1,0 @@
----
-title: "Mpumelelo Macu"
-date: 2012-05-22 11:26:45 00:00
-permalink: /mpumelelomacu
-twitter: "mpumelelomacu"
-likes: [533,429]
-id: 603
-gravatar: "http://www.gravatar.com/avatar/9a99621b13b7f9d0d2bc68b182f27d03"
----

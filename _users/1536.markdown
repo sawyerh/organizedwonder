@@ -1,9 +1,0 @@
----
-title: "Tracy Hong"
-date: 2012-11-14 04:42:59 00:00
-permalink: /misstotofu
-twitter: ""
-likes: [1079,836,1479,700]
-id: 1536
-gravatar: "http://www.gravatar.com/avatar/94da918bc57a6c3339e18a6fb7a88165"
----

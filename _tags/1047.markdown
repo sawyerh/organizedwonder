@@ -1,6 +1,0 @@
----
-title: "widow"
-id: tag.id
-permalink: "/tags/widow"
-videos: [1098]
----

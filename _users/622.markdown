@@ -1,9 +1,0 @@
----
-title: "Nuno Costa Moreira"
-date: 2012-05-22 20:25:27 00:00
-permalink: /nfmoreira
-twitter: "nfmoreira"
-likes: [69,515,569,84,81]
-id: 622
-gravatar: "http://www.gravatar.com/avatar/96397addb99c5ad652b6f42f9cf25847"
----

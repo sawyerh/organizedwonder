@@ -1,6 +1,0 @@
----
-title: "fresh off the boat"
-id: tag.id
-permalink: "/tags/fresh%20off%20the%20boat"
-videos: [1710,2274]
----

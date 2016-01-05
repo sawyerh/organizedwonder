@@ -1,6 +1,0 @@
----
-title: "monologue"
-id: tag.id
-permalink: "/tags/monologue"
-videos: [1540]
----

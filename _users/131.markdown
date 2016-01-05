@@ -1,9 +1,0 @@
----
-title: "Adeel Ahmad Khan"
-date: 2012-05-17 22:28:27 00:00
-permalink: /adeelkh
-twitter: "adeelkh"
-likes: [109,69,37,266,267]
-id: 131
-gravatar: "http://www.gravatar.com/avatar/e18fda20d92de4de4b6222a9066db2e6"
----

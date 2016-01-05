@@ -1,6 +1,0 @@
----
-title: "hossomaki"
-id: tag.id
-permalink: "/tags/hossomaki"
-videos: [751]
----

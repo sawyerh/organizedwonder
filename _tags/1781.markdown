@@ -1,6 +1,0 @@
----
-title: "dark comedy"
-id: tag.id
-permalink: "/tags/dark%20comedy"
-videos: [2154]
----

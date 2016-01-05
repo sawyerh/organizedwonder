@@ -1,9 +1,0 @@
----
-title: "Paulo Lopez"
-date: 2012-07-12 18:08:15 00:00
-permalink: /pauloroid
-twitter: ""
-likes: [1075,66,1079,959,1147,1148,107,178,112]
-id: 1175
-gravatar: "http://www.gravatar.com/avatar/d07c48acf93e5f59c9900cd7c973cbf2"
----

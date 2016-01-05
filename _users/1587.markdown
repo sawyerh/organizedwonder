@@ -1,9 +1,0 @@
----
-title: "Duda Asfora"
-date: 2012-11-19 22:59:31 00:00
-permalink: /dudasfora
-twitter: ""
-likes: [1244,1372,1967]
-id: 1587
-gravatar: "http://www.gravatar.com/avatar/2282be4bba839b04e5e9487f281e6164"
----

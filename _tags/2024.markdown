@@ -1,6 +1,0 @@
----
-title: "hollywood"
-id: tag.id
-permalink: "/tags/hollywood"
-videos: [2496,2497]
----

@@ -1,6 +1,0 @@
----
-title: "digital wallpaper"
-id: tag.id
-permalink: "/tags/digital%20wallpaper"
-videos: [169]
----

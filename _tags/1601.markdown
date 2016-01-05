@@ -1,6 +1,0 @@
----
-title: "plastic bag"
-id: tag.id
-permalink: "/tags/plastic%20bag"
-videos: [1878]
----

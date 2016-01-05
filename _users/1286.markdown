@@ -1,9 +1,0 @@
----
-title: "Aron Strandberg"
-date: 2012-08-10 01:17:45 00:00
-permalink: /strandberg
-twitter: "puckoidiot"
-likes: [1244,1073,1233,58,134,1004,35]
-id: 1286
-gravatar: "http://www.gravatar.com/avatar/9b07bcd264965448318c102c2af706af"
----

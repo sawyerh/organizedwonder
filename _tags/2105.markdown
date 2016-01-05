@@ -1,6 +1,0 @@
----
-title: "smart cards for schools"
-id: tag.id
-permalink: "/tags/smart%20cards%20for%20schools"
-videos: [2567]
----

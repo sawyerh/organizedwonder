@@ -1,6 +1,0 @@
----
-title: "somebody i used to know"
-id: tag.id
-permalink: "/tags/somebody%20i%20used%20to%20know"
-videos: [612]
----

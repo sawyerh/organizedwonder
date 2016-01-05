@@ -1,6 +1,0 @@
----
-title: "sursis"
-id: tag.id
-permalink: "/tags/sursis"
-videos: [2096]
----

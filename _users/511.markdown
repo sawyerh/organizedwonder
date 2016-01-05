@@ -1,9 +1,0 @@
----
-title: "Tina Holmeskog"
-date: 2012-05-20 19:14:50 00:00
-permalink: /tholmeskog
-twitter: "tholmeskog"
-likes: [252,427,426,287,429,466,100,73,425,137,1384]
-id: 511
-gravatar: "http://www.gravatar.com/avatar/0d6dc8d0b9202b17d6376e810884ddcf"
----

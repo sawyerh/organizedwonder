@@ -1,6 +1,0 @@
----
-title: "national geographic"
-id: tag.id
-permalink: "/tags/national%20geographic"
-videos: [1514]
----

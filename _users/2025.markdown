@@ -1,9 +1,0 @@
----
-title: "Andrzej"
-date: 2013-06-08 17:59:10 00:00
-permalink: /r3stm4n
-twitter: ""
-likes: [1962,39,430,1538,25,1796]
-id: 2025
-gravatar: "http://www.gravatar.com/avatar/8b5e2e2956c2a7ead1cff1385749fcb9"
----

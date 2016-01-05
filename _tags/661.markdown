@@ -1,6 +1,0 @@
----
-title: "skateboard"
-id: tag.id
-permalink: "/tags/skateboard"
-videos: [744,774,1143]
----

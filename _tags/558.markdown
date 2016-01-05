@@ -1,6 +1,0 @@
----
-title: "success"
-id: tag.id
-permalink: "/tags/success"
-videos: [596,1193,1480]
----

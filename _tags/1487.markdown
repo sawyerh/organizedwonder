@@ -1,6 +1,0 @@
----
-title: "ismail"
-id: tag.id
-permalink: "/tags/ismail"
-videos: [1691]
----

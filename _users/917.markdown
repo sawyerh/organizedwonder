@@ -1,9 +1,0 @@
----
-title: "David Brier"
-date: 2012-06-11 03:27:01 00:00
-permalink: /davidbrier
-twitter: "davidbrier"
-likes: [823,824,825,826,827,828]
-id: 917
-gravatar: "http://www.gravatar.com/avatar/8bf3248cb53c851810685820f0d616b7"
----

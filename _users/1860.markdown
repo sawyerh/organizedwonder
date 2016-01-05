@@ -1,9 +1,0 @@
----
-title: "Patrik Lundborg"
-date: 2013-03-24 00:31:15 00:00
-permalink: /plundborg
-twitter: "plundborg"
-likes: [1743,1388,310]
-id: 1860
-gravatar: "http://www.gravatar.com/avatar/a18b4d44bb04340a601b95a27f19af5c"
----

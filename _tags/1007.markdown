@@ -1,6 +1,0 @@
----
-title: "designer"
-id: tag.id
-permalink: "/tags/designer"
-videos: [1055,1365]
----

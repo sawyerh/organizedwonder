@@ -1,6 +1,0 @@
----
-title: "humanitaire"
-id: tag.id
-permalink: "/tags/humanitaire"
-videos: [522]
----

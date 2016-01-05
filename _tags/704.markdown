@@ -1,6 +1,0 @@
----
-title: "mule"
-id: tag.id
-permalink: "/tags/mule"
-videos: [800]
----

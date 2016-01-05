@@ -1,9 +1,0 @@
----
-title: "chandni"
-date: 2013-05-21 09:24:08 00:00
-permalink: /chandni
-twitter: ""
-likes: [1883]
-id: 1978
-gravatar: "http://www.gravatar.com/avatar/908b3cd814860f0a02e4e1d97052817f"
----

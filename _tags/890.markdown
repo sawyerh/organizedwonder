@@ -1,6 +1,0 @@
----
-title: "madness"
-id: tag.id
-permalink: "/tags/madness"
-videos: [947]
----

@@ -1,6 +1,0 @@
----
-title: "skit"
-id: tag.id
-permalink: "/tags/skit"
-videos: [858]
----

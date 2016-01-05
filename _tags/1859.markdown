@@ -1,6 +1,0 @@
----
-title: "city"
-id: tag.id
-permalink: "/tags/city"
-videos: [2235]
----

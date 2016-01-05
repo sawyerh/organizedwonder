@@ -1,9 +1,0 @@
----
-title: "Norton King"
-date: 2012-09-26 22:30:45 00:00
-permalink: /nortonking
-twitter: ""
-likes: [930,427,425,137,366,429]
-id: 1349
-gravatar: "http://www.gravatar.com/avatar/6f97e8f07fe2100c9aa808fe5a98b679"
----

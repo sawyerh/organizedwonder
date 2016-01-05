@@ -1,6 +1,0 @@
----
-title: "kirby ferguson"
-id: tag.id
-permalink: "/tags/kirby%20ferguson"
-videos: [1255]
----

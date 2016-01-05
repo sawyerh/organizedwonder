@@ -1,6 +1,0 @@
----
-title: "webdesign"
-id: tag.id
-permalink: "/tags/webdesign"
-videos: [1542,1543,1544]
----

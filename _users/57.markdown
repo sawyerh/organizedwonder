@@ -1,9 +1,0 @@
----
-title: "G Tramaine Peoples"
-date: 2012-05-16 12:19:09 00:00
-permalink: /gtramaine
-twitter: ""
-likes: [63]
-id: 57
-gravatar: "http://www.gravatar.com/avatar/ac978e5797bde0b04eca43a9edeff940"
----

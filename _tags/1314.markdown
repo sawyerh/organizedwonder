@@ -1,6 +1,0 @@
----
-title: "loneliness"
-id: tag.id
-permalink: "/tags/loneliness"
-videos: [1573]
----

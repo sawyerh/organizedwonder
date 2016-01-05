@@ -1,6 +1,0 @@
----
-title: "hug in the snug"
-id: tag.id
-permalink: "/tags/hug%20in%20the%20snug"
-videos: [2202]
----

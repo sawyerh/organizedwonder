@@ -1,6 +1,0 @@
----
-title: "lifestyle"
-id: tag.id
-permalink: "/tags/lifestyle"
-videos: [652,1759,1807,1818,2223,2412]
----

@@ -1,9 +1,0 @@
----
-title: "Andrew Wendling"
-date: 2012-06-06 22:58:32 00:00
-permalink: /andrewwendling
-twitter: "andrewwendling"
-likes: [582]
-id: 878
-gravatar: "http://www.gravatar.com/avatar/f611faea1e1857389e1461001079cbe6"
----

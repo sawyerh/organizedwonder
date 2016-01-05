@@ -1,6 +1,0 @@
----
-title: "zefrank"
-id: tag.id
-permalink: "/tags/zefrank"
-videos: [1233]
----

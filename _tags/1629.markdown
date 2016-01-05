@@ -1,6 +1,0 @@
----
-title: "staff"
-id: tag.id
-permalink: "/tags/staff"
-videos: [1979]
----

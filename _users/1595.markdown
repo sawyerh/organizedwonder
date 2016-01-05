@@ -1,9 +1,0 @@
----
-title: "Joeri Goedegebuur"
-date: 2012-11-20 23:28:55 00:00
-permalink: /joerijoeri
-twitter: ""
-likes: [58]
-id: 1595
-gravatar: "http://www.gravatar.com/avatar/3702a3d3c778ed93fe51df9b29ce7471"
----

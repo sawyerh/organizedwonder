@@ -1,6 +1,0 @@
----
-title: "estelle"
-id: tag.id
-permalink: "/tags/estelle"
-videos: [1000]
----

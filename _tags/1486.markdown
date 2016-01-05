@@ -1,6 +1,0 @@
----
-title: "ismail jamaludin"
-id: tag.id
-permalink: "/tags/ismail%20jamaludin"
-videos: [1691]
----

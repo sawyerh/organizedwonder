@@ -1,9 +1,0 @@
----
-title: "Thomas Garaventa"
-date: 2012-08-30 10:24:30 00:00
-permalink: /bolverkr
-twitter: "ThomasGaraventa"
-likes: [1285,180,73,1117,248,378,1379,1380,1381,2255,2258,1329,33,534,1449,1594,1597,1598,1599,1641,1439,932,2036,1896,2037,2005,111]
-id: 1317
-gravatar: "http://www.gravatar.com/avatar/440c93f3abdbc6d8f0a30a2e48e96dc2"
----

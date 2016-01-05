@@ -1,6 +1,0 @@
----
-title: "rebrand"
-id: tag.id
-permalink: "/tags/rebrand"
-videos: [825,826]
----

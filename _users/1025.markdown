@@ -1,9 +1,0 @@
----
-title: "Isaac w"
-date: 2012-06-14 17:29:52 00:00
-permalink: /war777
-twitter: ""
-likes: [67,678,703,724,43,39,859,704,562,927,626]
-id: 1025
-gravatar: "http://www.gravatar.com/avatar/2bf83fcef82e1397bfc3a8d374de5828"
----

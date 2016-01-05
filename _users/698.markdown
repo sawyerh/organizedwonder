@@ -1,9 +1,0 @@
----
-title: "Kavita Parmar"
-date: 2012-05-26 21:59:21 00:00
-permalink: /kavita
-twitter: ""
-likes: [555,644,366,618,48,67,111,248,263,582,719,919,963,134,1004,1005,1006,884,1118,1223]
-id: 698
-gravatar: "http://www.gravatar.com/avatar/9957d6507c8189cfd40016e56d457142"
----

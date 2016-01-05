@@ -1,6 +1,0 @@
----
-title: "vodka"
-id: tag.id
-permalink: "/tags/vodka"
-videos: [943]
----

@@ -1,6 +1,0 @@
----
-title: "london olympics"
-id: tag.id
-permalink: "/tags/london%20olympics"
-videos: [2500]
----

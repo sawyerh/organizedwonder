@@ -1,6 +1,0 @@
----
-title: "people being awesome"
-id: tag.id
-permalink: "/tags/people%20being%20awesome"
-videos: [1492]
----

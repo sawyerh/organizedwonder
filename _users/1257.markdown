@@ -1,9 +1,0 @@
----
-title: "Ahmad Varoqua"
-date: 2012-07-25 07:03:55 00:00
-permalink: /ahmadvaroqua
-twitter: ""
-likes: [1109]
-id: 1257
-gravatar: "http://www.gravatar.com/avatar/8a74238a273f59a0195764a73dee50b2"
----

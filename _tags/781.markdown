@@ -1,6 +1,0 @@
----
-title: "main theme song"
-id: tag.id
-permalink: "/tags/main%20theme%20song"
-videos: [856]
----

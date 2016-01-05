@@ -1,9 +1,0 @@
----
-title: "Bruno Monteiro"
-date: 2012-07-03 22:58:46 00:00
-permalink: /brunomonteiro
-twitter: "BrunoMonteiro"
-likes: [1388]
-id: 1140
-gravatar: "http://www.gravatar.com/avatar/efb011242fe57d030cee6282c7bffbca"
----

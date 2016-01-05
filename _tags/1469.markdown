@@ -1,6 +1,0 @@
----
-title: "super"
-id: tag.id
-permalink: "/tags/super"
-videos: [1676]
----

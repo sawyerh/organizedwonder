@@ -1,6 +1,0 @@
----
-title: "stefan sagmeister"
-id: tag.id
-permalink: "/tags/stefan%20sagmeister"
-videos: [562,887,888,889,1199,1339,1680,1886,2353,2364]
----

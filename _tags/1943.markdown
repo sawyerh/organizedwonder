@@ -1,6 +1,0 @@
----
-title: "teams"
-id: tag.id
-permalink: "/tags/teams"
-videos: [2359]
----

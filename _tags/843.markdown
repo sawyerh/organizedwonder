@@ -1,6 +1,0 @@
----
-title: "rethinking"
-id: tag.id
-permalink: "/tags/rethinking"
-videos: [913]
----

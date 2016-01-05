@@ -1,6 +1,0 @@
----
-title: "crue"
-id: tag.id
-permalink: "/tags/crue"
-videos: [1676]
----

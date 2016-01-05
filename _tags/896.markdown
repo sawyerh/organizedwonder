@@ -1,6 +1,0 @@
----
-title: "habits"
-id: tag.id
-permalink: "/tags/habits"
-videos: [954,2206]
----

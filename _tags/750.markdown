@@ -1,6 +1,0 @@
----
-title: "mother"
-id: tag.id
-permalink: "/tags/mother"
-videos: [846,1979]
----

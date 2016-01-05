@@ -1,6 +1,0 @@
----
-title: "alan watts"
-id: tag.id
-permalink: "/tags/alan%20watts"
-videos: [1641]
----

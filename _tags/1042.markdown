@@ -1,6 +1,0 @@
----
-title: "systems"
-id: tag.id
-permalink: "/tags/systems"
-videos: [1096]
----

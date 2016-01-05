@@ -1,6 +1,0 @@
----
-title: "marketing"
-id: tag.id
-permalink: "/tags/marketing"
-videos: [824,826,871,1439,1909]
----

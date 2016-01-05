@@ -1,9 +1,0 @@
----
-title: "Dixon Bordiano"
-date: 2014-12-16 17:47:56 00:00
-permalink: /dbordiano
-twitter: ""
-likes: [1375]
-id: 2355
-gravatar: "http://www.gravatar.com/avatar/9f8bb554ca1c907b4ade7485d3504066"
----

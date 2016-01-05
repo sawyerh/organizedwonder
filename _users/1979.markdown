@@ -1,9 +1,0 @@
----
-title: "L.Bo"
-date: 2013-05-21 22:36:44 00:00
-permalink: /unicornteeth
-twitter: "UnicornTeeth"
-likes: [1888,25]
-id: 1979
-gravatar: "http://www.gravatar.com/avatar/1e222f50f4833e052d42c95dc721f8e8"
----

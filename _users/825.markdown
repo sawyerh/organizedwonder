@@ -1,9 +1,0 @@
----
-title: "stephanie wu"
-date: 2012-06-01 16:42:12 00:00
-permalink: /stephawu
-twitter: ""
-likes: [582,718,248,111,729,1568,508,430,1616]
-id: 825
-gravatar: "http://www.gravatar.com/avatar/f3d7de78b4192b40669551677236e44a"
----

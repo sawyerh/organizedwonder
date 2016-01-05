@@ -1,6 +1,0 @@
----
-title: "astronomy"
-id: tag.id
-permalink: "/tags/astronomy"
-videos: [593]
----

@@ -1,9 +1,0 @@
----
-title: "Arjun Phlox"
-date: 2012-11-24 06:08:14 00:00
-permalink: /arjunphlox
-twitter: ""
-likes: [1495]
-id: 1615
-gravatar: "http://www.gravatar.com/avatar/84f05a98c9d7345b58553848461a4515"
----

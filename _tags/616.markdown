@@ -1,6 +1,0 @@
----
-title: "sustainability"
-id: tag.id
-permalink: "/tags/sustainability"
-videos: [670,2393]
----

@@ -1,6 +1,0 @@
----
-title: "satire"
-id: tag.id
-permalink: "/tags/satire"
-videos: [2230]
----

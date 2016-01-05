@@ -1,6 +1,0 @@
----
-title: "corporate"
-id: tag.id
-permalink: "/tags/corporate"
-videos: [2356]
----

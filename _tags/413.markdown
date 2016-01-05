@@ -1,6 +1,0 @@
----
-title: "swissmiss"
-id: tag.id
-permalink: "/tags/swissmiss"
-videos: [429,1741,2054,2180]
----

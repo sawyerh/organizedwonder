@@ -1,6 +1,0 @@
----
-title: "red bull"
-id: tag.id
-permalink: "/tags/red%20bull"
-videos: [1702]
----

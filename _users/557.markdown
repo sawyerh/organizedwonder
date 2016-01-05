@@ -1,9 +1,0 @@
----
-title: "James Martin"
-date: 2012-05-21 17:26:19 00:00
-permalink: /iamjamesmartin
-twitter: ""
-likes: [67]
-id: 557
-gravatar: "http://www.gravatar.com/avatar/147fb253d86ef2e928fca8b4070da998"
----

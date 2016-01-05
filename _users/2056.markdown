@@ -1,9 +1,0 @@
----
-title: "Ilya Radchenko"
-date: 2013-08-08 21:47:05 00:00
-permalink: /knownasilya
-twitter: "knownasilya"
-likes: [1311]
-id: 2056
-gravatar: "http://www.gravatar.com/avatar/9807852d7a4883b1bc996416e47a703f"
----

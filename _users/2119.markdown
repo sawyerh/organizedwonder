@@ -1,9 +1,0 @@
----
-title: "Lilly Lam"
-date: 2014-01-08 23:15:26 00:00
-permalink: /lillikins
-twitter: ""
-likes: [2166]
-id: 2119
-gravatar: "http://www.gravatar.com/avatar/add5cd12ecbc5d171082e7d7d979d833"
----

@@ -1,6 +1,0 @@
----
-title: "richard feynman"
-id: tag.id
-permalink: "/tags/richard%20feynman"
-videos: [1899]
----

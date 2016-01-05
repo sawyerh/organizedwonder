@@ -1,6 +1,0 @@
----
-title: "relationships"
-id: tag.id
-permalink: "/tags/relationships"
-videos: [941,2085]
----

@@ -1,6 +1,0 @@
----
-title: "cowboy"
-id: tag.id
-permalink: "/tags/cowboy"
-videos: [1865]
----

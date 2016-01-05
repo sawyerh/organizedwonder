@@ -1,6 +1,0 @@
----
-title: "spain"
-id: tag.id
-permalink: "/tags/spain"
-videos: [2398]
----

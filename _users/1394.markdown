@@ -1,9 +1,0 @@
----
-title: "Ben Quarless"
-date: 2012-10-24 12:06:08 00:00
-permalink: /benq
-twitter: "@benquarless"
-likes: [1271,531,2307,2209,1602,1568,2038,51]
-id: 1394
-gravatar: "http://www.gravatar.com/avatar/e85627a97b19cd11f3fbd3cf9b339d8b"
----

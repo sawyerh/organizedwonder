@@ -1,6 +1,0 @@
----
-title: "mean humor"
-id: tag.id
-permalink: "/tags/mean%20humor"
-videos: [2230]
----

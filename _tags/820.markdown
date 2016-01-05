@@ -1,6 +1,0 @@
----
-title: "olympics"
-id: tag.id
-permalink: "/tags/olympics"
-videos: [1267]
----

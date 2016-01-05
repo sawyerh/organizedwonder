@@ -1,6 +1,0 @@
----
-title: "globall"
-id: tag.id
-permalink: "/tags/globall"
-videos: [2113]
----

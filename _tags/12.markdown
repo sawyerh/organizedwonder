@@ -1,6 +1,0 @@
----
-title: "shyama golden"
-id: tag.id
-permalink: "/tags/shyama%20golden"
-videos: [3]
----

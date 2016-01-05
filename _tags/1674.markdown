@@ -1,6 +1,0 @@
----
-title: "accesibility"
-id: tag.id
-permalink: "/tags/accesibility"
-videos: [2015]
----

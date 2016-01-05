@@ -1,9 +1,0 @@
----
-title: "Daniel Howells"
-date: 2012-05-30 13:46:22 00:00
-permalink: /howells
-twitter: "howells"
-likes: [16,112,1545]
-id: 776
-gravatar: "http://www.gravatar.com/avatar/d763ae11a4e4da50306a24df35abe86e"
----

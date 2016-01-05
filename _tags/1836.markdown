@@ -1,6 +1,0 @@
----
-title: "bryan cranston"
-id: tag.id
-permalink: "/tags/bryan%20cranston"
-videos: [2208]
----

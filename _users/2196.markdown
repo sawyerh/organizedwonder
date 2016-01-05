@@ -1,9 +1,0 @@
----
-title: "Johan Cornelius"
-date: 2014-01-16 14:37:04 00:00
-permalink: /johancornelius
-twitter: ""
-likes: [1593]
-id: 2196
-gravatar: "http://www.gravatar.com/avatar/03e4cbbe5a3e6c69e07f8de9c7b6ae13"
----

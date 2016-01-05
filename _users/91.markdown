@@ -1,9 +1,0 @@
----
-title: "Kiran"
-date: 2012-05-17 06:59:30 00:00
-permalink: /kiranheartbeats
-twitter: ""
-likes: [53]
-id: 91
-gravatar: "http://www.gravatar.com/avatar/2a6d70e1b6aa23851a541dc695b6b2f6"
----

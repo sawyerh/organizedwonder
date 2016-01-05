@@ -1,6 +1,0 @@
----
-title: "awakening"
-id: tag.id
-permalink: "/tags/awakening"
-videos: [527]
----

@@ -1,6 +1,0 @@
----
-title: "james w. griffiths"
-id: tag.id
-permalink: "/tags/james%20w.%20griffiths"
-videos: [1081]
----

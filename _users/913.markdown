@@ -1,9 +1,0 @@
----
-title: "Jess Blank"
-date: 2012-06-10 16:14:32 00:00
-permalink: /jess
-twitter: ""
-likes: [807]
-id: 913
-gravatar: "http://www.gravatar.com/avatar/1c4c9ecef7fc562c7ffd5d3eba0bd3bb"
----

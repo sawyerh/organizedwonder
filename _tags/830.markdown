@@ -1,6 +1,0 @@
----
-title: "intelligence"
-id: tag.id
-permalink: "/tags/intelligence"
-videos: [871]
----

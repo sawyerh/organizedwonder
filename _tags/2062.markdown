@@ -1,6 +1,0 @@
----
-title: "thought-leaders"
-id: tag.id
-permalink: "/tags/thought-leaders"
-videos: [2528]
----

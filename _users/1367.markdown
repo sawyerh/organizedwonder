@@ -1,9 +1,0 @@
----
-title: "Missy Speer Gipson"
-date: 2012-10-04 15:26:30 00:00
-permalink: /twohorsetown
-twitter: ""
-likes: [147]
-id: 1367
-gravatar: "http://www.gravatar.com/avatar/20181cbefe463c8e6f7881c418773054"
----

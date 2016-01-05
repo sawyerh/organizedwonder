@@ -1,6 +1,0 @@
----
-title: "steve wozniak"
-id: tag.id
-permalink: "/tags/steve%20wozniak"
-videos: [803]
----

@@ -1,9 +1,0 @@
----
-title: "Jay Schaul"
-date: 2012-08-13 19:09:46 00:00
-permalink: /jayschaul
-twitter: "jayschaul"
-likes: [1263]
-id: 1291
-gravatar: "http://www.gravatar.com/avatar/255470eb9eb7c782f4048330b0cbe31f"
----

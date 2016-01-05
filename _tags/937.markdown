@@ -1,6 +1,0 @@
----
-title: "jazz"
-id: tag.id
-permalink: "/tags/jazz"
-videos: [997,998]
----

@@ -1,9 +1,0 @@
----
-title: "Kevin Kung"
-date: 2012-07-24 06:14:41 00:00
-permalink: /yakovman
-twitter: ""
-likes: [544]
-id: 1251
-gravatar: "http://www.gravatar.com/avatar/88ebbd73fd9a56bedc4a4964eb12276b"
----

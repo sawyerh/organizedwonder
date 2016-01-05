@@ -1,9 +1,0 @@
----
-title: "damian_r"
-date: 2012-07-26 21:47:15 00:00
-permalink: /damian_r
-twitter: "damian_r"
-likes: [1105]
-id: 1261
-gravatar: "http://www.gravatar.com/avatar/1efd91ca576aa14b8641b6e161d47a2a"
----

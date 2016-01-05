@@ -1,6 +1,0 @@
----
-title: "ideastap"
-id: tag.id
-permalink: "/tags/ideastap"
-videos: [1980]
----

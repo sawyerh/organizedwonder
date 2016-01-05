@@ -1,6 +1,0 @@
----
-title: "workspace"
-id: tag.id
-permalink: "/tags/workspace"
-videos: [2369,2370]
----

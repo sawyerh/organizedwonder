@@ -1,9 +1,0 @@
----
-title: "Jason Schuller"
-date: 2012-05-15 16:16:34 00:00
-permalink: /jason
-twitter: "jschuller"
-likes: [582,603]
-id: 37
-gravatar: "http://www.gravatar.com/avatar/bddea5859888354fc25ca91128d1570d"
----

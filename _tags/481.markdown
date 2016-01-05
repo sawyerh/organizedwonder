@@ -1,6 +1,0 @@
----
-title: "college"
-id: tag.id
-permalink: "/tags/college"
-videos: [498]
----

@@ -1,6 +1,0 @@
----
-title: "lsd"
-id: tag.id
-permalink: "/tags/lsd"
-videos: [2561]
----

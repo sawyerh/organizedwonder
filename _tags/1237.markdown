@@ -1,6 +1,0 @@
----
-title: "allen ginsberg"
-id: tag.id
-permalink: "/tags/allen%20ginsberg"
-videos: [1419]
----

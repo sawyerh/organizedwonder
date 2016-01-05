@@ -1,6 +1,0 @@
----
-title: "greece future"
-id: tag.id
-permalink: "/tags/greece%20future"
-videos: [361]
----

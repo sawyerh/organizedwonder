@@ -1,6 +1,0 @@
----
-title: "daniel libeskind"
-id: tag.id
-permalink: "/tags/daniel%20libeskind"
-videos: [51]
----

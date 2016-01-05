@@ -1,6 +1,0 @@
----
-title: "npr"
-id: tag.id
-permalink: "/tags/npr"
-videos: [1295]
----

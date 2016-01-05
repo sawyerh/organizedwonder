@@ -1,6 +1,0 @@
----
-title: "mode"
-id: tag.id
-permalink: "/tags/mode"
-videos: [389]
----

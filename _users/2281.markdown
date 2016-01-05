@@ -1,9 +1,0 @@
----
-title: "natalie"
-date: 2014-04-17 01:17:03 00:00
-permalink: /nataliem
-twitter: ""
-likes: [2268]
-id: 2281
-gravatar: "http://www.gravatar.com/avatar/fd41bfc03b81887ff1992ac54ebb8438"
----

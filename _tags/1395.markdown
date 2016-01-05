@@ -1,6 +1,0 @@
----
-title: "reuniones"
-id: tag.id
-permalink: "/tags/reuniones"
-videos: [1629]
----

@@ -1,6 +1,0 @@
----
-title: "aperture"
-id: tag.id
-permalink: "/tags/aperture"
-videos: [855]
----

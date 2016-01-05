@@ -1,9 +1,0 @@
----
-title: "Carlos Castillo"
-date: 2012-11-09 17:42:32 00:00
-permalink: /crlosmify
-twitter: ""
-likes: [481,1421,1983,1984]
-id: 1418
-gravatar: "http://www.gravatar.com/avatar/e82f235d6691b34f5832ddb4ac575ed9"
----

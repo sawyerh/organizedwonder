@@ -1,9 +1,0 @@
----
-title: "No međutim"
-date: 2012-06-13 22:34:29 00:00
-permalink: /nomedjutim
-twitter: "nomedjutim"
-likes: [729,700]
-id: 1015
-gravatar: "http://www.gravatar.com/avatar/f90d0fb58ccd1f7067b8356a55112fa7"
----

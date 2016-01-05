@@ -1,6 +1,0 @@
----
-title: "chris ware"
-id: tag.id
-permalink: "/tags/chris%20ware"
-videos: [228]
----

@@ -1,9 +1,0 @@
----
-title: "Marc-Oliver Gern"
-date: 2012-05-19 05:57:35 00:00
-permalink: /hellomarcoliver
-twitter: ""
-likes: [344]
-id: 420
-gravatar: "http://www.gravatar.com/avatar/a09ad52028b2fe26641ed3f5ef2b7bf2"
----

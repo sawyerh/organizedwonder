@@ -1,9 +1,0 @@
----
-title: "Blake"
-date: 2013-02-27 20:14:30 00:00
-permalink: /humidhaney
-twitter: "humidhaney"
-likes: [398,1716]
-id: 1824
-gravatar: "http://www.gravatar.com/avatar/75021446ae27b90cf4ef53e56465a59f"
----

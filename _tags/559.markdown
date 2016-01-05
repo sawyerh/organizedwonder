@@ -1,6 +1,0 @@
----
-title: "insipering"
-id: tag.id
-permalink: "/tags/insipering"
-videos: [596]
----

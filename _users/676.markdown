@@ -1,9 +1,0 @@
----
-title: "Brian Dillon"
-date: 2012-05-25 04:51:12 00:00
-permalink: /monkeymace
-twitter: ""
-likes: [611,610,583]
-id: 676
-gravatar: "http://www.gravatar.com/avatar/4e0c2f26631300e860ff14efa97d3428"
----

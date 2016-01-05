@@ -1,6 +1,0 @@
----
-title: "rog walker"
-id: tag.id
-permalink: "/tags/rog%20walker"
-videos: [2368]
----

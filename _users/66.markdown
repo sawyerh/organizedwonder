@@ -1,9 +1,0 @@
----
-title: "Judd Morgenstern"
-date: 2012-05-16 15:17:17 00:00
-permalink: /juddm
-twitter: "juddm"
-likes: [76,53,515,258,763,744,719,1060,1028,1197,1231,1263,1135,82,22,134,1077,1271,1113,1379,1387,1411,836,1524,1029,1838,2549]
-id: 66
-gravatar: "http://www.gravatar.com/avatar/cca95708f6b85ba22dea7f088b1d9da7"
----

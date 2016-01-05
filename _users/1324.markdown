@@ -1,9 +1,0 @@
----
-title: "Sarah Chou"
-date: 2012-09-05 22:05:19 00:00
-permalink: /chouboo
-twitter: ""
-likes: [579]
-id: 1324
-gravatar: "http://www.gravatar.com/avatar/07e550d397d64b8d0b776a02d9e3b1ca"
----

@@ -1,6 +1,0 @@
----
-title: "flight"
-id: tag.id
-permalink: "/tags/flight"
-videos: [116,117]
----

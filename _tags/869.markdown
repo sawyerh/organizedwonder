@@ -1,6 +1,0 @@
----
-title: "aaron young"
-id: tag.id
-permalink: "/tags/aaron%20young"
-videos: [937]
----

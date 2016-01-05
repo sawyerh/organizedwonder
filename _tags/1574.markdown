@@ -1,6 +1,0 @@
----
-title: "marissa mayer"
-id: tag.id
-permalink: "/tags/marissa%20mayer"
-videos: [1799]
----

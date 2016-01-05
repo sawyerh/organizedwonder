@@ -1,6 +1,0 @@
----
-title: "frans de waal"
-id: tag.id
-permalink: "/tags/frans%20de%20waal"
-videos: [868]
----

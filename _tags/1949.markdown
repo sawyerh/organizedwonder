@@ -1,6 +1,0 @@
----
-title: "android"
-id: tag.id
-permalink: "/tags/android"
-videos: [2363]
----

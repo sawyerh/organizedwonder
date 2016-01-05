@@ -1,9 +1,0 @@
----
-title: "amy minor"
-date: 2012-05-21 20:12:47 00:00
-permalink: /amydkminor
-twitter: "amydkminor"
-likes: [143,530]
-id: 570
-gravatar: "http://www.gravatar.com/avatar/3193ea9be31bd8cb20a1c625ac19aad4"
----

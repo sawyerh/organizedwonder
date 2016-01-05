@@ -1,6 +1,0 @@
----
-title: "strategy"
-id: tag.id
-permalink: "/tags/strategy"
-videos: [1909]
----

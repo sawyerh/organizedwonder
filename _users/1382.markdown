@@ -1,9 +1,0 @@
----
-title: "Carlos Santiago"
-date: 2012-10-12 18:44:54 00:00
-permalink: /danniiel
-twitter: ""
-likes: [1747,1748]
-id: 1382
-gravatar: "http://www.gravatar.com/avatar/efefc31ca1fbc9269edc3c741d863386"
----

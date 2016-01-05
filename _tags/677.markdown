@@ -1,6 +1,0 @@
----
-title: "sport"
-id: tag.id
-permalink: "/tags/sport"
-videos: [769]
----

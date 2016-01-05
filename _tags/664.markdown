@@ -1,6 +1,0 @@
----
-title: "structure"
-id: tag.id
-permalink: "/tags/structure"
-videos: [745]
----

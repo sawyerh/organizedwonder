@@ -1,9 +1,0 @@
----
-title: "sylvester"
-date: 2012-05-18 07:35:41 00:00
-permalink: /sylvester
-twitter: "ichfilmesie"
-likes: [39,1154]
-id: 239
-gravatar: "http://www.gravatar.com/avatar/525866144154d3b66d2e1c8a13a6482a"
----

@@ -1,9 +1,0 @@
----
-title: "Seb Insua"
-date: 2012-05-19 10:51:11 00:00
-permalink: /bedtimes
-twitter: ""
-likes: [341]
-id: 435
-gravatar: "http://www.gravatar.com/avatar/71e5f7610e9e3d7f792a694791a48d6d"
----

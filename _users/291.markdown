@@ -1,9 +1,0 @@
----
-title: "Gustavo Pimenta"
-date: 2012-05-18 12:35:16 00:00
-permalink: /gustavocpimenta
-twitter: "gustavocpimenta"
-likes: [66,75,48,252,255,84,253,358,362,363,364,365,366,426,427,425,180,33,192]
-id: 291
-gravatar: "http://www.gravatar.com/avatar/ef22c13b8dbdf35002fbaa9ce2d97311"
----

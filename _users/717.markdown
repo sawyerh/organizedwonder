@@ -1,9 +1,0 @@
----
-title: "Hugh Guiney"
-date: 2012-05-28 20:07:24 00:00
-permalink: /lordpancreas
-twitter: "LordPancreas"
-likes: [69,646]
-id: 717
-gravatar: "http://www.gravatar.com/avatar/575d9674b46beab18c5a76f019d17d35"
----

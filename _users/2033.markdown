@@ -1,9 +1,0 @@
----
-title: "Robert Williams"
-date: 2013-06-25 12:00:57 00:00
-permalink: /tarkovsky
-twitter: ""
-likes: [1979,1980]
-id: 2033
-gravatar: "http://www.gravatar.com/avatar/8b937d926b5fa6c65c633420e8387237"
----

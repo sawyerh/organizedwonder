@@ -1,9 +1,0 @@
----
-title: "Paul Galliford"
-date: 2012-08-17 12:05:14 00:00
-permalink: /pgalliford
-twitter: ""
-likes: [835]
-id: 1301
-gravatar: "http://www.gravatar.com/avatar/9db1fa97734db2794264487ab691e007"
----

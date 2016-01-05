@@ -1,9 +1,0 @@
----
-title: "hipkiddo"
-date: 2012-05-18 08:46:10 00:00
-permalink: /hipkiddo
-twitter: "@hip_kiddo"
-likes: [181]
-id: 257
-gravatar: "http://www.gravatar.com/avatar/d4a4101663ad373de84ac175f4de500d"
----

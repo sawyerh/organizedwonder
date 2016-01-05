@@ -1,9 +1,0 @@
----
-title: "Wendy Smits"
-date: 2013-01-09 22:42:19 00:00
-permalink: /braintail
-twitter: ""
-likes: [1599,534,1012,1002,1006,1311,834,305,72,846]
-id: 1726
-gravatar: "http://www.gravatar.com/avatar/c5ac598cec166478a0003967451027b6"
----

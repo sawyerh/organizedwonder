@@ -1,9 +1,0 @@
----
-title: "jonathan stovall"
-date: 2012-05-16 21:55:54 00:00
-permalink: /jonstovall
-twitter: "jonstovall"
-likes: [1495]
-id: 83
-gravatar: "http://www.gravatar.com/avatar/ca91a483733c2d7272be2dceb285483b"
----

@@ -1,6 +1,0 @@
----
-title: "team work"
-id: tag.id
-permalink: "/tags/team%20work"
-videos: [1399]
----

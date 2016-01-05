@@ -1,6 +1,0 @@
----
-title: "batman"
-id: tag.id
-permalink: "/tags/batman"
-videos: [1643]
----

@@ -1,6 +1,0 @@
----
-title: "sony"
-id: tag.id
-permalink: "/tags/sony"
-videos: [1443]
----

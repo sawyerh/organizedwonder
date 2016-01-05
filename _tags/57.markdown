@@ -1,6 +1,0 @@
----
-title: "mike monteiro"
-id: tag.id
-permalink: "/tags/mike%20monteiro"
-videos: [25,800,2271]
----

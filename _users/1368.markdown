@@ -1,9 +1,0 @@
----
-title: "Sharon Mah"
-date: 2012-10-04 17:08:46 00:00
-permalink: /smah
-twitter: ""
-likes: [1565,1402,1555,1047,330,563,1191,583,972,16,787,979,1073,1108,1509,1852]
-id: 1368
-gravatar: "http://www.gravatar.com/avatar/35ee396dc3acced63ac65821afb628d7"
----

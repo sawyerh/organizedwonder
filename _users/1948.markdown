@@ -1,9 +1,0 @@
----
-title: "Samuel Hermes"
-date: 2013-04-23 01:27:51 00:00
-permalink: /samuel
-twitter: "samhermes"
-likes: [945,872,1883,1984,1981,1983,1726,1903,1866]
-id: 1948
-gravatar: "http://www.gravatar.com/avatar/e96b6e67106073ae7696a2f20962ef01"
----

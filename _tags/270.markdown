@@ -1,6 +1,0 @@
----
-title: "baldessari"
-id: tag.id
-permalink: "/tags/baldessari"
-videos: [180]
----

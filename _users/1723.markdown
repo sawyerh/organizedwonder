@@ -1,9 +1,0 @@
----
-title: "Michael H Epstein"
-date: 2013-01-07 17:33:16 00:00
-permalink: /sloppyesses
-twitter: "SloppyEsses"
-likes: [1609,932]
-id: 1723
-gravatar: "http://www.gravatar.com/avatar/d926f0536a50a4431c05d1f6832a1233"
----

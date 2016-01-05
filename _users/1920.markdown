@@ -1,9 +1,0 @@
----
-title: "Ddwewef"
-date: 2013-04-08 19:43:00 00:00
-permalink: /wefwfef
-twitter: "DerJurist"
-likes: [398,1596,1574]
-id: 1920
-gravatar: "http://www.gravatar.com/avatar/1dd35732158c5bd5b7f2b9fa7f515a07"
----

@@ -1,6 +1,0 @@
----
-title: "nat king cole"
-id: tag.id
-permalink: "/tags/nat%20king%20cole"
-videos: [997]
----

@@ -1,6 +1,0 @@
----
-title: "xbox"
-id: tag.id
-permalink: "/tags/xbox"
-videos: [857]
----

@@ -1,6 +1,0 @@
----
-title: "space perspective"
-id: tag.id
-permalink: "/tags/space%20perspective"
-videos: [2510]
----

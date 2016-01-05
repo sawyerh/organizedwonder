@@ -1,9 +1,0 @@
----
-title: "Ali Reid"
-date: 2012-08-14 04:16:24 00:00
-permalink: /thestretch
-twitter: ""
-likes: [1155]
-id: 1294
-gravatar: "http://www.gravatar.com/avatar/23606f94de1035ee4a9ba84a4a04cea7"
----

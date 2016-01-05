@@ -1,9 +1,0 @@
----
-title: "Samrat Man Singh"
-date: 2012-06-20 06:07:24 00:00
-permalink: /samrat
-twitter: "samratmansingh"
-likes: [266,907,906]
-id: 1078
-gravatar: "http://www.gravatar.com/avatar/7fe15f8b6ccbba504dc878c05d4a4a80"
----

@@ -1,6 +1,0 @@
----
-title: "asexual"
-id: tag.id
-permalink: "/tags/asexual"
-videos: [2230]
----

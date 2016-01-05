@@ -1,6 +1,0 @@
----
-title: "holy"
-id: tag.id
-permalink: "/tags/holy"
-videos: [167]
----

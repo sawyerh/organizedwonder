@@ -1,6 +1,0 @@
----
-title: "tony fadell"
-id: tag.id
-permalink: "/tags/tony%20fadell"
-videos: [798,808,836]
----

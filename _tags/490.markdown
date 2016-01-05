@@ -1,6 +1,0 @@
----
-title: "revolution"
-id: tag.id
-permalink: "/tags/revolution"
-videos: [523]
----

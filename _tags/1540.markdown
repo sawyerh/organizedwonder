@@ -1,6 +1,0 @@
----
-title: "social jetlag"
-id: tag.id
-permalink: "/tags/social%20jetlag"
-videos: [1734]
----

@@ -1,6 +1,0 @@
----
-title: "jpl"
-id: tag.id
-permalink: "/tags/jpl"
-videos: [992]
----

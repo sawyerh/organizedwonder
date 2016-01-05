@@ -1,6 +1,0 @@
----
-title: "espionage"
-id: tag.id
-permalink: "/tags/espionage"
-videos: [2080]
----

@@ -1,6 +1,0 @@
----
-title: "björk"
-id: tag.id
-permalink: "/tags/bj%C3%B6rk"
-videos: [1499]
----

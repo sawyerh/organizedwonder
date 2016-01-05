@@ -1,6 +1,0 @@
----
-title: "mobilism"
-id: tag.id
-permalink: "/tags/mobilism"
-videos: [2001]
----

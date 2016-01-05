@@ -1,6 +1,0 @@
----
-title: "cooking"
-id: tag.id
-permalink: "/tags/cooking"
-videos: [2311]
----

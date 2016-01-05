@@ -1,9 +1,0 @@
----
-title: "Ilia Daraselia"
-date: 2012-12-04 14:16:53 00:00
-permalink: /daraselia
-twitter: ""
-likes: [1533]
-id: 1656
-gravatar: "http://www.gravatar.com/avatar/ab28fb36d800ac1d744d80184087c0c6"
----

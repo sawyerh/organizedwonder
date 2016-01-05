@@ -1,6 +1,0 @@
----
-title: "healthy living"
-id: tag.id
-permalink: "/tags/healthy%20living"
-videos: [2268]
----

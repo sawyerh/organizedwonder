@@ -1,9 +1,0 @@
----
-title: "Alex Kim"
-date: 2012-05-22 05:26:20 00:00
-permalink: /wakeupmrkim
-twitter: ""
-likes: [545,569,1375]
-id: 600
-gravatar: "http://www.gravatar.com/avatar/5eea6fdd59877a7f6aea947b690da3c6"
----

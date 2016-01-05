@@ -1,6 +1,0 @@
----
-title: "new"
-id: tag.id
-permalink: "/tags/new"
-videos: [2249]
----

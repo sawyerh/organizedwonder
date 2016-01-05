@@ -1,6 +1,0 @@
----
-title: "justice"
-id: tag.id
-permalink: "/tags/justice"
-videos: [123]
----

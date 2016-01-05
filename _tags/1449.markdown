@@ -1,6 +1,0 @@
----
-title: "tutorial"
-id: tag.id
-permalink: "/tags/tutorial"
-videos: [1662]
----

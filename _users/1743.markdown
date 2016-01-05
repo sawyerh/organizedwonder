@@ -1,9 +1,0 @@
----
-title: "kimber mallett"
-date: 2013-01-15 05:26:07 00:00
-permalink: /kimberm
-twitter: ""
-likes: [1613]
-id: 1743
-gravatar: "http://www.gravatar.com/avatar/dea5d0e9bdf0a3e42ef45031b61fb7a8"
----

@@ -1,6 +1,0 @@
----
-title: "dan trachtenberg"
-id: tag.id
-permalink: "/tags/dan%20trachtenberg"
-videos: [855]
----

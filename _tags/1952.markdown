@@ -1,6 +1,0 @@
----
-title: "mta"
-id: tag.id
-permalink: "/tags/mta"
-videos: [2366]
----

@@ -1,9 +1,0 @@
----
-title: "Alexandru Viţa"
-date: 2013-06-02 09:18:29 00:00
-permalink: /alexandruvita
-twitter: "alexandruvita"
-likes: [1896]
-id: 1986
-gravatar: "http://www.gravatar.com/avatar/aaff58dc01fa7a0d54bd0c063401d057"
----

@@ -1,9 +1,0 @@
----
-title: "carrie yotter"
-date: 2012-08-28 17:07:56 00:00
-permalink: /yttr
-twitter: ""
-likes: [1156,939,1047]
-id: 1316
-gravatar: "http://www.gravatar.com/avatar/51f8ec2b13dbcef4bdfbd7bc776aca34"
----

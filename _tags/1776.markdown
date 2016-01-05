@@ -1,6 +1,0 @@
----
-title: "song"
-id: tag.id
-permalink: "/tags/song"
-videos: [2144]
----

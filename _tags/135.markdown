@@ -1,6 +1,0 @@
----
-title: "jonah lehrer"
-id: tag.id
-permalink: "/tags/jonah%20lehrer"
-videos: [65]
----

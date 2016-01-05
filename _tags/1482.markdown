@@ -1,6 +1,0 @@
----
-title: "pirate"
-id: tag.id
-permalink: "/tags/pirate"
-videos: [1690]
----

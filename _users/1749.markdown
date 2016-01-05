@@ -1,9 +1,0 @@
----
-title: "Jhay-ar Perez"
-date: 2013-01-18 12:39:05 00:00
-permalink: /paulandapollos
-twitter: ""
-likes: [1614,1402,528,100,39,1643,66]
-id: 1749
-gravatar: "http://www.gravatar.com/avatar/6dfd1e9449e9d4d72f51b604b24b3a93"
----

@@ -1,6 +1,0 @@
----
-title: "style guides"
-id: tag.id
-permalink: "/tags/style%20guides"
-videos: [1544]
----

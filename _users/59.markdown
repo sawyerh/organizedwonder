@@ -1,9 +1,0 @@
----
-title: "Dave Dawson"
-date: 2012-05-16 14:58:55 00:00
-permalink: /davedawson
-twitter: ""
-likes: [66,2104]
-id: 59
-gravatar: "http://www.gravatar.com/avatar/7da28f55e110d463efc6867a0d098666"
----

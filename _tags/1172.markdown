@@ -1,6 +1,0 @@
----
-title: "ryan carson"
-id: tag.id
-permalink: "/tags/ryan%20carson"
-videos: [1300,1301,1389]
----

@@ -1,6 +1,0 @@
----
-title: "green"
-id: tag.id
-permalink: "/tags/green"
-videos: [2018]
----

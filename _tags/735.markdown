@@ -1,6 +1,0 @@
----
-title: "brand makeover"
-id: tag.id
-permalink: "/tags/brand%20makeover"
-videos: [825]
----

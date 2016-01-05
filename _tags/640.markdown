@@ -1,6 +1,0 @@
----
-title: "obama campaign"
-id: tag.id
-permalink: "/tags/obama%20campaign"
-videos: [714]
----

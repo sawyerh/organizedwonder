@@ -1,6 +1,0 @@
----
-title: "patagonia"
-id: tag.id
-permalink: "/tags/patagonia"
-videos: [767,2534]
----

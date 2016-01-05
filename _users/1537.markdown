@@ -1,9 +1,0 @@
----
-title: "Victoria Moshanova"
-date: 2012-11-14 09:13:30 00:00
-permalink: /levinyte
-twitter: ""
-likes: [1400,1402,39]
-id: 1537
-gravatar: "http://www.gravatar.com/avatar/89996f7ebf2ed39902763203e806f38d"
----

@@ -1,6 +1,0 @@
----
-title: "bill murray"
-id: tag.id
-permalink: "/tags/bill%20murray"
-videos: [661,2252]
----

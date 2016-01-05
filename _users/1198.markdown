@@ -1,9 +1,0 @@
----
-title: "Annie McCance"
-date: 2012-07-20 02:05:57 00:00
-permalink: /tigeranniemac
-twitter: ""
-likes: [974,1082,1081,1002,531,467,1056,1055,933,548,66,1126]
-id: 1198
-gravatar: "http://www.gravatar.com/avatar/decc208da57ade7f2f3510e37abc95c6"
----

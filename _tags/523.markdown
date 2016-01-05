@@ -1,6 +1,0 @@
----
-title: "portugues claro"
-id: tag.id
-permalink: "/tags/portugues%20claro"
-videos: [553]
----

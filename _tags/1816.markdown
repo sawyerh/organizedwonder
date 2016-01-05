@@ -1,6 +1,0 @@
----
-title: "joseph herscher"
-id: tag.id
-permalink: "/tags/joseph%20herscher"
-videos: [2192]
----

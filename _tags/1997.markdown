@@ -1,6 +1,0 @@
----
-title: "tastemaker"
-id: tag.id
-permalink: "/tags/tastemaker"
-videos: [2455]
----

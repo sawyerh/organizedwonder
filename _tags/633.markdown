@@ -1,6 +1,0 @@
----
-title: "steven heller"
-id: tag.id
-permalink: "/tags/steven%20heller"
-videos: [704]
----

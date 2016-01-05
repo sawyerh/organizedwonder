@@ -1,9 +1,0 @@
----
-title: "Paul Searle"
-date: 2012-08-14 18:27:12 00:00
-permalink: /paulsearle
-twitter: "paulsearle"
-likes: [1264,852,1265,1266,100]
-id: 1296
-gravatar: "http://www.gravatar.com/avatar/3ddb6d52812690fe9da787253e064f38"
----

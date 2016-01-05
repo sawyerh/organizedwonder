@@ -1,6 +1,0 @@
----
-title: "case study"
-id: tag.id
-permalink: "/tags/case%20study"
-videos: [2496]
----

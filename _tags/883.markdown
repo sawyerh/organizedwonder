@@ -1,6 +1,0 @@
----
-title: "charles duhigg"
-id: tag.id
-permalink: "/tags/charles%20duhigg"
-videos: [944]
----

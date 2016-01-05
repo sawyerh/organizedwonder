@@ -1,9 +1,0 @@
----
-title: "Amy Smith"
-date: 2012-05-20 02:15:04 00:00
-permalink: /amyess
-twitter: ""
-likes: [134]
-id: 482
-gravatar: "http://www.gravatar.com/avatar/63185c8d2e8b1049c23151fd2bb3c330"
----

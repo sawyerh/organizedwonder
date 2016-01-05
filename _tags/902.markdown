@@ -1,6 +1,0 @@
----
-title: "presentation"
-id: tag.id
-permalink: "/tags/presentation"
-videos: [959,1231,1551,2544]
----

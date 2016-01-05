@@ -1,6 +1,0 @@
----
-title: "david oreilly"
-id: tag.id
-permalink: "/tags/david%20oreilly"
-videos: [212,237]
----

@@ -1,6 +1,0 @@
----
-title: "secrets"
-id: tag.id
-permalink: "/tags/secrets"
-videos: [1995,1996]
----

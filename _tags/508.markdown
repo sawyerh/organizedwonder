@@ -1,6 +1,0 @@
----
-title: "test shots"
-id: tag.id
-permalink: "/tags/test%20shots"
-videos: [536]
----

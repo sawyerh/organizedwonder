@@ -1,9 +1,0 @@
----
-title: "rachel lin jia"
-date: 2012-11-12 02:18:42 00:00
-permalink: /awareandrust
-twitter: ""
-likes: [1469,1437]
-id: 1486
-gravatar: "http://www.gravatar.com/avatar/0cf40843c210ce691b1ed9d77069cfa9"
----

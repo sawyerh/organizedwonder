@@ -1,6 +1,0 @@
----
-title: "allison sudol"
-id: tag.id
-permalink: "/tags/allison%20sudol"
-videos: [977]
----

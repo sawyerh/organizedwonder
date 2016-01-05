@@ -1,9 +1,0 @@
----
-title: "Simone Noronha"
-date: 2013-03-03 00:07:32 00:00
-permalink: /simono
-twitter: ""
-likes: [435,66,703,111]
-id: 1829
-gravatar: "http://www.gravatar.com/avatar/2f97e2627a626d9f34f5efe288a6c5a6"
----

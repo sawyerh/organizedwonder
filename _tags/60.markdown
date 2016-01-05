@@ -1,6 +1,0 @@
----
-title: "videogame"
-id: tag.id
-permalink: "/tags/videogame"
-videos: [27]
----

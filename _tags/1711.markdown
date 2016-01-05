@@ -1,6 +1,0 @@
----
-title: "electronic"
-id: tag.id
-permalink: "/tags/electronic"
-videos: [2079]
----

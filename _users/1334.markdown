@@ -1,9 +1,0 @@
----
-title: "Reza Assar"
-date: 2012-09-17 23:14:17 00:00
-permalink: /reza
-twitter: ""
-likes: [1263,1377,515,275]
-id: 1334
-gravatar: "http://www.gravatar.com/avatar/ad6fa355580917df5910b403b446be47"
----

@@ -1,6 +1,0 @@
----
-title: "wheelchair"
-id: tag.id
-permalink: "/tags/wheelchair"
-videos: [799]
----

@@ -1,9 +1,0 @@
----
-title: "BernardoDesigns"
-date: 2012-11-11 04:53:44 00:00
-permalink: /bernardodesigns
-twitter: "BernardoDesigns"
-likes: [1303]
-id: 1464
-gravatar: "http://www.gravatar.com/avatar/c6912cc152a6a5816ab74dc16f0e5b2f"
----

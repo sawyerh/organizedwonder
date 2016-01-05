@@ -1,6 +1,0 @@
----
-title: "pacificstandardtime"
-id: tag.id
-permalink: "/tags/pacificstandardtime"
-videos: [1664]
----

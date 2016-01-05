@@ -1,9 +1,0 @@
----
-title: "Melanie Wong"
-date: 2012-06-15 20:31:16 00:00
-permalink: /melaniewong
-twitter: "melanieswong"
-likes: [700,555,868,869,870,729,871,872,930,1262]
-id: 1041
-gravatar: "http://www.gravatar.com/avatar/dcbba39c1e8d3c4d48845ce0ec817494"
----

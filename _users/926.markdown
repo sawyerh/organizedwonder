@@ -1,9 +1,0 @@
----
-title: "Rebecca Dai"
-date: 2012-06-12 04:22:31 00:00
-permalink: /bexdai
-twitter: "BexDai"
-likes: [834,73]
-id: 926
-gravatar: "http://www.gravatar.com/avatar/eb74969da939c4d2d7faf3b2bed0e9cf"
----

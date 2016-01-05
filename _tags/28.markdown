@@ -1,6 +1,0 @@
----
-title: "poem"
-id: tag.id
-permalink: "/tags/poem"
-videos: [9,44,472]
----

@@ -1,6 +1,0 @@
----
-title: "climate change"
-id: tag.id
-permalink: "/tags/climate%20change"
-videos: [2202]
----

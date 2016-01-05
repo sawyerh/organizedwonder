@@ -1,9 +1,0 @@
----
-title: "Gabriel Benderski"
-date: 2013-03-31 03:32:10 00:00
-permalink: /benderski
-twitter: ""
-likes: [1725,1345,1191,1684,889,888,448,159]
-id: 1892
-gravatar: "http://www.gravatar.com/avatar/e404c94ab9d2d4c95bc1c1c2b7f2c43d"
----

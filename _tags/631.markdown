@@ -1,6 +1,0 @@
----
-title: "problems"
-id: tag.id
-permalink: "/tags/problems"
-videos: [703]
----

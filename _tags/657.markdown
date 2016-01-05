@@ -1,6 +1,0 @@
----
-title: "gestalten"
-id: tag.id
-permalink: "/tags/gestalten"
-videos: [730]
----

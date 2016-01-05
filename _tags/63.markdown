@@ -1,6 +1,0 @@
----
-title: "adventure"
-id: tag.id
-permalink: "/tags/adventure"
-videos: [28,47,864,2257,2181]
----

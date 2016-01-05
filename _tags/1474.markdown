@@ -1,6 +1,0 @@
----
-title: "beeby"
-id: tag.id
-permalink: "/tags/beeby"
-videos: [1678]
----

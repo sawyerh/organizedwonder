@@ -1,9 +1,0 @@
----
-title: "Arturo Goicochea"
-date: 2012-06-12 15:25:06 00:00
-permalink: /arturogh
-twitter: ""
-likes: [2224,1375,703,830,300,954]
-id: 938
-gravatar: "http://www.gravatar.com/avatar/0c4eef82237b893a9ebbb6fdb65f10aa"
----

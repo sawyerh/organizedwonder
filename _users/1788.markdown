@@ -1,9 +1,0 @@
----
-title: "Carrie Yotter"
-date: 2013-02-04 22:50:52 00:00
-permalink: /yotterno1
-twitter: ""
-likes: [203,1667,1668,1671,1674,1675,1676,1678,1752,1923,1968,2004,2063,2064,2065,2109,2529]
-id: 1788
-gravatar: "http://www.gravatar.com/avatar/b02f7b773b4d6774c9dd7deacc2399e9"
----

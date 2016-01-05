@@ -1,6 +1,0 @@
----
-title: "internet of things"
-id: tag.id
-permalink: "/tags/internet%20of%20things"
-videos: [2245,2446]
----

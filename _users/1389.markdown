@@ -1,9 +1,0 @@
----
-title: "Nawab A Khan"
-date: 2012-10-19 10:03:46 00:00
-permalink: /smkan
-twitter: ""
-likes: [863]
-id: 1389
-gravatar: "http://www.gravatar.com/avatar/4ec71758a28925f9b375892e75e44eb1"
----

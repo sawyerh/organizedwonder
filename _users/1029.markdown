@@ -1,9 +1,0 @@
----
-title: "Everton Fraga"
-date: 2012-06-14 21:50:33 00:00
-permalink: /everton
-twitter: ""
-likes: [855,856,719]
-id: 1029
-gravatar: "http://www.gravatar.com/avatar/af3a29d88f49406b48533c03020e0217"
----

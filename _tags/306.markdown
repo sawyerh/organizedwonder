@@ -1,6 +1,0 @@
----
-title: "poetic"
-id: tag.id
-permalink: "/tags/poetic"
-videos: [210]
----

@@ -1,6 +1,0 @@
----
-title: "vans"
-id: tag.id
-permalink: "/tags/vans"
-videos: [942]
----

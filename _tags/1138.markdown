@@ -1,6 +1,0 @@
----
-title: "master"
-id: tag.id
-permalink: "/tags/master"
-videos: [1146]
----

@@ -1,6 +1,0 @@
----
-title: "earth"
-id: tag.id
-permalink: "/tags/earth"
-videos: [766,767,1006,1579,2091,2510]
----

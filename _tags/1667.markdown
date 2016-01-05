@@ -1,6 +1,0 @@
----
-title: "diet"
-id: tag.id
-permalink: "/tags/diet"
-videos: [2006]
----

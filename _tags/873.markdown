@@ -1,6 +1,0 @@
----
-title: "tiltshift"
-id: tag.id
-permalink: "/tags/tiltshift"
-videos: [939]
----

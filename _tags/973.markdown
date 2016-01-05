@@ -1,6 +1,0 @@
----
-title: "carpenter"
-id: tag.id
-permalink: "/tags/carpenter"
-videos: [1025]
----

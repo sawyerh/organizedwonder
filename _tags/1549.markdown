@@ -1,6 +1,0 @@
----
-title: "sex pigeon"
-id: tag.id
-permalink: "/tags/sex%20pigeon"
-videos: [1751]
----

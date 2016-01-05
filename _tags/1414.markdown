@@ -1,6 +1,0 @@
----
-title: "brother"
-id: tag.id
-permalink: "/tags/brother"
-videos: [1640]
----

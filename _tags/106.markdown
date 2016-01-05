@@ -1,6 +1,0 @@
----
-title: "stopmotion"
-id: tag.id
-permalink: "/tags/stopmotion"
-videos: [52,637,772,773,1053,1740,2429]
----

@@ -1,6 +1,0 @@
----
-title: "bullshit"
-id: tag.id
-permalink: "/tags/bullshit"
-videos: [1997]
----

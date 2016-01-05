@@ -1,9 +1,0 @@
----
-title: "Martin Putniorz"
-date: 2012-06-18 21:21:08 00:00
-permalink: /sputnikus
-twitter: "sputnikus"
-likes: [909]
-id: 1066
-gravatar: "http://www.gravatar.com/avatar/dc623f9961e8f89cce8aa68d490d2145"
----

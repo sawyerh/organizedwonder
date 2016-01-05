@@ -1,6 +1,0 @@
----
-title: "quantum"
-id: tag.id
-permalink: "/tags/quantum"
-videos: [1315,1316,1317,1318,1319,1320,2052]
----

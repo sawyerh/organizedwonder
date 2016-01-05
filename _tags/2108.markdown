@@ -1,6 +1,0 @@
----
-title: "elon"
-id: tag.id
-permalink: "/tags/elon"
-videos: [2572]
----

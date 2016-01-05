@@ -1,6 +1,0 @@
----
-title: "electronic arts"
-id: tag.id
-permalink: "/tags/electronic%20arts"
-videos: [855]
----

@@ -1,9 +1,0 @@
----
-title: "Jakub Zalewski"
-date: 2012-05-18 10:01:42 00:00
-permalink: /zalew
-twitter: "zalew"
-likes: [186,134,6,605,785,793,703,966,1028,1093,310,1109,1240,1244,759,1095,1400,1445,1371,1525,1517,1549,2034,2052]
-id: 274
-gravatar: "http://www.gravatar.com/avatar/96e1ce97c0c73b9dda0c6f5a7500fe05"
----

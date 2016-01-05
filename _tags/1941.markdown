@@ -1,6 +1,0 @@
----
-title: "sarah b. nelson"
-id: tag.id
-permalink: "/tags/sarah%20b.%20nelson"
-videos: [2359]
----

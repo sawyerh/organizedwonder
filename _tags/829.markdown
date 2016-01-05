@@ -1,6 +1,0 @@
----
-title: "choice"
-id: tag.id
-permalink: "/tags/choice"
-videos: [871,1979]
----

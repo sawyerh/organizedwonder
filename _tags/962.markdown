@@ -1,6 +1,0 @@
----
-title: "urbanization"
-id: tag.id
-permalink: "/tags/urbanization"
-videos: [1009]
----

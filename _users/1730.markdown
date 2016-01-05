@@ -1,9 +1,0 @@
----
-title: "Simon Detienne"
-date: 2013-01-10 16:58:00 00:00
-permalink: /simondetienne
-twitter: "simondetienne"
-likes: [73]
-id: 1730
-gravatar: "http://www.gravatar.com/avatar/008173af1281a4598d00c61f0d8c7750"
----

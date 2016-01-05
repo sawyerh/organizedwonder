@@ -1,6 +1,0 @@
----
-title: "collaboration"
-id: tag.id
-permalink: "/tags/collaboration"
-videos: [852,1377,2548,2578]
----

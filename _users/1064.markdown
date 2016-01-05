@@ -1,9 +1,0 @@
----
-title: "Diana Padrón"
-date: 2012-06-18 19:57:08 00:00
-permalink: /dippa
-twitter: ""
-likes: [466]
-id: 1064
-gravatar: "http://www.gravatar.com/avatar/1d957e3c51f9c34fae96b8b82caaf307"
----

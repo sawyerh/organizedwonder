@@ -1,9 +1,0 @@
----
-title: "Taylor Lapeyre"
-date: 2012-05-17 23:32:52 00:00
-permalink: /taylorlapeyre
-twitter: "taylorlapeyre"
-likes: [100,39,515,120,581,771,1011,66,1029,1096]
-id: 142
-gravatar: "http://www.gravatar.com/avatar/48791602a10ee029a5b083c571fd2056"
----

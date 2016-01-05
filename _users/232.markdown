@@ -1,9 +1,0 @@
----
-title: "mary barr"
-date: 2012-05-18 07:16:28 00:00
-permalink: /mary%20barr
-twitter: ""
-likes: [180]
-id: 232
-gravatar: "http://www.gravatar.com/avatar/3363a3199e6920a83fbe4c1eecad2dc3"
----

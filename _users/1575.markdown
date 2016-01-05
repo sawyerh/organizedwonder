@@ -1,9 +1,0 @@
----
-title: "Lauren B"
-date: 2012-11-19 02:02:49 00:00
-permalink: /vonmighty
-twitter: ""
-likes: [1493]
-id: 1575
-gravatar: "http://www.gravatar.com/avatar/3021859cd4cae90a0c2f54dc715bc32d"
----

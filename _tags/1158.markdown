@@ -1,6 +1,0 @@
----
-title: "portland"
-id: tag.id
-permalink: "/tags/portland"
-videos: [1264,1265,1266,2159]
----

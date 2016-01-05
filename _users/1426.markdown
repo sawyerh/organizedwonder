@@ -1,9 +1,0 @@
----
-title: "Mallory Box"
-date: 2012-11-09 19:50:54 00:00
-permalink: /mallorybox
-twitter: "mallorybox"
-likes: [1534]
-id: 1426
-gravatar: "http://www.gravatar.com/avatar/604e63b9c7f8b709d0614547ecc76c33"
----

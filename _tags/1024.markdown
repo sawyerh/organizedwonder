@@ -1,6 +1,0 @@
----
-title: "short comedy"
-id: tag.id
-permalink: "/tags/short%20comedy"
-videos: [1083]
----

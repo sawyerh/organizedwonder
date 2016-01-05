@@ -1,6 +1,0 @@
----
-title: "new tech"
-id: tag.id
-permalink: "/tags/new%20tech"
-videos: [863]
----

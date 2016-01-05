@@ -1,9 +1,0 @@
----
-title: "Nick Sergeant"
-date: 2012-05-15 14:40:36 00:00
-permalink: /nick
-twitter: ""
-likes: [35,62,6,1,49,16,563,907]
-id: 25
-gravatar: "http://www.gravatar.com/avatar/a74159ce0c29f89b75a25037e40b27a4"
----

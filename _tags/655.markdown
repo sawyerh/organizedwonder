@@ -1,6 +1,0 @@
----
-title: "svb ceo summit"
-id: tag.id
-permalink: "/tags/svb%20ceo%20summit"
-videos: [728]
----

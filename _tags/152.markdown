@@ -1,6 +1,0 @@
----
-title: "cai guo-qiang"
-id: tag.id
-permalink: "/tags/cai%20guo-qiang"
-videos: [74]
----

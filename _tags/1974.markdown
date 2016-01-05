@@ -1,6 +1,0 @@
----
-title: "yohji yamamoto"
-id: tag.id
-permalink: "/tags/yohji%20yamamoto"
-videos: [2422]
----

@@ -1,6 +1,0 @@
----
-title: "production"
-id: tag.id
-permalink: "/tags/production"
-videos: [2528,2547]
----

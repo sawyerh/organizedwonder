@@ -1,6 +1,0 @@
----
-title: "environments"
-id: tag.id
-permalink: "/tags/environments"
-videos: [1548]
----

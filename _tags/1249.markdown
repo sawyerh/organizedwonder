@@ -1,6 +1,0 @@
----
-title: "snow"
-id: tag.id
-permalink: "/tags/snow"
-videos: [1442]
----

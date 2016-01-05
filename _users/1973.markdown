@@ -1,9 +1,0 @@
----
-title: "Zach White"
-date: 2013-05-14 15:54:18 00:00
-permalink: /xakqri
-twitter: ""
-likes: [1888]
-id: 1973
-gravatar: "http://www.gravatar.com/avatar/a725679e30354d633c6aa127f050344c"
----

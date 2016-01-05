@@ -1,6 +1,0 @@
----
-title: "rolling stones"
-id: tag.id
-permalink: "/tags/rolling%20stones"
-videos: [2144]
----

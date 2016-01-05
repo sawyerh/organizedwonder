@@ -1,6 +1,0 @@
----
-title: "wealth"
-id: tag.id
-permalink: "/tags/wealth"
-videos: [567]
----

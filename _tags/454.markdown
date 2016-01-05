@@ -1,6 +1,0 @@
----
-title: "eleanor ford coppola"
-id: tag.id
-permalink: "/tags/eleanor%20ford%20coppola"
-videos: [475]
----

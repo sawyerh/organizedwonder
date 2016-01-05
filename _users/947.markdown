@@ -1,9 +1,0 @@
----
-title: "James Page"
-date: 2012-06-12 17:53:26 00:00
-permalink: /jellyjim
-twitter: ""
-likes: [1555]
-id: 947
-gravatar: "http://www.gravatar.com/avatar/3fd839f1e95a610193f521cea34de41b"
----

@@ -1,9 +1,0 @@
----
-title: "Nicolás Albi"
-date: 2013-02-12 11:07:07 00:00
-permalink: /nicoalbi
-twitter: ""
-likes: [1613]
-id: 1797
-gravatar: "http://www.gravatar.com/avatar/bec0928f760b44ca90fc6ef530cdec0c"
----

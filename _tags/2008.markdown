@@ -1,6 +1,0 @@
----
-title: "veteran"
-id: tag.id
-permalink: "/tags/veteran"
-videos: [2473]
----

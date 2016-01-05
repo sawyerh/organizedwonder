@@ -1,6 +1,0 @@
----
-title: "california"
-id: tag.id
-permalink: "/tags/california"
-videos: [1586,2549]
----

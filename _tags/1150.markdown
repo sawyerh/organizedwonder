@@ -1,6 +1,0 @@
----
-title: "originality"
-id: tag.id
-permalink: "/tags/originality"
-videos: [1255]
----

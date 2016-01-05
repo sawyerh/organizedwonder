@@ -1,6 +1,0 @@
----
-title: "book design"
-id: tag.id
-permalink: "/tags/book%20design"
-videos: [1859]
----

@@ -1,9 +1,0 @@
----
-title: "Raffy Banks"
-date: 2012-05-18 00:14:22 00:00
-permalink: /rjb
-twitter: ""
-likes: [102,73,66,118,474,39,111]
-id: 146
-gravatar: "http://www.gravatar.com/avatar/fd263ee10df7ea8e326495d15483b7ad"
----

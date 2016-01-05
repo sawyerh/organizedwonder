@@ -1,6 +1,0 @@
----
-title: "eji"
-id: tag.id
-permalink: "/tags/eji"
-videos: [123]
----

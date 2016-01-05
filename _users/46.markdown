@@ -1,9 +1,0 @@
----
-title: "BarbNerdy"
-date: 2012-05-15 20:18:46 00:00
-permalink: /barbnerdy
-twitter: "Barbnerdy"
-likes: [78,79,99]
-id: 46
-gravatar: "http://www.gravatar.com/avatar/af719b3ff575fd48580f1bb6ad682035"
----

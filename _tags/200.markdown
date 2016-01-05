@@ -1,6 +1,0 @@
----
-title: "balance"
-id: tag.id
-permalink: "/tags/balance"
-videos: [115,351]
----

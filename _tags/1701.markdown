@@ -1,6 +1,0 @@
----
-title: "yale"
-id: tag.id
-permalink: "/tags/yale"
-videos: [2061]
----

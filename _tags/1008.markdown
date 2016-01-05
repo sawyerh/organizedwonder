@@ -1,6 +1,0 @@
----
-title: "star wars"
-id: tag.id
-permalink: "/tags/star%20wars"
-videos: [1058]
----

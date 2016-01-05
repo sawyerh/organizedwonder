@@ -1,6 +1,0 @@
----
-title: "epidemiology"
-id: tag.id
-permalink: "/tags/epidemiology"
-videos: [1045]
----

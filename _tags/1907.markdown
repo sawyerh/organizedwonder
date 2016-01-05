@@ -1,6 +1,0 @@
----
-title: "atiba jefferson"
-id: tag.id
-permalink: "/tags/atiba%20jefferson"
-videos: [2307]
----

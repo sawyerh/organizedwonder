@@ -1,9 +1,0 @@
----
-title: "mihai a."
-date: 2012-11-19 08:13:37 00:00
-permalink: /_mihaita
-twitter: "_mihaita"
-likes: [1271]
-id: 1577
-gravatar: "http://www.gravatar.com/avatar/267bd151ad3514fbaee8cf1fb66994fe"
----

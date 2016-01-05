@@ -1,9 +1,0 @@
----
-title: "Allison House"
-date: 2012-05-21 22:43:26 00:00
-permalink: /house
-twitter: ""
-likes: [73,1056,1246,1402,1775]
-id: 585
-gravatar: "http://www.gravatar.com/avatar/46f0a78b64284d6de9451d7ef1533205"
----

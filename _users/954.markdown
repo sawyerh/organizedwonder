@@ -1,9 +1,0 @@
----
-title: "Luli Radfahrer"
-date: 2012-06-12 20:48:09 00:00
-permalink: /radfahrer
-twitter: "radfahrer"
-likes: [835]
-id: 954
-gravatar: "http://www.gravatar.com/avatar/914861d14cb99234506126288d68034c"
----

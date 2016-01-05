@@ -1,9 +1,0 @@
----
-title: "Kyle Fiedler"
-date: 2012-05-17 20:26:58 00:00
-permalink: /kylefiedler
-twitter: ""
-likes: [100,103,102,98,84,73,50,43,21,24,20,14]
-id: 98
-gravatar: "http://www.gravatar.com/avatar/e47c27edce08b7ab1cb283d157b847c0"
----

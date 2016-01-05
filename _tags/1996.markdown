@@ -1,6 +1,0 @@
----
-title: "creator"
-id: tag.id
-permalink: "/tags/creator"
-videos: [2455]
----

@@ -1,6 +1,0 @@
----
-title: "high definition"
-id: tag.id
-permalink: "/tags/high%20definition"
-videos: [282]
----

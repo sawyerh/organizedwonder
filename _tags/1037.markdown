@@ -1,6 +1,0 @@
----
-title: "muted"
-id: tag.id
-permalink: "/tags/muted"
-videos: [1089]
----

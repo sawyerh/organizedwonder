@@ -1,6 +1,0 @@
----
-title: "wholeheartedness"
-id: tag.id
-permalink: "/tags/wholeheartedness"
-videos: [201]
----

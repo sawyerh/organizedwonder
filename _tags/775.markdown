@@ -1,6 +1,0 @@
----
-title: "ea"
-id: tag.id
-permalink: "/tags/ea"
-videos: [855]
----

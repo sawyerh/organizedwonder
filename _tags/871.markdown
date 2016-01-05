@@ -1,6 +1,0 @@
----
-title: "emotional"
-id: tag.id
-permalink: "/tags/emotional"
-videos: [938]
----

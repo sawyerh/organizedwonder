@@ -1,6 +1,0 @@
----
-title: "posters"
-id: tag.id
-permalink: "/tags/posters"
-videos: [1068]
----

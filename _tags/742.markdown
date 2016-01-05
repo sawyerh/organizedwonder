@@ -1,6 +1,0 @@
----
-title: "beauty"
-id: tag.id
-permalink: "/tags/beauty"
-videos: [837,2257,2203,2249,2463,2575]
----

@@ -1,9 +1,0 @@
----
-title: "Mike Fortress"
-date: 2012-06-08 01:34:07 00:00
-permalink: /mfortress
-twitter: "mfortress"
-likes: [656,358,300,164,1780,107]
-id: 892
-gravatar: "http://www.gravatar.com/avatar/11accfa793f38b412a3e4b187a96e571"
----

@@ -1,9 +1,0 @@
----
-title: "Ryan Kennedy"
-date: 2013-03-28 22:01:14 00:00
-permalink: /rken
-twitter: ""
-likes: [1772,1562,1447,834,1599]
-id: 1866
-gravatar: "http://www.gravatar.com/avatar/65c731e839d6caed453da0b884733eb2"
----

@@ -1,6 +1,0 @@
----
-title: "intro"
-id: tag.id
-permalink: "/tags/intro"
-videos: [1135]
----

@@ -1,9 +1,0 @@
----
-title: "Bonnie Barrett"
-date: 2012-05-25 00:54:16 00:00
-permalink: /bonnieandclide
-twitter: ""
-likes: [515,608,609,610,611,612,977,1025,1083]
-id: 674
-gravatar: "http://www.gravatar.com/avatar/c0178b5b5239f8841475dcef8816d88e"
----

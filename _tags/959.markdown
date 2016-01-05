@@ -1,6 +1,0 @@
----
-title: "radical openness"
-id: tag.id
-permalink: "/tags/radical%20openness"
-videos: [991]
----

@@ -1,6 +1,0 @@
----
-title: "save planet"
-id: tag.id
-permalink: "/tags/save%20planet"
-videos: [2023]
----

@@ -1,9 +1,0 @@
----
-title: "Leo Mancini"
-date: 2012-06-07 04:36:02 00:00
-permalink: /leo
-twitter: "@leomancini"
-likes: [729,700,188,106,863,840,31]
-id: 883
-gravatar: "http://www.gravatar.com/avatar/27bd0f41a49a14b64fbda35895b05a4c"
----

@@ -1,6 +1,0 @@
----
-title: "ignite"
-id: tag.id
-permalink: "/tags/ignite"
-videos: [830]
----

@@ -1,6 +1,0 @@
----
-title: "don norman"
-id: tag.id
-permalink: "/tags/don%20norman"
-videos: [850,1551]
----

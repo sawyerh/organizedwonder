@@ -1,6 +1,0 @@
----
-title: "songs of ice and fire"
-id: tag.id
-permalink: "/tags/songs%20of%20ice%20and%20fire"
-videos: [856]
----

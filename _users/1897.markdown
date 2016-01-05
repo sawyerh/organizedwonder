@@ -1,9 +1,0 @@
----
-title: "Lee Briggs"
-date: 2013-04-01 16:18:13 00:00
-permalink: /leepwbriggs
-twitter: ""
-likes: [1599,1769,1772,1768,1764,1758,1560,1105,39,1549,398,1718,1574,1573,73,1109,1770,1736]
-id: 1897
-gravatar: "http://www.gravatar.com/avatar/d862fd7618cd0e085030b8d7fe5ddeb3"
----

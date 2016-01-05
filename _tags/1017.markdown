@@ -1,6 +1,0 @@
----
-title: "experimentation"
-id: tag.id
-permalink: "/tags/experimentation"
-videos: [1075]
----

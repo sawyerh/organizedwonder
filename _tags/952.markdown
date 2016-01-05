@@ -1,6 +1,0 @@
----
-title: "james peterson"
-id: tag.id
-permalink: "/tags/james%20peterson"
-videos: [1000]
----

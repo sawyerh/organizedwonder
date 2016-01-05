@@ -1,6 +1,0 @@
----
-title: "sagmeister & walsh"
-id: tag.id
-permalink: "/tags/sagmeister%20%26%20walsh"
-videos: [2103]
----

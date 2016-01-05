@@ -1,6 +1,0 @@
----
-title: "manhattan"
-id: tag.id
-permalink: "/tags/manhattan"
-videos: [1648]
----

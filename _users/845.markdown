@@ -1,9 +1,0 @@
----
-title: "Christian"
-date: 2012-06-03 16:44:59 00:00
-permalink: /cp3000
-twitter: "cp3000"
-likes: [729,605,758]
-id: 845
-gravatar: "http://www.gravatar.com/avatar/9c321566207b7821f355a31f6c963d90"
----

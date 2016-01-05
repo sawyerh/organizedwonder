@@ -1,9 +1,0 @@
----
-title: "Tyler Andor"
-date: 2012-06-16 21:19:16 00:00
-permalink: /tyandor
-twitter: "tyandor"
-likes: [803]
-id: 1052
-gravatar: "http://www.gravatar.com/avatar/8ff42044feb84178cfdcf0c0165cf2ac"
----

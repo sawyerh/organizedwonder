@@ -1,9 +1,0 @@
----
-title: "Soraya Villarreal"
-date: 2012-05-15 06:21:10 00:00
-permalink: /sorayalvg
-twitter: "sorayalvg"
-likes: [1246,1068,979,711,788,1073]
-id: 10
-gravatar: "http://www.gravatar.com/avatar/40349555327476d74d74f8bc1eafca7f"
----

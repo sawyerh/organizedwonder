@@ -1,6 +1,0 @@
----
-title: "food for thought"
-id: tag.id
-permalink: "/tags/food%20for%20thought"
-videos: [2564]
----

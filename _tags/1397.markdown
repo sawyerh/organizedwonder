@@ -1,6 +1,0 @@
----
-title: "mooc"
-id: tag.id
-permalink: "/tags/mooc"
-videos: [1632]
----

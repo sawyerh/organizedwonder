@@ -1,6 +1,0 @@
----
-title: "css3"
-id: tag.id
-permalink: "/tags/css3"
-videos: [1497]
----

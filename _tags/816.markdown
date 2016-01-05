@@ -1,6 +1,0 @@
----
-title: "day made of glass 2"
-id: tag.id
-permalink: "/tags/day%20made%20of%20glass%202"
-videos: [863]
----

@@ -1,9 +1,0 @@
----
-title: "Kerry Stephens"
-date: 2013-10-22 17:17:39 00:00
-permalink: /kerrysteph
-twitter: "kerrysteph"
-likes: [1987]
-id: 2088
-gravatar: "http://www.gravatar.com/avatar/fd8d5dd441f6cff292aaeb616a035d39"
----

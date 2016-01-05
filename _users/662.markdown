@@ -1,9 +1,0 @@
----
-title: "Daniel Engstrom"
-date: 2012-05-24 06:28:12 00:00
-permalink: /dengstroem
-twitter: ""
-likes: [502]
-id: 662
-gravatar: "http://www.gravatar.com/avatar/c7a86474bc8cf62915b3b931dad75d44"
----

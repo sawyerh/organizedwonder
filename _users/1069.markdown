@@ -1,9 +1,0 @@
----
-title: "John del Rosario"
-date: 2012-06-19 00:58:06 00:00
-permalink: /john2x
-twitter: "john2x"
-likes: [909]
-id: 1069
-gravatar: "http://www.gravatar.com/avatar/65a71aa37d5b8ddf32f8b3af4458c638"
----

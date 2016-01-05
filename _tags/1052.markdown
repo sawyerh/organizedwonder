@@ -1,6 +1,0 @@
----
-title: "mumford & sons"
-id: tag.id
-permalink: "/tags/mumford%20%26%20sons"
-videos: [1107]
----

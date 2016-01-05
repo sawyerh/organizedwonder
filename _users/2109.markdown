@@ -1,9 +1,0 @@
----
-title: "Ejaz Asi"
-date: 2013-12-09 18:50:28 00:00
-permalink: /ejazasi
-twitter: ""
-likes: [1921,2135,2105,2104,43,39,734,66,1635,1633,2136,583,1049,874,1637]
-id: 2109
-gravatar: "http://www.gravatar.com/avatar/b8abfe2a194d85db17816e4edc01bcba"
----

@@ -1,6 +1,0 @@
----
-title: "amy cuddy"
-id: tag.id
-permalink: "/tags/amy%20cuddy"
-videos: [1402]
----

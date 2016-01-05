@@ -1,6 +1,0 @@
----
-title: "consulting"
-id: tag.id
-permalink: "/tags/consulting"
-videos: [548]
----

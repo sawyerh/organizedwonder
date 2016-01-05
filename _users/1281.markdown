@@ -1,9 +1,0 @@
----
-title: "cvct"
-date: 2012-08-06 16:17:55 00:00
-permalink: /cvct
-twitter: ""
-likes: [524,1223]
-id: 1281
-gravatar: "http://www.gravatar.com/avatar/8eb4bfef1d222baa5318f4847f8e34f2"
----

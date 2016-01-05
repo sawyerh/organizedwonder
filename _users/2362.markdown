@@ -1,9 +1,0 @@
----
-title: "Kevin Fricovsky"
-date: 2015-02-02 14:06:51 00:00
-permalink: /montylounge
-twitter: "montylounge"
-likes: [2466,121,518,1568,2431]
-id: 2362
-gravatar: "http://www.gravatar.com/avatar/af0c0f120ded1fa94dee488bd6b70f5a"
----

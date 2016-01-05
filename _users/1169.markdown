@@ -1,9 +1,0 @@
----
-title: "Evan Bowers"
-date: 2012-07-10 20:05:13 00:00
-permalink: /ebowers
-twitter: ""
-likes: [1047,72,708,1066,1065,970,1055,121,1019,553,1031,444,39,252,678,43,528,932,1022,1006,887,888,886,754,721,700,585,605,448]
-id: 1169
-gravatar: "http://www.gravatar.com/avatar/ac74e128f97c050b81986e1f2beadca9"
----

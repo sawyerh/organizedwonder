@@ -1,9 +1,0 @@
----
-title: "Yan Kovyakh"
-date: 2015-04-27 08:52:50 00:00
-permalink: /ykvisuals
-twitter: ""
-likes: [2509]
-id: 2386
-gravatar: "http://www.gravatar.com/avatar/ea4cbcd5e0c5a5b24b29603003318d38"
----

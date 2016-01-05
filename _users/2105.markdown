@@ -1,9 +1,0 @@
----
-title: "Li Zunlong"
-date: 2013-11-25 09:58:25 00:00
-permalink: /lizunlong
-twitter: ""
-likes: [39,2104,73,703,58,1375]
-id: 2105
-gravatar: "http://www.gravatar.com/avatar/9ce036052fbd6b25211f8c7027a56b11"
----

@@ -1,6 +1,0 @@
----
-title: "conference"
-id: tag.id
-permalink: "/tags/conference"
-videos: [61,66,67,1031,1047,1344,1385,1391,1486]
----

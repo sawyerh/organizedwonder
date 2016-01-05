@@ -1,9 +1,0 @@
----
-title: "Felix Terpstra"
-date: 2012-05-31 07:04:30 00:00
-permalink: /fbterpstra
-twitter: ""
-likes: [279,580,326,25]
-id: 802
-gravatar: "http://www.gravatar.com/avatar/73774f9ec2d103739120b3c6d96f9e02"
----

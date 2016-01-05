@@ -1,6 +1,0 @@
----
-title: "typeface"
-id: tag.id
-permalink: "/tags/typeface"
-videos: [179]
----

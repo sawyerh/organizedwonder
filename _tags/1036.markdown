@@ -1,6 +1,0 @@
----
-title: "piano"
-id: tag.id
-permalink: "/tags/piano"
-videos: [1089,1145]
----

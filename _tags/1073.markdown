@@ -1,6 +1,0 @@
----
-title: "google fiber optics"
-id: tag.id
-permalink: "/tags/google%20fiber%20optics"
-videos: [1135]
----

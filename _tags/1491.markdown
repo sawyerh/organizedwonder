@@ -1,6 +1,0 @@
----
-title: "murder"
-id: tag.id
-permalink: "/tags/murder"
-videos: [1691,2509]
----

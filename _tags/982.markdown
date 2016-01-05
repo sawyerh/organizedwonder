@@ -1,6 +1,0 @@
----
-title: "cern"
-id: tag.id
-permalink: "/tags/cern"
-videos: [1032]
----

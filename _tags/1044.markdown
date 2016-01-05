@@ -1,6 +1,0 @@
----
-title: "eyeo2012"
-id: tag.id
-permalink: "/tags/eyeo2012"
-videos: [1097]
----

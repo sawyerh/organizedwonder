@@ -1,6 +1,0 @@
----
-title: "erik spiekermann"
-id: tag.id
-permalink: "/tags/erik%20spiekermann"
-videos: [358]
----

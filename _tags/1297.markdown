@@ -1,6 +1,0 @@
----
-title: "stephen hay"
-id: tag.id
-permalink: "/tags/stephen%20hay"
-videos: [1544]
----

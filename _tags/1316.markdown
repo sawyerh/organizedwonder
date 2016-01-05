@@ -1,6 +1,0 @@
----
-title: "community"
-id: tag.id
-permalink: "/tags/community"
-videos: [1573]
----

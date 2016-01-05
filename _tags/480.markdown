@@ -1,6 +1,0 @@
----
-title: "mythbusters"
-id: tag.id
-permalink: "/tags/mythbusters"
-videos: [498]
----

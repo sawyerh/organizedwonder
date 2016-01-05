@@ -1,9 +1,0 @@
----
-title: "Marius Røstad"
-date: 2012-08-13 10:04:48 00:00
-permalink: /portart
-twitter: ""
-likes: [1231,1166,1469]
-id: 1289
-gravatar: "http://www.gravatar.com/avatar/09e7d735a7dedac505b2aaaccda735e1"
----

@@ -1,6 +1,0 @@
----
-title: "conviction"
-id: tag.id
-permalink: "/tags/conviction"
-videos: [2580]
----

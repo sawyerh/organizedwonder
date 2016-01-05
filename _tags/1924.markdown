@@ -1,6 +1,0 @@
----
-title: "es devlin"
-id: tag.id
-permalink: "/tags/es%20devlin"
-videos: [2333]
----

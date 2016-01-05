@@ -1,6 +1,0 @@
----
-title: "stevie wonder"
-id: tag.id
-permalink: "/tags/stevie%20wonder"
-videos: [235]
----

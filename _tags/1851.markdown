@@ -1,6 +1,0 @@
----
-title: "artistic film"
-id: tag.id
-permalink: "/tags/artistic%20film"
-videos: [2229]
----

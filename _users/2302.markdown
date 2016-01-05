@@ -1,9 +1,0 @@
----
-title: "Sanjo Antony P"
-date: 2014-07-01 16:29:35 00:00
-permalink: /sanjoant
-twitter: ""
-likes: [2449,2446,2434,2437,2363]
-id: 2302
-gravatar: "http://www.gravatar.com/avatar/1ab5a071e7622d0475818d05d5873a28"
----

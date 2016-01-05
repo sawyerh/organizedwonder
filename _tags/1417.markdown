@@ -1,6 +1,0 @@
----
-title: "dodge"
-id: tag.id
-permalink: "/tags/dodge"
-videos: [1640]
----

@@ -1,9 +1,0 @@
----
-title: "Agustina Andreoletti"
-date: 2012-07-12 15:47:30 00:00
-permalink: /agusandreol
-twitter: ""
-likes: [1067]
-id: 1174
-gravatar: "http://www.gravatar.com/avatar/974a76daa144dd1549cf9dd1c6ea742a"
----

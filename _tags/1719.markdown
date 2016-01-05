@@ -1,6 +1,0 @@
----
-title: "tokimonsta"
-id: tag.id
-permalink: "/tags/tokimonsta"
-videos: [2081]
----

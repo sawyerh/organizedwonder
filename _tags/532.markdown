@@ -1,6 +1,0 @@
----
-title: "sculpting"
-id: tag.id
-permalink: "/tags/sculpting"
-videos: [563]
----

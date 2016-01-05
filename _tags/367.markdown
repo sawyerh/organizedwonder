@@ -1,6 +1,0 @@
----
-title: "new york times"
-id: tag.id
-permalink: "/tags/new%20york%20times"
-videos: [332,362]
----

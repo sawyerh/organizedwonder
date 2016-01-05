@@ -1,6 +1,0 @@
----
-title: "jason whitlock"
-id: tag.id
-permalink: "/tags/jason%20whitlock"
-videos: [1000]
----

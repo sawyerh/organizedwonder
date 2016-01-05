@@ -1,9 +1,0 @@
----
-title: "jonathan bowden"
-date: 2012-05-22 13:55:36 00:00
-permalink: /jonathanbowden
-twitter: "jonathanbowden"
-likes: [76,70,112,300,100,50,53,253,252,109,549,548,541,546,535,534,532,397,325,146,768,766,767,769,785,790,791,792,1390]
-id: 606
-gravatar: "http://www.gravatar.com/avatar/b0c708ca41cb6129323065cbc33c718a"
----

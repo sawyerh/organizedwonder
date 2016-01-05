@@ -1,6 +1,0 @@
----
-title: "organizations"
-id: tag.id
-permalink: "/tags/organizations"
-videos: [2359]
----

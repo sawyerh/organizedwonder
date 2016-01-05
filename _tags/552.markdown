@@ -1,6 +1,0 @@
----
-title: "infographics"
-id: tag.id
-permalink: "/tags/infographics"
-videos: [592,621,921,1250,1271,2149,2161]
----

@@ -1,6 +1,0 @@
----
-title: "industrial design"
-id: tag.id
-permalink: "/tags/industrial%20design"
-videos: [721,722,2511]
----

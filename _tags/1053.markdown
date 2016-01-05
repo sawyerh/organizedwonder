@@ -1,6 +1,0 @@
----
-title: "unplugged"
-id: tag.id
-permalink: "/tags/unplugged"
-videos: [1107]
----

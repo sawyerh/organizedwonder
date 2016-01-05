@@ -1,9 +1,0 @@
----
-title: "Joanna Waterfall"
-date: 2012-08-24 17:37:18 00:00
-permalink: /joannawaterfall
-twitter: ""
-likes: [1264,1296]
-id: 1309
-gravatar: "http://www.gravatar.com/avatar/2634640eaa4a4def2e245af9c2a51a57"
----

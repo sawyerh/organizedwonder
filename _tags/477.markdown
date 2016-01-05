@@ -1,6 +1,0 @@
----
-title: "comercial"
-id: tag.id
-permalink: "/tags/comercial"
-videos: [497]
----

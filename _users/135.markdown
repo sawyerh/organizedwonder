@@ -1,9 +1,0 @@
----
-title: "Victor Mathieux"
-date: 2012-05-17 22:42:56 00:00
-permalink: /victormathieux
-twitter: "VictorMathieux"
-likes: [66,109,53,39,76,70,50,33,112,100,72,300,637,134,263,131,43,130,1056,703,1074,1117,1118,932,1376,1772,5,1764,1560,889,1814,1825,2021]
-id: 135
-gravatar: "http://www.gravatar.com/avatar/91cce467ea03cd37233d923408efa2be"
----

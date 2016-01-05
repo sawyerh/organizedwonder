@@ -1,6 +1,0 @@
----
-title: "flash"
-id: tag.id
-permalink: "/tags/flash"
-videos: [167]
----

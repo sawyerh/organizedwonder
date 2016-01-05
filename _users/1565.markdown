@@ -1,9 +1,0 @@
----
-title: "Federico Codino"
-date: 2012-11-16 12:29:15 00:00
-permalink: /fedecodino
-twitter: "fedecodino"
-likes: [1388]
-id: 1565
-gravatar: "http://www.gravatar.com/avatar/7e0a43ebf38ee47c2c59172862fce877"
----

@@ -1,6 +1,0 @@
----
-title: "poler"
-id: tag.id
-permalink: "/tags/poler"
-videos: [2132]
----

@@ -1,9 +1,0 @@
----
-title: "Vadim Kotov"
-date: 2012-05-18 09:32:52 00:00
-permalink: /evergreenv
-twitter: ""
-likes: [115,69,67,418,353]
-id: 270
-gravatar: "http://www.gravatar.com/avatar/5b61188b6e5488a8757bdc545f5e046e"
----

@@ -1,9 +1,0 @@
----
-title: "Rayhana Sultan"
-date: 2013-06-18 12:55:03 00:00
-permalink: /rayhana
-twitter: ""
-likes: [1920]
-id: 2030
-gravatar: "http://www.gravatar.com/avatar/3b972f90f838260b4822bea91259ad77"
----

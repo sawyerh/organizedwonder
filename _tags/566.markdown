@@ -1,6 +1,0 @@
----
-title: "slamdance 2012"
-id: tag.id
-permalink: "/tags/slamdance%202012"
-videos: [610]
----

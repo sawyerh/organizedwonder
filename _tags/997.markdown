@@ -1,6 +1,0 @@
----
-title: "lettering"
-id: tag.id
-permalink: "/tags/lettering"
-videos: [1050,1367,1747,1769,1889,2039]
----

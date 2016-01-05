@@ -1,6 +1,0 @@
----
-title: "walls"
-id: tag.id
-permalink: "/tags/walls"
-videos: [1039]
----

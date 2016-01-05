@@ -1,6 +1,0 @@
----
-title: "gis"
-id: tag.id
-permalink: "/tags/gis"
-videos: [1438]
----

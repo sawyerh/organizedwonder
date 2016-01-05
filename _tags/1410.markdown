@@ -1,6 +1,0 @@
----
-title: "seasons"
-id: tag.id
-permalink: "/tags/seasons"
-videos: [1638,2257]
----

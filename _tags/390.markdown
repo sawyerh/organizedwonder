@@ -1,6 +1,0 @@
----
-title: "cycling"
-id: tag.id
-permalink: "/tags/cycling"
-videos: [359,707,746]
----

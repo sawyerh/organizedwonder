@@ -1,6 +1,0 @@
----
-title: "digital media"
-id: tag.id
-permalink: "/tags/digital%20media"
-videos: [169,880]
----

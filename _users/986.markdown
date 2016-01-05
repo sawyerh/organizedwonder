@@ -1,9 +1,0 @@
----
-title: "INFOUND"
-date: 2012-06-13 08:52:37 00:00
-permalink: /infoundfeed
-twitter: "infoundfeed"
-likes: [769]
-id: 986
-gravatar: "http://www.gravatar.com/avatar/1adf5920377b9240457e1ada02ffda33"
----

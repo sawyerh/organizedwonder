@@ -1,6 +1,0 @@
----
-title: "sculpture"
-id: tag.id
-permalink: "/tags/sculpture"
-videos: [257,2163,2396]
----

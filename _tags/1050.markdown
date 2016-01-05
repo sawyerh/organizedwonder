@@ -1,6 +1,0 @@
----
-title: "best practices"
-id: tag.id
-permalink: "/tags/best%20practices"
-videos: [1103,1589]
----

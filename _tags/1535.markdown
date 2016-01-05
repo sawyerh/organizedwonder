@@ -1,6 +1,0 @@
----
-title: "women"
-id: tag.id
-permalink: "/tags/women"
-videos: [1728,1980]
----

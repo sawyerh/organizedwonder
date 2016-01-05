@@ -1,6 +1,0 @@
----
-title: "canon"
-id: tag.id
-permalink: "/tags/canon"
-videos: [1979,2376]
----

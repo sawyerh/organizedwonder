@@ -1,9 +1,0 @@
----
-title: "Wil Gieseler"
-date: 2013-01-19 18:40:02 00:00
-permalink: /wil
-twitter: ""
-likes: [1640]
-id: 1755
-gravatar: "http://www.gravatar.com/avatar/cf63b15b27a343e758d7bef8bbecbb06"
----

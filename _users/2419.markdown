@@ -1,9 +1,0 @@
----
-title: "Tarryn Lambert"
-date: 2015-09-18 18:53:32 00:00
-permalink: /ohhtarry
-twitter: ""
-likes: [2359,2481,2362,2355]
-id: 2419
-gravatar: "http://www.gravatar.com/avatar/55b4eae9a89c883cb04bcb2867d38fb5"
----

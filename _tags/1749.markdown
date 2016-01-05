@@ -1,6 +1,0 @@
----
-title: "panic"
-id: tag.id
-permalink: "/tags/panic"
-videos: [2110]
----

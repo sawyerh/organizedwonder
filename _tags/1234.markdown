@@ -1,6 +1,0 @@
----
-title: "bodylanguage"
-id: tag.id
-permalink: "/tags/bodylanguage"
-videos: [1410]
----

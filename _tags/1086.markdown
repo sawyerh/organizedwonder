@@ -1,6 +1,0 @@
----
-title: "julia pott"
-id: tag.id
-permalink: "/tags/julia%20pott"
-videos: [1156]
----

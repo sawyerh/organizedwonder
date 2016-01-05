@@ -1,6 +1,0 @@
----
-title: "ben horowitz"
-id: tag.id
-permalink: "/tags/ben%20horowitz"
-videos: [2360]
----

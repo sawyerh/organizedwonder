@@ -1,6 +1,0 @@
----
-title: "menomena"
-id: tag.id
-permalink: "/tags/menomena"
-videos: [375]
----

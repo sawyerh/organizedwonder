@@ -1,9 +1,0 @@
----
-title: "Janusz Meissner"
-date: 2012-05-31 10:05:22 00:00
-permalink: /januszmeissner
-twitter: "januszmeissner"
-likes: [718]
-id: 804
-gravatar: "http://www.gravatar.com/avatar/091a881f6de40994c144626111cfbce0"
----

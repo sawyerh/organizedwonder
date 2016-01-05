@@ -1,6 +1,0 @@
----
-title: "virus"
-id: tag.id
-permalink: "/tags/virus"
-videos: [729]
----

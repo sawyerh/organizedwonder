@@ -1,9 +1,0 @@
----
-title: "Sarah von der Luft"
-date: 2012-06-09 18:51:06 00:00
-permalink: /unflavoredtrash
-twitter: ""
-likes: [671,700,424]
-id: 906
-gravatar: "http://www.gravatar.com/avatar/8c3e49ff9c2635953b4fd433521212e8"
----

@@ -1,6 +1,0 @@
----
-title: "lego"
-id: tag.id
-permalink: "/tags/lego"
-videos: [257,1311,1869]
----

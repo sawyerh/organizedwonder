@@ -1,6 +1,0 @@
----
-title: "concept"
-id: tag.id
-permalink: "/tags/concept"
-videos: [432,2478,2483]
----

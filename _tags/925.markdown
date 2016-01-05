@@ -1,6 +1,0 @@
----
-title: "movie theatre"
-id: tag.id
-permalink: "/tags/movie%20theatre"
-videos: [988]
----

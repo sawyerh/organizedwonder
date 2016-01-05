@@ -1,6 +1,0 @@
----
-title: "entrepreneurship"
-id: tag.id
-permalink: "/tags/entrepreneurship"
-videos: [725,975,1126,2552]
----

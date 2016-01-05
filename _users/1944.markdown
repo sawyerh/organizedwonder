@@ -1,9 +1,0 @@
----
-title: "Armando Alves"
-date: 2013-04-22 20:45:09 00:00
-permalink: /armandoalves
-twitter: ""
-likes: [700]
-id: 1944
-gravatar: "http://www.gravatar.com/avatar/d20b77409bc6a01478321f04d34f3478"
----

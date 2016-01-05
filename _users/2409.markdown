@@ -1,9 +1,0 @@
----
-title: "Lisa Oreshkina"
-date: 2015-07-14 17:41:53 00:00
-permalink: /nutson
-twitter: ""
-likes: [2425,2211,67,671]
-id: 2409
-gravatar: "http://www.gravatar.com/avatar/52e6ecff356c13a91c536c47b5992358"
----

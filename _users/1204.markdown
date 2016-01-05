@@ -1,9 +1,0 @@
----
-title: "Tanya Mulkidzhanova"
-date: 2012-07-20 08:19:59 00:00
-permalink: /tanya
-twitter: ""
-likes: [933,1053,580]
-id: 1204
-gravatar: "http://www.gravatar.com/avatar/f9e737b6e986d0beab997df930f59bb3"
----

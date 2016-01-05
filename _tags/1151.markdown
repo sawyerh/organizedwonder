@@ -1,6 +1,0 @@
----
-title: "content strategy"
-id: tag.id
-permalink: "/tags/content%20strategy"
-videos: [1256,1517]
----

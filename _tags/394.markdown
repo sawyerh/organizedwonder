@@ -1,6 +1,0 @@
----
-title: "paula scher"
-id: tag.id
-permalink: "/tags/paula%20scher"
-videos: [363,1195,1345,2503]
----

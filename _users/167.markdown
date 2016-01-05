@@ -1,9 +1,0 @@
----
-title: "Joshua Jenkins"
-date: 2012-05-18 02:26:22 00:00
-permalink: /joshua
-twitter: ""
-likes: [100,109,283]
-id: 167
-gravatar: "http://www.gravatar.com/avatar/7730626c5baf7c4a56a8668112d37bc4"
----

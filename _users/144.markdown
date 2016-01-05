@@ -1,9 +1,0 @@
----
-title: "Jay Melgoza"
-date: 2012-05-18 00:03:23 00:00
-permalink: /jmelgoza
-twitter: ""
-likes: [66,100,103]
-id: 144
-gravatar: "http://www.gravatar.com/avatar/eb9c0d805b2c493dd3e9e5470bf93a45"
----

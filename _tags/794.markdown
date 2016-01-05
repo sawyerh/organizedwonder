@@ -1,6 +1,0 @@
----
-title: "bbc one"
-id: tag.id
-permalink: "/tags/bbc%20one"
-videos: [857]
----

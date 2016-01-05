@@ -1,6 +1,0 @@
----
-title: "up"
-id: tag.id
-permalink: "/tags/up"
-videos: [1648]
----

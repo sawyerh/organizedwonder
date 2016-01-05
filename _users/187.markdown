@@ -1,9 +1,0 @@
----
-title: "Aaron Moodie"
-date: 2012-05-18 03:28:44 00:00
-permalink: /aaronmoodie
-twitter: "aaronmoodie"
-likes: [148,137,179,282,301,302,344,350,352,353,354,355,356,357,431,853,1139,1012,630,1306,1393,398]
-id: 187
-gravatar: "http://www.gravatar.com/avatar/813228f2170d064d48d9a4ac86993166"
----

@@ -1,6 +1,0 @@
----
-title: "mx 2014"
-id: tag.id
-permalink: "/tags/mx%202014"
-videos: [2354]
----

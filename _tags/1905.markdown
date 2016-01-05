@@ -1,6 +1,0 @@
----
-title: "massimo vignelli"
-id: tag.id
-permalink: "/tags/massimo%20vignelli"
-videos: [2302,2473]
----

@@ -1,9 +1,0 @@
----
-title: "Kolin Smailek"
-date: 2015-02-19 18:29:53 00:00
-permalink: /kdsmialek
-twitter: ""
-likes: [2443,1838,2439,2428,2478,2481,2303,2504,2493,2037,2361,2527,2088,2534]
-id: 2364
-gravatar: "http://www.gravatar.com/avatar/7d00ce56ccce1d7f64ef9c2f92c9832c"
----

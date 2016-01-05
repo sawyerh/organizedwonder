@@ -1,9 +1,0 @@
----
-title: "LEWIS"
-date: 2012-05-18 08:24:39 00:00
-permalink: /lewis
-twitter: "@LEWISEdinburgh"
-likes: [82,646,328,260,787,788,721,723]
-id: 251
-gravatar: "http://www.gravatar.com/avatar/ef18912d53ac4e7461897dc412627f15"
----

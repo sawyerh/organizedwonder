@@ -1,6 +1,0 @@
----
-title: "sxsw2013"
-id: tag.id
-permalink: "/tags/sxsw2013"
-videos: [2427]
----

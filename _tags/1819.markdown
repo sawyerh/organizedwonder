@@ -1,6 +1,0 @@
----
-title: "sophie windsor clive"
-id: tag.id
-permalink: "/tags/sophie%20windsor%20clive"
-videos: [2194]
----

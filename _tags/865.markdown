@@ -1,6 +1,0 @@
----
-title: "mistakes"
-id: tag.id
-permalink: "/tags/mistakes"
-videos: [931]
----

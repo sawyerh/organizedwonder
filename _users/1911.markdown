@@ -1,9 +1,0 @@
----
-title: "Matt Dempsey"
-date: 2013-04-04 13:10:24 00:00
-permalink: /mattdempseycom
-twitter: "mattdempseycom"
-likes: [1774]
-id: 1911
-gravatar: "http://www.gravatar.com/avatar/ddde6cf407fc819086c97c32724c41a4"
----

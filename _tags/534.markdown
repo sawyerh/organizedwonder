@@ -1,6 +1,0 @@
----
-title: "shopping"
-id: tag.id
-permalink: "/tags/shopping"
-videos: [566]
----

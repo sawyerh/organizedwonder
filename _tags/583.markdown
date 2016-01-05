@@ -1,6 +1,0 @@
----
-title: "user experience"
-id: tag.id
-permalink: "/tags/user%20experience"
-videos: [624,625,1526,1860,1876,2014,2027,2115,2211,2218]
----

@@ -1,9 +1,0 @@
----
-title: "Javier Lo"
-date: 2013-01-13 21:32:45 00:00
-permalink: /surgeonist
-twitter: "surgeonist"
-likes: [1545]
-id: 1740
-gravatar: "http://www.gravatar.com/avatar/eeb91f58f43aa155fc56f72fa9f5c343"
----

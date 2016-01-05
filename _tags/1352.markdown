@@ -1,6 +1,0 @@
----
-title: "panel"
-id: tag.id
-permalink: "/tags/panel"
-videos: [1601]
----

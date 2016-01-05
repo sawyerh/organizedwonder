@@ -1,6 +1,0 @@
----
-title: "brian harley"
-id: tag.id
-permalink: "/tags/brian%20harley"
-videos: [1633,2085]
----

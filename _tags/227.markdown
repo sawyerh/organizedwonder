@@ -1,6 +1,0 @@
----
-title: "humor"
-id: tag.id
-permalink: "/tags/humor"
-videos: [165,827,828,2230]
----

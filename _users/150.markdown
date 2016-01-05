@@ -1,9 +1,0 @@
----
-title: "Harris Novick"
-date: 2012-05-18 00:36:31 00:00
-permalink: /themta
-twitter: "lightyrs"
-likes: [84,39,109,66,580,1238,1056]
-id: 150
-gravatar: "http://www.gravatar.com/avatar/e8ecf8e9d340e7d20ed247e24c5a35a3"
----

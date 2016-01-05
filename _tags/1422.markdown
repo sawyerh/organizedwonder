@@ -1,6 +1,0 @@
----
-title: "dancer"
-id: tag.id
-permalink: "/tags/dancer"
-videos: [1645]
----

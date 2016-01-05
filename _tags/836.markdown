@@ -1,6 +1,0 @@
----
-title: "rare"
-id: tag.id
-permalink: "/tags/rare"
-videos: [881,1188]
----

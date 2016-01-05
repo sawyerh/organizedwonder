@@ -1,9 +1,0 @@
----
-title: "Erika de Padua"
-date: 2012-06-07 21:54:26 00:00
-permalink: /erikadepadua
-twitter: ""
-likes: [813,840,873]
-id: 890
-gravatar: "http://www.gravatar.com/avatar/8c1705b4a6d5342678e37b7255291a32"
----

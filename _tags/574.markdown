@@ -1,6 +1,0 @@
----
-title: "style"
-id: tag.id
-permalink: "/tags/style"
-videos: [612,946,951,1287,1765,1766,1771,2250,2440]
----

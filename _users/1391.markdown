@@ -1,9 +1,0 @@
----
-title: "Courtney Hurtt"
-date: 2012-10-22 21:21:25 00:00
-permalink: /cbhurtt
-twitter: ""
-likes: [1433,1434]
-id: 1391
-gravatar: "http://www.gravatar.com/avatar/a044da2eeab88ac5405118ec90322067"
----

@@ -1,6 +1,0 @@
----
-title: "yosemite"
-id: tag.id
-permalink: "/tags/yosemite"
-videos: [55]
----

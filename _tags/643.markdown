@@ -1,6 +1,0 @@
----
-title: "car"
-id: tag.id
-permalink: "/tags/car"
-videos: [718,1163,2511]
----

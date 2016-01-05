@@ -1,9 +1,0 @@
----
-title: "Michael Figgins"
-date: 2014-01-16 06:10:56 00:00
-permalink: /fighaka
-twitter: "fighaka"
-likes: [2175,258,39,1864]
-id: 2177
-gravatar: "http://www.gravatar.com/avatar/f687d220d6bc3cdab13cf108abd83c92"
----

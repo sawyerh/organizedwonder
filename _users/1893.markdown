@@ -1,9 +1,0 @@
----
-title: "Kristi Harrison"
-date: 2013-03-31 16:52:12 00:00
-permalink: /4
-twitter: ""
-likes: [1650,1660,1635,1633,1601,1573,1558,1284,107,468,112]
-id: 1893
-gravatar: "http://www.gravatar.com/avatar/0dfcf143faed053fd815d7633ba3d5ea"
----

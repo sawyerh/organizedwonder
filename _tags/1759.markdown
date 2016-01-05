@@ -1,6 +1,0 @@
----
-title: "ethan marcotte"
-id: tag.id
-permalink: "/tags/ethan%20marcotte"
-videos: [2127]
----

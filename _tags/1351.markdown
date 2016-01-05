@@ -1,6 +1,0 @@
----
-title: "web browsers"
-id: tag.id
-permalink: "/tags/web%20browsers"
-videos: [1589]
----

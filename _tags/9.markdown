@@ -1,6 +1,0 @@
----
-title: "painting"
-id: tag.id
-permalink: "/tags/painting"
-videos: [3,35,38,937,1783]
----

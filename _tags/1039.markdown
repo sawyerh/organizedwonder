@@ -1,6 +1,0 @@
----
-title: "sonic youth"
-id: tag.id
-permalink: "/tags/sonic%20youth"
-videos: [1089]
----

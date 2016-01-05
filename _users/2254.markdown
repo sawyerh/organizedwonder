@@ -1,9 +1,0 @@
----
-title: "Neil Lalwani"
-date: 2014-02-13 11:45:44 00:00
-permalink: /thedailyretard
-twitter: ""
-likes: [2230]
-id: 2254
-gravatar: "http://www.gravatar.com/avatar/80bbbd9ffb6d020f0d3f5708086b544f"
----

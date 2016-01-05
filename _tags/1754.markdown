@@ -1,6 +1,0 @@
----
-title: "flashmob"
-id: tag.id
-permalink: "/tags/flashmob"
-videos: [2122]
----

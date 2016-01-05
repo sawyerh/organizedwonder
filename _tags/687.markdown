@@ -1,6 +1,0 @@
----
-title: "beard"
-id: tag.id
-permalink: "/tags/beard"
-videos: [775]
----

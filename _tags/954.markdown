@@ -1,6 +1,0 @@
----
-title: "passion"
-id: tag.id
-permalink: "/tags/passion"
-videos: [1002]
----

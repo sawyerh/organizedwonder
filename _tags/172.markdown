@@ -1,6 +1,0 @@
----
-title: "javascript"
-id: tag.id
-permalink: "/tags/javascript"
-videos: [96]
----

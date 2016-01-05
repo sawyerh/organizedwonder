@@ -1,9 +1,0 @@
----
-title: "Luis Penha"
-date: 2012-10-12 12:41:13 00:00
-permalink: /luismigpenha
-twitter: "LuisMigPenha"
-likes: [1393,1339]
-id: 1381
-gravatar: "http://www.gravatar.com/avatar/85b9ac9334e48f3f68678e10140d2603"
----

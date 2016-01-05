@@ -1,6 +1,0 @@
----
-title: "america"
-id: tag.id
-permalink: "/tags/america"
-videos: [2413]
----

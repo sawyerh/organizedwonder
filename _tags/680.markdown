@@ -1,6 +1,0 @@
----
-title: "mailchimp"
-id: tag.id
-permalink: "/tags/mailchimp"
-videos: [771]
----

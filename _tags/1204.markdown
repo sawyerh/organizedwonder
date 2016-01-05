@@ -1,6 +1,0 @@
----
-title: "movie trailer"
-id: tag.id
-permalink: "/tags/movie%20trailer"
-videos: [1368]
----

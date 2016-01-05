@@ -1,6 +1,0 @@
----
-title: "sxsw"
-id: tag.id
-permalink: "/tags/sxsw"
-videos: [1647,1741]
----

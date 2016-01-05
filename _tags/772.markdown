@@ -1,6 +1,0 @@
----
-title: "anamorphic"
-id: tag.id
-permalink: "/tags/anamorphic"
-videos: [855]
----

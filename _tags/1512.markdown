@@ -1,6 +1,0 @@
----
-title: "#inspiration"
-id: tag.id
-permalink: "/tags/%23inspiration"
-videos: [1712]
----

@@ -1,6 +1,0 @@
----
-title: "lou"
-id: tag.id
-permalink: "/tags/lou"
-videos: [1674]
----

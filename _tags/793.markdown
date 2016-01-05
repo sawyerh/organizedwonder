@@ -1,6 +1,0 @@
----
-title: "the two ronnies"
-id: tag.id
-permalink: "/tags/the%20two%20ronnies"
-videos: [857]
----

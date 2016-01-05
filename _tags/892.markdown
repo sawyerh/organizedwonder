@@ -1,6 +1,0 @@
----
-title: "tokyo"
-id: tag.id
-permalink: "/tags/tokyo"
-videos: [951,952]
----

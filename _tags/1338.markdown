@@ -1,6 +1,0 @@
----
-title: "conceptual"
-id: tag.id
-permalink: "/tags/conceptual"
-videos: [1581]
----

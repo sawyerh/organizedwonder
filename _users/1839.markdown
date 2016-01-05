@@ -1,9 +1,0 @@
----
-title: "Anthony Barba"
-date: 2013-03-10 11:51:48 00:00
-permalink: /abarba
-twitter: "aBarba"
-likes: [1574,1549,1068,1573,721,783,1692,786,724,1756,1757,1781,2031,2060,1741,2054,429,775,43,2095]
-id: 1839
-gravatar: "http://www.gravatar.com/avatar/3a9534050591599acdd8e6c11e17562d"
----

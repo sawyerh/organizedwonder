@@ -1,6 +1,0 @@
----
-title: "building"
-id: tag.id
-permalink: "/tags/building"
-videos: [1311]
----

@@ -1,9 +1,0 @@
----
-title: "Lanusse Castro"
-date: 2012-12-01 20:45:28 00:00
-permalink: /lanux
-twitter: ""
-likes: [1526,916,1303,100]
-id: 1646
-gravatar: "http://www.gravatar.com/avatar/61af0e653dc18166a757c71c290de080"
----

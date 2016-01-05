@@ -1,9 +1,0 @@
----
-title: "João Alfaiate"
-date: 2012-05-18 12:56:02 00:00
-permalink: /jlft
-twitter: ""
-likes: [959,930,940]
-id: 301
-gravatar: "http://www.gravatar.com/avatar/39e0e16da4484fc7cd875eed6d86cb3b"
----

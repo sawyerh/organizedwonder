@@ -1,6 +1,0 @@
----
-title: "sweatpants"
-id: tag.id
-permalink: "/tags/sweatpants"
-videos: [2266]
----

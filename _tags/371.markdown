@@ -1,6 +1,0 @@
----
-title: "street art"
-id: tag.id
-permalink: "/tags/street%20art"
-videos: [338,339,340,1039,1040]
----

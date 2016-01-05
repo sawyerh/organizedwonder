@@ -1,6 +1,0 @@
----
-title: "amsterdam"
-id: tag.id
-permalink: "/tags/amsterdam"
-videos: [1675]
----

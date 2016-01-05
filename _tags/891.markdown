@@ -1,6 +1,0 @@
----
-title: "philosophy"
-id: tag.id
-permalink: "/tags/philosophy"
-videos: [947,1401,1602,1706,2548]
----

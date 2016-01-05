@@ -1,6 +1,0 @@
----
-title: "exercise"
-id: tag.id
-permalink: "/tags/exercise"
-videos: [617,1330]
----

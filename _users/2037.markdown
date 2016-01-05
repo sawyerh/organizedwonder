@@ -1,9 +1,0 @@
----
-title: "louis"
-date: 2013-06-30 00:36:27 00:00
-permalink: /soldierist
-twitter: ""
-likes: [2470]
-id: 2037
-gravatar: "http://www.gravatar.com/avatar/958c6915a09fb8324729885070d30eec"
----

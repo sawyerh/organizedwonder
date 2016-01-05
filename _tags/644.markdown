@@ -1,6 +1,0 @@
----
-title: "ebooks"
-id: tag.id
-permalink: "/tags/ebooks"
-videos: [720]
----

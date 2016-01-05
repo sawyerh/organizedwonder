@@ -1,6 +1,0 @@
----
-title: "psfk"
-id: tag.id
-permalink: "/tags/psfk"
-videos: [53,63,429,1155]
----

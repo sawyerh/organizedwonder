@@ -1,6 +1,0 @@
----
-title: "aurora borealis"
-id: tag.id
-permalink: "/tags/aurora%20borealis"
-videos: [117]
----

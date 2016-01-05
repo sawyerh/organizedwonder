@@ -1,6 +1,0 @@
----
-title: "freelance"
-id: tag.id
-permalink: "/tags/freelance"
-videos: [759,1435]
----

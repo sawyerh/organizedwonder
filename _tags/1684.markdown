@@ -1,6 +1,0 @@
----
-title: "compact"
-id: tag.id
-permalink: "/tags/compact"
-videos: [2020]
----

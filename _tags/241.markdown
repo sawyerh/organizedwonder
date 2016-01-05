@@ -1,6 +1,0 @@
----
-title: "mao"
-id: tag.id
-permalink: "/tags/mao"
-videos: [167]
----

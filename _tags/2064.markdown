@@ -1,6 +1,0 @@
----
-title: "pioneers"
-id: tag.id
-permalink: "/tags/pioneers"
-videos: [2528]
----

@@ -1,6 +1,0 @@
----
-title: "set"
-id: tag.id
-permalink: "/tags/set"
-videos: [2228]
----

@@ -1,6 +1,0 @@
----
-title: "#doc #doglove"
-id: tag.id
-permalink: "/tags/%23doc%20%23doglove"
-videos: [1697]
----

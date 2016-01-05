@@ -1,6 +1,0 @@
----
-title: "stools"
-id: tag.id
-permalink: "/tags/stools"
-videos: [150]
----

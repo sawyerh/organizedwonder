@@ -1,9 +1,0 @@
----
-title: "Brian Edwards"
-date: 2013-02-21 23:44:51 00:00
-permalink: /brianedwards
-twitter: ""
-likes: [1697]
-id: 1812
-gravatar: "http://www.gravatar.com/avatar/8de349771fc1c2a0acf97dc89ea3f065"
----

@@ -1,6 +1,0 @@
----
-title: "gia coppola"
-id: tag.id
-permalink: "/tags/gia%20coppola"
-videos: [2313]
----

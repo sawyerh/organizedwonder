@@ -1,6 +1,0 @@
----
-title: "sleep"
-id: tag.id
-permalink: "/tags/sleep"
-videos: [2268,2279]
----

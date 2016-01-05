@@ -1,6 +1,0 @@
----
-title: "plants nutrients"
-id: tag.id
-permalink: "/tags/plants%20nutrients"
-videos: [1604]
----

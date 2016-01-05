@@ -1,6 +1,0 @@
----
-title: "anne wilkes tucker"
-id: tag.id
-permalink: "/tags/anne%20wilkes%20tucker"
-videos: [1051]
----

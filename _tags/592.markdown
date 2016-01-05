@@ -1,6 +1,0 @@
----
-title: "houses"
-id: tag.id
-permalink: "/tags/houses"
-videos: [652]
----

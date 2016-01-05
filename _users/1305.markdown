@@ -1,9 +1,0 @@
----
-title: "Nate"
-date: 2012-08-21 19:09:16 00:00
-permalink: /natevillegas
-twitter: ""
-likes: [1290]
-id: 1305
-gravatar: "http://www.gravatar.com/avatar/defc75e07d366c231c9d4ab95675c788"
----

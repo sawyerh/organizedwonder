@@ -1,6 +1,0 @@
----
-title: "cool hunting"
-id: tag.id
-permalink: "/tags/cool%20hunting"
-videos: [14,531,1483]
----

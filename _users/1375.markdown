@@ -1,9 +1,0 @@
----
-title: "Ferencz Stefan Andrei"
-date: 2012-10-09 13:11:18 00:00
-permalink: /drewonespocrew
-twitter: ""
-likes: [583,671]
-id: 1375
-gravatar: "http://www.gravatar.com/avatar/3314796a25f214c2702c7ccd985f98d4"
----

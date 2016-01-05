@@ -1,6 +1,0 @@
----
-title: "interactive"
-id: tag.id
-permalink: "/tags/interactive"
-videos: [153,818,1145,1526]
----

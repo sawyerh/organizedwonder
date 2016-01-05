@@ -1,6 +1,0 @@
----
-title: 2010
-id: tag.id
-permalink: "/tags/2010"
-videos: [1563]
----

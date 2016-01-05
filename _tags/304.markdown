@@ -1,6 +1,0 @@
----
-title: "spirits"
-id: tag.id
-permalink: "/tags/spirits"
-videos: [209]
----

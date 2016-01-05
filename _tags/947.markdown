@@ -1,6 +1,0 @@
----
-title: "pj o'rourke"
-id: tag.id
-permalink: "/tags/pj%20o'rourke"
-videos: [1000]
----

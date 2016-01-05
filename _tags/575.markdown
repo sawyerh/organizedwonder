@@ -1,6 +1,0 @@
----
-title: "live"
-id: tag.id
-permalink: "/tags/live"
-videos: [612,855,1782]
----

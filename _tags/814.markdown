@@ -1,6 +1,0 @@
----
-title: "adaymadeofglass"
-id: tag.id
-permalink: "/tags/adaymadeofglass"
-videos: [862,863]
----

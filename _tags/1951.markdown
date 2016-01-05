@@ -1,6 +1,0 @@
----
-title: "adsl adelaide"
-id: tag.id
-permalink: "/tags/adsl%20adelaide"
-videos: [2365]
----

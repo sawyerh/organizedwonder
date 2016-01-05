@@ -1,6 +1,0 @@
----
-title: "blanco"
-id: tag.id
-permalink: "/tags/blanco"
-videos: [1689]
----

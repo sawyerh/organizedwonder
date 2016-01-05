@@ -1,6 +1,0 @@
----
-title: "acting"
-id: tag.id
-permalink: "/tags/acting"
-videos: [2380]
----

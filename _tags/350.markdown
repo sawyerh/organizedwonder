@@ -1,6 +1,0 @@
----
-title: "workplace"
-id: tag.id
-permalink: "/tags/workplace"
-videos: [277]
----

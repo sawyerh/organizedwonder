@@ -1,6 +1,0 @@
----
-title: "aiga"
-id: tag.id
-permalink: "/tags/aiga"
-videos: [50,1117,1886]
----

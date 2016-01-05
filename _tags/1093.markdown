@@ -1,6 +1,0 @@
----
-title: "fame"
-id: tag.id
-permalink: "/tags/fame"
-videos: [1163]
----

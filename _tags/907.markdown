@@ -1,6 +1,0 @@
----
-title: "illustration"
-id: tag.id
-permalink: "/tags/illustration"
-videos: [972,974,975,1116,1270,1985,2067,2386,2409,2556,2578]
----

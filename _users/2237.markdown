@@ -1,9 +1,0 @@
----
-title: "Doro Schwartzmann"
-date: 2014-01-25 12:52:42 00:00
-permalink: /d_schwartzmann
-twitter: "d_schwartzmann"
-likes: [2100]
-id: 2237
-gravatar: "http://www.gravatar.com/avatar/6b8f912c44a9ed5cb945665c35a98bc2"
----

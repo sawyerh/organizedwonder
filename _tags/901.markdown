@@ -1,6 +1,0 @@
----
-title: "visual effects"
-id: tag.id
-permalink: "/tags/visual%20effects"
-videos: [957]
----

@@ -1,6 +1,0 @@
----
-title: "screencast"
-id: tag.id
-permalink: "/tags/screencast"
-videos: [96]
----

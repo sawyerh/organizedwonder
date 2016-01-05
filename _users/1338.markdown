@@ -1,9 +1,0 @@
----
-title: "Luis Vieira"
-date: 2012-09-21 17:13:13 00:00
-permalink: /luisvieira_gmr
-twitter: ""
-likes: [1335]
-id: 1338
-gravatar: "http://www.gravatar.com/avatar/8ae47e273cee4535680e1282c5ef5b0a"
----

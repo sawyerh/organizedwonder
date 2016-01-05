@@ -1,6 +1,0 @@
----
-title: "art film"
-id: tag.id
-permalink: "/tags/art%20film"
-videos: [1131,2286]
----

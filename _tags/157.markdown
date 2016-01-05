@@ -1,6 +1,0 @@
----
-title: "awesome"
-id: tag.id
-permalink: "/tags/awesome"
-videos: [80,104,105,106,303,333,744,914,1606,1624,1681,1869,2110,2392]
----

@@ -1,6 +1,0 @@
----
-title: "bbcscienceclub"
-id: tag.id
-permalink: "/tags/bbcscienceclub"
-videos: [2067]
----

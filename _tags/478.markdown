@@ -1,6 +1,0 @@
----
-title: "adam savage"
-id: tag.id
-permalink: "/tags/adam%20savage"
-videos: [498]
----

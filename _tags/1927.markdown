@@ -1,6 +1,0 @@
----
-title: "nearly impossible"
-id: tag.id
-permalink: "/tags/nearly%20impossible"
-videos: [2335,2340]
----

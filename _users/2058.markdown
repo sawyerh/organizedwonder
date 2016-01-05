@@ -1,9 +1,0 @@
----
-title: "Janine Vangool"
-date: 2013-08-16 14:07:46 00:00
-permalink: /uppercasemag
-twitter: "uppercasemag"
-likes: [2048,2068,1988,1162]
-id: 2058
-gravatar: "http://www.gravatar.com/avatar/6987151b2d2f5df13a5bb73afbc1e083"
----

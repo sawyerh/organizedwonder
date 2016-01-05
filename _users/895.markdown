@@ -1,9 +1,0 @@
----
-title: "Lisa Long"
-date: 2012-06-08 09:50:05 00:00
-permalink: /lisalong
-twitter: ""
-likes: [518]
-id: 895
-gravatar: "http://www.gravatar.com/avatar/173b7b910170062a3a0f4fc0825a004f"
----

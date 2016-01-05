@@ -1,6 +1,0 @@
----
-title: "danse"
-id: tag.id
-permalink: "/tags/danse"
-videos: [745]
----

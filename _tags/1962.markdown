@@ -1,6 +1,0 @@
----
-title: "motor"
-id: tag.id
-permalink: "/tags/motor"
-videos: [2398]
----

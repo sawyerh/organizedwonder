@@ -1,6 +1,0 @@
----
-title: "gorillaglass"
-id: tag.id
-permalink: "/tags/gorillaglass"
-videos: [862,863]
----

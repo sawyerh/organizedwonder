@@ -1,6 +1,0 @@
----
-title: "streetball"
-id: tag.id
-permalink: "/tags/streetball"
-videos: [1717]
----

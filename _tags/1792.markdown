@@ -1,6 +1,0 @@
----
-title: "corpse"
-id: tag.id
-permalink: "/tags/corpse"
-videos: [2168]
----

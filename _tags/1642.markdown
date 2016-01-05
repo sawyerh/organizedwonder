@@ -1,6 +1,0 @@
----
-title: "church"
-id: tag.id
-permalink: "/tags/church"
-videos: [1980]
----

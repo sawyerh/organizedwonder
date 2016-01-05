@@ -1,9 +1,0 @@
----
-title: "MBM"
-date: 2012-05-19 03:30:30 00:00
-permalink: /maura
-twitter: ""
-likes: [53,663]
-id: 417
-gravatar: "http://www.gravatar.com/avatar/6814b1aa751ade835c9c94661be9e346"
----

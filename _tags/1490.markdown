@@ -1,6 +1,0 @@
----
-title: "red dress"
-id: tag.id
-permalink: "/tags/red%20dress"
-videos: [1691]
----

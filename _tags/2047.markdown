@@ -1,6 +1,0 @@
----
-title: "futurist"
-id: tag.id
-permalink: "/tags/futurist"
-videos: [2511]
----

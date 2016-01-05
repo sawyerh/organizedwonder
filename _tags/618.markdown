@@ -1,6 +1,0 @@
----
-title: "erik brunetti"
-id: tag.id
-permalink: "/tags/erik%20brunetti"
-videos: [674]
----

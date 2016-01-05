@@ -1,9 +1,0 @@
----
-title: "Jesse"
-date: 2012-05-18 04:04:33 00:00
-permalink: /graph
-twitter: "jesseclaven"
-likes: [120,112,359,318,35]
-id: 200
-gravatar: "http://www.gravatar.com/avatar/cbe9fe7d9afe160f477a342aed12a1e2"
----

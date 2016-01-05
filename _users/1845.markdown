@@ -1,9 +1,0 @@
----
-title: "Thomas Drach"
-date: 2013-03-15 23:12:51 00:00
-permalink: /drachdesigns
-twitter: "thomasdrach"
-likes: [2466,2476,1741,1729,67,358,1754,1861,1860,1047,1876,69,1984,1526,2020,2551,2572,2573]
-id: 1845
-gravatar: "http://www.gravatar.com/avatar/977b0896876da83b760c8287f1fa8417"
----

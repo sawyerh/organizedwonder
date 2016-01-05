@@ -1,9 +1,0 @@
----
-title: "Amanda Dorrell"
-date: 2014-01-16 03:36:45 00:00
-permalink: /amandadorrell
-twitter: ""
-likes: [2150,39,100,43,1402,1896]
-id: 2151
-gravatar: "http://www.gravatar.com/avatar/7cd668c73507583bb91049c7bb2b2ca9"
----

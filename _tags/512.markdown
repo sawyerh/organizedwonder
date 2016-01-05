@@ -1,6 +1,0 @@
----
-title: "publishing"
-id: tag.id
-permalink: "/tags/publishing"
-videos: [537,1509,2108]
----

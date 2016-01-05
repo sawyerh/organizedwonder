@@ -1,6 +1,0 @@
----
-title: "landscape"
-id: tag.id
-permalink: "/tags/landscape"
-videos: [1332]
----

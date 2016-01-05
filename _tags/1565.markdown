@@ -1,6 +1,0 @@
----
-title: "home"
-id: tag.id
-permalink: "/tags/home"
-videos: [1788]
----

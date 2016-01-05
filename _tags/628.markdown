@@ -1,6 +1,0 @@
----
-title: "biography"
-id: tag.id
-permalink: "/tags/biography"
-videos: [702,1048]
----

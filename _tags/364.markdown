@@ -1,6 +1,0 @@
----
-title: "transportation"
-id: tag.id
-permalink: "/tags/transportation"
-videos: [327,1903]
----

@@ -1,6 +1,0 @@
----
-title: "trippy"
-id: tag.id
-permalink: "/tags/trippy"
-videos: [2226,2561]
----

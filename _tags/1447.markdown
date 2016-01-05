@@ -1,6 +1,0 @@
----
-title: "#kidpresident"
-id: tag.id
-permalink: "/tags/%23kidpresident"
-videos: [1660]
----

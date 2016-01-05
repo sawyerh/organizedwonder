@@ -1,9 +1,0 @@
----
-title: "Sammie"
-date: 2014-04-24 20:46:10 00:00
-permalink: /samiholdit
-twitter: ""
-likes: [2279]
-id: 2284
-gravatar: "http://www.gravatar.com/avatar/7a69c4bd5bcc50ee3dd8816379bfaa4e"
----

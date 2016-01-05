@@ -1,6 +1,0 @@
----
-title: "modernism"
-id: tag.id
-permalink: "/tags/modernism"
-videos: [69,1146]
----

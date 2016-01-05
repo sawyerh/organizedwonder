@@ -1,6 +1,0 @@
----
-title: "parodi"
-id: tag.id
-permalink: "/tags/parodi"
-videos: [1449]
----

@@ -1,6 +1,0 @@
----
-title: "brian cox"
-id: tag.id
-permalink: "/tags/brian%20cox"
-videos: [1190]
----

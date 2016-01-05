@@ -1,6 +1,0 @@
----
-title: "empathy"
-id: tag.id
-permalink: "/tags/empathy"
-videos: [2486]
----

@@ -1,6 +1,0 @@
----
-title: "node.js"
-id: tag.id
-permalink: "/tags/node.js"
-videos: [96]
----

@@ -1,9 +1,0 @@
----
-title: "Sergio Monterrubio"
-date: 2014-04-07 16:54:46 00:00
-permalink: /thisissergio
-twitter: "thisissergio"
-likes: [1409,2262,100,58,932,583,2258,358,366,1545]
-id: 2276
-gravatar: "http://www.gravatar.com/avatar/e566d236888f9b432c34038dc1e74f16"
----
