@@ -3,12 +3,16 @@ title: "InFrame: Paul Pateman"
 date: 2015-08-31 22:12:54 00:00
 permalink: /videos/2556
 source: "https://vimeo.com/125464280"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://i.vimeocdn.com/video/520779592_1280.jpg"
 user:
+  id: 2415
   username: "useformat"
   name: "Format"
 tags: ["short film","interview","design","creativity","creative process","short documentary","illustration","short video"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F125464280&wmode=transparent&url=https%3A%2F%2Fvimeo.com%2F125464280&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F520779592_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1888\" height=\"1062\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2556
 ---
 
 Cheeky illustrator Paul Pateman, aka Pâté, discusses his pursuit of happiness. Tracing the beautiful—and sometimes turbulent—journeys to success of creative professionals from around the globe, InFrame is a new documentary video series produced by Format.com and Bas Berkhout of likeknowslike.com.

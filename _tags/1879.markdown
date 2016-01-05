@@ -1,0 +1,6 @@
+---
+title: "cinematic"
+id: tag.id
+permalink: "/tags/cinematic"
+videos: [2257]
+---

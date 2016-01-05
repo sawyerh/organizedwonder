@@ -1,0 +1,9 @@
+---
+title: "okpants"
+date: 2012-06-26 22:01:30 00:00
+permalink: /okpants
+twitter: "okpants"
+likes: [932,860,730,366]
+id: 1118
+gravatar: "http://www.gravatar.com/avatar/7bd4071777feaedc95c0ec35d09b0483"
+---

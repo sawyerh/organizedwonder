@@ -3,12 +3,16 @@ title: "Justin Vernon and The Roots - Perth"
 date: 2012-06-09 06:17:19 00:00
 permalink: /videos/814
 source: "http://vimeo.com/36554699"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/250/749/250749461_640.jpg"
 user:
+  id: 2
   username: "ed"
   name: "Ed Mackowiak"
 tags: ["music","jam"]
 html: "<iframe src=\"http://player.vimeo.com/video/36554699\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 814
 ---
 
 No description required.

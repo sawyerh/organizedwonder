@@ -3,11 +3,15 @@ title: "Hip Hop Genius: Remixing High School Education"
 date: 2012-05-26 21:52:55 00:00
 permalink: /videos/642
 source: "http://vimeo.com/22591307"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/146/159/146159918_640.jpg"
 user:
+  id: 697
   username: "mfayeshin"
   name: "M. Shin"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/22591307\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 642
 ---
 

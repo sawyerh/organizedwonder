@@ -1,0 +1,6 @@
+---
+title: "state"
+id: tag.id
+permalink: "/tags/state"
+videos: [1577]
+---

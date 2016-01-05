@@ -1,0 +1,6 @@
+---
+title: "corning"
+id: tag.id
+permalink: "/tags/corning"
+videos: [862,863]
+---

@@ -1,0 +1,6 @@
+---
+title: "a fine frenzy"
+id: tag.id
+permalink: "/tags/a%20fine%20frenzy"
+videos: [977]
+---

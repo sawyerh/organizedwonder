@@ -3,12 +3,16 @@ title: "LOVE SPORT: LOVE FENCING"
 date: 2012-08-15 13:36:49 00:00
 permalink: /videos/1267
 source: "http://youtu.be/RAmgqiIHzHE"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/RAmgqiIHzHE/hqdefault.jpg"
 user:
+  id: 643
   username: "zit_dantes"
   name: "Zit Dantes"
 tags: ["short film","animation","olympics","studioaka"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/RAmgqiIHzHE?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1267
 ---
 
 The LOVE SPORT series of short films feature well known sports such as: High-Diving, Basketball, Fencing, Weightlifting, Equestrian, Synchronized Swimming, All-In-Wrestling, Sumo, Ski Jumping, Mountaineering, Ping Pong, Paint-Balling, Dog Racing, Dominoes ...and a special film about Big Game Hunting!

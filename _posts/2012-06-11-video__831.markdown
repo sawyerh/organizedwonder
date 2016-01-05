@@ -3,12 +3,16 @@ title: "Jamie Oliver's TED Prize wish: Teach every child about food"
 date: 2012-06-11 22:10:07 00:00
 permalink: /videos/831
 source: "http://www.youtube.com/watch?v=go_QOzc79Uc&feature=youtu.be"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/go_QOzc79Uc/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["ted","talk","health"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/go_QOzc79Uc?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 831
 ---
 
 Jamie Oliver is transforming the way we feed ourselves, and our children. Jamie Oliver has been drawn to the kitchen since he was a child working in his father's pub-restaurant. He showed not only a precocious culinary talent but also a passion for creating (and talking about) fresh, honest, delicious food. In the past decade, the shaggy-haired "Naked Chef" of late-'90s BBC2 has built a worldwide media conglomerate of TV shows, books, cookware and magazines, all based on a formula of simple, unpretentious food that invites everyone to get busy in the kitchen. And as much as his cooking is generous, so is his business model -- his Fifteen Foundation, for instance, trains young chefs from challenged backgrounds to run four of his restaurants.

@@ -1,0 +1,6 @@
+---
+title: "startups"
+id: tag.id
+permalink: "/tags/startups"
+videos: [724]
+---

@@ -3,12 +3,16 @@ title: "Dave Foster speaks typography, Live at The Distillery"
 date: 2013-05-14 10:15:59 00:00
 permalink: /videos/1887
 source: "http://vimeo.com/65734992"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/437/207/437207650_1280.jpg"
 user:
+  id: 691
   username: "bobsta14"
   name: "Bobby Haiqalsyah"
 tags: ["talk","typography","type design","dave foster","the distillery"]
 html: "<iframe src=\"http://player.vimeo.com/video/65734992\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1887
 ---
 
 Sydney-born designer Dave Foster speaks about his time in The Netherlands further his craft of typography design. Winner of the Design NSW Travelling Scholarship, Dave studied Typography at the Royal Academy of Art.

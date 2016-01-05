@@ -3,12 +3,16 @@ title: "Super Mega Mega Toaster"
 date: 2013-03-05 14:52:11 00:00
 permalink: /videos/1733
 source: "https://vimeo.com/57392144"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/417/420/417420981_1280.jpg"
 user:
+  id: 1833
   username: "mrcurious"
   name: "Tom Reinhoudt"
 tags: ["technology","programming","prototype"]
 html: "<iframe src=\"http://player.vimeo.com/video/57392144\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1733
 ---
 
 Do you want to wake up and have a fun breakfast.

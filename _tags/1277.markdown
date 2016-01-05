@@ -1,0 +1,6 @@
+---
+title: "tesla"
+id: tag.id
+permalink: "/tags/tesla"
+videos: [1500,1838,2021]
+---

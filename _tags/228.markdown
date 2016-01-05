@@ -1,0 +1,6 @@
+---
+title: "richard seymour"
+id: tag.id
+permalink: "/tags/richard%20seymour"
+videos: [166,174]
+---

@@ -1,0 +1,6 @@
+---
+title: "walker art center"
+id: tag.id
+permalink: "/tags/walker%20art%20center"
+videos: [328,326,327,329,330,332,860,1783,2262]
+---

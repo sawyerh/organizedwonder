@@ -1,0 +1,6 @@
+---
+title: "random"
+id: tag.id
+permalink: "/tags/random"
+videos: [1698]
+---

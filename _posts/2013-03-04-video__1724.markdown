@@ -3,12 +3,16 @@ title: "the Scared is scared"
 date: 2013-03-04 02:57:52 00:00
 permalink: /videos/1724
 source: "http://vimeo.com/58659769"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/410/748/410748961_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["short film","funny"]
 html: "<iframe src=\"http://player.vimeo.com/video/58659769\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1724
 ---
 
 "I asked a six year old what my movie should be about, and this is what he told me.

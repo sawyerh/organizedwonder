@@ -3,12 +3,16 @@ title: "The Way We See the World"
 date: 2012-07-18 14:10:13 00:00
 permalink: /videos/1099
 source: "http://blip.tv/thebif/bif-7-eva-koleva-timothy-5704164"
+featured: false
+provider: "Blip"
 thumbnail: "http://a.images.blip.tv/BIF-BIF7EvaKolevaTimothy212.jpg"
 user:
+  id: 1194
   username: "tigrinho"
   name: "Adam Timothy"
 tags: ["business","creativity","photography","education"]
 html: "<span><iframe src=\"http://blip.tv/play/gYArgtyUSAI.html?p=1\" width=\"590\" height=\"332\" frameborder=\"0\" allowfullscreen></iframe><embed type=\"application/x-shockwave-flash\" src=\"http://a.blip.tv/api.swf#gYArgtyUSAI\" style=\"display:none\" wmode=\"transparent\"></embed></span>"
+id: 1099
 ---
 
 Eva Koleva Timothy shares her story of growing up behind the Iron Curtain and the creative power of perspective.

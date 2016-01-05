@@ -3,12 +3,16 @@ title: "El Empleo"
 date: 2012-05-18 14:01:55 00:00
 permalink: /videos/247
 source: "http://www.youtube.com/watch?v=cxUuU1jwMgM&feature=player_embedded"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/cxUuU1jwMgM/hqdefault.jpg"
 user:
+  id: 276
   username: "apropos"
   name: "Barbara"
 tags: ["short film","animation"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/cxUuU1jwMgM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 247
 ---
 
 La vision qu’il offre au travers de cette animation cherche à donner un tout nouveau sens à la notion de travail dans un monde où les êtres humains sont simplement des objets

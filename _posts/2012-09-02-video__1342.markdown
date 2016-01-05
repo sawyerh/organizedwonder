@@ -3,12 +3,16 @@ title: "KRINK: The Best Drip Ink in Graffiti"
 date: 2012-09-02 14:50:08 00:00
 permalink: /videos/1342
 source: "http://www.youtube.com/watch?v=SK0zsNryFDA&list=PLC4FDC39F67466711&index=6&feature=plcp"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/SK0zsNryFDA/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["vice","graffiti"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?index=5&wmode=transparent&list=PLC4FDC39F67466711\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1342
 ---
 
 We caught up with Craig Costello, graffiti artist and creator of KRINK, the notorious brand responsible for drip style markers, mops, and fire extinguishers.

@@ -1,0 +1,6 @@
+---
+title: "paul rand"
+id: tag.id
+permalink: "/tags/paul%20rand"
+videos: [260]
+---

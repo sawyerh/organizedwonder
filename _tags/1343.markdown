@@ -1,0 +1,6 @@
+---
+title: "greetings"
+id: tag.id
+permalink: "/tags/greetings"
+videos: [1586]
+---

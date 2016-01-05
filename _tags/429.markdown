@@ -1,0 +1,6 @@
+---
+title: "artists"
+id: tag.id
+permalink: "/tags/artists"
+videos: [879]
+---

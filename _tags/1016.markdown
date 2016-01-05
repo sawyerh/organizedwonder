@@ -1,0 +1,6 @@
+---
+title: "fict2012"
+id: tag.id
+permalink: "/tags/fict2012"
+videos: [1072]
+---

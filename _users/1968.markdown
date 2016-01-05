@@ -1,0 +1,9 @@
+---
+title: "zhenya"
+date: 2013-05-07 16:19:48 00:00
+permalink: /fizzik
+twitter: ""
+likes: [398,615]
+id: 1968
+gravatar: "http://www.gravatar.com/avatar/552b5a278a66e2833bac30b1ee860c06"
+---

@@ -1,0 +1,9 @@
+---
+title: "Jon Brennan"
+date: 2012-05-16 15:35:07 00:00
+permalink: /bnoj13
+twitter: "lebronjennan"
+likes: [105,1344]
+id: 69
+gravatar: "http://www.gravatar.com/avatar/4ada5477f63452e4c19c92358db87e06"
+---

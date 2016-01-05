@@ -1,0 +1,9 @@
+---
+title: "Filipe Varela"
+date: 2012-05-18 14:20:49 00:00
+permalink: /keoshi
+twitter: "keoshi"
+likes: [248,69,66,16,192,252,73]
+id: 322
+gravatar: "http://www.gravatar.com/avatar/eac8e3135a186cb2176120c2ed71e644"
+---

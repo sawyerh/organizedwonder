@@ -1,0 +1,9 @@
+---
+title: "Petros Dimitriadis"
+date: 2012-11-29 08:03:33 00:00
+permalink: /petrangr
+twitter: ""
+likes: [1518]
+id: 1638
+gravatar: "http://www.gravatar.com/avatar/dac9aed2406b1673027d7fb6291a5482"
+---

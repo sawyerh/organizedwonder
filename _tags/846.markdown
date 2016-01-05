@@ -1,0 +1,6 @@
+---
+title: "compassion"
+id: tag.id
+permalink: "/tags/compassion"
+videos: [913]
+---

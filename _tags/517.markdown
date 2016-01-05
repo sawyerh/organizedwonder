@@ -1,0 +1,6 @@
+---
+title: "outdoors"
+id: tag.id
+permalink: "/tags/outdoors"
+videos: [545]
+---

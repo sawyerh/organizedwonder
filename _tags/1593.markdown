@@ -1,0 +1,6 @@
+---
+title: "vsco"
+id: tag.id
+permalink: "/tags/vsco"
+videos: [1866,2368]
+---

@@ -3,12 +3,16 @@ title: "Jessica Hische - Grab the reins and fucking do it."
 date: 2012-06-21 01:31:22 00:00
 permalink: /videos/932
 source: "https://vimeo.com/44045435"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/307/806/307806252_1280.jpg"
 user:
+  id: 168
   username: "steve_flory"
   name: "Steve Flory"
 tags: ["creativemornings","jessica hische","design","creativity","typography"]
 html: "<iframe src=\"http://player.vimeo.com/video/44045435\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 932
 ---
 
 As part of the special Art + Tech themed month in coordination with John Maeda's team at RISD, our speaker on June 8th, 2012 was renowned letterer, illustrator, self-described “avid internetter”, and self-described crazy cat lady, Jessica Hische. CreativeMornings/Vancouver was sponsored by Adobe and hosted by W2 Media Café & GDC/BC.

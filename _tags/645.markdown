@@ -1,0 +1,6 @@
+---
+title: "ipad"
+id: tag.id
+permalink: "/tags/ipad"
+videos: [720]
+---

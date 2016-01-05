@@ -1,0 +1,6 @@
+---
+title: "middle of knowhwere"
+id: tag.id
+permalink: "/tags/middle%20of%20knowhwere"
+videos: [1612]
+---

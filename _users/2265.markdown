@@ -1,0 +1,9 @@
+---
+title: "Julianne Ragland"
+date: 2014-03-13 04:06:23 00:00
+permalink: /jbragland
+twitter: ""
+likes: [2242]
+id: 2265
+gravatar: "http://www.gravatar.com/avatar/10b5f2cc919aecb3ee825fa58770bd51"
+---

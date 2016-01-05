@@ -1,0 +1,9 @@
+---
+title: "Patocha"
+date: 2012-05-19 20:38:24 00:00
+permalink: /patocha
+twitter: ""
+likes: [105,120,442,822]
+id: 467
+gravatar: "http://www.gravatar.com/avatar/cac653555234e2f8ad5f59d71f9a0e31"
+---

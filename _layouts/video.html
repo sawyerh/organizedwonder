@@ -11,7 +11,7 @@ layout: default
     <div class="user block">
       <p>
         <strong>Shared by</strong><br>
-        {{ page.user.name }}
+        <a href="/{{ page.user.username }}">{{ page.user.username }}</a>
       </p>
     </div>
     <div class="links block">
@@ -32,15 +32,13 @@ layout: default
     <h1>{{ page.title }}</h1>
     {{ content }}
 
-    <p class="tags">
+    <ul class="tags">
       {% for tag in page.tags %}
-        {% if forloop.first %}
-          <strong>Tagged:</strong>
-        {% endif %}
-
-        {{ tag }}{% unless forloop.last %}, {% endunless %}
+        <li>
+          <a href="/tags/{{ tag.title }}">{{ tag }}</a>
+        </li>
       {% endfor %}
-    </p>
+    </ul>
   </article>
 
   {% include footer.html %}

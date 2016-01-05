@@ -1,0 +1,9 @@
+---
+title: "siniz kim"
+date: 2012-07-10 12:01:05 00:00
+permalink: /siniz
+twitter: "siniz"
+likes: [358,359]
+id: 1163
+gravatar: "http://www.gravatar.com/avatar/89c093e89b02426677f714b9ec0902eb"
+---

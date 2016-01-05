@@ -1,0 +1,9 @@
+---
+title: "Becky Leavitt"
+date: 2013-09-18 18:06:09 00:00
+permalink: /tecchick
+twitter: "BeckyLeavitt2"
+likes: [2074]
+id: 2070
+gravatar: "http://www.gravatar.com/avatar/1b57f5955dfa2936abca44aa7f49739a"
+---

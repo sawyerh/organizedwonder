@@ -1,0 +1,9 @@
+---
+title: "Ian Soper"
+date: 2012-05-21 20:34:44 00:00
+permalink: /iansoper
+twitter: "imsoper"
+likes: [1244,1233,671,1254]
+id: 572
+gravatar: "http://www.gravatar.com/avatar/910e32cb623d7709d66392b117a8ddb7"
+---

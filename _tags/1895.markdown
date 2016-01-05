@@ -1,0 +1,6 @@
+---
+title: "workshot"
+id: tag.id
+permalink: "/tags/workshot"
+videos: [2277]
+---

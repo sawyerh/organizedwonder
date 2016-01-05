@@ -3,12 +3,16 @@ title: "Briefly"
 date: 2014-10-02 04:19:00 00:00
 permalink: /videos/2414
 source: "http://vimeo.com/107567840"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://i.vimeocdn.com/video/491008076_1280x720.jpg"
 user:
+  id: 2287
   username: "zachacole"
   name: "Zach Cole"
 tags: ["interview","design","architecture","creativity","graphic design","advertising","creative process"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F107567840&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F107567840&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F491008076_1280x720.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"640\" height=\"360\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2414
 ---
 
 Every project starts with a brief.

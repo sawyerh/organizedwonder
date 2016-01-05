@@ -1,0 +1,6 @@
+---
+title: "basquiat"
+id: tag.id
+permalink: "/tags/basquiat"
+videos: [387]
+---

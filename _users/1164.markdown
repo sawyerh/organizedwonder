@@ -1,0 +1,9 @@
+---
+title: "Katerina Skotalova"
+date: 2012-07-10 12:02:06 00:00
+permalink: /katkat
+twitter: ""
+likes: [1049,852,393,358,312,311,310,66,67,30,344,932,146,39]
+id: 1164
+gravatar: "http://www.gravatar.com/avatar/e9edeae6e94493cdbc47be55f048b18f"
+---

@@ -3,12 +3,16 @@ title: "Kevin Spacey - Motivational speech"
 date: 2012-05-20 12:15:40 00:00
 permalink: /videos/459
 source: "http://youtu.be/-stA68drYSk"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/-stA68drYSk/hqdefault.jpg"
 user:
+  id: 338
   username: "baddyglass"
   name: "Kirill Egorov"
 tags: ["motivation"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/-stA68drYSk?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 459
 ---
 
 Kevin Spacey explains how success is not a physical element that can be measured but an emotional elelment, only relative to the individual

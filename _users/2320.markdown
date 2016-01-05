@@ -1,0 +1,9 @@
+---
+title: "Juhyoung Ra"
+date: 2014-08-08 15:47:35 00:00
+permalink: /r
+twitter: ""
+likes: [2368,69,2314,2291,2372,2054]
+id: 2320
+gravatar: "http://www.gravatar.com/avatar/38c4f4626682756d0e8fd5eb70efba83"
+---

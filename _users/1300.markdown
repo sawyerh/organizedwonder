@@ -1,0 +1,9 @@
+---
+title: "Shiblee Imtiaz Hasan"
+date: 2012-08-17 05:46:22 00:00
+permalink: /shiblee
+twitter: ""
+likes: [1275,1004]
+id: 1300
+gravatar: "http://www.gravatar.com/avatar/9272df247efaa52e72bfceffb4c57f62"
+---

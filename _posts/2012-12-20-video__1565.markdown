@@ -3,12 +3,16 @@ title: "Olly Moss - OFFSET2012"
 date: 2012-12-20 12:33:51 00:00
 permalink: /videos/1565
 source: "http://vimeo.com/channels/436340/55846250"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/387/805/387805676_1280.jpg"
 user:
+  id: 691
   username: "bobsta14"
   name: "Bobby Haiqalsyah"
 tags: ["design","talk","poster","olly moss","offset"]
 html: "<iframe src=\"http://player.vimeo.com/video/55846250\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1565
 ---
 
 Olly Moss OFFSET2012 presentation...pretty good for a first public lecture ! Best known for his re-imaginings of film posters, Moss makes images that are true to the heart of the movie, but filtered through a worldview that assumes intelligence and a wry understanding of pop culture from the audience. Clever and a little retro, Moss’s work makes the art slaves in Hollywood marketing departments weep with envy at his brilliance. It’s not only fan boys who’ve taken note. Sony, Lucasfilm, Apple, Penguin Books, Nike, Mondo Tees, Studio Ghibli – Moss counts them among his client list.

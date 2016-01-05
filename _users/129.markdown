@@ -1,0 +1,9 @@
+---
+title: "jordan stephens"
+date: 2012-05-17 22:14:35 00:00
+permalink: /jordanstephens
+twitter: "jordanstephens"
+likes: [2227]
+id: 129
+gravatar: "http://www.gravatar.com/avatar/0543907746be29497b873de97957d3ab"
+---

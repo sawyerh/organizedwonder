@@ -1,0 +1,9 @@
+---
+title: "michael"
+date: 2012-05-28 20:07:42 00:00
+permalink: /verdi327
+twitter: ""
+likes: [672,676,678,683]
+id: 718
+gravatar: "http://www.gravatar.com/avatar/a6a4e40745c6cc57b9f4db2204a9fd8d"
+---

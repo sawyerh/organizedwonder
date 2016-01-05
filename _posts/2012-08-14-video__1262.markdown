@@ -3,11 +3,15 @@ title: "Jonathan Harris, Co-Creator We Feel Fine, Founder Cowbird"
 date: 2012-08-14 18:06:36 00:00
 permalink: /videos/1262
 source: "http://www.youtube.com/watch?feature=player_embedded&v=yS1a5TBya14#!"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/yS1a5TBya14/hqdefault.jpg"
 user:
+  id: 1041
   username: "melaniewong"
   name: "Melanie Wong"
 tags: ["art","jonathan harris","motivation","steam","arts","creativemorning","creative mornings","cowbird technology"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/yS1a5TBya14?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1262
 ---
 

@@ -3,12 +3,16 @@ title: "The true cost of oil: Garth Lenz @ TEDxVictoria"
 date: 2012-05-19 15:03:18 00:00
 permalink: /videos/417
 source: "http://www.youtube.com/watch?v=84zIj_EdQdM"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/84zIj_EdQdM/hqdefault.jpg"
 user:
+  id: 449
   username: "happyhealthybalance"
   name: "happyhealthybalance"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/84zIj_EdQdM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 417
 ---
 
 What does environmental devastation actually look like? At TEDxVictoria, photographer Garth Lenz shares shocking photos of the Alberta Tar Sands mining project -- and the beautiful (and vital) ecosystems under threat.

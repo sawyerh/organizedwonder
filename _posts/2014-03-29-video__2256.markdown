@@ -3,12 +3,16 @@ title: "A Conversation with Nas and Michael Eric Dyson"
 date: 2014-03-29 23:27:28 00:00
 permalink: /videos/2256
 source: "http://bcove.me/mmczbsot"
+featured: false
+provider: "Brightcove"
 thumbnail: "http://brightcove.vo.llnwd.net/d21/unsecured/media/1955031552001/201403/985/1955031552001_3403118718001_nas-640-360.jpg?pubId=1955031552001"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["hip-hop","conversation","music"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fc.brightcove.com%2Fservices%2Fviewer%2Ffederated_f9%3FisVid%3D1%26isUI%3D1&wmode=transparent&fv=%40videoPlayer%3D3402287935001%26autoStart%3Dfalse%26playerID%3D1954972954001%26domain%3Dembed%26dynamicStreaming%3Dtrue&url=http%3A%2F%2Flink.brightcove.com%2Fservices%2Fplayer%2Fbcpid1954972954001%3Fbckey%3DAQ%7E%7E%2CAAABxzD2EAE%7E%2ComXLTEHtYLffOiQDtScIhRSOO30nsBA4%26bctid%3D3402287935001&image=http%3A%2F%2Fbrightcove.vo.llnwd.net%2Fd21%2Funsecured%2Fmedia%2F1955031552001%2F201403%2F985%2F1955031552001_3403118718001_nas-640-360.jpg%3FpubId%3D1955031552001&key=daaebf4d9cdd46779200162d0ca86e20&type=application%2Fx-shockwave-flash&schema=brightcove\" width=\"480\" height=\"270\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2256
 ---
 
 Renowned author and sociology scholar Michael Eric Dyson who is also a professor at Georgetown University sat down with Nas for a nearly 80 minute talk on Hip-Hop at the Gaston Hall.

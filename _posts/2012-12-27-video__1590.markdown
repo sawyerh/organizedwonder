@@ -3,12 +3,16 @@ title: "Chris Coyier: A Modern Web Designer's Workflow"
 date: 2012-12-27 15:24:50 00:00
 permalink: /videos/1590
 source: "http://www.youtube.com/watch?v=vsTrAfJFLXI"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/vsTrAfJFLXI/hqdefault.jpg"
 user:
+  id: 1456
   username: "simuse"
   name: "Simon"
 tags: ["talk","web design","workflow","front-end"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/vsTrAfJFLXI?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1590
 ---
 
 More and more is expected from today's web designers. Visual design is just one small part of the job. Those designs also need interaction. They need to work across loads of devices of varying

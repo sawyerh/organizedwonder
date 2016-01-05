@@ -1,0 +1,9 @@
+---
+title: "esglobo"
+date: 2012-06-12 23:24:40 00:00
+permalink: /globo
+twitter: "@esglobo"
+likes: [310,312,723,353,1065,1066,701]
+id: 965
+gravatar: "http://www.gravatar.com/avatar/5d9dd83ef1b40535e4e83371d7a06e25"
+---

@@ -1,0 +1,6 @@
+---
+title: "bike"
+id: tag.id
+permalink: "/tags/bike"
+videos: [731,1222]
+---

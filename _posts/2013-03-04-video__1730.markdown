@@ -3,11 +3,15 @@ title: "30 for 30 Shorts: Holy Grail: The T206 Honus Wagner"
 date: 2013-03-04 12:51:13 00:00
 permalink: /videos/1730
 source: "http://espn.go.com/video/clip?id=espn:8983686"
+featured: false
+provider: "ESPN"
 thumbnail: "http://a.espncdn.com/media/motion/2013/0225/dm_130225_ESPNFilms30for30HonusShort_Feb/dm_130225_ESPNFilms30for30HonusShort_Feb.jpg"
 user:
+  id: 827
   username: "tmrly"
   name: "Tim Riley"
 tags: ["baseball"]
 html: "<script src=\"http://player.espn.com/player.js?&playerBrandingId=4ef8000cbaf34c1687a7d9a26fe0e89e&pcode=1kNG061cgaoolOncv54OAO1ceO-I&width=576&height=324&externalId=espn:8983686&thruParam_espn-ui[autoPlay]=false&thruParam_espn-ui[playRelatedExternally]=true\"></script>"
+id: 1730
 ---
 

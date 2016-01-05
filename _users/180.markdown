@@ -1,0 +1,9 @@
+---
+title: "John G"
+date: 2012-05-18 03:03:03 00:00
+permalink: /johnfredrie
+twitter: "johnfredrie"
+likes: [112,26]
+id: 180
+gravatar: "http://www.gravatar.com/avatar/b93a226ad795d0f11e1e35111525d008"
+---

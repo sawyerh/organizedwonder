@@ -1,0 +1,6 @@
+---
+title: "techno"
+id: tag.id
+permalink: "/tags/techno"
+videos: [1871]
+---

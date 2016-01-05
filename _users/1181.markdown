@@ -1,0 +1,9 @@
+---
+title: "Adam Smith"
+date: 2012-07-14 07:36:13 00:00
+permalink: /smackbrat13
+twitter: ""
+likes: [572]
+id: 1181
+gravatar: "http://www.gravatar.com/avatar/d1bf372603d033f9a9213e2c434b1a3b"
+---

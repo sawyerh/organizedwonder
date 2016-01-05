@@ -3,12 +3,16 @@ title: "PressPausePlay"
 date: 2012-06-16 21:36:50 00:00
 permalink: /videos/880
 source: "http://www.youtube.com/watch?v=MterbpYTyjM"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/MterbpYTyjM/hqdefault.jpg"
 user:
+  id: 1022
   username: "becky"
   name: "becky murphy"
 tags: ["design","documentary","digital media"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/MterbpYTyjM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 880
 ---
 
 watched it on netflix instant queue

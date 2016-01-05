@@ -1,0 +1,9 @@
+---
+title: "Frank K"
+date: 2012-07-23 02:07:07 00:00
+permalink: /fkumro
+twitter: "fkumro"
+likes: [1109]
+id: 1243
+gravatar: "http://www.gravatar.com/avatar/882f5f2f5a58030a836b0aedf5aac87d"
+---

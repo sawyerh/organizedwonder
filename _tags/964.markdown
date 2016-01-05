@@ -1,0 +1,6 @@
+---
+title: "artisan"
+id: tag.id
+permalink: "/tags/artisan"
+videos: [1011]
+---

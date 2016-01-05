@@ -1,0 +1,6 @@
+---
+title: "brand identity"
+id: tag.id
+permalink: "/tags/brand%20identity"
+videos: [823]
+---

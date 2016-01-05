@@ -1,0 +1,6 @@
+---
+title: "taijin takeuchi"
+id: tag.id
+permalink: "/tags/taijin%20takeuchi"
+videos: [2190]
+---

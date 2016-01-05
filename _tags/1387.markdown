@@ -1,0 +1,6 @@
+---
+title: "power"
+id: tag.id
+permalink: "/tags/power"
+videos: [1624]
+---

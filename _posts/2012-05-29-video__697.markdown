@@ -3,12 +3,16 @@ title: "Emile Waldteufel - Amour et Printemps (Walzer, Waltz)"
 date: 2012-05-29 15:05:29 00:00
 permalink: /videos/697
 source: "http://www.youtube.com/watch?v=4dH5eHSqUYE"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/4dH5eHSqUYE/hqdefault.jpg"
 user:
+  id: 743
   username: "luisuruena"
   name: "Luis Urueña"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/4dH5eHSqUYE?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 697
 ---
 
 Propuesta de @MargueritaCaro1

@@ -1,0 +1,6 @@
+---
+title: "stop-motion"
+id: tag.id
+permalink: "/tags/stop-motion"
+videos: [257]
+---

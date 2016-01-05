@@ -1,0 +1,6 @@
+---
+title: "week"
+id: tag.id
+permalink: "/tags/week"
+videos: [2182]
+---

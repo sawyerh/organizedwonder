@@ -1,0 +1,6 @@
+---
+title: "#sanfrancisco #bayarea"
+id: tag.id
+permalink: "/tags/%23sanfrancisco%20%23bayarea"
+videos: [1695]
+---

@@ -1,0 +1,6 @@
+---
+title: "dj set"
+id: tag.id
+permalink: "/tags/dj%20set"
+videos: [1871]
+---

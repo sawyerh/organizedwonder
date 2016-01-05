@@ -1,0 +1,6 @@
+---
+title: "milton glaser"
+id: tag.id
+permalink: "/tags/milton%20glaser"
+videos: [1409,2258,2476]
+---

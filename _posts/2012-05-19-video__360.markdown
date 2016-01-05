@@ -3,12 +3,16 @@ title: "Welcome to the Anthropocene Earth"
 date: 2012-05-19 05:26:49 00:00
 permalink: /videos/360
 source: "http://vimeo.com/anthropocene/shortfilm"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/269/134/269134503_960.jpg"
 user:
+  id: 204
   username: "tonyfelice"
   name: "tony felice"
 tags: ["animation"]
 html: "<iframe src=\"http://player.vimeo.com/video/39048998\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 360
 ---
 
 A front row view from space as the Industrial Revolution terraforms our quaint planet into a global metropolis.

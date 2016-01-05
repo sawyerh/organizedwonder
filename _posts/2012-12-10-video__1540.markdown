@@ -3,12 +3,16 @@ title: "Pale Blue Dot"
 date: 2012-12-10 21:24:53 00:00
 permalink: /videos/1540
 source: "http://vimeo.com/51960515"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/358/325/358325836_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["carl sagan","animation","monologue"]
 html: "<iframe src=\"http://player.vimeo.com/video/51960515\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1540
 ---
 
 A visual response to Carl Sagan's famed 'Pale Blue Dot' monologue, where he muses on our planet's appearance in a photograph taken by the Voyager 1 space probe. The most distant photograph ever taken of Earth.

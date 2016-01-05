@@ -1,0 +1,9 @@
+---
+title: "Nicolás Venegas"
+date: 2012-06-12 20:30:50 00:00
+permalink: /nnvenegas
+twitter: ""
+likes: [387]
+id: 950
+gravatar: "http://www.gravatar.com/avatar/836554a5d6c8a43815d96b1130e4ed59"
+---

@@ -1,0 +1,6 @@
+---
+title: "blue"
+id: tag.id
+permalink: "/tags/blue"
+videos: [1579]
+---

@@ -1,0 +1,6 @@
+---
+title: "snapchat"
+id: tag.id
+permalink: "/tags/snapchat"
+videos: [2416]
+---

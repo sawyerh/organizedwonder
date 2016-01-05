@@ -1,0 +1,6 @@
+---
+title: "advertisment"
+id: tag.id
+permalink: "/tags/advertisment"
+videos: [2193]
+---

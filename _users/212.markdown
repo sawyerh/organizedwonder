@@ -1,0 +1,9 @@
+---
+title: "Ivan Zhao"
+date: 2012-05-18 05:18:40 00:00
+permalink: /ivanzhao
+twitter: "ivanhzhao"
+likes: [164,286,575,681]
+id: 212
+gravatar: "http://www.gravatar.com/avatar/9b837b9c9380d11b507e6ac6dda8b23f"
+---

@@ -1,0 +1,9 @@
+---
+title: "Rita P. Best"
+date: 2012-11-12 23:57:02 00:00
+permalink: /rbest
+twitter: ""
+likes: [1393]
+id: 1515
+gravatar: "http://www.gravatar.com/avatar/042914cc7beaf2f50a9f3a54f2cf18d3"
+---

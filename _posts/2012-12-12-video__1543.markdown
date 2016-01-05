@@ -3,12 +3,16 @@ title: "The Future of Content Management"
 date: 2012-12-12 12:00:50 00:00
 permalink: /videos/1543
 source: "http://vimeo.com/54834476"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/379/370/379370596_1280.jpg"
 user:
+  id: 1456
   username: "simuse"
   name: "Simon"
 tags: ["development","webdesign","csm","rachel andrew","smashing"]
 html: "<iframe src=\"http://player.vimeo.com/video/54834476\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1543
 ---
 
 Rachel Andrew is a front- and back-end Web developer, author and speaker. Her books include the bestselling CSS Anthology for SitePoint, and she is a regular contributor to a number of publications both online and off, including Smashing Magazine.

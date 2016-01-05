@@ -3,12 +3,16 @@ title: "Watch The Throne Mini-Documentary"
 date: 2014-03-04 18:00:09 00:00
 permalink: /videos/2238
 source: "https://vimeo.com/29560944"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/198/083/198083380_640.jpg"
 user:
+  id: 1667
   username: "sbgriffi"
   name: "Stuart G."
 tags: ["music","documentary","life","creativity","culture","inspiration","micro documentary"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F29560944&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F29560944&image=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F198%2F083%2F198083380_640.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"640\" height=\"360\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2238
 ---
 
 A look behind the scenes on the production of WTT.

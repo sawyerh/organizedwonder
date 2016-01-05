@@ -1,0 +1,6 @@
+---
+title: "museum mentality"
+id: tag.id
+permalink: "/tags/museum%20mentality"
+videos: [945]
+---

@@ -3,12 +3,16 @@ title: "The Future of Learning, Networked Society - Ericsson"
 date: 2013-05-03 02:51:43 00:00
 permalink: /videos/1864
 source: "http://www.youtube.com/watch?v=quYDkuD4dMU&feature=youtu.be"
+featured: true
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/quYDkuD4dMU/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["education","seth godin","technology"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/quYDkuD4dMU?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1864
 ---
 
 Can ICT redefine the way we learn in the Networked Society? Technology has enabled us to interact, innovate and share in whole new ways. This dynamic shift in mindset is creating profound change throughout our society. The Future of Learning looks at one part of that change, the potential to redefine how we learn and educate. Watch as we talk with world renowned experts and educators about its potential to shift away from traditional methods of learning based on memorization and repetition to more holistic approaches that focus on individual students' needs and self expression.

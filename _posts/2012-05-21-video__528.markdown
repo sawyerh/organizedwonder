@@ -3,12 +3,16 @@ title: "Quiet: the power of introverts in a world that can't stop talking"
 date: 2012-05-21 14:09:26 00:00
 permalink: /videos/528
 source: "http://www.youtube.com/watch?v=PhDCz0V9FcA"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/PhDCz0V9FcA/hqdefault.jpg"
 user:
+  id: 475
   username: "yewfai"
   name: "yewfai"
 tags: ["talk"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/PhDCz0V9FcA?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 528
 ---
 
 In an increasingly social world, author Susan Cain argues that we undervalue the power of the introvert at our peril. How can organisations ensure that the best ideas dominate, rather than those of the most vocal and assertive people?

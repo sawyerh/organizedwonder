@@ -1,0 +1,6 @@
+---
+title: "rochester"
+id: tag.id
+permalink: "/tags/rochester"
+videos: [60]
+---

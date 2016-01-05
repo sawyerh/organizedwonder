@@ -3,11 +3,15 @@ title: "Wired Editor Thomas Goetz: How to Spot the Future"
 date: 2012-05-21 08:54:18 00:00
 permalink: /videos/479
 source: "http://fora.tv/2012/05/01/WIRED_Business_Conference_How_to_Spot_the_Future"
+featured: false
+provider: "FORA.tv"
 thumbnail: "http://cdn.fora.tv/thumbnails/15486_320_240.jpg"
 user:
+  id: 508
   username: "anjali28"
   name: "Anjali Ramachandran"
 tags: []
 html: "<object type=\"application/x-shockwave-flash\" data=\"http://fora.tv/embedded_player\" width=\"400\" height=\"264\">    <param name=\"wmode\" value=\"transparent\"><param name=\"movie\" value=\"http://fora.tv/embedded_player\"><param name=\"quality\" value=\"high\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowScriptAccess\" value=\"always\"><param name=\"pluginspage\" value=\"http://www.macromedia.com/go/getflashplayer\"><param name=\"autoplay\" value=\"false\"><param name=\"autostart\" value=\"false\"><param name=\"flashvars\" value=\"webhost=fora.tv&amp;clipid=15486&amp;cliptype=clip&amp;ie=f\"><embed src=\"http://fora.tv/embedded_player\" flashvars=\"webhost=fora.tv&amp;clipid=15486&amp;cliptype=clip&amp;ie=f\" width=\"400\" height=\"264\" type=\"application/x-shockwave-flash\" wmode=\"transparent\"></embed></object>"
+id: 479
 ---
 

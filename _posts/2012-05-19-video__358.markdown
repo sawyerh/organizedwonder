@@ -3,12 +3,16 @@ title: "Erik Spiekermann - Putting Back the Face into Typeface"
 date: 2012-05-19 04:43:07 00:00
 permalink: /videos/358
 source: "https://vimeo.com/19429698"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/123/157/123157353_640.jpg"
 user:
+  id: 43
   username: "miguelamaral"
   name: "Miguel Amaral"
 tags: ["interview","design","typography","erik spiekermann"]
 html: "<iframe src=\"http://player.vimeo.com/video/19429698\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 358
 ---
 
 The design genius talks about new visual languages, design processes, the analogies of music and typography, and why a better client culture is needed.

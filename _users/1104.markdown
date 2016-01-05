@@ -1,0 +1,9 @@
+---
+title: "mark rosch"
+date: 2012-06-25 04:50:39 00:00
+permalink: /mroschitsch
+twitter: ""
+likes: [73]
+id: 1104
+gravatar: "http://www.gravatar.com/avatar/5861373c8eb9e8ad1aaaef0e3579ab80"
+---

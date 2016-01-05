@@ -1,0 +1,9 @@
+---
+title: "Gabe Kelley"
+date: 2012-05-17 22:41:13 00:00
+permalink: /gabekelley
+twitter: "@gabekelley"
+likes: [16,119,120,116,2,264,58,678,35]
+id: 133
+gravatar: "http://www.gravatar.com/avatar/f2d01a3276fcf6fa76e2d86ef770e49a"
+---

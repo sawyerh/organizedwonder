@@ -1,0 +1,9 @@
+---
+title: "heather plambeck"
+date: 2015-07-03 20:59:12 00:00
+permalink: /hplambeck
+twitter: ""
+likes: [2482,2531]
+id: 2405
+gravatar: "http://www.gravatar.com/avatar/b1ccd48d167b6539c5b58709e22bc97a"
+---

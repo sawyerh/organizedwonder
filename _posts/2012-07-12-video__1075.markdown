@@ -3,12 +3,16 @@ title: "Eyeo2012 - Robert Hodgin"
 date: 2012-07-12 17:58:41 00:00
 permalink: /videos/1075
 source: "http://vimeo.com/45526286"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/316/680/316680187_960.jpg"
 user:
+  id: 26
   username: "destroytoday"
   name: "Jonnie Hallman"
 tags: ["talk","lecture","programming","experimentation"]
 html: "<iframe src=\"http://player.vimeo.com/video/45526286\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1075
 ---
 
 For Eyeo, Robert created 12 new projects.

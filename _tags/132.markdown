@@ -1,0 +1,6 @@
+---
+title: "stephanie tamez"
+id: tag.id
+permalink: "/tags/stephanie%20tamez"
+videos: [64]
+---

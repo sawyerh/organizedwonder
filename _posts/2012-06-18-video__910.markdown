@@ -3,12 +3,16 @@ title: "Nuit Blanche"
 date: 2012-06-18 22:43:49 00:00
 permalink: /videos/910
 source: "http://vimeo.com/9078364"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/458/463/45846366_1280.jpg"
 user:
+  id: 1030
   username: "trinadafilipina"
   name: "Trina Dikitanan"
 tags: ["vfx","fantasy","compositing"]
 html: "<iframe src=\"http://player.vimeo.com/video/9078364\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 910
 ---
 
 facebook.com/spyfilms.worldwide - Nuit Blanche explores a fleeting moment between two strangers, revealing their brief connection in a hyper real fantasy. 

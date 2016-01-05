@@ -1,0 +1,9 @@
+---
+title: "Jason Horne"
+date: 2012-10-03 15:04:11 00:00
+permalink: /jasonrhorne
+twitter: ""
+likes: [1398,326,69]
+id: 1364
+gravatar: "http://www.gravatar.com/avatar/c3347c67044fc60f377ca8acdd122eb0"
+---

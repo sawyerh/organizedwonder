@@ -1,0 +1,6 @@
+---
+title: "brooklyn"
+id: tag.id
+permalink: "/tags/brooklyn"
+videos: [45,48,49,325,1826,1895,2335,2340,2379]
+---

@@ -1,0 +1,6 @@
+---
+title: "legend"
+id: tag.id
+permalink: "/tags/legend"
+videos: [2577,2579]
+---

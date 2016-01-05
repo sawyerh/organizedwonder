@@ -1,0 +1,6 @@
+---
+title: "newspaper"
+id: tag.id
+permalink: "/tags/newspaper"
+videos: [1379]
+---

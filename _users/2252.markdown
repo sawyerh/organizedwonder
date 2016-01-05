@@ -1,0 +1,9 @@
+---
+title: "Sammy Margalit"
+date: 2014-02-11 01:36:31 00:00
+permalink: /speak
+twitter: "SamMargalit"
+likes: [2225,2226,1109]
+id: 2252
+gravatar: "http://www.gravatar.com/avatar/267b5b9925a6e23b871e082dae8fb6c5"
+---

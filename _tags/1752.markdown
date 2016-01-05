@@ -1,0 +1,6 @@
+---
+title: "interactive art"
+id: tag.id
+permalink: "/tags/interactive%20art"
+videos: [2113]
+---

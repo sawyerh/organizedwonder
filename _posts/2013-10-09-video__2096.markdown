@@ -3,12 +3,16 @@ title: "Sursis"
 date: 2013-10-09 08:36:04 00:00
 permalink: /videos/2096
 source: "https://vimeo.com/76054591"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/450/944/450944232_1280.jpg"
 user:
+  id: 1095
   username: "nrdm"
   name: "Nicolas Raspail"
 tags: ["nicolas raspail","antoine duchêne","audrey marain","axel teyssier","george grisbin","marie antunes","myriam desclèves","olivier mignard","renaud tertrais","sursis"]
 html: "<iframe src=\"http://player.vimeo.com/video/76054591\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 2096
 ---
 
 Edgar lost everything, can't remember how to write. Fragments of himself haunt him as he tries not to recall his prior life. When his daily dose of blank sheet stops coming to him, he can't ignore the past anymore... will this evocation bring him peace of mind or worsen his affliction ?

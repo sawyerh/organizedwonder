@@ -1,0 +1,9 @@
+---
+title: "Gabriel Valdivia"
+date: 2012-11-12 23:05:24 00:00
+permalink: /gabrielvaldivia
+twitter: ""
+likes: [1526,1527,1631,121]
+id: 1514
+gravatar: "http://www.gravatar.com/avatar/61a286a382194e9a2d52aac844f580ba"
+---

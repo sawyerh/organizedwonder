@@ -1,0 +1,9 @@
+---
+title: "Dave McDougall"
+date: 2012-08-14 04:06:51 00:00
+permalink: /randomdave
+twitter: ""
+likes: [639]
+id: 1293
+gravatar: "http://www.gravatar.com/avatar/832f90ffe420713aaafd41f03fe98678"
+---

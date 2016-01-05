@@ -3,12 +3,16 @@ title: "Experiment No. 3 - Scrap Surf"
 date: 2013-08-14 14:10:18 00:00
 permalink: /videos/2046
 source: "http://vimeo.com/channels/thecraftsmanshipchannel/50315573"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/348/809/348809419_1280.jpg"
 user:
+  id: 1611
   username: "niuenso"
   name: "Manuel Moreale"
 tags: ["craft","surfing","made by hand","handmade"]
 html: "<iframe src=\"http://player.vimeo.com/video/50315573\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 2046
 ---
 
 Shwood founder Eric Singer teams up with friends to create a unique wooden surfboard. Watch how Singer and company process and shape this functional one-of-a-kind board using reclaimed wood found on the Oregon coast.

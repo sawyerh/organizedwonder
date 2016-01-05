@@ -1,0 +1,9 @@
+---
+title: "Jacques"
+date: 2012-05-19 02:03:32 00:00
+permalink: /jacquestardie
+twitter: "jacquestardie"
+likes: [66,734,736,72,909,907,1014]
+id: 414
+gravatar: "http://www.gravatar.com/avatar/47d191bb7eed82141292690fee010b63"
+---

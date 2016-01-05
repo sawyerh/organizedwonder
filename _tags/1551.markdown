@@ -1,0 +1,6 @@
+---
+title: "ken burns"
+id: tag.id
+permalink: "/tags/ken%20burns"
+videos: [1754]
+---

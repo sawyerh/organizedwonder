@@ -1,0 +1,6 @@
+---
+title: "extinction"
+id: tag.id
+permalink: "/tags/extinction"
+videos: [2067]
+---

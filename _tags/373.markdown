@@ -1,0 +1,6 @@
+---
+title: "blu"
+id: tag.id
+permalink: "/tags/blu"
+videos: [339,1039,1040]
+---

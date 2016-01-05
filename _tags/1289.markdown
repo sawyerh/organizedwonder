@@ -1,0 +1,6 @@
+---
+title: "fronteers"
+id: tag.id
+permalink: "/tags/fronteers"
+videos: [1532]
+---

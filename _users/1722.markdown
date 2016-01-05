@@ -1,0 +1,9 @@
+---
+title: "Noah Carter"
+date: 2013-01-06 18:02:46 00:00
+permalink: /noahcarter
+twitter: ""
+likes: [1545]
+id: 1722
+gravatar: "http://www.gravatar.com/avatar/6d13654c47b563262e23979c09dd1b22"
+---

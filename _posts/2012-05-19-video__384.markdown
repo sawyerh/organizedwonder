@@ -3,12 +3,16 @@ title: "Gilbert et George"
 date: 2012-05-19 12:23:33 00:00
 permalink: /videos/384
 source: "http://www.dailymotion.com/video/x9y5oe_artnetfr-gilbert-et-george-a-paris_creation"
+featured: false
+provider: "Dailymotion"
 thumbnail: "http://static2.dmcdn.net/static/video/602/017/16710206:jpeg_preview_large.jpg?20120307110751"
 user:
+  id: 276
   username: "apropos"
   name: "Barbara"
 tags: ["art","interview","gilbert & georges"]
 html: "<iframe src=\"http://www.dailymotion.com/embed/video/x9y5oe\" width=\"480\" height=\"360\" frameborder=\"0\"></iframe>"
+id: 384
 ---
 
 Gilbert et George à Paris - une vidéo Art et Création

@@ -1,0 +1,6 @@
+---
+title: "jack white"
+id: tag.id
+permalink: "/tags/jack%20white"
+videos: [581,1113]
+---

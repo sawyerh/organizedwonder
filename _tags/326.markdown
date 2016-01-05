@@ -1,0 +1,6 @@
+---
+title: "muppets"
+id: tag.id
+permalink: "/tags/muppets"
+videos: [256]
+---

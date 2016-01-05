@@ -1,0 +1,9 @@
+---
+title: "Peter Peterson"
+date: 2012-05-15 15:09:36 00:00
+permalink: /ipetepete
+twitter: "iPetePete"
+likes: [48]
+id: 29
+gravatar: "http://www.gravatar.com/avatar/522f44265e0ed80578f6d3af4cdf7011"
+---

@@ -1,0 +1,6 @@
+---
+title: "infinity"
+id: tag.id
+permalink: "/tags/infinity"
+videos: [846]
+---

@@ -3,12 +3,16 @@ title: "The Fringe Benefits of Failure by J.K.Rowling"
 date: 2012-05-21 14:33:13 00:00
 permalink: /videos/530
 source: "http://vimeo.com/1711302"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/210/119/21011935_295.jpg"
 user:
+  id: 326
   username: "telmabaptista"
   name: "Telma Patrícia Ruivo Baptista"
 tags: ["talk","j.k.rowling"]
 html: "<iframe src=\"http://player.vimeo.com/video/1711302\" width=\"504\" height=\"380\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 530
 ---
 
 "There is an expiry date on blaming your parents for steering you in the wrong direction; the moment you are old enough to take the wheel, responsibility lies with you. What is more, I cannot criticise my parents for hoping that I would never experience poverty. They had been poor themselves, and I have since been poor, and I quite agree with them that it is not an ennobling experience. Poverty entails fear, and stress, and sometimes depression; it means a thousand petty humiliations and hardships. Climbing out of poverty by your own efforts, that is indeed something on which to pride yourself, but poverty itself is romanticised only by fools."

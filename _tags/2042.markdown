@@ -1,0 +1,6 @@
+---
+title: "killer"
+id: tag.id
+permalink: "/tags/killer"
+videos: [2509]
+---

@@ -1,0 +1,9 @@
+---
+title: "Eddie Lobanovskiy"
+date: 2013-03-29 20:11:25 00:00
+permalink: /lobanovskiy
+twitter: "lobanovskiy"
+likes: [1743]
+id: 1875
+gravatar: "http://www.gravatar.com/avatar/91dac464032856afc0e0311493b0e0ed"
+---

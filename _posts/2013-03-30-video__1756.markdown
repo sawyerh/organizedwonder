@@ -3,12 +3,16 @@ title: "You Are What You Tweet"
 date: 2013-03-30 20:05:03 00:00
 permalink: /videos/1756
 source: "http://www.youtube.com/watch?feature=player_embedded&v=-xU92gDntQo#!"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/-xU92gDntQo/hqdefault.jpg"
 user:
+  id: 1839
   username: "abarba"
   name: "Anthony Barba"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/-xU92gDntQo?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1756
 ---
 
 Ricky Van Veen ('03) returns to Wake Forest to speak at the second annual TEDxWakeForestU Conference. As a student at Wake Forest in 1999, Van Veen started CollegeHumor in his dorm room.

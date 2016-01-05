@@ -1,0 +1,9 @@
+---
+title: "Rohit Mehta"
+date: 2012-11-28 14:30:51 00:00
+permalink: /rohitrmehta
+twitter: ""
+likes: [1508,1011,1495,1758,808,1595,1987,1896]
+id: 1635
+gravatar: "http://www.gravatar.com/avatar/50f2195a5edee044d8ed408648e022ea"
+---

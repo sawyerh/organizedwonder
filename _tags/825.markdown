@@ -1,0 +1,6 @@
+---
+title: "suffering"
+id: tag.id
+permalink: "/tags/suffering"
+videos: [869]
+---

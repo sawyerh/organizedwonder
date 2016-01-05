@@ -1,0 +1,6 @@
+---
+title: "beatnik"
+id: tag.id
+permalink: "/tags/beatnik"
+videos: [1419]
+---

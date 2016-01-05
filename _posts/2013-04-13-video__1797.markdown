@@ -3,12 +3,16 @@ title: "Marina Abramovic Meets Ulay"
 date: 2013-04-13 18:31:48 00:00
 permalink: /videos/1797
 source: "http://www.youtube.com/watch?v=s1H0IdwPCWY"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/s1H0IdwPCWY/hqdefault.jpg"
 user:
+  id: 1887
   username: "christinatea91"
   name: "Christina Tellez"
 tags: ["art","installation","inspirational","artist","love"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/s1H0IdwPCWY?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1797
 ---
 
 The artist Marina Abramovic did a 2010 performance art piece at the Museum of Modern Art, where she sat in a chair, and, one by one, people could sit opposite her and look into her eyes. It was a powerful experience even with strangers, but then her former love Ulay arrived without her knowledge. This video shows the moment she sees him. Apparently they had had a passionate love affair back in the 70s, but when they felt the relationship was fizzling, they decided to walk the Great Wall of China, each from one end, meeting in the middle for a last hug and never seeing each other again. Here they are, meeting once again.

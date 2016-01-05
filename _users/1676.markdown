@@ -1,0 +1,9 @@
+---
+title: "Nyambura"
+date: 2012-12-12 18:14:16 00:00
+permalink: /ngichohi
+twitter: ""
+likes: [1455]
+id: 1676
+gravatar: "http://www.gravatar.com/avatar/170e9f4a8fdf2bc5b80bd53b18b0b74f"
+---

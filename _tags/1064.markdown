@@ -1,0 +1,6 @@
+---
+title: "lightning"
+id: tag.id
+permalink: "/tags/lightning"
+videos: [1125]
+---

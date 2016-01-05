@@ -1,0 +1,9 @@
+---
+title: "Freddif"
+date: 2012-07-22 00:47:15 00:00
+permalink: /freddif
+twitter: ""
+likes: [1111]
+id: 1220
+gravatar: "http://www.gravatar.com/avatar/a17ac8d765da3720e958c5172109caa1"
+---

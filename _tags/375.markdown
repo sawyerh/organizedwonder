@@ -1,0 +1,6 @@
+---
+title: "last lecture"
+id: tag.id
+permalink: "/tags/last%20lecture"
+videos: [341]
+---

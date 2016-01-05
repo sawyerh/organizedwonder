@@ -3,12 +3,16 @@ title: "Embrace the Remix"
 date: 2012-08-11 00:34:54 00:00
 permalink: /videos/1244
 source: "https://www.youtube.com/watch?v=L1s_PybOuY0"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/L1s_PybOuY0/hqdefault.jpg"
 user:
+  id: 274
   username: "zalew"
   name: "Jakub Zalewski"
 tags: ["ted","ted talk","copyright","patents"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/L1s_PybOuY0?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1244
 ---
 
 Nothing is original, says Kirby Ferguson, creator of Everything is a Remix. From Bob Dylan to Steve Jobs, he says our most celebrated creators borrow, steal and transform. Kirby Ferguson explores creativity in a world where "everything is a remix."

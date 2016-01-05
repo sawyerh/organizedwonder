@@ -1,0 +1,9 @@
+---
+title: "Christina Tellez"
+date: 2013-03-30 19:26:21 00:00
+permalink: /christinatea91
+twitter: "christinatea91"
+likes: [1743,1568,467,531,1681,1660,317,534,1236,16,306,481,1434,1239,1198,1772,1797,1712,609,1852,1884]
+id: 1887
+gravatar: "http://www.gravatar.com/avatar/7dd68e4671e9faeb3b0889ec249fa5d7"
+---

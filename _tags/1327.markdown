@@ -1,0 +1,6 @@
+---
+title: "portraits"
+id: tag.id
+permalink: "/tags/portraits"
+videos: [1578]
+---

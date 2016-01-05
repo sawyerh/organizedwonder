@@ -1,0 +1,9 @@
+---
+title: "Yina Tsai"
+date: 2012-06-15 07:56:40 00:00
+permalink: /yina727
+twitter: ""
+likes: [719]
+id: 1035
+gravatar: "http://www.gravatar.com/avatar/141d1e7875a28dd7ce13876b6e027db2"
+---

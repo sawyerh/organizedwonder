@@ -1,0 +1,6 @@
+---
+title: "thailand"
+id: tag.id
+permalink: "/tags/thailand"
+videos: [149]
+---

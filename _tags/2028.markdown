@@ -1,0 +1,6 @@
+---
+title: "future brand"
+id: tag.id
+permalink: "/tags/future%20brand"
+videos: [2500]
+---

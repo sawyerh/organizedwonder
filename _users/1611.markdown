@@ -1,0 +1,9 @@
+---
+title: "Manuel Moreale"
+date: 2012-11-23 10:21:48 00:00
+permalink: /niuenso
+twitter: "manuelmoreale"
+likes: [69,1889,1365,2046,2048,398]
+id: 1611
+gravatar: "http://www.gravatar.com/avatar/0ccaa44b3ab222e0295032b1f989d8dc"
+---

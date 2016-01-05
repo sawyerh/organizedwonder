@@ -1,0 +1,6 @@
+---
+title: "yeezy"
+id: tag.id
+permalink: "/tags/yeezy"
+videos: [2521]
+---

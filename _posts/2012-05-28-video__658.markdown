@@ -3,11 +3,15 @@ title: "Extreme Engineering Cooper River Bridge"
 date: 2012-05-28 01:04:04 00:00
 permalink: /videos/658
 source: "http://www.youtube.com/watch?v=ovp1QeWlGLw"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/ovp1QeWlGLw/hqdefault.jpg"
 user:
+  id: 707
   username: "rogeriomondi"
   name: "RogerioMondi"
 tags: ["documentary","documentário","engineering","ponte","bridge","cooper river"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/ovp1QeWlGLw?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 658
 ---
 

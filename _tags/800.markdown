@@ -1,0 +1,6 @@
+---
+title: "laugh"
+id: tag.id
+permalink: "/tags/laugh"
+videos: [858]
+---

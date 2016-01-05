@@ -1,0 +1,6 @@
+---
+title: "noisey"
+id: tag.id
+permalink: "/tags/noisey"
+videos: [2294]
+---

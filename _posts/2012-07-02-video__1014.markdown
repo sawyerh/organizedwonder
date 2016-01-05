@@ -3,11 +3,15 @@ title: "Coda Hale: How an Organization's Structure Relates to it's Software Arch
 date: 2012-07-02 22:07:57 00:00
 permalink: /videos/1014
 source: "http://www.livestream.com/etsy/video?clipId=pla_780bfe22-12e8-4c7f-8c7b-06cc6cac9c49"
+featured: false
+provider: "Livestream"
 thumbnail: "http://www.livestream.com/filestore/user-files/chetsy/2012/06/28/40e843c6-3aac-4370-8875-cb1c16c14d87_1.jpg"
 user:
+  id: 155
   username: "techwraith"
   name: "Daniel Erickson"
 tags: ["business","engineering","organization"]
 html: "<object width=\"450\" height=\"279\" id=\"lsplayer\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\"><param name=\"wmode\" value=\"transparent\"><param name=\"movie\" value=\"http://cdn.livestream.com/grid/LSPlayer.swf?channel=etsy&amp;clip=pla_780bfe22-12e8-4c7f-8c7b-06cc6cac9c49&amp;autoPlay=false\"><param name=\"allowScriptAccess\" value=\"always\"><param name=\"allowFullScreen\" value=\"true\"><embed name=\"lsplayer\" wmode=\"transparent\" src=\"http://cdn.livestream.com/grid/LSPlayer.swf?channel=etsy&amp;clip=pla_780bfe22-12e8-4c7f-8c7b-06cc6cac9c49&amp;autoPlay=false\" width=\"450\" height=\"279\" allowscriptaccess=\"always\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>"
+id: 1014
 ---
 

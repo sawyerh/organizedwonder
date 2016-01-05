@@ -3,12 +3,16 @@ title: "The Art of Herman Zapf"
 date: 2012-05-19 03:07:04 00:00
 permalink: /videos/350
 source: "http://vimeo.com/5385464"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/174/246/17424669_295.jpg"
 user:
+  id: 416
   username: "codesigner"
   name: "Codesign"
 tags: ["herman zapf","calligraphy"]
 html: "<iframe src=\"http://player.vimeo.com/video/5385464\" width=\"320\" height=\"240\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 350
 ---
 
 "A film on the purpose and techniques of calligraphy. Presented produced by Hallmark."

@@ -1,0 +1,9 @@
+---
+title: "Kaleigh Elizabeth Dixon"
+date: 2013-08-31 16:06:10 00:00
+permalink: /kaleighelizabth
+twitter: ""
+likes: [2054,1986,2058,48,788]
+id: 2063
+gravatar: "http://www.gravatar.com/avatar/901d7b6fe1f3397b33df4a0488aeb499"
+---

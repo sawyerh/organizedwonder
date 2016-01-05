@@ -3,12 +3,16 @@ title: "The Old Typewriter"
 date: 2012-05-20 21:30:43 00:00
 permalink: /videos/471
 source: "http://www.youtube.com/watch?v=g8mRux6M4RQ"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/g8mRux6M4RQ/hqdefault.jpg"
 user:
+  id: 517
   username: "carolynzick"
   name: "Carolyn Z"
 tags: ["write"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/g8mRux6M4RQ?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 471
 ---
 
 Typewriter lovenote

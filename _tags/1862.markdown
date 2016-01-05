@@ -1,0 +1,6 @@
+---
+title: "emotion"
+id: tag.id
+permalink: "/tags/emotion"
+videos: [2237]
+---

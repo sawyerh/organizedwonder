@@ -1,0 +1,6 @@
+---
+title: "dieter rams"
+id: tag.id
+permalink: "/tags/dieter%20rams"
+videos: [69,1637,2024]
+---

@@ -1,0 +1,6 @@
+---
+title: "band poster"
+id: tag.id
+permalink: "/tags/band%20poster"
+videos: [608]
+---

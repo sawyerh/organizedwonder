@@ -3,12 +3,16 @@ title: "Traffic in Frenetic HCMC, Vietnam"
 date: 2012-06-21 20:42:16 00:00
 permalink: /videos/940
 source: "http://vimeo.com/32958521"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/288/239/288239370_1280.jpg"
 user:
+  id: 1092
   username: "donaldguy"
   name: "Donald Guy"
 tags: ["timelapse","short film","culture","vietnam","people watching"]
 html: "<iframe src=\"http://player.vimeo.com/video/32958521\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 940
 ---
 
 A well-produced and award winning timelapse of crazy traffic and goings-on in the Ho Chi Min City / Saigon, Vietnam. Shows a great variety of life. Good people watching.

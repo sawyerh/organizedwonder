@@ -1,0 +1,6 @@
+---
+title: "cnn"
+id: tag.id
+permalink: "/tags/cnn"
+videos: [2296]
+---

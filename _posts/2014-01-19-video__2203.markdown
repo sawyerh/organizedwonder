@@ -3,12 +3,16 @@ title: "On Being Ugly"
 date: 2014-01-19 16:53:55 00:00
 permalink: /videos/2203
 source: "http://www.youtube.com/watch?v=2js063a1Suk#t=405"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/2js063a1Suk/hqdefault.jpg"
 user:
+  id: 737
   username: "serenangai"
   name: "Serena Ngai"
 tags: ["beauty"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2F2js063a1Suk%3Fwmode%3Dtransparent%26feature%3Doembed%26start%3D405&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2js063a1Suk&image=http%3A%2F%2Fi1.ytimg.com%2Fvi%2F2js063a1Suk%2Fhqdefault.jpg&key=950020ba825211e1a0764040d3dc5c07&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2203
 ---
 
 Ultimately, feeling beautiful and ugly are the same thing.

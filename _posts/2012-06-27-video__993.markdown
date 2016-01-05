@@ -3,11 +3,15 @@ title: "Jack Daniel's Declaration of Independence Campaign Video"
 date: 2012-06-27 16:00:35 00:00
 permalink: /videos/993
 source: "http://vimeo.com/44756146#"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/311/072/311072001_960.jpg"
 user:
+  id: 1128
   username: "jakedugard"
   name: "jakedugard"
 tags: ["design","typography","jack daniels","helms"]
 html: "<iframe src=\"http://player.vimeo.com/video/44756146\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 993
 ---
 

@@ -1,0 +1,6 @@
+---
+title: "guy kawasaki"
+id: tag.id
+permalink: "/tags/guy%20kawasaki"
+videos: [801]
+---

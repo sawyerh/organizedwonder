@@ -3,12 +3,16 @@ title: "The Sound of Dust"
 date: 2012-08-24 18:58:38 00:00
 permalink: /videos/1306
 source: "https://vimeo.com/46727629"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/329/337/329337788_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["craft","short documentary","surfing"]
 html: "<iframe src=\"http://player.vimeo.com/video/46727629\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1306
 ---
 
 Film short documenting the work and philosophy of Huntington Beach surfboard shaper Tim Stamps. A look into Tim's world of quality and craftsmanship.

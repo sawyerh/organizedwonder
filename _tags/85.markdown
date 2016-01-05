@@ -1,0 +1,6 @@
+---
+title: "simon sinek"
+id: tag.id
+permalink: "/tags/simon%20sinek"
+videos: [39]
+---

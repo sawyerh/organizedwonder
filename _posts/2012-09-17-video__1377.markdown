@@ -3,11 +3,15 @@ title: "21 Balançoires (21 Swings)"
 date: 2012-09-17 16:55:20 00:00
 permalink: /videos/1377
 source: "http://vimeo.com/40980676"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/283/720/283720828_640.jpg"
 user:
+  id: 412
   username: "susie"
   name: "Susie"
 tags: ["music","installation","collaboration"]
 html: "<iframe src=\"http://player.vimeo.com/video/40980676\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1377
 ---
 

@@ -1,0 +1,6 @@
+---
+title: "aaron sorkin"
+id: tag.id
+permalink: "/tags/aaron%20sorkin"
+videos: [885]
+---

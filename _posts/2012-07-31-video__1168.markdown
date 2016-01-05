@@ -3,12 +3,16 @@ title: "James White (Signalnoise) - \"Design Renegade\" at WMC Fest 2012"
 date: 2012-07-31 15:35:10 00:00
 permalink: /videos/1168
 source: "http://www.youtube.com/watch?v=DsF0If8nOe8&feature=g-upl"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/DsF0If8nOe8/hqdefault.jpg"
 user:
+  id: 1046
   username: "jfinley"
   name: "Jeff Finley"
 tags: ["lecture","entrepreneur","festival","graphic design","inspirational","design conference","wmc fest","cleveland","speaker","diy","ohio","midwest"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/DsF0If8nOe8?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1168
 ---
 
 James White (Signalnoise) gives a presentation titled "Design Renegade" at Weapons of Mass Creation Fest 2012 in Cleveland, OH - http://wmcfest.com

@@ -1,0 +1,9 @@
+---
+title: "Ahmad Al-Ajmii"
+date: 2012-10-01 20:40:04 00:00
+permalink: /ahmadajmi
+twitter: "AhmadAjmi"
+likes: [1271,1110,2397]
+id: 1361
+gravatar: "http://www.gravatar.com/avatar/ac35c8c826bb135a1c002ae034d81361"
+---

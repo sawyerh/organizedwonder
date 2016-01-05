@@ -1,0 +1,9 @@
+---
+title: "alin mateescu"
+date: 2013-01-04 18:58:10 00:00
+permalink: /alinmat
+twitter: ""
+likes: [1271,1497,1399]
+id: 1718
+gravatar: "http://www.gravatar.com/avatar/327b29da631dbbe3cf26053972c36ace"
+---

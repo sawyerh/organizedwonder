@@ -1,0 +1,6 @@
+---
+title: "standards"
+id: tag.id
+permalink: "/tags/standards"
+videos: [1103]
+---

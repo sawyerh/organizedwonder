@@ -3,11 +3,15 @@ title: "Ike Edeani - Like Knows Like"
 date: 2013-04-02 18:45:16 00:00
 permalink: /videos/1776
 source: "https://vimeo.com/63161016"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/433/305/433305156_1280.jpg"
 user:
+  id: 1905
   username: "jennaaaye"
   name: "Jennie Li"
 tags: ["interview","photography"]
 html: "<iframe src=\"http://player.vimeo.com/video/63161016\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1776
 ---
 

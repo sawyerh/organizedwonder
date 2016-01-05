@@ -1,0 +1,6 @@
+---
+title: "collate"
+id: tag.id
+permalink: "/tags/collate"
+videos: [1678]
+---

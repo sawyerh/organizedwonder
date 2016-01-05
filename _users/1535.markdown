@@ -1,0 +1,9 @@
+---
+title: "Alexander Diaz"
+date: 2012-11-14 01:40:26 00:00
+permalink: /designbyparts
+twitter: ""
+likes: [1574]
+id: 1535
+gravatar: "http://www.gravatar.com/avatar/084b6919df364286f779e1e30990f213"
+---

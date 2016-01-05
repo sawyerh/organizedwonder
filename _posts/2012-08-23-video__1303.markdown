@@ -3,12 +3,16 @@ title: "The Art of Animation and Motion Graphics | Off Book | PBS"
 date: 2012-08-23 20:57:14 00:00
 permalink: /videos/1303
 source: "http://www.youtube.com/watch?v=X0hVEH4se-0"
+featured: true
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/X0hVEH4se-0/hqdefault.jpg"
 user:
+  id: 1030
   username: "trinadafilipina"
   name: "Trina Dikitanan"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/X0hVEH4se-0?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1303
 ---
 
 Animation has been captivating audiences for more than a hundred years. From classic forms like hand drawn and stop-motion, to cutting-edge techniques like motion graphics and CGI, animation has a long history of creating style and poetry unachievable through live action filmmaking. It is a tool for educating, a place for experimentation and play, and a way of telling personal stories that reach the viewer with powerful visual metaphors.

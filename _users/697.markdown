@@ -1,0 +1,9 @@
+---
+title: "M. Shin"
+date: 2012-05-26 20:44:28 00:00
+permalink: /mfayeshin
+twitter: ""
+likes: [640,641,642,643]
+id: 697
+gravatar: "http://www.gravatar.com/avatar/8319d0f2e650298fd1853cce4d0f59f4"
+---

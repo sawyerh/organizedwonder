@@ -3,12 +3,16 @@ title: "UNDERCITY"
 date: 2012-05-15 04:53:25 00:00
 permalink: /videos/16
 source: "https://vimeo.com/18280328"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/115/004/115004966_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["documentary","urban exploration","nyc"]
 html: "<iframe src=\"http://player.vimeo.com/video/18280328\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 16
 ---
 
 This guy is crazy.

@@ -1,0 +1,9 @@
+---
+title: "Cameron Woodward"
+date: 2012-05-16 23:09:13 00:00
+permalink: /cameronwoodward
+twitter: ""
+likes: [90,91,92,93]
+id: 87
+gravatar: "http://www.gravatar.com/avatar/0052a04c9444ae4240a442798b3ee388"
+---

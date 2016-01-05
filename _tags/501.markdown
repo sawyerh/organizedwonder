@@ -1,0 +1,6 @@
+---
+title: "wisdom"
+id: tag.id
+permalink: "/tags/wisdom"
+videos: [527,1762,1763,2019,2473]
+---

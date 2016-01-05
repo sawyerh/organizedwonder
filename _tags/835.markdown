@@ -1,0 +1,6 @@
+---
+title: "lost interview"
+id: tag.id
+permalink: "/tags/lost%20interview"
+videos: [881]
+---

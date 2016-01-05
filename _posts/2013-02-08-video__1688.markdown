@@ -3,11 +3,15 @@ title: "Aral Balkan | The Future is Native | Fronteers 2011"
 date: 2013-02-08 21:51:15 00:00
 permalink: /videos/1688
 source: "https://vimeo.com/30659519"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/206/048/206048791_640.jpg"
 user:
+  id: 471
   username: "themanro"
   name: "Roman Rusinov"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/30659519\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1688
 ---
 

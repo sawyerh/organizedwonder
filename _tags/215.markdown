@@ -1,0 +1,6 @@
+---
+title: "interior design"
+id: tag.id
+permalink: "/tags/interior%20design"
+videos: [149,1447]
+---

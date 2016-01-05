@@ -3,12 +3,16 @@ title: "Walker Art Center: Casey Caplowe of Good Magazine"
 date: 2012-05-19 00:25:36 00:00
 permalink: /videos/329
 source: "http://www.youtube.com/watch?feature=player_embedded&v=76aeQ7mYbIc"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/76aeQ7mYbIc/hqdefault.jpg"
 user:
+  id: 359
   username: "marshmallowfeev"
   name: "bekah nutt"
 tags: ["design","talk","walker art center"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/76aeQ7mYbIc?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 329
 ---
 
 A three-time finalist for the National Magazine Awards, Good is a diverse enterprise with a printed magazine, a Web platform, and a convener of events. With the tagline, "For People Who Give a Damn," Good has become a catalyst for more socially engaged thinking around issues of health, food, the environment, and design. The Los Angeles--based Casey Caplowe is a cofounder of Good and serves as creative director.

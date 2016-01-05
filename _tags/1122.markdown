@@ -1,0 +1,6 @@
+---
+title: "august de los reyes"
+id: tag.id
+permalink: "/tags/august%20de%20los%20reyes"
+videos: [1231]
+---

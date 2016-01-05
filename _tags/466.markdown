@@ -1,0 +1,6 @@
+---
+title: "portugal"
+id: tag.id
+permalink: "/tags/portugal"
+videos: [482]
+---

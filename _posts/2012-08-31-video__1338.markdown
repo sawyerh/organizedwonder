@@ -3,11 +3,15 @@ title: "Keny Arkana - Vie d'artiste"
 date: 2012-08-31 19:27:57 00:00
 permalink: /videos/1338
 source: "http://www.dailymotion.com/video/k767XoUOjjmc0X3jDfU"
+featured: false
+provider: "Dailymotion"
 thumbnail: "http://static2.dmcdn.net/static/video/241/800/49008142:jpeg_preview_medium.jpg?20120831160015"
 user:
+  id: 643
   username: "zit_dantes"
   name: "Zit Dantes"
 tags: ["music","music video","hip-hop","rap","keny arkana"]
 html: "<iframe src=\"http://www.dailymotion.com/embed/video/xt6exa\" width=\"480\" height=\"209\" frameborder=\"0\"></iframe>"
+id: 1338
 ---
 

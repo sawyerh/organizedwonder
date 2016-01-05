@@ -3,11 +3,15 @@ title: "Lando Wilkins: “Dance (A$$)” by Big Sean"
 date: 2013-04-26 06:27:39 00:00
 permalink: /videos/1846
 source: "http://www.youtube.com/watch?v=hEnw14lBpCc"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/hEnw14lBpCc/hqdefault.jpg"
 user:
+  id: 1942
   username: "psyoko"
   name: "Yoko Sakao Ohama"
 tags: ["dance","choreography"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/hEnw14lBpCc?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1846
 ---
 

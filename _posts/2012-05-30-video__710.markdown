@@ -3,12 +3,16 @@ title: "Seth Godin at Gel 2006"
 date: 2012-05-30 20:04:19 00:00
 permalink: /videos/710
 source: "https://vimeo.com/4246943"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/931/989/9319897_640.jpg"
 user:
+  id: 157
   username: "swissmiss"
   name: "swissmiss"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/4246943\" width=\"640\" height=\"480\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 710
 ---
 
 Why are so many things broken? In this entertaining talk - one of the favorites of Gel 2006 - 

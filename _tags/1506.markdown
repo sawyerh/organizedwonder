@@ -1,0 +1,6 @@
+---
+title: "stanford"
+id: tag.id
+permalink: "/tags/stanford"
+videos: [1707]
+---

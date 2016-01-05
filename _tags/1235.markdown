@@ -1,0 +1,6 @@
+---
+title: "confidence"
+id: tag.id
+permalink: "/tags/confidence"
+videos: [1410]
+---

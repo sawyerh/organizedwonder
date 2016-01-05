@@ -1,0 +1,9 @@
+---
+title: "Christopher Ogden"
+date: 2014-01-16 17:45:20 00:00
+permalink: /ctogden
+twitter: "c_t_ogden"
+likes: [2317]
+id: 2203
+gravatar: "http://www.gravatar.com/avatar/8c9da3228f804c4d80e8987c15a2e8bc"
+---

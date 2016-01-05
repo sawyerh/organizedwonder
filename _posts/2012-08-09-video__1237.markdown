@@ -3,11 +3,15 @@ title: "what i have to offer"
 date: 2012-08-09 02:05:51 00:00
 permalink: /videos/1237
 source: "http://vimeo.com/45097801"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/313/504/313504585_960.jpg"
 user:
+  id: 593
   username: "kimcross"
   name: "Kim Cross"
 tags: ["inspirational"]
 html: "<iframe src=\"http://player.vimeo.com/video/45097801\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1237
 ---
 

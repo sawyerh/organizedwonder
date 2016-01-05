@@ -3,11 +3,15 @@ title: "JSConf2012 - Remy Sharp"
 date: 2012-08-06 13:40:57 00:00
 permalink: /videos/1229
 source: "http://blip.tv/jsconf/jsconf2012-remy-sharp-6142746"
+featured: false
+provider: "Blip"
 thumbnail: "http://a.images.blip.tv/Voodootikigod-14088560.png"
 user:
+  id: 337
   username: "procload"
   name: "Ryan Merrill"
 tags: []
 html: "<span><iframe src=\"http://blip.tv/play/g_Mngvb2fgI.html?p=1\" width=\"500\" height=\"360\" frameborder=\"0\" allowfullscreen></iframe><embed type=\"application/x-shockwave-flash\" src=\"http://a.blip.tv/api.swf#g_Mngvb2fgI\" style=\"display:none\" wmode=\"transparent\"></embed></span>"
+id: 1229
 ---
 

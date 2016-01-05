@@ -1,0 +1,6 @@
+---
+title: "sync"
+id: tag.id
+permalink: "/tags/sync"
+videos: [1775]
+---

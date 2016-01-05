@@ -1,0 +1,9 @@
+---
+title: "Cyrus Kety"
+date: 2012-05-18 08:52:02 00:00
+permalink: /cyrus
+twitter: "temiyin"
+likes: [137,53,39]
+id: 258
+gravatar: "http://www.gravatar.com/avatar/f83f81d2f916fd19d732b5fa856b1aba"
+---

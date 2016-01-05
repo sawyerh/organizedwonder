@@ -3,12 +3,16 @@ title: "Made by Hand / No 5 The Bike Maker"
 date: 2013-05-16 16:50:31 00:00
 permalink: /videos/1895
 source: "https://vimeo.com/66106900"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/437/388/437388520_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["craft","brooklyn","bicycle","made by hand","short film"]
 html: "<iframe src=\"http://player.vimeo.com/video/66106900\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1895
 ---
 
 Via http://thisismadebyhand.com/film/the_bike_maker

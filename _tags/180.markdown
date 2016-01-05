@@ -1,0 +1,6 @@
+---
+title: "contemporary"
+id: tag.id
+permalink: "/tags/contemporary"
+videos: [98,916]
+---

@@ -3,11 +3,15 @@ title: "Shane Koyczan: \"To This Day\" ... for the bullied and beautiful | Video
 date: 2013-03-22 20:55:39 00:00
 permalink: /videos/1745
 source: "http://www.ted.com/talks/shane_koyczan_to_this_day_for_the_bullied_and_beautiful.html"
+featured: false
+provider: "TED"
 thumbnail: "http://images.ted.com/images/ted/df7b1a3e1fe1b7ad65f630942d9e8c330b4ac9b4_389x292.jpg"
 user:
+  id: 412
   username: "susie"
   name: "Susie"
 tags: []
 html: "<iframe src=\"http://embed.ted.com/talks/shane_koyczan_to_this_day_for_the_bullied_and_beautiful.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1745
 ---
 

@@ -1,0 +1,6 @@
+---
+title: "gambling"
+id: tag.id
+permalink: "/tags/gambling"
+videos: [2214]
+---

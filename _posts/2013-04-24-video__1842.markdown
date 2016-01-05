@@ -3,12 +3,16 @@ title: "\"Building Relationships With Brands\" - Levi Maestro, Keynote at Scion 
 date: 2013-04-24 15:26:20 00:00
 permalink: /videos/1842
 source: "http://www.youtube.com/watch?feature=player_embedded&v=vj5z8aj4q30#!"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/vj5z8aj4q30/hqdefault.jpg"
 user:
+  id: 576
   username: "jl"
   name: "John Gregory Liwag"
 tags: ["interview","talk"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/vj5z8aj4q30?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1842
 ---
 
 Levi Maestro (MaestroKnows.com) talks about building his brand and making his life, his product.

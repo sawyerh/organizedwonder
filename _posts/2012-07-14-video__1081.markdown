@@ -3,12 +3,16 @@ title: "The Isle of Langkawi"
 date: 2012-07-14 18:04:36 00:00
 permalink: /videos/1081
 source: "https://vimeo.com/34109437"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/232/218/232218807_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["nature","malaysia","james w. griffiths"]
 html: "<iframe src=\"http://player.vimeo.com/video/34109437\" width=\"1280\" height=\"544\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1081
 ---
 
 A film about the legends and folktales of historical Langkawi.

@@ -3,11 +3,15 @@ title: "Paperman - Full Animated Short Film"
 date: 2013-02-01 17:36:06 00:00
 permalink: /videos/1661
 source: "http://www.youtube.com/watch?v=aTLySbGoMX0"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/aTLySbGoMX0/hqdefault.jpg"
 user:
+  id: 827
   username: "tmrly"
   name: "Tim Riley"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/aTLySbGoMX0?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1661
 ---
 

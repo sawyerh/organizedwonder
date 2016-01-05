@@ -1,0 +1,6 @@
+---
+title: "steve jobs"
+id: tag.id
+permalink: "/tags/steve%20jobs"
+videos: [61,555,698,801,959,1238,1684,1957,1977]
+---

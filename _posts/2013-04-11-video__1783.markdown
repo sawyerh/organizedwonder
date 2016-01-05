@@ -3,12 +3,16 @@ title: "Job Wouters' HOME Mural"
 date: 2013-04-11 16:15:10 00:00
 permalink: /videos/1783
 source: "http://www.youtube.com/watch?v=MhB233iMMIA&feature=player_embedded"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/MhB233iMMIA/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["painting","walker art center"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/MhB233iMMIA?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1783
 ---
 
 During his March 2013 visit to Minneapolis to speak as part of the Insights Design Lecture Series, Amsterdam-based artist/designer Job Wouters--better known as Letman--created a hand-painted mural in the Walker lobby. Inspired by his own history in graffiti, as well as influences from Asian calligraphy to cowboy lettering, Wouters spelled out the word "Home" in pink, brown, and green. "I think a museum can be so much more than a place where some well-lit pieces hang and you feel scared and not at ease," he said, explaining his thinking behind his choice of word. "It's very important to feel safe and comfortable at a museum, enjoying something beautiful or weird or surprising."

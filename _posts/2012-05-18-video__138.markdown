@@ -3,11 +3,15 @@ title: "Sketchy Ice Creams"
 date: 2012-05-18 02:12:03 00:00
 permalink: /videos/138
 source: "http://www.youtube.com/watch?v=EOfy5LDpEHo&feature=player_embedded"
+featured: true
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/EOfy5LDpEHo/hqdefault.jpg"
 user:
+  id: 157
   username: "swissmiss"
   name: "swissmiss"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/EOfy5LDpEHo?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 138
 ---
 

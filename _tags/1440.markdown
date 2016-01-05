@@ -1,0 +1,6 @@
+---
+title: "art exhibit"
+id: tag.id
+permalink: "/tags/art%20exhibit"
+videos: [1650]
+---

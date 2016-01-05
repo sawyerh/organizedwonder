@@ -1,0 +1,6 @@
+---
+title: "motion graphics"
+id: tag.id
+permalink: "/tags/motion%20graphics"
+videos: [9,19,22,17,57,81,82,101,108,188,655,773,1370,1383,1541,1655,1658,1814,2084,2149]
+---

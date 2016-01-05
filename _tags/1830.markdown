@@ -1,0 +1,6 @@
+---
+title: "news"
+id: tag.id
+permalink: "/tags/news"
+videos: [2246,2200,2554]
+---

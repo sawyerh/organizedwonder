@@ -1,0 +1,9 @@
+---
+title: "Donald Guy"
+date: 2012-06-21 20:30:04 00:00
+permalink: /donaldguy
+twitter: "donaldguy"
+likes: [938,939,940,941]
+id: 1092
+gravatar: "http://www.gravatar.com/avatar/0a6139b8cca736cc704b3ca2f1a18492"
+---

@@ -1,0 +1,6 @@
+---
+title: "eco-friendly."
+id: tag.id
+permalink: "/tags/eco-friendly."
+videos: [2018]
+---

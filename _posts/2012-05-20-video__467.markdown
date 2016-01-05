@@ -3,12 +3,16 @@ title: "Jack Dorsey // Foundation 01"
 date: 2012-05-20 18:02:12 00:00
 permalink: /videos/467
 source: "http://www.youtube.com/watch?feature=player_embedded&v=DQy_HFHOZug"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/DQy_HFHOZug/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["interview","twitter","square","foundation","jack dorsey","kevin rose"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/DQy_HFHOZug?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 467
 ---
 
 In this series premiere of Foundation, Kevin Rose interviews Jack Dorsey, the creator, co-founder and chairman of Twitter and the CEO of Square. The conversation talks of entrepreneurship, decision making, trial and error, and the path Jack took that lead to the creation of Twitter and Square.

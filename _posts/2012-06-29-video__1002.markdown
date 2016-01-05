@@ -3,11 +3,15 @@ title: "Skillshare - Curiosity"
 date: 2012-06-29 00:08:18 00:00
 permalink: /videos/1002
 source: "https://vimeo.com/34829965"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/237/533/237533585_960.jpg"
 user:
+  id: 63
   username: "milesfitzgerald"
   name: "Miles Fitzgerald"
 tags: ["startup","learn","passion"]
 html: "<iframe src=\"http://player.vimeo.com/video/34829965\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1002
 ---
 

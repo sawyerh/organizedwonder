@@ -1,0 +1,9 @@
+---
+title: "Kingsley Harris"
+date: 2013-04-11 20:45:52 00:00
+permalink: /kingsley
+twitter: "kingsleyharris"
+likes: [1545,1784,1574,25,48,1785,1786,1787,1758,1796,1803,1804,1806,1810,1838,1844,1877,1893,1918,1919,1924,1962,1981,2045]
+id: 1926
+gravatar: "http://www.gravatar.com/avatar/9d612bcb9df0e0aed55bec912d0f4bee"
+---

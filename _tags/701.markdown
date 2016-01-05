@@ -1,0 +1,6 @@
+---
+title: "lathe"
+id: tag.id
+permalink: "/tags/lathe"
+videos: [799]
+---

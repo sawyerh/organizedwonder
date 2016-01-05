@@ -1,0 +1,9 @@
+---
+title: "Andy Hnida"
+date: 2012-11-19 21:49:43 00:00
+permalink: /andreashnida
+twitter: "@andyhnida"
+likes: [1339]
+id: 1585
+gravatar: "http://www.gravatar.com/avatar/06b07d3027e499c70a04e89a023d9326"
+---

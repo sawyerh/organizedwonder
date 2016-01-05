@@ -1,0 +1,6 @@
+---
+title: "visualization"
+id: tag.id
+permalink: "/tags/visualization"
+videos: [1013,1363,1537,1581]
+---

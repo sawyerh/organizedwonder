@@ -1,0 +1,6 @@
+---
+title: "vinny romanelli"
+id: tag.id
+permalink: "/tags/vinny%20romanelli"
+videos: [64]
+---

@@ -1,0 +1,6 @@
+---
+title: "christopher hitchens"
+id: tag.id
+permalink: "/tags/christopher%20hitchens"
+videos: [173,854]
+---

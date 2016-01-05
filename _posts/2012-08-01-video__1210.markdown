@@ -3,12 +3,16 @@ title: "Sight (2012)"
 date: 2012-08-01 16:05:30 00:00
 permalink: /videos/1210
 source: "http://www.youtube.com/watch?v=oPMggzUlcDc"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/oPMggzUlcDc/hqdefault.jpg"
 user:
+  id: 634
   username: "leonkotlyar"
   name: "Leon Kotlyar"
 tags: ["visual augmentation"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/oPMggzUlcDc?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1210
 ---
 
 A short futuristic film by Eran May-raz and Daniel Lazo: "This is our graduation project from Bezaleal academy of arts".

@@ -1,0 +1,6 @@
+---
+title: "pick"
+id: tag.id
+permalink: "/tags/pick"
+videos: [1979]
+---

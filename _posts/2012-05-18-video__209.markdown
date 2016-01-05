@@ -3,12 +3,16 @@ title: "Stählemühle — The Art of Master Distiller Christoph Keller"
 date: 2012-05-18 12:56:10 00:00
 permalink: /videos/209
 source: "https://vimeo.com/39184670"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/270/788/270788098_640.jpg"
 user:
+  id: 295
   username: "herrbrendel"
   name: "herrbrendel"
 tags: ["art","craft","inspiring","spirits","gin"]
 html: "<iframe src=\"http://player.vimeo.com/video/39184670\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 209
 ---
 
 The Art of making the “Best Gin in the World”

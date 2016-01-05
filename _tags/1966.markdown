@@ -1,0 +1,6 @@
+---
+title: "strangeloop"
+id: tag.id
+permalink: "/tags/strangeloop"
+videos: [2406]
+---

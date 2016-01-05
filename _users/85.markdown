@@ -1,0 +1,9 @@
+---
+title: "Jonathan Blundell"
+date: 2012-05-16 22:15:58 00:00
+permalink: /jdblundell
+twitter: ""
+likes: [19,97,98,261,547,661,1087,1095,1107,1248,1249,1291,1311,1323,1364,1808]
+id: 85
+gravatar: "http://www.gravatar.com/avatar/a91baa5725b0081a545adbc6bacfa5ac"
+---

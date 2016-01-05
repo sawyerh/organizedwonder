@@ -3,12 +3,16 @@ title: "Cool Hunting: Scott Wilson"
 date: 2012-05-15 04:44:09 00:00
 permalink: /videos/14
 source: "https://vimeo.com/15067567"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/901/143/90114327_640.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["scott wilson","design","furniture","cool hunting","interview"]
 html: "<iframe src=\"http://player.vimeo.com/video/15067567\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 14
 ---
 
 "In this Cool Hunting video we visit the industrial designer Scott Wilson, founder of the Chicago shop Minimal and former Global Creative Director for Nike Explore. Taking us behind the scenes of Coalesse's new SW_1 furniture collection, he walks us through the concepts and design processes that it took to realize this fresh alternative to the generic conference room.

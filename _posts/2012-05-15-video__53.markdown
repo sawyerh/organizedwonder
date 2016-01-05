@@ -3,12 +3,16 @@ title: "Jonathan Harris: Cowbird And Humanizing The Web"
 date: 2012-05-15 05:53:50 00:00
 permalink: /videos/53
 source: "https://vimeo.com/41353175"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/286/356/286356505_640.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["life","jonathan harris","psfk","innovation","creativity","talk"]
 html: "<iframe src=\"http://player.vimeo.com/video/41353175\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 53
 ---
 
 In this video from PSFK CONFERENCE NYC 2012, new media artists Jonathan Harris talks to the audience about how he walked away from success and notoriety and was inspired to counter current trends to build Cowbird.com.

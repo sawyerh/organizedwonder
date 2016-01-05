@@ -1,0 +1,6 @@
+---
+title: "law"
+id: tag.id
+permalink: "/tags/law"
+videos: [1163]
+---

@@ -1,0 +1,9 @@
+---
+title: "Mandy Collins"
+date: 2012-11-09 15:34:18 00:00
+permalink: /mandythedesigner
+twitter: "manda_raye"
+likes: [1375,24,1481,1447,1339,129,1486,1461,1494,1493,530,1365,1548]
+id: 1406
+gravatar: "http://www.gravatar.com/avatar/1922f2d4661487211182888e0e26a02f"
+---

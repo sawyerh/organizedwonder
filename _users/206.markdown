@@ -1,0 +1,9 @@
+---
+title: "Sergio Kostianovsky"
+date: 2012-05-18 04:46:26 00:00
+permalink: /sergio%20k
+twitter: ""
+likes: [33,167,171,173]
+id: 206
+gravatar: "http://www.gravatar.com/avatar/a60af2e4592561ee482078c02bef4111"
+---

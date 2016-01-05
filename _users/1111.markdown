@@ -1,0 +1,9 @@
+---
+title: "Aashish Balaji"
+date: 2012-06-26 03:31:06 00:00
+permalink: /abalaji
+twitter: ""
+likes: [978,980,991]
+id: 1111
+gravatar: "http://www.gravatar.com/avatar/0ef803fd2be9ea6c82cc99f59b615b8f"
+---

@@ -1,0 +1,6 @@
+---
+title: "rgbd"
+id: tag.id
+permalink: "/tags/rgbd"
+videos: [849]
+---

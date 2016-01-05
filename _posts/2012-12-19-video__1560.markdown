@@ -3,12 +3,16 @@ title: "Nikon - WHY"
 date: 2012-12-19 12:14:41 00:00
 permalink: /videos/1560
 source: "https://vimeo.com/34666308"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/377/761/377761820_1280.jpg"
 user:
+  id: 706
   username: "fbutour"
   name: "Florian Butour"
 tags: ["interview","documentary","sports","nikon","d4"]
 html: "<iframe src=\"http://player.vimeo.com/video/34666308\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1560
 ---
 
 I have always been facinated by those people that are the best at what they do. Those that operate on the edge; scientists, artists, musicians, athletes, etc. Always the question that I find myself asking is "WHY"? What deep inside drives them? What does the world look like through their eyes? Those that live on the edge, push the envelope, redefine sports and industries operate in a space all to themselves.

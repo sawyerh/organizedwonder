@@ -3,12 +3,16 @@ title: "Cabel Sasser, Panic - XOXO Festival (2013)"
 date: 2013-10-23 18:29:54 00:00
 permalink: /videos/2110
 source: "https://www.youtube.com/watch?v=8ZXWdR7RzV8&feature=youtu.be"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/8ZXWdR7RzV8/hqdefault.jpg"
 user:
+  id: 339
   username: "asadc"
   name: "Asad Chishti"
 tags: ["awesome","panic","lesson"]
 html: "<iframe width=\"640\" height=\"480\" src=\"http://www.youtube.com/embed/8ZXWdR7RzV8?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2110
 ---
 
 XOXO 2013, on endings and middles.

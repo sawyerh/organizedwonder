@@ -1,0 +1,6 @@
+---
+title: "salt lake city"
+id: tag.id
+permalink: "/tags/salt%20lake%20city"
+videos: [1717]
+---

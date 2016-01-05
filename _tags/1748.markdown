@@ -1,0 +1,6 @@
+---
+title: "kinfolk"
+id: tag.id
+permalink: "/tags/kinfolk"
+videos: [2108]
+---

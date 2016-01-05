@@ -1,0 +1,6 @@
+---
+title: "30 for 30"
+id: tag.id
+permalink: "/tags/30%20for%2030"
+videos: [2299,2373]
+---

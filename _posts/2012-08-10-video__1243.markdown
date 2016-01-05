@@ -3,12 +3,16 @@ title: "Re-imagining Apps for Ultrabook™ (Part 2): Touch Targets"
 date: 2012-08-10 14:21:03 00:00
 permalink: /videos/1243
 source: "http://www.youtube.com/watch?v=-Qyfhc0Lf6c"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/-Qyfhc0Lf6c/hqdefault.jpg"
 user:
+  id: 1168
   username: "lhid"
   name: "Leban Hyde"
 tags: ["design","mobile","uiux","touch"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/-Qyfhc0Lf6c?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1243
 ---
 
 In today's video, we'll build on that foundation with a practical guide to touch targets. That is, how large we need to make our application controls and where should we place them on screen in order to optimize for touch.

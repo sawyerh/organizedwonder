@@ -1,0 +1,6 @@
+---
+title: "bet"
+id: tag.id
+permalink: "/tags/bet"
+videos: [810]
+---

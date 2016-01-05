@@ -1,0 +1,6 @@
+---
+title: "absolut"
+id: tag.id
+permalink: "/tags/absolut"
+videos: [1052]
+---

@@ -1,0 +1,9 @@
+---
+title: "David Godwin"
+date: 2012-06-04 16:35:32 00:00
+permalink: /davidgodwin
+twitter: ""
+likes: [192,740,612,473,674,718]
+id: 851
+gravatar: "http://www.gravatar.com/avatar/c65f22376a0c616444f1f3d421804540"
+---

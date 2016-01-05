@@ -1,0 +1,9 @@
+---
+title: "Cole Roberts"
+date: 2013-03-18 02:57:05 00:00
+permalink: /colealan
+twitter: "colealan"
+likes: [69]
+id: 1850
+gravatar: "http://www.gravatar.com/avatar/28d6466e3caa6d3aaf72f615e5c78129"
+---

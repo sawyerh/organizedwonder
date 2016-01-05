@@ -1,0 +1,6 @@
+---
+title: "discovery"
+id: tag.id
+permalink: "/tags/discovery"
+videos: [546]
+---

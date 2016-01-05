@@ -3,12 +3,16 @@ title: "Donna Must Die!"
 date: 2013-02-12 20:33:14 00:00
 permalink: /videos/1691
 source: "http://www.youtube.com/watch?v=Ks-GpiPfsyI"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/Ks-GpiPfsyI/hqdefault.jpg"
 user:
+  id: 1798
   username: "ismailjamaludin"
   name: "Ismail Jamaludin"
 tags: ["short film","animation","donna must die","dragos dulea","dragos","ismail jamaludin","ismail","film noir","tuan nini","red dress","murder","hitchcock"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/Ks-GpiPfsyI?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1691
 ---
 
 Fred, a passive aggressive husband, is confronted by his urge for revenge when his lifeless wife Donna accidentally destroys his prized possession. Once Donna leaves town, Fred starts planning his escape.

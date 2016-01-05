@@ -1,0 +1,6 @@
+---
+title: "responsive web design"
+id: tag.id
+permalink: "/tags/responsive%20web%20design"
+videos: [1525,1552]
+---

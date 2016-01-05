@@ -3,12 +3,16 @@ title: "VICE Guide to Karachi: Pakistan's Most Violent City (Part 1/5)"
 date: 2012-07-03 03:01:03 00:00
 permalink: /videos/1015
 source: "http://www.youtube.com/watch?v=xgIl1vmIchA&list=PL9383B0B7583A5C66&index=1&feature=plpp_video"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/xgIl1vmIchA/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["documentary","vice","vice guide to karachi"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/xgIl1vmIchA?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1015
 ---
 
 Sure, we hear about violence in Pakistan all the time, but in 2011, more than three times as many people were killed in Karachi than the number of people killed in American drone strikes in the tribal areas. VICE explores the seedy underbelly of this ultra-violent metropolis of more than eighteen million people, and meet the players who make Karachi one of the craziest cities on earth.

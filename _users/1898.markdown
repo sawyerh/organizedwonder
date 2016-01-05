@@ -1,0 +1,9 @@
+---
+title: "Sean Sharp"
+date: 2013-04-01 17:52:44 00:00
+permalink: /seansharp
+twitter: "seansharp"
+likes: [1560]
+id: 1898
+gravatar: "http://www.gravatar.com/avatar/12d507d6380607448dc8ae7f72b819d2"
+---

@@ -3,12 +3,16 @@ title: "Belfort"
 date: 2012-05-19 11:56:48 00:00
 permalink: /videos/377
 source: "http://www.dailymotion.com/video/k2mlNl8pWSqWSTDqN9"
+featured: false
+provider: "Dailymotion"
 thumbnail: "http://static2.dmcdn.net/static/video/387/793/9397783:jpeg_preview_large.jpg?20110910063515"
 user:
+  id: 276
   username: "apropos"
   name: "Barbara"
 tags: ["music","fiction documentary","eurockeenne"]
 html: "<iframe src=\"http://www.dailymotion.com/embed/video/x5lfdj\" width=\"480\" height=\"324\" frameborder=\"0\"></iframe>"
+id: 377
 ---
 
 Docu-fiction sur les Eurockéennes réalisé par Gaëtan Chataigner

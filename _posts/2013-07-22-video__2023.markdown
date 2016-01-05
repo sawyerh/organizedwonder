@@ -3,12 +3,16 @@ title: "In Conversation with the Mystic - 19 Feb - Seemantinee Khot  & Jacques R
 date: 2013-07-22 15:59:43 00:00
 permalink: /videos/2023
 source: "http://www.youtube.com/watch?v=jem9zXw0r5g"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/jem9zXw0r5g/hqdefault.jpg"
 user:
+  id: 1619
   username: "shelesh"
   name: "Shelesh Kumar"
 tags: ["interview","inspirational","evironment","trees","save planet","in"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/jem9zXw0r5g?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2023
 ---
 
 Recorded Live on 19th February 2012 -- 3 pm from Isha Yoga Center, India

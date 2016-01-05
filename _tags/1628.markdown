@@ -1,0 +1,6 @@
+---
+title: "daughter"
+id: tag.id
+permalink: "/tags/daughter"
+videos: [1979]
+---

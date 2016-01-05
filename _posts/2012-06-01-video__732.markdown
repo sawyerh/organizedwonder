@@ -3,12 +3,16 @@ title: "A Thousand Words"
 date: 2012-06-01 06:24:18 00:00
 permalink: /videos/732
 source: "https://vimeo.com/2884813"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/997/469/99746999_1280.jpg"
 user:
+  id: 820
   username: "anom"
   name: "Anom Birowo"
 tags: ["short film"]
 html: "<iframe src=\"http://player.vimeo.com/video/2884813\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 732
 ---
 
 Every day: so many opportunities to connect...

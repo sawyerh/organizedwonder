@@ -1,0 +1,6 @@
+---
+title: "wes anderson"
+id: tag.id
+permalink: "/tags/wes%20anderson"
+videos: [661]
+---

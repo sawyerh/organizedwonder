@@ -1,0 +1,6 @@
+---
+title: "vinyl"
+id: tag.id
+permalink: "/tags/vinyl"
+videos: [204]
+---

@@ -1,0 +1,6 @@
+---
+title: "carl"
+id: tag.id
+permalink: "/tags/carl"
+videos: [1579]
+---

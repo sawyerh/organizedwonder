@@ -3,12 +3,16 @@ title: "Responsive Times Call For Responsive Measures"
 date: 2013-02-05 16:41:16 00:00
 permalink: /videos/1670
 source: "http://vimeo.com/57733039"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/400/414/400414470_1280.jpg"
 user:
+  id: 1168
   username: "lhid"
   name: "Leban Hyde"
 tags: ["design","talk","web design","responsive"]
 html: "<iframe src=\"http://player.vimeo.com/video/57733039\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1670
 ---
 
 Usually the talk was called "Responsive is as Responsive Does" as the title slide shows. Josh changed it to "Responsive Times Call For Responsive Measures".

@@ -1,0 +1,6 @@
+---
+title: "daniel goldstein"
+id: tag.id
+permalink: "/tags/daniel%20goldstein"
+videos: [521]
+---

@@ -1,0 +1,9 @@
+---
+title: "David Mikula"
+date: 2012-09-04 21:07:26 00:00
+permalink: /wtf
+twitter: ""
+likes: [1118,1322,1341]
+id: 1322
+gravatar: "http://www.gravatar.com/avatar/c93151a5fa3d17cf85f6b1c7402b848a"
+---

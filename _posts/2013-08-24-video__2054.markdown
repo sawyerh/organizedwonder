@@ -3,11 +3,15 @@ title: "Tina Roth Eisenberg - Like Knows Like"
 date: 2013-08-24 13:27:19 00:00
 permalink: /videos/2054
 source: "https://vimeo.com/72886559"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/446/846/446846374_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["short documentary","swissmiss"]
 html: "<iframe src=\"//player.vimeo.com/video/72886559\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 2054
 ---
 

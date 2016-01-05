@@ -1,0 +1,6 @@
+---
+title: "jamie karakizi"
+id: tag.id
+permalink: "/tags/jamie%20karakizi"
+videos: [1163]
+---

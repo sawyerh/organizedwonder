@@ -3,12 +3,16 @@ title: "The Art of Web Design | Off Book | PBS"
 date: 2013-01-28 03:48:24 00:00
 permalink: /videos/1649
 source: "http://www.youtube.com/watch?v=3iVVM_DgWY4&feature=youtu.be#When:16:38:03Z"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/3iVVM_DgWY4/hqdefault.jpg"
 user:
+  id: 1030
   username: "trinadafilipina"
   name: "Trina Dikitanan"
 tags: ["documentary","web design"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/3iVVM_DgWY4?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1649
 ---
 
 The explosion of the internet over the past 20 years has led to the development of one of the newest creative mediums: the website. Web designers have adapted through the technological developments of html, CSS, Flash, and JavaScript, and have mastered the balance between creativity and usability. Now with the advance of mobile, the greatest websites have taken user experience and responsive design to the next level, and continue our evolution from print to a digital world.

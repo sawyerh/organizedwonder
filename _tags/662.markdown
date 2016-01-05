@@ -1,0 +1,6 @@
+---
+title: "fingers"
+id: tag.id
+permalink: "/tags/fingers"
+videos: [745]
+---

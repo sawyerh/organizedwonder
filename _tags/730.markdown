@@ -1,0 +1,6 @@
+---
+title: "david brier"
+id: tag.id
+permalink: "/tags/david%20brier"
+videos: [823,825]
+---

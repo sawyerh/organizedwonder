@@ -3,12 +3,16 @@ title: "Conceptual Type - Rick Poynor"
 date: 2012-05-19 03:57:44 00:00
 permalink: /videos/357
 source: "http://vimeo.com/25178502"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/165/616/165616754_640.jpg"
 user:
+  id: 187
   username: "aaronmoodie"
   name: "Aaron Moodie"
 tags: ["typography","type design"]
 html: "<iframe src=\"http://player.vimeo.com/video/25178502\" width=\"640\" height=\"512\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 357
 ---
 
 Rick Poynor talks about conceptual type and touches upon 90's aesthetics, The Fuse Project, surrealism and much more in an engaging talk at the one-day conference â€˜Conceptual Type â€“ Type led by ideasâ€™ November 19 2010 in the Black Diamond, Copenhagen.

@@ -1,0 +1,6 @@
+---
+title: "cornwall"
+id: tag.id
+permalink: "/tags/cornwall"
+videos: [1030]
+---

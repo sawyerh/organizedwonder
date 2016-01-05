@@ -1,0 +1,6 @@
+---
+title: "jared spool"
+id: tag.id
+permalink: "/tags/jared%20spool"
+videos: [2044,2129]
+---

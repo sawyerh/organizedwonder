@@ -1,0 +1,6 @@
+---
+title: "war"
+id: tag.id
+permalink: "/tags/war"
+videos: [34,1068,1980]
+---

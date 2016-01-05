@@ -1,0 +1,6 @@
+---
+title: "70's"
+id: tag.id
+permalink: "/tags/70's"
+videos: [390]
+---

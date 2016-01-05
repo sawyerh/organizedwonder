@@ -1,0 +1,6 @@
+---
+title: "steve nash"
+id: tag.id
+permalink: "/tags/steve%20nash"
+videos: [2244,2298]
+---

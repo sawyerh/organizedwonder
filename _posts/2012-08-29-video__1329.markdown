@@ -3,12 +3,16 @@ title: "Inge Druckrey: Teaching to See"
 date: 2012-08-29 03:00:42 00:00
 permalink: /videos/1329
 source: "http://vimeo.com/45232468#at=0"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/316/207/316207219_1280.jpg"
 user:
+  id: 145
   username: "bryanconnor"
   name: "Bryan Connor"
 tags: ["design","talk","design thinking"]
 html: "<iframe src=\"http://player.vimeo.com/video/45232468\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1329
 ---
 
 This [film] is about patient and dedicated teaching, about learning to look and visualize in order to design, about the importance of drawing. It is one designer’s personal experience of issues that face all designers, expressed with sympathy and encouragement, and illustrated with examples of Inge [Druckrey]’s own work and that of grateful generations of her students. There are simple phrases that give insights into complex matters, for example that letterforms are ‘memories of motion.’ Above all, it is characteristic of Inge that in this examination of basic principles the word “beautiful” is used several times

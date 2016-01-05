@@ -3,12 +3,16 @@ title: "Meet The Maker: Steven Alan"
 date: 2013-10-18 16:18:13 00:00
 permalink: /videos/2107
 source: "https://vimeo.com/76489590"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/451/312/451312505_1280.jpg"
 user:
+  id: 576
   username: "jl"
   name: "John Gregory Liwag"
 tags: ["fashion","steven alan","need supply co"]
 html: "<iframe src=\"http://player.vimeo.com/video/76489590\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 2107
 ---
 
 We recently held our 10th Meet the Maker event with Steven Alan. He travelled to Richmond, Virginia to introduce his fall collection and meet and chat with an audience of fans from all over. He talked to us about his love for photography, passion for great product, and learning about the fashion industry all before launching his eponymous brand, stores and showroom. (via Need Supply Co.)

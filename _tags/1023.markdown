@@ -1,0 +1,6 @@
+---
+title: "whimscial"
+id: tag.id
+permalink: "/tags/whimscial"
+videos: [1083]
+---

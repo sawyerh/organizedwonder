@@ -1,0 +1,9 @@
+---
+title: "Renee Ferron"
+date: 2014-01-17 08:30:44 00:00
+permalink: /rferron
+twitter: "rferron"
+likes: [2201,2169,2135,2125,2100,39,2207]
+id: 2210
+gravatar: "http://www.gravatar.com/avatar/0e3e8795adb74f08f2c210bdeb94b66c"
+---

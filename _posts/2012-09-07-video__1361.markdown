@@ -3,11 +3,15 @@ title: "Inside The Actors Studio - Mickey Rourke"
 date: 2012-09-07 06:21:27 00:00
 permalink: /videos/1361
 source: "http://www.youtube.com/watch?v=UjneQahhks0&feature=player_embedded#!"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/UjneQahhks0/hqdefault.jpg"
 user:
+  id: 873
   username: "yridomot"
   name: "Spyros Simotas"
 tags: ["interview","studio","mickey rourke","actors"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/UjneQahhks0?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1361
 ---
 

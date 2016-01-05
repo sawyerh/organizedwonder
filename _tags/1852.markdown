@@ -1,0 +1,6 @@
+---
+title: "dark humor"
+id: tag.id
+permalink: "/tags/dark%20humor"
+videos: [2230]
+---

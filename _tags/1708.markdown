@@ -1,0 +1,6 @@
+---
+title: "fool's gold"
+id: tag.id
+permalink: "/tags/fool's%20gold"
+videos: [2079]
+---

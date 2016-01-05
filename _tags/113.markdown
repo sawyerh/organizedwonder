@@ -1,0 +1,6 @@
+---
+title: "football"
+id: tag.id
+permalink: "/tags/football"
+videos: [56]
+---

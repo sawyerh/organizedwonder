@@ -1,0 +1,6 @@
+---
+title: "first person perspective"
+id: tag.id
+permalink: "/tags/first%20person%20perspective"
+videos: [941]
+---

@@ -2,6 +2,13 @@
 title: Organized Wonder
 url: http://www.organizedwonder.com
 timezone: America/New_York
+collections:
+  users:
+    title: Users
+    output: true
+  tags:
+    title: Tags
+    output: true
 defaults:
 - scope:
     path: ''
@@ -11,6 +18,18 @@ defaults:
     thumbnail: "/assets/images/thumb-placeholder.png"
     source: ""
     html: ""
+- scope:
+    path: ''
+    type: users
+  values:
+    layout: user
+    twitter: ""
+- scope:
+    path: ''
+    type: tags
+  values:
+    layout: tag
+    videos: []
 exclude:
 - tmp
 - ".gitignore"

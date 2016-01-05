@@ -1,0 +1,6 @@
+---
+title: "jack kerouac"
+id: tag.id
+permalink: "/tags/jack%20kerouac"
+videos: [1419]
+---

@@ -1,0 +1,6 @@
+---
+title: "welcome"
+id: tag.id
+permalink: "/tags/welcome"
+videos: [1586]
+---

@@ -1,0 +1,6 @@
+---
+title: "john baldessari"
+id: tag.id
+permalink: "/tags/john%20baldessari"
+videos: [1131]
+---

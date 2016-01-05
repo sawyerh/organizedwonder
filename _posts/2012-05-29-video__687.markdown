@@ -3,12 +3,16 @@ title: "Zdenek Fibich - Symphony No 3 Op 53 I. Allegro Inquieto (1/4)"
 date: 2012-05-29 14:44:44 00:00
 permalink: /videos/687
 source: "http://www.youtube.com/watch?v=jBg_4Yt7SEo"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/jBg_4Yt7SEo/hqdefault.jpg"
 user:
+  id: 743
   username: "luisuruena"
   name: "Luis Urueña"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/jBg_4Yt7SEo?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 687
 ---
 
 Propuesta de @MargueritaCaro1

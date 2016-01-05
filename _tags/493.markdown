@@ -1,0 +1,6 @@
+---
+title: "medias"
+id: tag.id
+permalink: "/tags/medias"
+videos: [523]
+---

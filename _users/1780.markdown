@@ -1,0 +1,9 @@
+---
+title: "Antonios Kvamsengk-Fessaras"
+date: 2013-02-01 15:04:01 00:00
+permalink: /kvamse
+twitter: ""
+likes: [1271]
+id: 1780
+gravatar: "http://www.gravatar.com/avatar/73bf2566d0ed4c9e36fb4e874ec65b69"
+---

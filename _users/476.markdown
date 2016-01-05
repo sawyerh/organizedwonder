@@ -1,0 +1,9 @@
+---
+title: "Jonno Riekwel"
+date: 2012-05-20 00:01:05 00:00
+permalink: /jonnotie
+twitter: ""
+likes: [843,534,248,945]
+id: 476
+gravatar: "http://www.gravatar.com/avatar/0ee6e15083e9cb976618fa13cc8ca721"
+---

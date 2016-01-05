@@ -1,0 +1,6 @@
+---
+title: "paris"
+id: tag.id
+permalink: "/tags/paris"
+videos: [1383,1433,1645]
+---

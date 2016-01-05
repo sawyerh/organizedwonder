@@ -1,0 +1,6 @@
+---
+title: "logo design"
+id: tag.id
+permalink: "/tags/logo%20design"
+videos: [825]
+---

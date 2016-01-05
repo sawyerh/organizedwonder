@@ -3,12 +3,16 @@ title: "Made by Hand / No 4 The Cigar Shop"
 date: 2013-04-22 03:24:04 00:00
 permalink: /videos/1819
 source: "https://vimeo.com/47940731"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/341/340/341340169_640.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["short film","craft","new york"]
 html: "<iframe src=\"http://player.vimeo.com/video/47940731\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1819
 ---
 
 A project from bureauofcommongoods.com, Made by Hand is a new short film series celebrating the people who make things by hand—sustainably, locally, and with a love for their craft.

@@ -1,0 +1,6 @@
+---
+title: "mathematics short factoring stars"
+id: tag.id
+permalink: "/tags/mathematics%20short%20factoring%20stars"
+videos: [978]
+---

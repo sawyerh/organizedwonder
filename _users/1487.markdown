@@ -1,0 +1,9 @@
+---
+title: "Cliff Tam"
+date: 2012-11-12 04:28:52 00:00
+permalink: /clifftam
+twitter: ""
+likes: [1479]
+id: 1487
+gravatar: "http://www.gravatar.com/avatar/6ed36d7a353cefea32aa981bfdd6aa3c"
+---

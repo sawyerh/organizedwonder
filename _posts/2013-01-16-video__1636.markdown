@@ -3,12 +3,16 @@ title: "Obsessives: Soda Pop"
 date: 2013-01-16 12:04:22 00:00
 permalink: /videos/1636
 source: "https://vimeo.com/6368439"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/237/605/23760510_640.jpg"
 user:
+  id: 1681
   username: "tomvb"
   name: "Tom van Beveren"
 tags: ["short documentary"]
 html: "<iframe src=\"http://player.vimeo.com/video/6368439\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1636
 ---
 
 John Nese is the proprietor of Galco’s Soda Pop Stop in LA. His father ran it as a grocery store, and when the time came for John to take charge, he decided to convert it into the ultimate soda-lover’s destination. About 500 pops line the shelves, sourced lovingly by John from around the world. John has made it his mission to keep small soda-makers afloat and help them find their consumers.

@@ -1,0 +1,9 @@
+---
+title: "rajitha lakshan"
+date: 2014-06-02 15:59:36 00:00
+permalink: /rajitha
+twitter: ""
+likes: [863]
+id: 2294
+gravatar: "http://www.gravatar.com/avatar/ec7ec868f478417798390d4cccbb02ac"
+---

@@ -1,0 +1,6 @@
+---
+title: "douglas gautraud"
+id: tag.id
+permalink: "/tags/douglas%20gautraud"
+videos: [2314]
+---

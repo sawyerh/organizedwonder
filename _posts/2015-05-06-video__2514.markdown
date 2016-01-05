@@ -3,12 +3,16 @@ title: "The illusion of life"
 date: 2015-05-06 21:06:03 00:00
 permalink: /videos/2514
 source: "https://vimeo.com/93206523"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://i.vimeocdn.com/video/474456112_1280.jpg"
 user:
+  id: 1796
   username: "megandecastro"
   name: "Megan de Castro"
 tags: ["animation","disney"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F93206523&wmode=transparent&url=https%3A%2F%2Fvimeo.com%2F93206523&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F474456112_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"508\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2514
 ---
 
 The 12 basic principles of animation were developed by the 'old men' of Walt Disney Studios, amongst them Frank Thomas and Ollie Johnston, during the 1930s. Of course they weren't old men at the time, but young men who were at the forefront of exciting discoveries that were contributing to the development of a new art form. These principles came as a result of reflection about their practice and through Disney's desire to use animation to express character and personality.

@@ -1,0 +1,6 @@
+---
+title: "urban exploration"
+id: tag.id
+permalink: "/tags/urban%20exploration"
+videos: [16,747,1496,2235,2482]
+---

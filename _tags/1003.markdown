@@ -1,0 +1,6 @@
+---
+title: "robots"
+id: tag.id
+permalink: "/tags/robots"
+videos: [1052,2344]
+---

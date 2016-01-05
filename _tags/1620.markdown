@@ -1,0 +1,6 @@
+---
+title: "bass"
+id: tag.id
+permalink: "/tags/bass"
+videos: [1963]
+---

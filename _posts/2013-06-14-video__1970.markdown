@@ -3,12 +3,16 @@ title: "A supercell near Booker, Texas"
 date: 2013-06-14 01:02:26 00:00
 permalink: /videos/1970
 source: "http://vimeo.com/67995158"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/440/119/440119968_1280.jpg"
 user:
+  id: 1202
   username: "ericaheinz"
   name: "Erica Heinz"
 tags: ["timelapse","nature","weather"]
 html: "<iframe src=\"http://player.vimeo.com/video/67995158\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1970
 ---
 
 Crazy sci-fi "supercell" storm.

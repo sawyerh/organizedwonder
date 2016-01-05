@@ -1,0 +1,6 @@
+---
+title: "bridge"
+id: tag.id
+permalink: "/tags/bridge"
+videos: [658]
+---

@@ -1,0 +1,6 @@
+---
+title: "abraham lincoln"
+id: tag.id
+permalink: "/tags/abraham%20lincoln"
+videos: [19]
+---

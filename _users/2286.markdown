@@ -1,0 +1,9 @@
+---
+title: "Ben Cummings"
+date: 2014-04-28 19:30:13 00:00
+permalink: /bengc
+twitter: "_bengc"
+likes: [2221,1375,100,58,310,932,25,583,1565,1495]
+id: 2286
+gravatar: "http://www.gravatar.com/avatar/7add9d199e4ff1792d7e1236b3d2e137"
+---

@@ -1,0 +1,9 @@
+---
+title: "Luis M Ruiz"
+date: 2012-06-01 05:27:08 00:00
+permalink: /luismruiz
+twitter: "luismruiz"
+likes: [646,502,1011,25,1297,1298,1299,1300,1301,1302,1336,1337,1374,1389,1512,1461,1494,1391,1266,1265,1264,1262,1518,2177]
+id: 821
+gravatar: "http://www.gravatar.com/avatar/cc0277ee468a578bb28573c7fffbf0b8"
+---

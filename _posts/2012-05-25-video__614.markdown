@@ -3,12 +3,16 @@ title: "EAT"
 date: 2012-05-25 09:54:29 00:00
 permalink: /videos/614
 source: "http://vimeo.com/27243869"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/180/758/180758636_1280.jpg"
 user:
+  id: 677
   username: "tim_church"
   name: "Tim Church"
 tags: ["travel"]
 html: "<iframe src=\"http://player.vimeo.com/video/27243869\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 614
 ---
 
 3 guys, 44 days, 11 countries, 18 flights, 38 thousand miles, an exploding volcano, 2 cameras and almost a terabyte of footage... all to turn 3 ambitious linear concepts based on movement, learning and food ....into 3 beautiful and hopefully compelling short films.....

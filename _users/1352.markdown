@@ -1,0 +1,9 @@
+---
+title: "Pavel Gerega"
+date: 2012-09-29 06:30:28 00:00
+permalink: /pavger
+twitter: ""
+likes: [1397,1134]
+id: 1352
+gravatar: "http://www.gravatar.com/avatar/baf2377a3c81375484a92f3fbc7d7870"
+---

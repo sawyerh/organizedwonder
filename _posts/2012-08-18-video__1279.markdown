@@ -3,11 +3,15 @@ title: "PARC Le Documentaire"
 date: 2012-08-18 09:30:45 00:00
 permalink: /videos/1279
 source: "http://www.dailymotion.com/video/xsprdb_parc-le-documentaire_sport"
+featured: false
+provider: "Dailymotion"
 thumbnail: "http://static2.dmcdn.net/static/video/911/132/48231119:jpeg_preview_large.jpg?20120816122154"
 user:
+  id: 442
   username: "charlybr"
   name: "CharlyBr"
 tags: ["documentary","sports","french","soccer"]
 html: "<iframe src=\"http://www.dailymotion.com/embed/video/xsprdb\" width=\"480\" height=\"269\" frameborder=\"0\"></iframe>"
+id: 1279
 ---
 

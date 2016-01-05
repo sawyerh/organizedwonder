@@ -3,12 +3,16 @@ title: "Daphne Koller: What we're learning from online education"
 date: 2013-01-14 10:11:30 00:00
 permalink: /videos/1632
 source: "http://www.youtube.com/watch?feature=player_embedded&v=U6FvJ6jMGHU#!"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/U6FvJ6jMGHU/hqdefault.jpg"
 user:
+  id: 744
   username: "taita"
   name: "Iván Castrillón"
 tags: ["ted","mooc","pendiente"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/U6FvJ6jMGHU?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1632
 ---
 
 Por revisar ver documento asociado

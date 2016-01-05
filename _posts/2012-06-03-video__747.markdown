@@ -3,11 +3,15 @@ title: "Crack The Surface Ep. 1"
 date: 2012-06-03 09:19:38 00:00
 permalink: /videos/747
 source: "https://vimeo.com/26200018"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/173/145/173145226_1280.jpg"
 user:
+  id: 601
   username: "hypr"
   name: "johannes herseni"
 tags: ["documentary","urban exploration"]
 html: "<iframe src=\"http://player.vimeo.com/video/26200018\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 747
 ---
 

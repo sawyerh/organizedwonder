@@ -1,0 +1,6 @@
+---
+title: "design thinking"
+id: tag.id
+permalink: "/tags/design%20thinking"
+videos: [701,1329,1707,2115,2501]
+---

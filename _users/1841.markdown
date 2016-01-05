@@ -1,0 +1,9 @@
+---
+title: "Alexandra Bernards"
+date: 2013-03-11 16:44:54 00:00
+permalink: /alexandraaa
+twitter: ""
+likes: [1306,48,1659,1724]
+id: 1841
+gravatar: "http://www.gravatar.com/avatar/303d4577d5167f1828ccefb84b69b593"
+---

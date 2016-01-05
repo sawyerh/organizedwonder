@@ -1,0 +1,6 @@
+---
+title: "purpose"
+id: tag.id
+permalink: "/tags/purpose"
+videos: [527]
+---

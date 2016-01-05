@@ -3,12 +3,16 @@ title: "RSA Animate - Changing Education Paradigms"
 date: 2012-05-18 17:45:57 00:00
 permalink: /videos/279
 source: "http://www.youtube.com/watch?feature=player_embedded&v=zDZFcDGpL4U"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/zDZFcDGpL4U/hqdefault.jpg"
 user:
+  id: 368
   username: "rsantaferraro"
   name: "Rocky Santaferraro"
 tags: ["talk","education"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/zDZFcDGpL4U?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 279
 ---
 
 This animate was adapted from a talk given at the RSA by Sir Ken Robinson, world-renowned education and creativity expert and recipient of the RSA's Benjamin Franklin award.

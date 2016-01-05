@@ -1,0 +1,6 @@
+---
+title: "tragedy"
+id: tag.id
+permalink: "/tags/tragedy"
+videos: [1980]
+---

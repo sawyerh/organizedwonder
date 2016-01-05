@@ -1,0 +1,6 @@
+---
+title: "god"
+id: tag.id
+permalink: "/tags/god"
+videos: [1254,2019]
+---

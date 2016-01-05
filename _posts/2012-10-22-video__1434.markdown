@@ -3,11 +3,15 @@ title: "EAT"
 date: 2012-10-22 21:32:45 00:00
 permalink: /videos/1434
 source: "http://vimeo.com/27243869"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/180/758/180758636_1280.jpg"
 user:
+  id: 1391
   username: "cbhurtt"
   name: "Courtney Hurtt"
 tags: ["food"]
 html: "<iframe src=\"http://player.vimeo.com/video/27243869\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1434
 ---
 

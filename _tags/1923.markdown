@@ -1,0 +1,6 @@
+---
+title: "slam poetry"
+id: tag.id
+permalink: "/tags/slam%20poetry"
+videos: [2330]
+---

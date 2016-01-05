@@ -1,0 +1,6 @@
+---
+title: "poetry"
+id: tag.id
+permalink: "/tags/poetry"
+videos: [205,227,309,372,623,1454,1455,2330]
+---

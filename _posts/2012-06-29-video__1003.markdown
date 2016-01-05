@@ -3,12 +3,16 @@ title: "Paul Irish - Google I/O 2012 - Better Web App Development Through Toolin
 date: 2012-06-29 05:11:59 00:00
 permalink: /videos/1003
 source: "http://www.youtube.com/watch?v=Mk-tFn2Ix6g&feature=youtu.be"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/Mk-tFn2Ix6g/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["development","google i/o","paul irish"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/Mk-tFn2Ix6g?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1003
 ---
 
 Building a solid webapp is a challenge for all developers, but a plethora of tools have emerged recently to assist you. From starting boilerplates, to performance tuning and build tools, you'll get a full overview of the tooling ecosystem. In this session, you'll learn which mature and valuable open source projects can save you time as well as get answers to common questions in building a webapp.

@@ -1,0 +1,6 @@
+---
+title: "nowness"
+id: tag.id
+permalink: "/tags/nowness"
+videos: [2287,2288,2289,2282,2302,2378,2379,2401,2415,2435]
+---

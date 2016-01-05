@@ -1,0 +1,9 @@
+---
+title: "Jennie Li"
+date: 2013-04-02 17:47:11 00:00
+permalink: /jennaaaye
+twitter: "jennaaaye"
+likes: [1568,1776]
+id: 1905
+gravatar: "http://www.gravatar.com/avatar/751fa4f8867bbe0c322cde12be5e3601"
+---

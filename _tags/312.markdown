@@ -1,0 +1,6 @@
+---
+title: "shocking"
+id: tag.id
+permalink: "/tags/shocking"
+videos: [217]
+---

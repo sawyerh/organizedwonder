@@ -1,0 +1,6 @@
+---
+title: "principles"
+id: tag.id
+permalink: "/tags/principles"
+videos: [2577]
+---

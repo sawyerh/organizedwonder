@@ -1,0 +1,6 @@
+---
+title: "soldier"
+id: tag.id
+permalink: "/tags/soldier"
+videos: [1980]
+---

@@ -3,12 +3,16 @@ title: "\"Word\" -Muhammad Ali"
 date: 2012-11-05 02:59:52 00:00
 permalink: /videos/1455
 source: "http://vimeo.com/46432990"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/323/340/323340204_960.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["muhammad ali","poetry","calligraphy","mos def"]
 html: "<iframe src=\"http://player.vimeo.com/video/46432990\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1455
 ---
 
 Word is a commercial for Louis Vuitton’s Muhammad Ali campaign. Directed by Stuart McIntyre, the ad stars the words and swagger of hip hop superstar Mos Def (now performing as Yasiin Bey) and gorgeous work of calligraffiti artist Niels Shoe Meulman. What exactly does the Mighty Mos Def say about the Greatest? The transcript is below.

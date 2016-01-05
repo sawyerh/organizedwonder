@@ -1,0 +1,6 @@
+---
+title: "human"
+id: tag.id
+permalink: "/tags/human"
+videos: [1779]
+---

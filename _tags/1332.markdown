@@ -1,0 +1,6 @@
+---
+title: "cosmos"
+id: tag.id
+permalink: "/tags/cosmos"
+videos: [1579]
+---

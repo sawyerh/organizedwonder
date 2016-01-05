@@ -3,12 +3,16 @@ title: "Massimo Vignelli Makes Books"
 date: 2013-04-26 16:21:23 00:00
 permalink: /videos/1851
 source: "https://vimeo.com/64811872"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/435/706/435706752_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["design","books","print"]
 html: "<iframe src=\"http://player.vimeo.com/video/64811872\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1851
 ---
 
 Massimo Vignelli discusses his approach to book design in a video produced for Mohawk's "What Will You Make Today?" campaign. Video design by Michael Bierut/Pentagram.

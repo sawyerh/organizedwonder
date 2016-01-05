@@ -1,0 +1,6 @@
+---
+title: "japan"
+id: tag.id
+permalink: "/tags/japan"
+videos: [18,656,946,949,950,1580,2270]
+---

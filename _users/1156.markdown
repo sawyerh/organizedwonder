@@ -1,0 +1,9 @@
+---
+title: "Rick Garner"
+date: 2012-07-06 22:35:26 00:00
+permalink: /rikalous
+twitter: ""
+likes: [909]
+id: 1156
+gravatar: "http://www.gravatar.com/avatar/8c624e027f11859e463cd57d14aff976"
+---

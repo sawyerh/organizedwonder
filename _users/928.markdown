@@ -1,0 +1,9 @@
+---
+title: "Timur Grigorchuk"
+date: 2012-06-12 05:50:22 00:00
+permalink: /megashape
+twitter: ""
+likes: [703]
+id: 928
+gravatar: "http://www.gravatar.com/avatar/b1708703ad957de48f0afb84f0a89b95"
+---

@@ -1,0 +1,9 @@
+---
+title: "Chris Lee"
+date: 2012-06-29 23:42:57 00:00
+permalink: /cleerview
+twitter: "cleerview"
+likes: [344,1116,305,205,1119,615,1160,1212,1222,1277,1254,1333]
+id: 1133
+gravatar: "http://www.gravatar.com/avatar/ac9ec47324f0fda0fe0b756e960a26d9"
+---

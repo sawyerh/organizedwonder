@@ -1,0 +1,9 @@
+---
+title: "Björn Vofrei"
+date: 2012-10-02 15:11:38 00:00
+permalink: /typedance
+twitter: "typedance"
+likes: [1325,1408,1398,1118,107,48,45,325,38,455,1393,1551,1553]
+id: 1363
+gravatar: "http://www.gravatar.com/avatar/36f52fab914bc5c6a9a8a0cbc83538de"
+---

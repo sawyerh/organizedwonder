@@ -1,0 +1,6 @@
+---
+title: "advice"
+id: tag.id
+permalink: "/tags/advice"
+videos: [580]
+---

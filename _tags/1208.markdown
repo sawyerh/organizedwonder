@@ -1,0 +1,6 @@
+---
+title: "printing"
+id: tag.id
+permalink: "/tags/printing"
+videos: [1373]
+---

@@ -1,0 +1,6 @@
+---
+title: "literature"
+id: tag.id
+permalink: "/tags/literature"
+videos: [306,470,796,2236]
+---

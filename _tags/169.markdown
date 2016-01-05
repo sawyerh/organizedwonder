@@ -1,0 +1,6 @@
+---
+title: "eric ries"
+id: tag.id
+permalink: "/tags/eric%20ries"
+videos: [92]
+---

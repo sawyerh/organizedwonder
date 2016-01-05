@@ -1,0 +1,6 @@
+---
+title: "las vegas"
+id: tag.id
+permalink: "/tags/las%20vegas"
+videos: [554]
+---

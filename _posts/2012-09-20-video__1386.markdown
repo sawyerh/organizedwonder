@@ -3,12 +3,16 @@ title: "Everything Is A Remix: KILL BILL"
 date: 2012-09-20 18:37:02 00:00
 permalink: /videos/1386
 source: "http://vimeo.com/19469447"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/123/420/123420336_640.jpg"
 user:
+  id: 643
   username: "zit_dantes"
   name: "Zit Dantes"
 tags: ["short film","mashup","remix"]
 html: "<iframe src=\"http://player.vimeo.com/video/19469447\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1386
 ---
 
 An extrapolation on the "One Last Thing" from Kirby Ferguson's web series Everything Is A Remix - Episode 2: vimeo.com/19447662

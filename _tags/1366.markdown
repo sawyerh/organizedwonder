@@ -1,0 +1,6 @@
+---
+title: "kinetic"
+id: tag.id
+permalink: "/tags/kinetic"
+videos: [1608,2396]
+---

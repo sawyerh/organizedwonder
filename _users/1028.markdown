@@ -1,0 +1,9 @@
+---
+title: "David Ramalho"
+date: 2012-06-14 21:26:45 00:00
+permalink: /dramalho
+twitter: "dramalho"
+likes: [703]
+id: 1028
+gravatar: "http://www.gravatar.com/avatar/ee1497fe2df60938b1d76a5707f6a972"
+---

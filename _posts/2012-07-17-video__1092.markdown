@@ -3,11 +3,15 @@ title: "Paola Antonelli"
 date: 2012-07-17 01:18:16 00:00
 permalink: /videos/1092
 source: "https://vimeo.com/44467955"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/308/946/308946270_960.jpg"
 user:
+  id: 157
   username: "swissmiss"
   name: "swissmiss"
 tags: ["design"]
 html: "<iframe src=\"http://player.vimeo.com/video/44467955\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1092
 ---
 

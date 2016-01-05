@@ -1,0 +1,6 @@
+---
+title: "nuevas arquitecturas"
+id: tag.id
+permalink: "/tags/nuevas%20arquitecturas"
+videos: [1628]
+---

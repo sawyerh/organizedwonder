@@ -3,12 +3,16 @@ title: "ZeroN - Levitated Interaction Element"
 date: 2012-05-17 18:44:40 00:00
 permalink: /videos/105
 source: "http://vimeo.com/41796732"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/289/785/289785987_1280.jpg"
 user:
+  id: 69
   username: "bnoj13"
   name: "Jon Brennan"
 tags: ["science","technology","awesome","mit"]
 html: "<iframe src=\"http://player.vimeo.com/video/41796732\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 105
 ---
 
 Incredible magnetized system for controlling levitating elements and recording their movements in 3D space.

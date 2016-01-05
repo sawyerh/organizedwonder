@@ -1,0 +1,6 @@
+---
+title: "furniture"
+id: tag.id
+permalink: "/tags/furniture"
+videos: [14,721,987,2024]
+---

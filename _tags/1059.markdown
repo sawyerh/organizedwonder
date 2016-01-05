@@ -1,0 +1,6 @@
+---
+title: "design studio"
+id: tag.id
+permalink: "/tags/design%20studio"
+videos: [1112]
+---

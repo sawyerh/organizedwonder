@@ -3,12 +3,16 @@ title: "The CSS3 Experience by Dan Cederholm (An Event Apart)"
 date: 2012-11-21 21:42:05 00:00
 permalink: /videos/1497
 source: "https://vimeo.com/40259368"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/366/521/366521922_640.jpg"
 user:
+  id: 1195
   username: "javiermotis"
   name: "Javier Motis"
 tags: ["web design","ux","ui","css3"]
 html: "<iframe src=\"http://player.vimeo.com/video/40259368\" width=\"640\" height=\"480\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1497
 ---
 
 In a fast-paced hour of design ideas and techniques, learn how advanced CSS and CSS3 can add richness to your site’s experience layer, and discover the role CSS3 can play in enhancing interactivity.

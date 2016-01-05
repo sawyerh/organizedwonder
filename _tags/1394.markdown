@@ -1,0 +1,6 @@
+---
+title: "espacios colaborativos"
+id: tag.id
+permalink: "/tags/espacios%20colaborativos"
+videos: [1628]
+---

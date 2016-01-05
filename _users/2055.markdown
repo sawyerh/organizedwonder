@@ -1,0 +1,9 @@
+---
+title: "Dan Higham"
+date: 2013-08-06 02:06:15 00:00
+permalink: /dan_higham
+twitter: "dan_higham"
+likes: [2041,2036]
+id: 2055
+gravatar: "http://www.gravatar.com/avatar/2e5c07d4e0de1f127cf601194ad4f4f6"
+---

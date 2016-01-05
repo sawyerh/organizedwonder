@@ -3,12 +3,16 @@ title: "Jessica Hische at WLGD 2012"
 date: 2013-03-23 18:20:15 00:00
 permalink: /videos/1747
 source: "https://vimeo.com/53427334"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/369/133/369133529_640.jpg"
 user:
+  id: 1382
   username: "danniiel"
   name: "Carlos Santiago"
 tags: ["design","letterpress","lettering","jesica hishe"]
 html: "<iframe src=\"http://player.vimeo.com/video/53427334\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1747
 ---
 
 A full lenght lecture by Jessica Hische recorded at We Love Graphic Design 2012 in Copenhagen - a celebration of the wonderful world of graphic design in the shape of a one day seminar featuring lectures from some of the most important, inspirational and insanely creative graphic designers right now.

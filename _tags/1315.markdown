@@ -1,0 +1,6 @@
+---
+title: "humanity"
+id: tag.id
+permalink: "/tags/humanity"
+videos: [1573]
+---

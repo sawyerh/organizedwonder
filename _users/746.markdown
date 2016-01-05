@@ -1,0 +1,9 @@
+---
+title: "Aleksandr Pasevin"
+date: 2012-05-29 10:23:23 00:00
+permalink: /pasevin
+twitter: ""
+likes: [424,720,955,1003,860]
+id: 746
+gravatar: "http://www.gravatar.com/avatar/4dcdec7bc0027e25a80659cf6aee5ba7"
+---

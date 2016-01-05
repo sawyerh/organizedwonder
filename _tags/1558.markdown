@@ -1,0 +1,6 @@
+---
+title: "tool"
+id: tag.id
+permalink: "/tags/tool"
+videos: [1778]
+---

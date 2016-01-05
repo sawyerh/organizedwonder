@@ -1,0 +1,6 @@
+---
+title: "visual language"
+id: tag.id
+permalink: "/tags/visual%20language"
+videos: [1407]
+---

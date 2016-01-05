@@ -1,0 +1,6 @@
+---
+title: "tatoo"
+id: tag.id
+permalink: "/tags/tatoo"
+videos: [665]
+---

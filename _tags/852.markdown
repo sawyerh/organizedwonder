@@ -1,0 +1,6 @@
+---
+title: "footage"
+id: tag.id
+permalink: "/tags/footage"
+videos: [915]
+---

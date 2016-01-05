@@ -1,0 +1,6 @@
+---
+title: "inspiring"
+id: tag.id
+permalink: "/tags/inspiring"
+videos: [54,209,482,931,1641,2090,2180,2330,2336]
+---

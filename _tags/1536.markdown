@@ -1,0 +1,6 @@
+---
+title: "baseball"
+id: tag.id
+permalink: "/tags/baseball"
+videos: [1730]
+---

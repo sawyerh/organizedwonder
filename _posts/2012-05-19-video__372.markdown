@@ -3,12 +3,16 @@ title: "Spitting Ink"
 date: 2012-05-19 11:38:35 00:00
 permalink: /videos/372
 source: "http://vimeo.com/26003454"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/171/539/171539467_640.jpg"
 user:
+  id: 276
   username: "apropos"
   name: "Barbara"
 tags: ["documentary","poetry","new york"]
 html: "<iframe src=\"http://player.vimeo.com/video/26003454\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 372
 ---
 
 Ralph De Haan, Lars Siemens et leur équipe ont essayé de saisir l’essence de la poésie, ainsi que de ses poètes qui définissent et qui font vivre les rues de New York. Leur caméra a ainsi suivi huit artistes au travers les rues pour les écouter in situ, et parler avec eux de leur motivation à écrire, à créer.

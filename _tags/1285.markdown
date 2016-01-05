@@ -1,0 +1,6 @@
+---
+title: "bret victor"
+id: tag.id
+permalink: "/tags/bret%20victor"
+videos: [1526,1891]
+---

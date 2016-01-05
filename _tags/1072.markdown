@@ -1,0 +1,6 @@
+---
+title: "sound design"
+id: tag.id
+permalink: "/tags/sound%20design"
+videos: [1134]
+---

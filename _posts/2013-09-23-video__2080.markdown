@@ -3,12 +3,16 @@ title: "Soundcheck: Sepalcure"
 date: 2013-09-23 09:05:21 00:00
 permalink: /videos/2080
 source: "https://vimeo.com/69859291"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/442/823/442823669_1280.jpg"
 user:
+  id: 2076
   username: "theoperatives"
   name: "The Operatives"
 tags: ["interview","behind the scenes","music","documentary","dj","melbourne","australia","the operatives","producer","backstage","seplacure","machinedrum","braille","hotflush","espionage"]
 html: "<iframe src=\"http://player.vimeo.com/video/69859291\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 2080
 ---
 
 "Now you’re seeing these crazy hybrids of music and nobody knows what to call it, which is great. It’s 

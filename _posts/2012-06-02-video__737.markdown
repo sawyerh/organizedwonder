@@ -3,11 +3,15 @@ title: "Haim \"Go Slow\""
 date: 2012-06-02 23:09:39 00:00
 permalink: /videos/737
 source: "https://vimeo.com/38968294"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/271/996/271996452_1280.jpg"
 user:
+  id: 838
   username: "laumabre"
   name: "Lauma"
 tags: ["music"]
 html: "<iframe src=\"http://player.vimeo.com/video/38968294\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 737
 ---
 

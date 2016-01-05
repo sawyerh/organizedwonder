@@ -3,11 +3,15 @@ title: "An Exploration in Craft - Featuring: Tanner Goods"
 date: 2012-05-18 01:06:15 00:00
 permalink: /videos/120
 source: "http://vimeo.com/40693266"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/281/368/281368721_960.jpg"
 user:
+  id: 133
   username: "gabekelley"
   name: "Gabe Kelley"
 tags: ["documentary"]
 html: "<iframe src=\"http://player.vimeo.com/video/40693266\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 120
 ---
 

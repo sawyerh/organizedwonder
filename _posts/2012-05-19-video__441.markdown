@@ -3,11 +3,15 @@ title: "Tutor"
 date: 2012-05-19 21:48:39 00:00
 permalink: /videos/441
 source: "http://www.youtube.com/watch?v=kx_Vqdm9HsQ"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/kx_Vqdm9HsQ/hqdefault.jpg"
 user:
+  id: 310
   username: "sbooker"
   name: "SLB"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/kx_Vqdm9HsQ?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 441
 ---
 

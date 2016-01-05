@@ -1,0 +1,6 @@
+---
+title: "finance"
+id: tag.id
+permalink: "/tags/finance"
+videos: [1480,1966]
+---

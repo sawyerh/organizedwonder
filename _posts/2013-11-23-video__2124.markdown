@@ -3,11 +3,15 @@ title: "SOFLES - LIMITLESS."
 date: 2013-11-23 06:04:10 00:00
 permalink: /videos/2124
 source: "http://www.youtube.com/watch?v=Pv-Do30-P8A"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/Pv-Do30-P8A/hqdefault.jpg"
 user:
+  id: 634
   username: "leonkotlyar"
   name: "Leon Kotlyar"
 tags: ["graffiti"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/Pv-Do30-P8A?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2124
 ---
 

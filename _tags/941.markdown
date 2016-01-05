@@ -1,0 +1,6 @@
+---
+title: "versus"
+id: tag.id
+permalink: "/tags/versus"
+videos: [1000]
+---

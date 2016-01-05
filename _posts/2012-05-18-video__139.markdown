@@ -3,11 +3,15 @@ title: "Sesame Street: OK Go - Three Primary Colors"
 date: 2012-05-18 02:12:24 00:00
 permalink: /videos/139
 source: "http://www.youtube.com/watch?v=yu44JRTIxSQ&feature=player_embedded"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/yu44JRTIxSQ/hqdefault.jpg"
 user:
+  id: 157
   username: "swissmiss"
   name: "swissmiss"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/yu44JRTIxSQ?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 139
 ---
 

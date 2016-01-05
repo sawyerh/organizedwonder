@@ -1,0 +1,9 @@
+---
+title: "brentjsteen@articleand.com"
+date: 2013-07-14 03:17:43 00:00
+permalink: /brentsteen
+twitter: ""
+likes: [2004,1905,1883,1967,134,121]
+id: 2041
+gravatar: "http://www.gravatar.com/avatar/66822f42dcc5c65447c548d69c2b57d7"
+---

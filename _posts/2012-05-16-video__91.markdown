@@ -3,12 +3,16 @@ title: "Failing & Doing with Dan Levine"
 date: 2012-05-16 23:11:22 00:00
 permalink: /videos/91
 source: "http://www.youtube.com/watch?annotation_id=annotation_125907&src_vid=CIA9ikESXYI&feature=iv&v=m1G9wydwW_8"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/m1G9wydwW_8/hqdefault.jpg"
 user:
+  id: 87
   username: "cameronwoodward"
   name: "Cameron Woodward"
 tags: ["documentary","technology","business"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/m1G9wydwW_8?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 91
 ---
 
 Dan muses on the concept of failure and how it might not be the best way to learn. Dan Levine worked for TechCrunch before founding chart.io, a Y Combinator-backed company specializing in visualizing data. He is currently on the investment team at Accel Partners.

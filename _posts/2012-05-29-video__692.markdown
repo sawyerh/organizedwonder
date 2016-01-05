@@ -3,12 +3,16 @@ title: "Ferdinando Paër - Sargino - Aria di Sargino - Ah, Sofia! mio caro bene"
 date: 2012-05-29 15:00:15 00:00
 permalink: /videos/692
 source: "http://www.youtube.com/watch?v=fgJVLU5fAlA"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/fgJVLU5fAlA/hqdefault.jpg"
 user:
+  id: 743
   username: "luisuruena"
   name: "Luis Urueña"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/fgJVLU5fAlA?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 692
 ---
 
 Propuesta de @MargueritaCaro1

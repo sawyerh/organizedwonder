@@ -1,0 +1,9 @@
+---
+title: "Мартин Стојчевски"
+date: 2014-08-01 01:03:42 00:00
+permalink: /martinstojcev14
+twitter: "martinstojcev14"
+likes: [2335]
+id: 2318
+gravatar: "http://www.gravatar.com/avatar/aec463463590b553ad69c1e68c808e7d"
+---

@@ -1,0 +1,9 @@
+---
+title: "William Ma"
+date: 2013-01-07 19:44:01 00:00
+permalink: /wmnytm
+twitter: ""
+likes: [1589,1647,1545,1637]
+id: 1724
+gravatar: "http://www.gravatar.com/avatar/faec710c8e9276b9dbc8de612b7bfbbe"
+---

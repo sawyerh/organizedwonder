@@ -1,0 +1,9 @@
+---
+title: "kenn bivins"
+date: 2012-11-09 18:46:12 00:00
+permalink: /kennbivins
+twitter: "kennbivins"
+likes: [1454,1455]
+id: 1422
+gravatar: "http://www.gravatar.com/avatar/c927ceed2b5f96dfecb1d58252d6c46d"
+---

@@ -3,12 +3,16 @@ title: "Ninety Seconds"
 date: 2013-03-13 09:48:03 00:00
 permalink: /videos/1738
 source: "http://youtu.be/Quvf7tmeVeo"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/Quvf7tmeVeo/hqdefault.jpg"
 user:
+  id: 1842
   username: "av"
   name: "Gerard Lough"
 tags: ["short film","science fiction","cyberpunk"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/Quvf7tmeVeo?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1738
 ---
 
 A surveillance expert takes on an unusual job in a city of the future.

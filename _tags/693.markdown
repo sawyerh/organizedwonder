@@ -1,0 +1,6 @@
+---
+title: "soul"
+id: tag.id
+permalink: "/tags/soul"
+videos: [797,997,2440,2528]
+---

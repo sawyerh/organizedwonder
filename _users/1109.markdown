@@ -1,0 +1,9 @@
+---
+title: "Gordon Ingram"
+date: 2012-06-25 20:11:49 00:00
+permalink: /gi
+twitter: ""
+likes: [527]
+id: 1109
+gravatar: "http://www.gravatar.com/avatar/e14a2a3bffe47b19ae85602368995f6f"
+---

@@ -1,0 +1,6 @@
+---
+title: "dynamic"
+id: tag.id
+permalink: "/tags/dynamic"
+videos: [1582]
+---

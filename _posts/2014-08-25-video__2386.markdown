@@ -3,12 +3,16 @@ title: "Wasted Rita - likeknowslike.com"
 date: 2014-08-25 17:01:33 00:00
 permalink: /videos/2386
 source: "https://vimeo.com/103984483"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://i.vimeocdn.com/video/486396631_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["short documentary","like knows like","graphic design","illustration"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F103984483&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F103984483&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F486396631_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2386
 ---
 
 Read about this project on Cool Hunting: http://www.coolhunting.com/culture/like-knows-like-on-wasted-rita.php

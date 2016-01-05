@@ -1,0 +1,6 @@
+---
+title: "thriller"
+id: tag.id
+permalink: "/tags/thriller"
+videos: [1792,1794,2168,2216,2509]
+---

@@ -1,0 +1,6 @@
+---
+title: "fukushima"
+id: tag.id
+permalink: "/tags/fukushima"
+videos: [1010]
+---

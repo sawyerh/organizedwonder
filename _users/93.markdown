@@ -1,0 +1,9 @@
+---
+title: "joel overpeck"
+date: 2012-05-17 19:24:02 00:00
+permalink: /joel
+twitter: ""
+likes: [121]
+id: 93
+gravatar: "http://www.gravatar.com/avatar/ff7ed1af085d391b0b8840718660405b"
+---

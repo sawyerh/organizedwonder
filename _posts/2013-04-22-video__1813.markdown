@@ -3,12 +3,16 @@ title: "The Collaborators: Pharrell Williams"
 date: 2013-04-22 01:59:03 00:00
 permalink: /videos/1813
 source: "http://www.youtube.com/watch?feature=player_embedded&v=6QVtHogFrI0"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/6QVtHogFrI0/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["interview","music","vice"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/6QVtHogFrI0?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1813
 ---
 
 A look at the collaborators behind Random Access Memories, the new album from Daft Punk.

@@ -1,0 +1,6 @@
+---
+title: "type"
+id: tag.id
+permalink: "/tags/type"
+videos: [352,353,354,355,583,788,1305,1378,2242]
+---

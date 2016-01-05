@@ -1,0 +1,6 @@
+---
+title: "gina coppola"
+id: tag.id
+permalink: "/tags/gina%20coppola"
+videos: [238]
+---

@@ -1,0 +1,6 @@
+---
+title: "gay"
+id: tag.id
+permalink: "/tags/gay"
+videos: [1648]
+---

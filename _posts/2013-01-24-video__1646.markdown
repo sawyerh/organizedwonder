@@ -3,12 +3,16 @@ title: "Chip Kidd: Designing books is no laughing matter. OK, it is."
 date: 2013-01-24 18:03:40 00:00
 permalink: /videos/1646
 source: "http://www.ted.com/talks/chip_kidd_designing_books_is_no_laughing_matter_ok_it_is.html"
+featured: false
+provider: "TED"
 thumbnail: "http://images.ted.com/images/ted/5626b8ff852d251bfb7104c5f7674ed37d5dc8dd_389x292.jpg"
 user:
+  id: 1719
   username: "jazzish"
   name: "Ana"
 tags: ["design","ted talk","books","book covers"]
 html: "<iframe src=\"http://embed.ted.com/talks/chip_kidd_designing_books_is_no_laughing_matter_ok_it_is.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1646
 ---
 
 From ted.com: "Chip Kidd doesn’t judge books by their cover, he creates covers that embody the book -- and he does it with a wicked sense of humor. In one of the funniest talks from TED2012, he shows the art and deep thought of his cover designs."

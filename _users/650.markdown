@@ -1,0 +1,9 @@
+---
+title: "Andrzej Ok"
+date: 2012-05-23 15:53:09 00:00
+permalink: /oril
+twitter: ""
+likes: [476,446,408,534,527,573,26]
+id: 650
+gravatar: "http://www.gravatar.com/avatar/d664667348bf0afbf7adb6dc68e207e7"
+---

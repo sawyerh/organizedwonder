@@ -1,0 +1,6 @@
+---
+title: "interaction design"
+id: tag.id
+permalink: "/tags/interaction%20design"
+videos: [1564,1958]
+---

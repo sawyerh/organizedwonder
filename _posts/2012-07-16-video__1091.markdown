@@ -3,12 +3,16 @@ title: "Chris Sacca's commencement address at the Carlson School of Management"
 date: 2012-07-16 20:37:45 00:00
 permalink: /videos/1091
 source: "http://www.youtube.com/watch?v=RskzYHPlh5U"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/RskzYHPlh5U/hqdefault.jpg"
 user:
+  id: 1186
   username: "francisc"
   name: "Francisc"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/RskzYHPlh5U?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1091
 ---
 
 Accomplished venture investor, private equity principal, company advisor, entrepreneur, and public speaker Chris Sacca addressed the graduates of the University of Minnesota's Carlson School of Management at its commencement exercises on May 16, 2011 at Mariucci Arena.

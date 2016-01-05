@@ -3,12 +3,16 @@ title: "The 10 Golden Principles of Successful Web Apps"
 date: 2012-05-19 19:18:33 00:00
 permalink: /videos/435
 source: "https://vimeo.com/10510576"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/552/369/55236972_640.jpg"
 user:
+  id: 397
   username: "ram"
   name: "Rusty Meadows"
 tags: ["business","apps","vc"]
 html: "<iframe src=\"http://player.vimeo.com/video/10510576\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 435
 ---
 
 Fred Wilson at the Future of Web Apps Miami 2010

@@ -1,0 +1,6 @@
+---
+title: "small groups"
+id: tag.id
+permalink: "/tags/small%20groups"
+videos: [1364]
+---

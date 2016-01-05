@@ -1,0 +1,6 @@
+---
+title: "snowboarding"
+id: tag.id
+permalink: "/tags/snowboarding"
+videos: [1755,2116]
+---

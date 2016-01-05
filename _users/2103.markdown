@@ -1,0 +1,9 @@
+---
+title: "Nathan Adkisson"
+date: 2013-11-22 19:57:54 00:00
+permalink: /nathanadkisson
+twitter: "nathanadkisson"
+likes: [2123,2000]
+id: 2103
+gravatar: "http://www.gravatar.com/avatar/94c1a0d26111f8b37a0457c407a726a7"
+---

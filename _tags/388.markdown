@@ -1,0 +1,6 @@
+---
+title: "type design"
+id: tag.id
+permalink: "/tags/type%20design"
+videos: [356,357,366,773,1251,1252,1305,1328,1378,1404,1433,1672,1735,1887]
+---

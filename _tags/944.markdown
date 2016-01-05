@@ -1,0 +1,6 @@
+---
+title: "krs-one"
+id: tag.id
+permalink: "/tags/krs-one"
+videos: [1000]
+---

@@ -1,0 +1,9 @@
+---
+title: "Jonathan Kennedy"
+date: 2012-05-16 04:46:53 00:00
+permalink: /jonnywired
+twitter: "jonnywired"
+likes: [18,1424]
+id: 51
+gravatar: "http://www.gravatar.com/avatar/35023c23c3c547e00e3fe473c98eb177"
+---

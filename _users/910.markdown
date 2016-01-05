@@ -1,0 +1,9 @@
+---
+title: "jenny sjalin"
+date: 2012-06-10 10:53:10 00:00
+permalink: /jennysjalin
+twitter: ""
+likes: [783,358,719,784,608,211,48,932,108,1334,943,1369,1370,423,1541]
+id: 910
+gravatar: "http://www.gravatar.com/avatar/cb0458e1ac0794639d498f88ff2ff4c6"
+---

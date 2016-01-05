@@ -3,12 +3,16 @@ title: "The 12 Days of Keefmas"
 date: 2013-12-18 20:47:01 00:00
 permalink: /videos/2144
 source: "https://vimeo.com/tremendous/keefmas"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/458/285/458285381_1280.jpg"
 user:
+  id: 1870
   username: "keaggy"
   name: "Bill Keaggy"
 tags: ["music","parody",70,"keith richards","keef","rolling stones","stones","birthday","song","holiday","christmas","keefmas"]
 html: "<iframe src=\"http://player.vimeo.com/video/82033544\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"Merry Keefmas from The Tremendousness Collective!\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 2144
 ---
 
 Wishing you a Merry Keefmas!

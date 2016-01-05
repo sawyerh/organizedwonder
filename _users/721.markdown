@@ -1,0 +1,9 @@
+---
+title: "Petteri Torssonen"
+date: 2012-05-28 20:22:59 00:00
+permalink: /pumppi
+twitter: ""
+likes: [582,677,718]
+id: 721
+gravatar: "http://www.gravatar.com/avatar/ced08ce18d7ba282657c705d40a35bde"
+---

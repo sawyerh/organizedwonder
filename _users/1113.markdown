@@ -1,0 +1,9 @@
+---
+title: "John"
+date: 2012-06-26 21:18:48 00:00
+permalink: /jimbo83478
+twitter: ""
+likes: [358,1644,366,874,820]
+id: 1113
+gravatar: "http://www.gravatar.com/avatar/7c90eadd5b802d98c807445ffe99e608"
+---

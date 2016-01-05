@@ -1,0 +1,9 @@
+---
+title: "Alex Sciuto"
+date: 2014-01-16 14:42:17 00:00
+permalink: /sciutoalex
+twitter: "SciutoAlex"
+likes: [2177,1299,1391]
+id: 2197
+gravatar: "http://www.gravatar.com/avatar/64d00a7b3eea64c551fd2c7b7a03a568"
+---

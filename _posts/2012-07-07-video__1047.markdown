@@ -3,12 +3,16 @@ title: "Jonah Lehrer: The Origins of Creative Insight & Why You Need Grit"
 date: 2012-07-07 09:48:56 00:00
 permalink: /videos/1047
 source: "https://vimeo.com/45162748"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/313/995/313995872_640.jpg"
 user:
+  id: 691
   username: "bobsta14"
   name: "Bobby Haiqalsyah"
 tags: ["99% conference","talk","creativity","conference","grit"]
 html: "<iframe src=\"http://player.vimeo.com/video/45162748\" width=\"640\" height=\"480\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1047
 ---
 
 Why does the "aha!" moment arrive only after we stop looking for it? At Behance's 99% Conference, Jonah Lehrer explains how creative insight works & what drives incredible achievements

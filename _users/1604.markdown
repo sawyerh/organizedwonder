@@ -1,0 +1,9 @@
+---
+title: "Denzil Miguel"
+date: 2012-11-22 06:52:15 00:00
+permalink: /dkrowe84
+twitter: ""
+likes: [1429,1339,1495]
+id: 1604
+gravatar: "http://www.gravatar.com/avatar/959f48170b2ba5a946278899ceedb142"
+---

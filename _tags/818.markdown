@@ -1,0 +1,6 @@
+---
+title: "technologies"
+id: tag.id
+permalink: "/tags/technologies"
+videos: [863]
+---

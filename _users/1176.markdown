@@ -1,0 +1,9 @@
+---
+title: "Ethan Turkeltaub"
+date: 2012-07-12 19:41:02 00:00
+permalink: /ethan
+twitter: ""
+likes: [1076,1077,1086]
+id: 1176
+gravatar: "http://www.gravatar.com/avatar/f8f311482dd027bc420c0fbe4de7dc33"
+---

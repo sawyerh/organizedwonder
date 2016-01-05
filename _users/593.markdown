@@ -1,0 +1,9 @@
+---
+title: "Kim Cross"
+date: 2012-05-22 01:54:38 00:00
+permalink: /kimcross
+twitter: ""
+likes: [534,317,934,1236,1237,1216,1660,1677,1681,48,1693,1694,1695,16,1659,1696,1697,1761,1743,1789]
+id: 593
+gravatar: "http://www.gravatar.com/avatar/248ce324ea0771899c35db490e17287a"
+---

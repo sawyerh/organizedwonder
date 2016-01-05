@@ -1,0 +1,6 @@
+---
+title: "jimmy valvano"
+id: tag.id
+permalink: "/tags/jimmy%20valvano"
+videos: [56]
+---

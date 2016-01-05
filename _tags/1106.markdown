@@ -1,0 +1,6 @@
+---
+title: "sabbatical"
+id: tag.id
+permalink: "/tags/sabbatical"
+videos: [1199]
+---

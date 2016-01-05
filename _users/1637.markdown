@@ -1,0 +1,9 @@
+---
+title: "Veronika Volkov"
+date: 2012-11-29 01:25:31 00:00
+permalink: /veronikuh
+twitter: ""
+likes: [481]
+id: 1637
+gravatar: "http://www.gravatar.com/avatar/3c61faaf010760fa2fc2df2c88011b90"
+---

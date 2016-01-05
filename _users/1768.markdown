@@ -1,0 +1,9 @@
+---
+title: "mkarlstrum"
+date: 2013-01-25 23:32:33 00:00
+permalink: /mkarlstrum
+twitter: ""
+likes: [1545,1614,1549,786,724,92,43,771,444,1575]
+id: 1768
+gravatar: "http://www.gravatar.com/avatar/00aae8c3c86becc3e512ccdb3b8adbe3"
+---

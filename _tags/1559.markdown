@@ -1,0 +1,6 @@
+---
+title: "knowledge"
+id: tag.id
+permalink: "/tags/knowledge"
+videos: [1779]
+---

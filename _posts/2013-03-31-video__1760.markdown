@@ -3,11 +3,15 @@ title: "Chase Jarvis LIVE: Tim Ferriss"
 date: 2013-03-31 23:15:41 00:00
 permalink: /videos/1760
 source: "https://www.youtube.com/watch?v=GjYcC59DFR0"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/GjYcC59DFR0/hqdefault.jpg"
 user:
+  id: 576
   username: "jl"
   name: "John Gregory Liwag"
 tags: ["interview","work","workflow","productivity"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/GjYcC59DFR0?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1760
 ---
 

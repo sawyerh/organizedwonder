@@ -1,0 +1,6 @@
+---
+title: "automobile"
+id: tag.id
+permalink: "/tags/automobile"
+videos: [2160]
+---

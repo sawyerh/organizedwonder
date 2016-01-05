@@ -1,0 +1,9 @@
+---
+title: "Derek Jensen"
+date: 2012-06-21 00:47:43 00:00
+permalink: /byderekj
+twitter: "byderekj"
+likes: [925,901,860,836,719,625,448,159,58,786,43,111,927,931,921,66,714,701,362,312,678,926,928,929,930,67,1028,1375,1344]
+id: 1086
+gravatar: "http://www.gravatar.com/avatar/bd202e059c3c0072e5ad95812026bd90"
+---

@@ -3,12 +3,16 @@ title: "Local Natives - Wide Eyes"
 date: 2012-05-27 00:43:36 00:00
 permalink: /videos/645
 source: "http://vimeo.com/8831482"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/422/058/42205801_640.jpg"
 user:
+  id: 700
   username: "jared"
   name: "Jared Erondu"
 tags: ["music","band"]
 html: "<iframe src=\"http://player.vimeo.com/video/8831482\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 645
 ---
 
 This is what excellent acoustics looks and sounds like.

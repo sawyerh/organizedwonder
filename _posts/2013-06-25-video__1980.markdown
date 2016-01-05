@@ -3,12 +3,16 @@ title: "The Crackling Glade"
 date: 2013-06-25 12:10:14 00:00
 permalink: /videos/1980
 source: "https://vimeo.com/58603283"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/406/913/406913985_1280.jpg"
 user:
+  id: 2033
   username: "tarkovsky"
   name: "Robert Williams"
 tags: ["science","war","action","future","fantasy","drama","women","soldier","church","norfolk","norwich","ideastap","tragedy","ghost","fiction","1080p","supernatural","suspense","world war ii"]
 html: "<iframe src=\"http://player.vimeo.com/video/58603283\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1980
 ---
 
 Two wives and two soldiers divided by war discuss the horror of the conflict.

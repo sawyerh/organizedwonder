@@ -1,0 +1,9 @@
+---
+title: "Matthieu Desjardins"
+date: 2012-09-26 14:44:44 00:00
+permalink: /sylogique
+twitter: ""
+likes: [73,337]
+id: 1348
+gravatar: "http://www.gravatar.com/avatar/fd152ff85e1dcacab8d9933c18a238aa"
+---

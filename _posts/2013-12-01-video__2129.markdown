@@ -3,12 +3,16 @@ title: "The Curious Properties of Intuitive Web Pages by Jared M. Spool - An Eve
 date: 2013-12-01 18:21:31 00:00
 permalink: /videos/2129
 source: "https://vimeo.com/73892448"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/448/111/448111443_640.jpg"
 user:
+  id: 2106
   username: "uxtvclub"
   name: "UXTVClub"
 tags: ["design","web","ux","jared spool"]
 html: "<iframe src=\"http://player.vimeo.com/video/73892448\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"The Curious Properties of Intuitive Web Pages by Jared M. Spool - An Event Apart Boston\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 2129
 ---
 
 In this 60-minute video caught live at An Event Apart Boston 2012, Jared M. Spool discusses the surprisingly unintuitive logic behind the creation of "intuitive" websites.

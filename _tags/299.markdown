@@ -1,0 +1,6 @@
+---
+title: "bird"
+id: tag.id
+permalink: "/tags/bird"
+videos: [205]
+---

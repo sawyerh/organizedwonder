@@ -1,0 +1,9 @@
+---
+title: "Angel Colberg"
+date: 2014-01-16 04:56:51 00:00
+permalink: /angelcolberg
+twitter: "angelcolberg"
+likes: [2177]
+id: 2169
+gravatar: "http://www.gravatar.com/avatar/c065bd8624ebd9a1c71acc97ba0b8a5c"
+---

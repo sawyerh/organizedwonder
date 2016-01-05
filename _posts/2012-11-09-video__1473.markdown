@@ -3,11 +3,15 @@ title: "Science of Design"
 date: 2012-11-09 22:45:09 00:00
 permalink: /videos/1473
 source: "http://www.ustream.tv/recorded/25238973"
+featured: false
+provider: "Ustream.tv"
 thumbnail: "http://static-cdn1.ustream.tv/images/uphoto_file/1/2/4/9/12494883/th/smalls2_120_12494883_logofec_1346758424.jpg"
 user:
+  id: 1429
   username: "domoku"
   name: "Kuku Kaka"
 tags: []
 html: "<object classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" width=\"480\" height=\"296\" id=\"utv939928\" name=\"utv_n_998435\"><param name=\"wmode\" value=\"transparent\"><param name=\"flashvars\" value=\"loc=%2F&amp;autoplay=false&amp;vid=25238973\"><param name=\"wmode\" value=\"opaque\"><param name=\"allowfullscreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><param name=\"src\" value=\"http://www.ustream.tv/flash/viewer.swf\"><embed flashvars=\"loc=%2F&amp;autoplay=false&amp;vid=25238973\" width=\"480\" height=\"296\" wmode=\"transparent\" allowfullscreen=\"true\" allowscriptaccess=\"always\" id=\"utv939928\" name=\"utv_n_998435\" src=\"http://www.ustream.tv/flash/viewer.swf\" type=\"application/x-shockwave-flash\"></embed></object>"
+id: 1473
 ---
 

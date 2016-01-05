@@ -1,0 +1,9 @@
+---
+title: "Luiza S Araujo"
+date: 2012-05-30 22:03:06 00:00
+permalink: /luizas
+twitter: "@luuizas"
+likes: [703]
+id: 797
+gravatar: "http://www.gravatar.com/avatar/1da7c6c00a2309c71426aca636aee3eb"
+---

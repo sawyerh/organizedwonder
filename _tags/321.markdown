@@ -1,0 +1,6 @@
+---
+title: "soko"
+id: tag.id
+permalink: "/tags/soko"
+videos: [239]
+---

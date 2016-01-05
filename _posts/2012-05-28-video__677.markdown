@@ -3,11 +3,15 @@ title: "Collapick CC"
 date: 2012-05-28 20:24:03 00:00
 permalink: /videos/677
 source: "http://vimeo.com/27124566"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/179/805/179805277_640.jpg"
 user:
+  id: 721
   username: "pumppi"
   name: "Petteri Torssonen"
 tags: ["creative commons"]
 html: "<iframe src=\"http://player.vimeo.com/video/27124566\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 677
 ---
 

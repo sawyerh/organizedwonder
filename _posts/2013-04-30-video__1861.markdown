@@ -3,12 +3,16 @@ title: "Typographic Design in the Digital Domain"
 date: 2013-04-30 22:47:21 00:00
 permalink: /videos/1861
 source: "http://www.youtube.com/watch?feature=player_embedded&v=SG0Ou07IDhQ"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/SG0Ou07IDhQ/hqdefault.jpg"
 user:
+  id: 105
   username: "milesroxas"
   name: "Miles Roxas"
 tags: ["interview","design","typography","web design"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/SG0Ou07IDhQ?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1861
 ---
 
 A conversation with Erik Spiekermann & Elliot Jay Stocks. Film by http://daukes.com/

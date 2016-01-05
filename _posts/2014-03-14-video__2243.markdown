@@ -3,12 +3,16 @@ title: "Leaders Of The 3D Printing Revolution"
 date: 2014-03-14 01:21:15 00:00
 permalink: /videos/2243
 source: "http://www.youtube.com/watch?v=IS4Xw8f9LCc&list=PL6uqON-thyrYoP65o0JB5IbcrVrzx_kwN"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/IS4Xw8f9LCc/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["the creators project","3d printing"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Fwmode%3Dtransparent%26list%3DPL6uqON-thyrYoP65o0JB5IbcrVrzx_kwN&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIS4Xw8f9LCc%26list%3DPL6uqON-thyrYoP65o0JB5IbcrVrzx_kwN%26index%3D13&image=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FIS4Xw8f9LCc%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2243
 ---
 
 Shapeways opens up 3D printing to the masses, allowing us to design and share our ideas as well as realize them as physical objects.

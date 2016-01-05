@@ -1,0 +1,9 @@
+---
+title: "Jason Arias"
+date: 2012-06-07 22:38:55 00:00
+permalink: /jasonarias
+twitter: "j____arias"
+likes: [67,754,708,100,145]
+id: 891
+gravatar: "http://www.gravatar.com/avatar/611be71c6cee4ac0ff93d81cf42ec299"
+---

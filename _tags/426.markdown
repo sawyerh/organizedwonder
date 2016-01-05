@@ -1,0 +1,6 @@
+---
+title: "michael bierut"
+id: tag.id
+permalink: "/tags/michael%20bierut"
+videos: [444,2504,2505,2506]
+---

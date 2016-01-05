@@ -3,12 +3,16 @@ title: "Urban Spiritual"
 date: 2013-06-25 12:06:19 00:00
 permalink: /videos/1979
 source: "https://vimeo.com/30881235"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/268/042/268042200_1280.jpg"
 user:
+  id: 2033
   username: "tarkovsky"
   name: "Robert Williams"
 tags: ["life","film","mother","choice","short","death","drama","daughter","staff","pick","award","winner","dslr","roundhouse","hospital","medical","london","7d","birmingham","canon"]
 html: "<iframe src=\"http://player.vimeo.com/video/30881235\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1979
 ---
 
 Towards the end of her life Susan explores her relationship with her nineteen year old daughter Samantha. Throughout the film Susan is dying of cancer - although this is not expressed definitively to the audience. Although the main concern of the film is the mother-daughter interaction, a third character is imparted through the dialogue in the form of an absent father.

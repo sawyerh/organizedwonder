@@ -1,0 +1,9 @@
+---
+title: "John Kochmanski"
+date: 2014-01-16 14:45:52 00:00
+permalink: /johnkochmanski
+twitter: "johnkochmanski"
+likes: [1895,112,1550,2100,2199,703,39,70,2205,2211,2233]
+id: 2198
+gravatar: "http://www.gravatar.com/avatar/2f581a460384a7246f773024650dedf2"
+---

@@ -3,12 +3,16 @@ title: "Make space for the next users of the web"
 date: 2013-07-18 10:15:28 00:00
 permalink: /videos/2015
 source: "https://www.youtube.com/watch?v=56gRF-ypBM4"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/56gRF-ypBM4/hqdefault.jpg"
 user:
+  id: 1325
   username: "nunile"
   name: "Maria"
 tags: ["design","webvisions","chris heilmann","accesibility"]
 html: "<iframe width=\"640\" height=\"480\" src=\"http://www.youtube.com/embed/56gRF-ypBM4?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2015
 ---
 
 Closing keynote at webvisions barcelona 2013

@@ -1,0 +1,6 @@
+---
+title: "hipsters"
+id: tag.id
+permalink: "/tags/hipsters"
+videos: [1126]
+---

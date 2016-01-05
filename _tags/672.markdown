@@ -1,0 +1,6 @@
+---
+title: "art direction"
+id: tag.id
+permalink: "/tags/art%20direction"
+videos: [761]
+---

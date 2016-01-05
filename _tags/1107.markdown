@@ -1,0 +1,6 @@
+---
+title: "david foster wallace"
+id: tag.id
+permalink: "/tags/david%20foster%20wallace"
+videos: [1200,1201,1879,1998]
+---

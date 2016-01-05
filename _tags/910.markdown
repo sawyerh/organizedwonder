@@ -1,0 +1,6 @@
+---
+title: "jeff finley"
+id: tag.id
+permalink: "/tags/jeff%20finley"
+videos: [975]
+---

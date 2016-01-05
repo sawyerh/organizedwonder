@@ -3,12 +3,16 @@ title: "Handmade Portraits: From Russia With Love"
 date: 2014-07-08 18:53:10 00:00
 permalink: /videos/2336
 source: "http://vimeo.com/59512189"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://i.vimeocdn.com/video/424658421_1280.jpg"
 user:
+  id: 2287
   username: "zachacole"
   name: "Zach Cole"
 tags: ["documentary","craft","creativity","inspiring","creative process","inspirational","artist","shoes"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F59512189&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F59512189&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F424658421_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2336
 ---
 
 An artisan (afourcustom.etsy.com) shares his passion for handcrafted shoes with admiring customers all over the world.

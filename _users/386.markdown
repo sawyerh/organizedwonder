@@ -1,0 +1,9 @@
+---
+title: "Malcolm McCulloch"
+date: 2012-05-18 20:03:12 00:00
+permalink: /malcolmmcc
+twitter: ""
+likes: [105,158,279,278,516,545]
+id: 386
+gravatar: "http://www.gravatar.com/avatar/42e04b294febbf346e3c703f34c0b979"
+---

@@ -1,0 +1,9 @@
+---
+title: "luke dupont"
+date: 2012-09-19 14:38:40 00:00
+permalink: /lukedupont
+twitter: "lukedupont"
+likes: [584,43,1895]
+id: 1336
+gravatar: "http://www.gravatar.com/avatar/c15363ffeec0a0925bb9c858eee1f5f1"
+---

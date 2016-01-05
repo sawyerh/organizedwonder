@@ -1,0 +1,6 @@
+---
+title: "neil degrasse tyson"
+id: tag.id
+permalink: "/tags/neil%20degrasse%20tyson"
+videos: [147,1004,1005,1246,1430]
+---

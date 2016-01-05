@@ -1,0 +1,6 @@
+---
+title: "infrastructure"
+id: tag.id
+permalink: "/tags/infrastructure"
+videos: [1548]
+---

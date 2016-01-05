@@ -1,0 +1,6 @@
+---
+title: "street style"
+id: tag.id
+permalink: "/tags/street%20style"
+videos: [2351]
+---

@@ -3,11 +3,15 @@ title: "Duck Commander Phil Robertson - How It All Started"
 date: 2013-08-14 17:45:42 00:00
 permalink: /videos/2047
 source: "http://www.youtube.com/watch?v=PXVCzo6M640"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/PXVCzo6M640/hqdefault.jpg"
 user:
+  id: 1729
   username: "msteinruck"
   name: "Mark Steinruck"
 tags: []
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/PXVCzo6M640?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2047
 ---
 

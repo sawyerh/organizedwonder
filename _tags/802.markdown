@@ -1,0 +1,6 @@
+---
+title: "short sketch"
+id: tag.id
+permalink: "/tags/short%20sketch"
+videos: [858]
+---

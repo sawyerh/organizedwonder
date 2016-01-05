@@ -3,12 +3,16 @@ title: "Victoria Grant"
 date: 2012-05-21 13:05:51 00:00
 permalink: /videos/503
 source: "http://vimeo.com/41954094"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/290/909/290909754_960.jpg"
 user:
+  id: 475
   username: "yewfai"
   name: "yewfai"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/41954094\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 503
 ---
 
 12-year old Victoria Grant explains why her homeland, Canada, and most of the world, is in debt. April 27, 2012 at the Public Banking in America Conference, Philadelphia, PA.

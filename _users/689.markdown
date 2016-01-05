@@ -1,0 +1,9 @@
+---
+title: "Andy Staple"
+date: 2012-05-26 02:44:37 00:00
+permalink: /andystaple
+twitter: "andystaple"
+likes: [932,100,310,555]
+id: 689
+gravatar: "http://www.gravatar.com/avatar/9d5456c433ada141bd08c84a29a1f622"
+---

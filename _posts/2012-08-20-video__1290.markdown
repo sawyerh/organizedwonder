@@ -3,11 +3,15 @@ title: "OLDER N' FASTER // THE CALIFORNIA LOOK"
 date: 2012-08-20 17:48:02 00:00
 permalink: /videos/1290
 source: "http://vimeo.com/47809913"
+featured: false
+provider: "Vimeo"
 thumbnail: ""
 user:
+  id: 501
   username: "kevinrechsteiner"
   name: "Kevin Rechsteiner"
 tags: ["cars"]
 html: "<iframe src=\"http://player.vimeo.com/video/47809913\" width=\"1280\" height=\"544\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1290
 ---
 

@@ -3,11 +3,15 @@ title: "VICE Season 2: Episode 1 Full Episode TVMA (HBO)"
 date: 2014-03-16 19:54:38 00:00
 permalink: /videos/2246
 source: "https://www.youtube.com/watch?v=GKpMpwboPH4"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i.ytimg.com/vi/GKpMpwboPH4/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["vice","world","news"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FGKpMpwboPH4%3Fwmode%3Dtransparent&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGKpMpwboPH4&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FGKpMpwboPH4%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2246
 ---
 

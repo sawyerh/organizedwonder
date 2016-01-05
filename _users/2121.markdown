@@ -1,0 +1,9 @@
+---
+title: "Yan Kovyakh"
+date: 2014-01-09 22:42:47 00:00
+permalink: /thealmightyprod
+twitter: ""
+likes: [2168]
+id: 2121
+gravatar: "http://www.gravatar.com/avatar/bdf9a5d64583617f2d747cdf232d3bf7"
+---

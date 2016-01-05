@@ -1,0 +1,9 @@
+---
+title: "Wilson Miner"
+date: 2012-06-06 23:21:27 00:00
+permalink: /wilsonminer
+twitter: ""
+likes: [66,763,481,719,1118,1426,1568]
+id: 879
+gravatar: "http://www.gravatar.com/avatar/8a816ec751443556179926fe46b2583b"
+---

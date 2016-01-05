@@ -3,11 +3,15 @@ title: "Versus Hip Hop on Trial Debate"
 date: 2012-06-28 12:21:51 00:00
 permalink: /videos/1000
 source: "http://youtu.be/r3-7Y0xG89Q"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/r3-7Y0xG89Q/hqdefault.jpg"
 user:
+  id: 643
   username: "zit_dantes"
   name: "Zit Dantes"
 tags: ["talk","hip-hop","google","debate","youtube","versus","jesse jackson","jason whitlock","krs-one","questlove","estelle","pj o'rourke","shaun bailey","benjamin zephaniah","q-tip","michael eric dyson","james peterson"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/r3-7Y0xG89Q?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1000
 ---
 

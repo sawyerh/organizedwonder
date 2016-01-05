@@ -1,0 +1,6 @@
+---
+title: "information technology"
+id: tag.id
+permalink: "/tags/information%20technology"
+videos: [655]
+---

@@ -3,11 +3,15 @@ title: "OMOTE / REAL-TIME FACE TRACKING & PROJECTION MAPPING"
 date: 2014-08-18 15:47:45 00:00
 permalink: /videos/2382
 source: "http://vimeo.com/103425574"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://i.vimeocdn.com/video/485669355_1280.jpg"
 user:
+  id: 634
   username: "leonkotlyar"
   name: "Leon Kotlyar"
 tags: []
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F103425574&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F103425574&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F485669355_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"1080\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2382
 ---
 

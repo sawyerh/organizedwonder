@@ -3,11 +3,15 @@ title: "The Pixel Painter"
 date: 2013-08-01 07:12:05 00:00
 permalink: /videos/2036
 source: "http://vimeo.com/70748579"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/444/117/444117881_1280.jpg"
 user:
+  id: 1317
   username: "bolverkr"
   name: "Thomas Garaventa"
 tags: ["interview","inspirational","short documentary"]
 html: "<iframe src=\"http://player.vimeo.com/video/70748579\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 2036
 ---
 

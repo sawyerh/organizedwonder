@@ -3,11 +3,15 @@ title: "WATCHxWITNESS - DETROIT"
 date: 2013-12-13 21:02:37 00:00
 permalink: /videos/2138
 source: "http://www.youtube.com/watch?v=QL-fyrq7AMo&list=PLAB8z9Ldgy7PikfTXDaYn7164M0JfclG-&index=3"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/QL-fyrq7AMo/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["photography","watchxwitness"]
 html: "<iframe width=\"640\" height=\"480\" src=\"http://www.youtube.com/embed/videoseries?index=2&wmode=transparent&list=PLAB8z9Ldgy7PikfTXDaYn7164M0JfclG-\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2138
 ---
 

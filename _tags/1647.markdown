@@ -1,0 +1,6 @@
+---
+title: "ghost"
+id: tag.id
+permalink: "/tags/ghost"
+videos: [1980]
+---

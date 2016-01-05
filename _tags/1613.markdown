@@ -1,0 +1,6 @@
+---
+title: "instagram"
+id: tag.id
+permalink: "/tags/instagram"
+videos: [1914]
+---

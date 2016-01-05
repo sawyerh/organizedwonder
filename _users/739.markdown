@@ -1,0 +1,9 @@
+---
+title: "Erin Lynch"
+date: 2012-05-29 04:27:45 00:00
+permalink: /erinlynch
+twitter: ""
+likes: [180,668,585,646,730,783,780,788,310,932,288,1029,1068,1145,1137,1341]
+id: 739
+gravatar: "http://www.gravatar.com/avatar/19b6bc3123323345715ce0b00f593a9e"
+---

@@ -3,12 +3,16 @@ title: "Mike Kubinski of CLE Clothing at WMC Fest 2012"
 date: 2012-07-31 17:47:42 00:00
 permalink: /videos/1174
 source: "http://www.youtube.com/watch?v=OSZr4q3xyJM&feature=plcp"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/OSZr4q3xyJM/hqdefault.jpg"
 user:
+  id: 1046
   username: "jfinley"
   name: "Jeff Finley"
 tags: ["speaker \"wmc fest\" cleveland festival \"design conference\" \"graphic design\" lecture inspirational entrepreneur diy ohio midwest"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/OSZr4q3xyJM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1174
 ---
 
 Mike Kubinski of CLE Clothing gives a presentation at Weapons of Mass Creation Fest 2012 in Cleveland, OH - http://wmcfest.com

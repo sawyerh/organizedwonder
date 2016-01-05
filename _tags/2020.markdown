@@ -1,0 +1,6 @@
+---
+title: "nsfw"
+id: tag.id
+permalink: "/tags/nsfw"
+videos: [2495]
+---

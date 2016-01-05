@@ -1,0 +1,9 @@
+---
+title: "stephanie"
+date: 2012-11-14 21:01:34 00:00
+permalink: /stephaniewhy
+twitter: "stephaniewhy"
+likes: [481,1339,1268,1375,1493,1664,1661,1657,1523,541,1137,1509,1670,398,1725,1743,1747,1540,2076,1904,2090,1985,448,715,979,1721,723,562,1047,446,2039,2032]
+id: 1550
+gravatar: "http://www.gravatar.com/avatar/af5a8f766eaf1d4ec0fbf10b6bd6e939"
+---

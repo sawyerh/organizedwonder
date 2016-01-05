@@ -1,0 +1,6 @@
+---
+title: "collage"
+id: tag.id
+permalink: "/tags/collage"
+videos: [1991]
+---

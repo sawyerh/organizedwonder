@@ -1,0 +1,9 @@
+---
+title: "Raisa Durandi"
+date: 2012-05-18 08:52:44 00:00
+permalink: /raisa
+twitter: ""
+likes: [53,112,30,67,73]
+id: 260
+gravatar: "http://www.gravatar.com/avatar/118cc7fa87520d7cc5eaccb1db17acc7"
+---

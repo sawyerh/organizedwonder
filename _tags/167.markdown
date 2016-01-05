@@ -1,0 +1,6 @@
+---
+title: "steve blank"
+id: tag.id
+permalink: "/tags/steve%20blank"
+videos: [90]
+---

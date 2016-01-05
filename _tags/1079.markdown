@@ -1,0 +1,6 @@
+---
+title: "studio"
+id: tag.id
+permalink: "/tags/studio"
+videos: [1142,1361]
+---

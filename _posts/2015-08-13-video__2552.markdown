@@ -3,12 +3,16 @@ title: "Omni Processor in Senegal"
 date: 2015-08-13 00:47:06 00:00
 permalink: /videos/2552
 source: "https://www.youtube.com/watch?v=8tdlqjGlN3A"
+featured: false
+provider: "YouTube"
 thumbnail: "https://i.ytimg.com/vi/8tdlqjGlN3A/hqdefault.jpg"
 user:
+  id: 1667
   username: "sbgriffi"
   name: "Stuart G."
 tags: ["science","technology","innovation","entrepreneurship","bill gates"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F8tdlqjGlN3A%3Fwmode%3Dtransparent%26feature%3Doembed&wmode=transparent&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8tdlqjGlN3A&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F8tdlqjGlN3A%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2552
 ---
 
 Bill Gates provides an update on the Omni Processor, the machine that turns feces into water. The Janicki Omni Processor is in Dakar, Senegal, as part of a pilot project that could ultimately save lives and reduce disease in poor countries.

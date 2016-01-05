@@ -1,0 +1,9 @@
+---
+title: "Chas Wagner"
+date: 2012-05-28 21:46:54 00:00
+permalink: /chaswagner
+twitter: "ChasWagner"
+likes: [263,137]
+id: 731
+gravatar: "http://www.gravatar.com/avatar/cd41d07dc93c57e7b55577ed7a39835c"
+---

@@ -1,0 +1,9 @@
+---
+title: "Greg Bird"
+date: 2014-01-16 15:47:52 00:00
+permalink: /gnbird
+twitter: ""
+likes: [1920]
+id: 2200
+gravatar: "http://www.gravatar.com/avatar/198422ccb69cf2f20dbeaed420263bf0"
+---

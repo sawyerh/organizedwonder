@@ -3,12 +3,16 @@ title: "Jonah Lehrer: The Origins of Creative Insight & Why You Need Grit"
 date: 2012-07-10 22:12:05 00:00
 permalink: /videos/1060
 source: "http://exp.lore.com/post/26900391646/the-answer-will-only-arrive-after-we-stop-looking"
+featured: false
+provider: "Tumblr"
 thumbnail: "http://b.vimeocdn.com/ts/313/995/313995872_200.jpg"
 user:
+  id: 368
   username: "rsantaferraro"
   name: "Rocky Santaferraro"
 tags: ["creativity"]
 html: "<iframe src=\"http://player.vimeo.com/video/45162748?title=0&amp;byline=0&amp;portrait=0&amp;color=e91c6b\" width=\"400\" height=\"300\" frameborder=\"0\"></iframe>"
+id: 1060
 ---
 
 "The answer will only arrive after we stop looking for it," says bestselling author Jonah Lehrer. Examining recent research into what drives creative insights, Lehrer breaks down how and why we have "aha!" moments, using examples that range from Bob Dylan writing "Like A Rolling Stone" to a Tibetan monk's zen puzzle-solving powers. 

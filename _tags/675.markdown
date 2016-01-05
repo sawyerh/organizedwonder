@@ -1,0 +1,6 @@
+---
+title: "environment"
+id: tag.id
+permalink: "/tags/environment"
+videos: [766,1240,1285,2123,2411,2534,2544]
+---

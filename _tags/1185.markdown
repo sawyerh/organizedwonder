@@ -1,0 +1,6 @@
+---
+title: "gardening"
+id: tag.id
+permalink: "/tags/gardening"
+videos: [1332]
+---

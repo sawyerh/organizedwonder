@@ -3,12 +3,16 @@ title: "Wringing out Water on the ISS - for Science!"
 date: 2013-04-19 18:15:21 00:00
 permalink: /videos/1809
 source: "http://www.youtube.com/watch?v=o8TssbmY-GM&feature=player_embedded"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/o8TssbmY-GM/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["nasa"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/o8TssbmY-GM?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1809
 ---
 
 CSA Astronaut Chris Hadfield performed a simple science experiment designed by grade 10 Lockview High School students Kendra Lemke and Meredith Faulkner. The students from Fall River, Nova Scotia won a national science contest held by the Canadian Space Agency with their experiment on surface tension in space using a wet washcloth. Credit: Canadian Space Agency/NASA

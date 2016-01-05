@@ -3,12 +3,16 @@ title: "Simon Collison at ESAD"
 date: 2013-05-28 14:51:26 00:00
 permalink: /videos/1913
 source: "http://vimeo.com/67042661"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/438/760/438760031_640.jpg"
 user:
+  id: 1869
   username: "joshlong"
   name: "Josh Long"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/67042661\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1913
 ---
 
 A great talk from Simon on restraint.

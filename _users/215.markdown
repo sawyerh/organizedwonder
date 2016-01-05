@@ -1,0 +1,9 @@
+---
+title: "José Espinal"
+date: 2012-05-18 05:26:49 00:00
+permalink: /josespinal
+twitter: ""
+likes: [136,96,1086,145,1534,1552,1962]
+id: 215
+gravatar: "http://www.gravatar.com/avatar/8aaa266bc18bb1d05b46b1907df34161"
+---

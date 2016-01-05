@@ -3,12 +3,16 @@ title: "CreateTheMap.com: Interview with Jeff Finley"
 date: 2012-06-25 21:57:59 00:00
 permalink: /videos/975
 source: "https://vimeo.com/album/1621125/video/25149267"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/166/969/166969888_1280.jpg"
 user:
+  id: 1046
   username: "jfinley"
   name: "Jeff Finley"
 tags: ["art","interview","design","entrepreneurship","wmc fest","cleveland","illustration","jeff finley","go media"]
 html: "<iframe src=\"http://player.vimeo.com/video/25149267\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 975
 ---
 
 Jeff Finley is the founder of the Weapons of Mass Creation Fest (wmcfest.com), a young grassroots movement to inspire and enable the creative mind. WMC Fest takes place annually in Cleveland, Ohio. Jeff's also a partner/designer at GoMedia (gomedia.us). Many thanks to Jeff for taking time to chat and share some of his story. (For more info on Create the Map, visit createthemap.com.)

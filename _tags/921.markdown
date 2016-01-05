@@ -1,0 +1,6 @@
+---
+title: "apparel"
+id: tag.id
+permalink: "/tags/apparel"
+videos: [984]
+---

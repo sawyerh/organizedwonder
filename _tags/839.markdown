@@ -1,0 +1,6 @@
+---
+title: "8-bit"
+id: tag.id
+permalink: "/tags/8-bit"
+videos: [896]
+---

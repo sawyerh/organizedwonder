@@ -1,0 +1,6 @@
+---
+title: "fantasy"
+id: tag.id
+permalink: "/tags/fantasy"
+videos: [910,1739,1980]
+---

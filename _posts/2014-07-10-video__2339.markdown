@@ -3,11 +3,15 @@ title: "The Gunfighter"
 date: 2014-07-10 02:07:28 00:00
 permalink: /videos/2339
 source: "http://vimeo.com/79306807"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://i.vimeocdn.com/video/479672985_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["short film","comedy","western"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F79306807&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F79306807&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F479672985_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"800\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2339
 ---
 

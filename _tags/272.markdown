@@ -1,0 +1,6 @@
+---
+title: "information"
+id: tag.id
+permalink: "/tags/information"
+videos: [186,621,989,1271]
+---

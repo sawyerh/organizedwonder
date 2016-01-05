@@ -3,11 +3,15 @@ title: "Tom Clancy's Ghost Recon: Alpha Short Film"
 date: 2012-06-04 18:53:23 00:00
 permalink: /videos/765
 source: "http://www.youtube.com/watch?v=U19ukidVr4E"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/U19ukidVr4E/hqdefault.jpg"
 user:
+  id: 643
   username: "zit_dantes"
   name: "Zit Dantes"
 tags: ["short film","video game"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/U19ukidVr4E?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 765
 ---
 

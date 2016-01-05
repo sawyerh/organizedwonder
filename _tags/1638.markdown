@@ -1,0 +1,6 @@
+---
+title: "7d"
+id: tag.id
+permalink: "/tags/7d"
+videos: [1979]
+---

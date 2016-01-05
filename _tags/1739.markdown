@@ -1,0 +1,6 @@
+---
+title: "market research"
+id: tag.id
+permalink: "/tags/market%20research"
+videos: [2097]
+---

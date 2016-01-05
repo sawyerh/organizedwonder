@@ -1,0 +1,6 @@
+---
+title: "photobooks"
+id: tag.id
+permalink: "/tags/photobooks"
+videos: [1051]
+---

@@ -1,0 +1,9 @@
+---
+title: "Wiljan Slofstra"
+date: 2013-03-31 21:36:44 00:00
+permalink: /wiljan
+twitter: ""
+likes: [398,1753,1719,66,2133]
+id: 1895
+gravatar: "http://www.gravatar.com/avatar/14ef6431523e8a27cf9259b147bdd1cf"
+---

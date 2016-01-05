@@ -1,0 +1,6 @@
+---
+title: "educational"
+id: tag.id
+permalink: "/tags/educational"
+videos: [805]
+---

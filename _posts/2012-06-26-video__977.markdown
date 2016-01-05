@@ -3,11 +3,15 @@ title: "A Fine Frenzy- Pines"
 date: 2012-06-26 00:48:15 00:00
 permalink: /videos/977
 source: "http://vevo.ly/JshGhw"
+featured: false
+provider: "VEVO"
 thumbnail: "http://img.cache.vevo.com/Content/VevoImages/video/A8F9218BD3751797DC9A87EE4F08483A.jpg"
 user:
+  id: 674
   username: "bonnieandclide"
   name: "Bonnie Barrett"
 tags: ["music","inspirational","allison sudol","a fine frenzy","wondering","let go"]
 html: "<object width=\"575\" height=\"324\"><param name=\"wmode\" value=\"transparent\"><param name=\"movie\" value=\"http://videoplayer.vevo.com/embed/embedded?videoId=USVI31200033&amp;playlist=false&amp;autoplay=0&amp;playerId=62FF0A5C-0D9E-4AC1-AF04-1D9E97EE3961&amp;playerType=embedded&amp;env=0\"><param name=\"wmode\" value=\"transparent\"><param name=\"bgcolor\" value=\"#000000\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowScriptAccess\" value=\"always\"><embed src=\"http://videoplayer.vevo.com/embed/embedded?videoId=USVI31200033&amp;playlist=false&amp;autoplay=0&amp;playerId=62FF0A5C-0D9E-4AC1-AF04-1D9E97EE3961&amp;playerType=embedded&amp;env=0\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" width=\"575\" height=\"324\" bgcolor=\"#000000\" wmode=\"transparent\"></embed></object>"
+id: 977
 ---
 

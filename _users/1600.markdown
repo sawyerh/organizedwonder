@@ -1,0 +1,9 @@
+---
+title: "Carlos Morán"
+date: 2012-11-21 14:09:01 00:00
+permalink: /cmoran
+twitter: "cmoran_cl"
+likes: [1023]
+id: 1600
+gravatar: "http://www.gravatar.com/avatar/296f84e6cb18756715743bc75bae4324"
+---

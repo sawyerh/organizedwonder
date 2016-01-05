@@ -1,0 +1,9 @@
+---
+title: "Daniel Pereira"
+date: 2013-04-05 00:13:13 00:00
+permalink: /handprint
+twitter: ""
+likes: [1650]
+id: 1913
+gravatar: "http://www.gravatar.com/avatar/35fbb7dbee67a8d73605c632c5614e67"
+---

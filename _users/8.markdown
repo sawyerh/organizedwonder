@@ -1,0 +1,9 @@
+---
+title: "Alonzo Felix"
+date: 2012-05-15 06:09:22 00:00
+permalink: /alonzo
+twitter: "alonzofelix"
+likes: [66,58,100,69,103,111,24,39,134,671,885,919,1246,852,1713,1843,1882,1896,1999,2002]
+id: 8
+gravatar: "http://www.gravatar.com/avatar/45c70ae222c2fcfc281d058989ac8ee0"
+---

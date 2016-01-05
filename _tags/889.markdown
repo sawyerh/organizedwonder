@@ -1,0 +1,6 @@
+---
+title: "nicolas raspail"
+id: tag.id
+permalink: "/tags/nicolas%20raspail"
+videos: [947,2096]
+---

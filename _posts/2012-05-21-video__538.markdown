@@ -3,12 +3,16 @@ title: "RSA Animate - The Power of Networks"
 date: 2012-05-21 23:16:11 00:00
 permalink: /videos/538
 source: "http://www.youtube.com/watch?v=nJmGrNdJ5Gw&feature=g-u-u"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/nJmGrNdJ5Gw/hqdefault.jpg"
 user:
+  id: 475
   username: "yewfai"
   name: "yewfai"
 tags: ["talk"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/nJmGrNdJ5Gw?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 538
 ---
 
 Manuel Lima senior UX design lead at Microsoft Bing, explores the power of network visualisation to help navigate our complex modern world.

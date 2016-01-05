@@ -1,0 +1,6 @@
+---
+title: "irving harper"
+id: tag.id
+permalink: "/tags/irving%20harper"
+videos: [1713]
+---

@@ -1,0 +1,9 @@
+---
+title: "SAMANTHa VARGA"
+date: 2014-11-16 18:07:52 00:00
+permalink: /lotusandsunshine
+twitter: ""
+likes: [2386]
+id: 2345
+gravatar: "http://www.gravatar.com/avatar/0a2fa52a35f5f7d478bb125059722536"
+---

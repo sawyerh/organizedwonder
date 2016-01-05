@@ -3,11 +3,15 @@ title: "Tom Sachs, A Selby Film"
 date: 2012-05-18 01:05:05 00:00
 permalink: /videos/119
 source: "http://vimeo.com/17188504"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/106/423/106423829_640.jpg"
 user:
+  id: 133
   username: "gabekelley"
   name: "Gabe Kelley"
 tags: ["interview","documentary"]
 html: "<iframe src=\"http://player.vimeo.com/video/17188504\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 119
 ---
 

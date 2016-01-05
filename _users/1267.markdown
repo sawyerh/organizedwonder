@@ -1,0 +1,9 @@
+---
+title: "Viktor Fabry"
+date: 2012-07-30 06:58:21 00:00
+permalink: /viktorfabry
+twitter: "viktorfabry"
+likes: [171,109]
+id: 1267
+gravatar: "http://www.gravatar.com/avatar/f376ee3240769e39bb5fb852145cfea0"
+---

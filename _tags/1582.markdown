@@ -1,0 +1,6 @@
+---
+title: "choreogaphy"
+id: tag.id
+permalink: "/tags/choreogaphy"
+videos: [1824]
+---

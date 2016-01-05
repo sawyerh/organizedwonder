@@ -1,0 +1,6 @@
+---
+title: "guitar"
+id: tag.id
+permalink: "/tags/guitar"
+videos: [711,1011]
+---

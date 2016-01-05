@@ -1,0 +1,9 @@
+---
+title: "barbara littlefield"
+date: 2012-05-18 16:42:56 00:00
+permalink: /bl2453
+twitter: "@wyllie_foto"
+likes: [68]
+id: 360
+gravatar: "http://www.gravatar.com/avatar/0d4ec592aa3ded27cc73bfe6d7af6a2e"
+---

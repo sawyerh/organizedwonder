@@ -1,0 +1,6 @@
+---
+title: "fate"
+id: tag.id
+permalink: "/tags/fate"
+videos: [2085]
+---

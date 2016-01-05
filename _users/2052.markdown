@@ -1,0 +1,9 @@
+---
+title: "Jahil Maplestone"
+date: 2013-08-02 18:55:59 00:00
+permalink: /jaggers
+twitter: ""
+likes: [703]
+id: 2052
+gravatar: "http://www.gravatar.com/avatar/f7b3e0d7e29f92ff6726548b1305c080"
+---

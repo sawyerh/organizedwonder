@@ -1,0 +1,9 @@
+---
+title: "Mary Yang"
+date: 2012-07-22 21:33:17 00:00
+permalink: /marukie
+twitter: "marukie"
+likes: [1068,1094,358,46,583,842,129,1120,1122,1123,1124,1129,58,260,730,429,932,1346,1394,916,1566]
+id: 1241
+gravatar: "http://www.gravatar.com/avatar/f6e30baed0b0a855f5c185b6fe5f3580"
+---

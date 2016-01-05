@@ -3,12 +3,16 @@ title: "Starting Small with Eric Ries"
 date: 2012-05-16 23:13:08 00:00
 permalink: /videos/92
 source: "http://www.youtube.com/watch?src_vid=m1G9wydwW_8&annotation_id=annotation_594255&feature=iv&v=wFzkYUt_cNg"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/wFzkYUt_cNg/hqdefault.jpg"
 user:
+  id: 87
   username: "cameronwoodward"
   name: "Cameron Woodward"
 tags: ["startup","business","eric ries","san francisco"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/wFzkYUt_cNg?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 92
 ---
 
 Eric talks about the beginnings of any successful entrepreneur. Eric Ries is the creator of the Lean Startup methodology and the author of the popular entrepreneurship blog Startup Lessons Learned.

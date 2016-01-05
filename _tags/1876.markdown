@@ -1,0 +1,6 @@
+---
+title: "charlie rose"
+id: tag.id
+permalink: "/tags/charlie%20rose"
+videos: [2252,2341]
+---

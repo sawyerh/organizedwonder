@@ -1,0 +1,6 @@
+---
+title: "picasso"
+id: tag.id
+permalink: "/tags/picasso"
+videos: [2402]
+---

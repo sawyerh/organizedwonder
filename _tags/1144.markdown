@@ -1,0 +1,6 @@
+---
+title: "comics"
+id: tag.id
+permalink: "/tags/comics"
+videos: [1253]
+---

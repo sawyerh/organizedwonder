@@ -1,0 +1,6 @@
+---
+title: "kindness"
+id: tag.id
+permalink: "/tags/kindness"
+videos: [953,1056]
+---

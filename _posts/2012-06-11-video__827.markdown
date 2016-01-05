@@ -3,12 +3,16 @@ title: "Design is Like Underwear"
 date: 2012-06-11 03:39:38 00:00
 permalink: /videos/827
 source: "http://youtu.be/tmuzBbEwLNo"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/tmuzBbEwLNo/hqdefault.jpg"
 user:
+  id: 917
   username: "davidbrier"
   name: "David Brier"
 tags: ["design","business","creativity","humor","parody"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/tmuzBbEwLNo?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 827
 ---
 
 For David Brier's Fast Company blog post, David was hit by the notion of how similar design was to underwear. In terms of branding, support and other interesting parallels quickly came to view. Or visit http://www.risingabovethenoise.com for even more goodies.

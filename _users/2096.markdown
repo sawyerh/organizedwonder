@@ -1,0 +1,9 @@
+---
+title: "Sandeep Kumar"
+date: 2013-11-07 11:49:34 00:00
+permalink: /sandeepkrao
+twitter: ""
+likes: [1014]
+id: 2096
+gravatar: "http://www.gravatar.com/avatar/87c3fe29e7e1b4c3a12474a2cf6ac872"
+---

@@ -1,0 +1,9 @@
+---
+title: "Emma C Beltran"
+date: 2012-05-17 01:36:07 00:00
+permalink: /emmacbeltran
+twitter: "EmmaCBeltran"
+likes: [101,97,100,102,106]
+id: 90
+gravatar: "http://www.gravatar.com/avatar/eb5c8cd791dc219b740630563a736fd3"
+---

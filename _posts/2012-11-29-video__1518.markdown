@@ -3,12 +3,16 @@ title: "2012/10 Simon Collison (Benefit CreativeMornings)"
 date: 2012-11-29 02:25:15 00:00
 permalink: /videos/1518
 source: "http://vimeo.com/53113556"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/366/787/366787369_1280.jpg"
 user:
+  id: 821
   username: "luismruiz"
   name: "Luis M Ruiz"
 tags: ["creativemornings","simon collison"]
 html: "<iframe src=\"http://player.vimeo.com/video/53113556\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1518
 ---
 
 Simon Collison (colly.com) was one of our two speakers at the Kickstarter Benefit CreativeMornings here in New York in October of 2012. He speaks of freedom, creativity and his pursuit of something pure.

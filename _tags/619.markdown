@@ -1,0 +1,6 @@
+---
+title: "graffiti"
+id: tag.id
+permalink: "/tags/graffiti"
+videos: [674,742,1039,1040,1342,2124]
+---

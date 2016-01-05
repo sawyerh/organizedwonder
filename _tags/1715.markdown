@@ -1,0 +1,6 @@
+---
+title: "machinedrum"
+id: tag.id
+permalink: "/tags/machinedrum"
+videos: [2080]
+---

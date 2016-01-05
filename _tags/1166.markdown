@@ -1,0 +1,6 @@
+---
+title: "capture series"
+id: tag.id
+permalink: "/tags/capture%20series"
+videos: [1284]
+---

@@ -3,12 +3,16 @@ title: "Elon Musk - The Future of Energy & Transport"
 date: 2012-11-23 03:31:38 00:00
 permalink: /videos/1500
 source: "http://www.youtube.com/watch?v=c1HZIQliuoA&feature=youtu.be"
+featured: true
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/c1HZIQliuoA/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["lecture","elon musk","spacex","tesla"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/c1HZIQliuoA?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1500
 ---
 
 Elon Musk, the Founder of Tesla Motors and SpaceX, and Chairman of SolarCity, will talk from his own experiences at the forefront of technology and innovation about what kind of technological transformations are just around the corner and how these can help address the world's critical challenges.

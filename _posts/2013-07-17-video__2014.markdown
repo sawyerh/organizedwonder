@@ -3,12 +3,16 @@ title: "Not Just A Pretty Picture"
 date: 2013-07-17 13:48:02 00:00
 permalink: /videos/2014
 source: "https://www.youtube.com/watch?v=guy29QLyzts"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/guy29QLyzts/hqdefault.jpg"
 user:
+  id: 105
   username: "milesroxas"
   name: "Miles Roxas"
 tags: ["design","talk","user experience","ui","sarah parmenter","user interface","content"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/guy29QLyzts?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2014
 ---
 
 In 18 minutes, Sarah will be addressing the most common challenges, through her experience as a user interface designer.

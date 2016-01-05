@@ -1,0 +1,6 @@
+---
+title: "le sucre pimenté"
+id: tag.id
+permalink: "/tags/le%20sucre%20piment%C3%A9"
+videos: [1026]
+---

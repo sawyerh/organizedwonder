@@ -3,11 +3,15 @@ title: "John Hodgman, Design Explained"
 date: 2012-11-06 19:34:15 00:00
 permalink: /videos/1457
 source: "http://www.ted.com/talks/john_hodgman_design_explained.html"
+featured: false
+provider: "TED"
 thumbnail: "http://images.ted.com/images/ted/fe61d7b8ac3fc6122df6a930f518d2b7e6e6166a_389x292.jpg"
 user:
+  id: 65
   username: "miggi"
   name: "Miguel Angel Cardona Jr."
 tags: []
 html: "<iframe src=\"http://embed.ted.com/talks/john_hodgman_design_explained.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1457
 ---
 

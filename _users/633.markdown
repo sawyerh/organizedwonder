@@ -1,0 +1,9 @@
+---
+title: "Kelly Koerner"
+date: 2012-05-22 23:26:51 00:00
+permalink: /kellykoerner
+twitter: ""
+likes: [551,594,837,766,883,881,882]
+id: 633
+gravatar: "http://www.gravatar.com/avatar/d2d957b703734ba958ac1e2828d9701c"
+---

@@ -1,0 +1,6 @@
+---
+title: "san francisco"
+id: tag.id
+permalink: "/tags/san%20francisco"
+videos: [92,1119,1717,1882,2297]
+---

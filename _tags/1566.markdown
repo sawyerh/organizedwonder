@@ -1,0 +1,6 @@
+---
+title: "eddie huang"
+id: tag.id
+permalink: "/tags/eddie%20huang"
+videos: [1790]
+---

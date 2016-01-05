@@ -1,0 +1,6 @@
+---
+title: "3d printing"
+id: tag.id
+permalink: "/tags/3d%20printing"
+videos: [2243]
+---

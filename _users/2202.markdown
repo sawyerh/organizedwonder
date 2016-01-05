@@ -1,0 +1,9 @@
+---
+title: "Chris Meyer"
+date: 2014-01-16 17:45:18 00:00
+permalink: /meyercc
+twitter: ""
+likes: [2051,654,531,2021,2212,703,2218]
+id: 2202
+gravatar: "http://www.gravatar.com/avatar/2437570cedb20b30483322f2c941f64b"
+---

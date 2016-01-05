@@ -1,0 +1,6 @@
+---
+title: "wally olins"
+id: tag.id
+permalink: "/tags/wally%20olins"
+videos: [2493]
+---

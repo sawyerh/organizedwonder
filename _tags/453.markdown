@@ -1,0 +1,6 @@
+---
+title: "write"
+id: tag.id
+permalink: "/tags/write"
+videos: [471]
+---

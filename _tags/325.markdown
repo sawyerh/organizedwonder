@@ -1,0 +1,6 @@
+---
+title: "40's"
+id: tag.id
+permalink: "/tags/40's"
+videos: [241]
+---

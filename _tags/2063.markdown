@@ -1,0 +1,6 @@
+---
+title: "funk"
+id: tag.id
+permalink: "/tags/funk"
+videos: [2528]
+---

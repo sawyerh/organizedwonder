@@ -1,0 +1,6 @@
+---
+title: "how"
+id: tag.id
+permalink: "/tags/how"
+videos: [1233]
+---

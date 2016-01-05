@@ -3,12 +3,16 @@ title: "Ethan Marcotte - The Map Is Not The Territory"
 date: 2013-12-09 19:03:17 00:00
 permalink: /videos/2135
 source: "http://vimeo.com/63525054"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/434/921/434921308_1280.jpg"
 user:
+  id: 2109
   username: "ejazasi"
   name: "Ejaz Asi"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/63525054\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"Ethan Marcotte - The Map Is Not The Territory\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 2135
 ---
 
 When we create for the web, we participate in a kind of public art. We code, we design, we build for an audience, and our work feels successful when—if—it’s met with their delight. We shape digital experiences that provide a service, or that create joy, or that simply connect readers with words written half a world away. But in this session we?ll instead look at some ways in which our audience reshapes the way we think about our medium, and see where they might be leading us—and the web—next.

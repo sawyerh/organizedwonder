@@ -3,12 +3,16 @@ title: "Weapons of Mass Creation 2012"
 date: 2012-07-05 17:21:44 00:00
 permalink: /videos/1034
 source: "http://vimeo.com/45246552"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/314/579/314579659_640.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["wmc fest"]
 html: "<iframe src=\"http://player.vimeo.com/video/45246552\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1034
 ---
 
 We are the Weapons of Mass Creation. WMC Fest 3 took place on June 8-11, 2012 in Cleveland, OH. For more info visit wmcfest.com

@@ -3,12 +3,16 @@ title: "Here is St. Louis"
 date: 2012-09-05 19:43:01 00:00
 permalink: /videos/1346
 source: "http://vimeo.com/48890472"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/337/247/337247967_1280.jpg"
 user:
+  id: 1241
   username: "marukie"
   name: "Mary Yang"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/48890472\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1346
 ---
 
 Appreciate.

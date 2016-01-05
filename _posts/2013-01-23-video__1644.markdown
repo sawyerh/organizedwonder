@@ -3,12 +3,16 @@ title: "Don Norman: 3 ways good design makes you happy | Video on TED.com"
 date: 2013-01-23 14:00:23 00:00
 permalink: /videos/1644
 source: "http://www.ted.com/talks/don_norman_on_design_and_emotion.html"
+featured: false
+provider: "TED"
 thumbnail: "http://images.ted.com/images/ted/75971_389x292.jpg"
 user:
+  id: 1692
   username: "hoodwink73"
   name: "Arijit Bhattacharya"
 tags: ["design"]
 html: "<iframe src=\"http://embed.ted.com/talks/don_norman_on_design_and_emotion.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1644
 ---
 
 In this talk from 2003, design critic Don Norman turns his incisive eye toward beauty, fun, pleasure and emotion, as he looks at design that makes people happy. He names the three emotional cues that a well-designed product must hit to succeed.

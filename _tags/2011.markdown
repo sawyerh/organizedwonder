@@ -1,0 +1,6 @@
+---
+title: "visionary"
+id: tag.id
+permalink: "/tags/visionary"
+videos: [2483]
+---

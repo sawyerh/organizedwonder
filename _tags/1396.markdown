@@ -1,0 +1,6 @@
+---
+title: "web 2.0"
+id: tag.id
+permalink: "/tags/web%202.0"
+videos: [1630]
+---

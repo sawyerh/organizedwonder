@@ -1,0 +1,6 @@
+---
+title: "starcraft 2"
+id: tag.id
+permalink: "/tags/starcraft%202"
+videos: [27]
+---

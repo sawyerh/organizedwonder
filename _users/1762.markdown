@@ -1,0 +1,9 @@
+---
+title: "Aaron R. Stewart"
+date: 2013-01-23 18:35:05 00:00
+permalink: /arstewart
+twitter: ""
+likes: [1645]
+id: 1762
+gravatar: "http://www.gravatar.com/avatar/69204f4c7b924c782d8d55f64da78619"
+---

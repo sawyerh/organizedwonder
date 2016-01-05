@@ -1,0 +1,6 @@
+---
+title: "yasuda takahiro"
+id: tag.id
+permalink: "/tags/yasuda%20takahiro"
+videos: [208]
+---

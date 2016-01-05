@@ -1,0 +1,9 @@
+---
+title: "Māris Petrovs"
+date: 2012-06-03 08:31:39 00:00
+permalink: /maris
+twitter: "http://www.twitter.com/#!/marispetrovs"
+likes: [582,646]
+id: 841
+gravatar: "http://www.gravatar.com/avatar/6c7d3d7ab7ed4e5fd84b97f1c15f13de"
+---

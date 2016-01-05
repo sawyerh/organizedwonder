@@ -1,0 +1,6 @@
+---
+title: "world war ii"
+id: tag.id
+permalink: "/tags/world%20war%20ii"
+videos: [1980]
+---

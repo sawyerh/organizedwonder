@@ -3,12 +3,16 @@ title: "Apple - Making a difference. One app at a time."
 date: 2013-06-14 00:49:01 00:00
 permalink: /videos/1969
 source: "http://www.youtube.com/watch?v=PGtP6ZQ6Lt8"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/PGtP6ZQ6Lt8/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["technology","short film","apple"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/PGtP6ZQ6Lt8?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1969
 ---
 
 "Each iOS app offers remarkable — and often delightful — possibilities. But the most powerful iOS apps ever are ones that change people's lives in ways they never imagined."

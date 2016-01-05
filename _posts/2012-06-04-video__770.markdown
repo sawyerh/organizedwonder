@@ -3,12 +3,16 @@ title: "Antoine Picon, l'entrevue"
 date: 2012-06-04 21:39:54 00:00
 permalink: /videos/770
 source: "http://www.dailymotion.com/video/xmorf8_antoine-picon-l-entrevue_creation"
+featured: false
+provider: "Dailymotion"
 thumbnail: "http://static2.dmcdn.net/static/video/638/601/38106836:jpeg_preview_large.jpg?20120228114621"
 user:
+  id: 706
   username: "fbutour"
   name: "Florian Butour"
 tags: ["interview","architecture","antoine picon","talk"]
 html: "<iframe src=\"http://www.dailymotion.com/embed/video/xmorf8\" width=\"480\" height=\"359\" frameborder=\"0\"></iframe>"
+id: 770
 ---
 
 Entrevue d'Antoine Picon à la Cité de l'architecture et du patrimoine

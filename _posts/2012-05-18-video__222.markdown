@@ -3,12 +3,16 @@ title: "Petits Pois / Carottes"
 date: 2012-05-18 13:20:15 00:00
 permalink: /videos/222
 source: "http://www.dailymotion.com/video/x32wvm_petits-pois-carottes_news#from=embediframe"
+featured: false
+provider: "Dailymotion"
 thumbnail: "http://static2.dmcdn.net/static/video/077/471/5174770:jpeg_preview_large.jpg?20110918032644"
 user:
+  id: 276
   username: "apropos"
   name: "Barbara"
 tags: ["short film","animation"]
 html: "<iframe src=\"http://www.dailymotion.com/embed/video/x32wvm\" width=\"480\" height=\"276\" frameborder=\"0\"></iframe>"
+id: 222
 ---
 
 Dans l'obscurité d'un frigo grouille une multitude de larves. L'une d'elle est loin de s'imaginer ce que lui réserve sa future vie de mouche.

@@ -3,12 +3,16 @@ title: "Ev Williams - Foundation 31"
 date: 2013-06-29 02:52:45 00:00
 permalink: /videos/1987
 source: "http://www.youtube.com/watch?v=-q-P5_lMPEk&feature=c4-overview&list=UUSYG0DaTjEpo9LlE-f_1L1g"
+featured: true
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/-q-P5_lMPEk/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["interview","startup","founder","foundation"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/-q-P5_lMPEk?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1987
 ---
 
 Serial entrepreneur Evan Williams talks candidly about his experiences building Blogger, Twitter, and his latest project, Medium. Ev recounts the early days of Twitter, shares what he's learned about how to scale fast-growth products, and explains his philosophy about the power of collaboration.

@@ -1,0 +1,6 @@
+---
+title: "ian coyle"
+id: tag.id
+permalink: "/tags/ian%20coyle"
+videos: [585,852]
+---

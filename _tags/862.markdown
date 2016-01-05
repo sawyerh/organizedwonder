@@ -1,0 +1,6 @@
+---
+title: "focus"
+id: tag.id
+permalink: "/tags/focus"
+videos: [925,2546]
+---

@@ -1,0 +1,6 @@
+---
+title: "go pro"
+id: tag.id
+permalink: "/tags/go%20pro"
+videos: [544]
+---

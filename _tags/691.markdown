@@ -1,0 +1,6 @@
+---
+title: "privacy"
+id: tag.id
+permalink: "/tags/privacy"
+videos: [793,1164,2173,2200]
+---

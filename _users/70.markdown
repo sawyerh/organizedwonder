@@ -1,0 +1,9 @@
+---
+title: "Michael Kiser"
+date: 2012-05-16 15:40:57 00:00
+permalink: /mpkiser
+twitter: "mpkiser"
+likes: [53,72,6,67]
+id: 70
+gravatar: "http://www.gravatar.com/avatar/4658df0f7c9346b00baf95b8a9f90823"
+---

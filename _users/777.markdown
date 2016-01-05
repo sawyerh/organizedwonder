@@ -1,0 +1,9 @@
+---
+title: "Nathan Klose"
+date: 2012-05-30 13:57:05 00:00
+permalink: /chirospasm
+twitter: ""
+likes: [703]
+id: 777
+gravatar: "http://www.gravatar.com/avatar/7d6277cdc36d1a3b2ddea0dea537056c"
+---

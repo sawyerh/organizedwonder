@@ -3,12 +3,16 @@ title: "Alexis Madrigal: Why Startups Need To Solve Real Problems Again"
 date: 2013-04-10 20:34:53 00:00
 permalink: /videos/1781
 source: "http://www.youtube.com/watch?v=KfymFvdeIvA"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/KfymFvdeIvA/hqdefault.jpg"
 user:
+  id: 1839
   username: "abarba"
   name: "Anthony Barba"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/KfymFvdeIvA?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1781
 ---
 
 Alexis Madrigal thinks our modern entrepreneurial climate has a problem: we're not solving big problems anymore. The startup boom in the late 90s gave birth to revolutionary mobile devices. Now, the best we can do is Facebook. 

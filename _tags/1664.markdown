@@ -1,0 +1,6 @@
+---
+title: "responsive images"
+id: tag.id
+permalink: "/tags/responsive%20images"
+videos: [2001]
+---

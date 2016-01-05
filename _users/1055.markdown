@@ -1,0 +1,9 @@
+---
+title: "Daphna Talmi"
+date: 2012-06-17 10:20:39 00:00
+permalink: /daphnat
+twitter: "twitter.com/daphnaland"
+likes: [884,580,583,69]
+id: 1055
+gravatar: "http://www.gravatar.com/avatar/14bd74ea35ec16e987c2c698c65f6b29"
+---

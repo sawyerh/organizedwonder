@@ -3,11 +3,15 @@ title: "Duke Ellington Plays for Joan Miro"
 date: 2012-06-19 05:10:43 00:00
 permalink: /videos/915
 source: "http://www.youtube.com/watch?v=5_cZxrQuOHA&feature=player_embedded#!"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/5_cZxrQuOHA/hqdefault.jpg"
 user:
+  id: 1056
   username: "rethinkedteam"
   name: "rethinkED"
 tags: ["duke ellington","joan miro","footage","glorious"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/5_cZxrQuOHA?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 915
 ---
 

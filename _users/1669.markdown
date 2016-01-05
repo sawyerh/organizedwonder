@@ -1,0 +1,9 @@
+---
+title: "Yuli Scheidt"
+date: 2012-12-09 00:23:34 00:00
+permalink: /yulischeidt
+twitter: "paperapostle"
+likes: [1535]
+id: 1669
+gravatar: "http://www.gravatar.com/avatar/802f104e1bb7ef756209cceca903bd37"
+---

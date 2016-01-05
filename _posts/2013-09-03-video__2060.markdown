@@ -3,11 +3,15 @@ title: "Ivan Cash: Stop Making Ads & Start Making Personal Projects"
 date: 2013-09-03 01:35:57 00:00
 permalink: /videos/2060
 source: "http://vimeo.com/72572998"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/446/685/446685409_1280.jpg"
 user:
+  id: 471
   username: "themanro"
   name: "Roman Rusinov"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/72572998\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 2060
 ---
 

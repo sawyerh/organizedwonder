@@ -3,12 +3,16 @@ title: "Fareed Zakaria Commencement Speech || Harvard University Commencement 20
 date: 2012-05-25 13:52:47 00:00
 permalink: /videos/620
 source: "http://www.youtube.com/watch?v=W2YyY3IQXQk"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/W2YyY3IQXQk/hqdefault.jpg"
 user:
+  id: 475
   username: "yewfai"
   name: "yewfai"
 tags: ["commencement speech"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/W2YyY3IQXQk?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 620
 ---
 
 Fareed Zakaria, a Harvard alumnus whose insights into the power shifts setting the stage for a new global era have made him a celebrated thought leader on international affairs, was the principal speaker at the Afternoon Exercises of Harvard's 361st Commencement.

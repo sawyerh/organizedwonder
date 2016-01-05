@@ -1,0 +1,9 @@
+---
+title: "oliver warden"
+date: 2013-10-30 04:00:06 00:00
+permalink: /globall
+twitter: ""
+likes: [2113]
+id: 2093
+gravatar: "http://www.gravatar.com/avatar/038a25348f4d0bd5f2cce53a7d3e96e8"
+---

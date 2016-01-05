@@ -1,0 +1,6 @@
+---
+title: "founder"
+id: tag.id
+permalink: "/tags/founder"
+videos: [114,928,931,1987]
+---

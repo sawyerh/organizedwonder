@@ -3,12 +3,16 @@ title: "The man behind the smallest V-12 engine in the world"
 date: 2014-09-08 01:48:09 00:00
 permalink: /videos/2398
 source: "https://www.youtube.com/watch?v=c1pJIVqCC1E"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i.ytimg.com/vi/c1pJIVqCC1E/hqdefault.jpg"
 user:
+  id: 36
   username: "fox"
   name: "Larry Fox"
 tags: ["engineering","mechanics","motor","spain","short documentary"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2Fc1pJIVqCC1E%3Fwmode%3Dtransparent%26feature%3Doembed&wmode=transparent&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dc1pJIVqCC1E&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2Fc1pJIVqCC1E%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2398
 ---
 
 José Manuel Hermo Barreiro, "Patelo", is a pensioner from Galicia (Spain). He's a retired naval mechanic and he has built the smallests engines in the world. This is his story.

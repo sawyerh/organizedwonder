@@ -3,12 +3,16 @@ title: "Style guides are the new Photoshop"
 date: 2012-12-12 12:01:37 00:00
 permalink: /videos/1544
 source: "http://vimeo.com/54916928"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/380/010/380010981_1280.jpg"
 user:
+  id: 1456
   username: "simuse"
   name: "Simon"
 tags: ["webdesign","style guides","stephen hay","smashing"]
 html: "<iframe src=\"http://player.vimeo.com/video/54916928\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1544
 ---
 
 Stephen has been designing and developing for the Web since 1995. He currently helps clients with front-end design and development, multi-platform strategy and accessibility through his consultancy, Zero Interface. He is co-organizer of Mobilism, one of the world’s leading mobile Web development conferences and co-creator of Grip Workshops, a series of two-day intensive workshops for Web project managers on the client side.

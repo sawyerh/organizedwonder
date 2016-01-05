@@ -3,12 +3,16 @@ title: "Beatbox Brilliance: Tom Thum at TEDxSydney"
 date: 2013-07-13 17:54:48 00:00
 permalink: /videos/2005
 source: "http://www.youtube.com/watch?v=GNZBSZD16cY&feature=youtu.be"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/GNZBSZD16cY/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["ted","music"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/GNZBSZD16cY?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2005
 ---
 
 Tom Thum: Armed with just a microphone, Thum pushes the limits of the human voice to create incredible soundtracks of impossible beats and phenomenal sounds, with scratched vinyl, the Michael Jackson back-catalogue, the didgeridoo and an entire fifties jazz band amongst his vocal repertoire.

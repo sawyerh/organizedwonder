@@ -3,11 +3,15 @@ title: "Landlouping (Poler Stuff)"
 date: 2013-12-07 20:14:14 00:00
 permalink: /videos/2132
 source: "https://vimeo.com/80599201"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/456/591/456591390_1280.jpg"
 user:
+  id: 576
   username: "jl"
   name: "John Gregory Liwag"
 tags: ["poler","phillip t. annand","madbury club"]
 html: "<iframe src=\"http://player.vimeo.com/video/80599201\" width=\"1280\" height=\"676\" frameborder=\"0\" title=\"Landlouping\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 2132
 ---
 

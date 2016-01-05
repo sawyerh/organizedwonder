@@ -1,0 +1,9 @@
+---
+title: "Franz Walter"
+date: 2012-05-15 06:29:31 00:00
+permalink: /nanuuq
+twitter: ""
+likes: [53]
+id: 12
+gravatar: "http://www.gravatar.com/avatar/e5391b4d4d6fb5c06e06820c519e0e00"
+---

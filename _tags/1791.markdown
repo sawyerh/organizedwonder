@@ -1,0 +1,6 @@
+---
+title: "dead"
+id: tag.id
+permalink: "/tags/dead"
+videos: [2168]
+---

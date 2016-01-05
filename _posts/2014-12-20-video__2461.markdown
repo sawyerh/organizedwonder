@@ -3,12 +3,16 @@ title: "Beverly Hills mansion"
 date: 2014-12-20 22:42:48 00:00
 permalink: /videos/2461
 source: "http://vimeo.com/102897742"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://i.vimeocdn.com/video/485162596_1280.jpg"
 user:
+  id: 634
   username: "leonkotlyar"
   name: "Leon Kotlyar"
 tags: ["real estate"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F102897742&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F102897742&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F485162596_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"1080\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2461
 ---
 
 purchased for $70 million in 2014 by Markus “Notch” Persson, creator of Minecraft

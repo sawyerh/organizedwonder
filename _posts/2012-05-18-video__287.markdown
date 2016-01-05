@@ -3,12 +3,16 @@ title: "2012/04 Simon Sinek"
 date: 2012-05-18 21:23:03 00:00
 permalink: /videos/287
 source: "http://vimeo.com/40979758"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/283/726/283726814_960.jpg"
 user:
+  id: 393
   username: "iamcfish"
   name: "The Once-ler"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/40979758\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 287
 ---
 
 Described as “a visionary thinker with a rare intellect,” Simon Sinek teaches leaders and organizations how to inspire people. With a bold goal to help build a world in which the vast majority of people go home everyday feeling fulfilled by their work, Sinek is leading a movement to inspire people to do the things that inspire them.

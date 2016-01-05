@@ -3,12 +3,16 @@ title: "David Kelley: How to build your creative confidence"
 date: 2012-05-21 13:04:40 00:00
 permalink: /videos/502
 source: "http://www.youtube.com/watch?v=16p9YRF0l-g&feature=share"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/16p9YRF0l-g/hqdefault.jpg"
 user:
+  id: 475
   username: "yewfai"
   name: "yewfai"
 tags: ["ted talk"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/16p9YRF0l-g?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 502
 ---
 
 Is your school or workplace divided into "creatives" versus practical people? Yet surely, David Kelley suggests, creativity is not the domain of only a chosen few. Telling stories from his legendary design career and his own life, he offers ways to build the confidence to create.

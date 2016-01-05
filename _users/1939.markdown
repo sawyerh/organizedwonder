@@ -1,0 +1,9 @@
+---
+title: "Michael Kret"
+date: 2013-04-20 13:13:43 00:00
+permalink: /michael
+twitter: ""
+likes: [481,1431]
+id: 1939
+gravatar: "http://www.gravatar.com/avatar/837aec891bc30b73215eae7afd63ff83"
+---

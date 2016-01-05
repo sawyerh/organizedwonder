@@ -1,0 +1,9 @@
+---
+title: "Alyssa Liegel"
+date: 2012-05-18 17:48:32 00:00
+permalink: /thatsaliegel
+twitter: "thatsaliegel"
+likes: [1055,1173,1461]
+id: 370
+gravatar: "http://www.gravatar.com/avatar/512c90bf60793dbd7d68071a5046bcc8"
+---

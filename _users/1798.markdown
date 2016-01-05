@@ -1,0 +1,9 @@
+---
+title: "Ismail Jamaludin"
+date: 2013-02-12 19:49:41 00:00
+permalink: /ismailjamaludin
+twitter: "@IsmailJamaludin"
+likes: [1691]
+id: 1798
+gravatar: "http://www.gravatar.com/avatar/eea2530a7ee1a1236cd678458352e17c"
+---

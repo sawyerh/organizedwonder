@@ -3,12 +3,16 @@ title: "The Art of Making, Alma Flamenca"
 date: 2012-07-02 17:41:10 00:00
 permalink: /videos/1011
 source: "http://vimeo.com/dimitris/almaflamenca"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/298/926/298926692_1280.jpg"
 user:
+  id: 142
   username: "taylorlapeyre"
   name: "Taylor Lapeyre"
 tags: ["short film","music","craft","guitar","artisan"]
 html: "<iframe src=\"http://player.vimeo.com/video/43005056\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1011
 ---
 
 The ‘Art of Making’ series aspires to display and highlight people who go against the spirit of today’s pessimism and desperation. They dare to dream and create with zeal and imagination. Armed with passion for knowledge and emotion, they attempt to combine the precision of science with the elegance and resourcefulness of art. We thank them wholeheartedly for their contribution.

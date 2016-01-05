@@ -1,0 +1,6 @@
+---
+title: "ideal"
+id: tag.id
+permalink: "/tags/ideal"
+videos: [1719]
+---

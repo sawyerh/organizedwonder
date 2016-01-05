@@ -3,12 +3,16 @@ title: "The Power of Vulnerability"
 date: 2012-05-18 12:24:53 00:00
 permalink: /videos/201
 source: "http://www.youtube.com/watch?v=X4Qm9cGRub0"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/X4Qm9cGRub0/hqdefault.jpg"
 user:
+  id: 289
   username: "trueinsideout"
   name: "TrueInsideOut"
 tags: ["ted talk","brene brown","vulnerability","wholeheartedness","shame"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/X4Qm9cGRub0?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 201
 ---
 
 Dr. Brené Brown is a researcher professor at the University of Houston, Graduate College of Social Work, where she has spent the past ten years studying a concept that she calls Wholeheartedness, posing the questions: How do we engage in our lives from a place of authenticity and worthiness?

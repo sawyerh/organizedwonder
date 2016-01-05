@@ -1,0 +1,6 @@
+---
+title: "teacher"
+id: tag.id
+permalink: "/tags/teacher"
+videos: [596]
+---

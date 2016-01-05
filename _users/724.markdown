@@ -1,0 +1,9 @@
+---
+title: "Ilya Grigorik"
+date: 2012-05-28 20:43:45 00:00
+permalink: /igrigorik
+twitter: "igrigorik"
+likes: [679]
+id: 724
+gravatar: "http://www.gravatar.com/avatar/a17f0025641b4be419a6cd3845e55dd2"
+---

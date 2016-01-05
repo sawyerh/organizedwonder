@@ -1,0 +1,9 @@
+---
+title: "Nicholas Rock"
+date: 2012-10-15 03:03:35 00:00
+permalink: /sta_tion
+twitter: "sta_tion"
+likes: [798,1371,1333,1302,1287,2369,2250,1532]
+id: 1383
+gravatar: "http://www.gravatar.com/avatar/41299d91ddf90b7f56ca129184a09ff3"
+---

@@ -3,11 +3,15 @@ title: "Jay-Z, Rick Rubin recording \"99 Problems\""
 date: 2013-06-20 00:26:54 00:00
 permalink: /videos/1973
 source: "http://www.youtube.com/watch?v=FqNDYvsOZkc&feature=player_embedded"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/FqNDYvsOZkc/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["music","documentary","hip-hop","jay z"]
 html: "<iframe width=\"640\" height=\"480\" src=\"http://www.youtube.com/embed/FqNDYvsOZkc?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1973
 ---
 

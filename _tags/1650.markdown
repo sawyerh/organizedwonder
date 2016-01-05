@@ -1,0 +1,6 @@
+---
+title: "supernatural"
+id: tag.id
+permalink: "/tags/supernatural"
+videos: [1980]
+---

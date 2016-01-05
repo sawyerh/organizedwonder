@@ -1,0 +1,6 @@
+---
+title: "intelligent design"
+id: tag.id
+permalink: "/tags/intelligent%20design"
+videos: [1246]
+---

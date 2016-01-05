@@ -1,0 +1,9 @@
+---
+title: "Brian Harley"
+date: 2013-01-14 17:00:07 00:00
+permalink: /brian
+twitter: ""
+likes: [1633,2085]
+id: 1741
+gravatar: "http://www.gravatar.com/avatar/091d3904b6343a92f967644a3af4e79e"
+---

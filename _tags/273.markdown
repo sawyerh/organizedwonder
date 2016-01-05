@@ -1,0 +1,6 @@
+---
+title: "bloc party"
+id: tag.id
+permalink: "/tags/bloc%20party"
+videos: [189]
+---

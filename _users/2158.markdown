@@ -1,0 +1,9 @@
+---
+title: "Jacqueline Yue"
+date: 2014-01-16 03:41:18 00:00
+permalink: /oiyana
+twitter: ""
+likes: [2174,2163,2149,2131]
+id: 2158
+gravatar: "http://www.gravatar.com/avatar/dced3d4abc5cf1db43917947797b9363"
+---

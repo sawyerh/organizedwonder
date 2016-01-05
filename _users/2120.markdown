@@ -1,0 +1,9 @@
+---
+title: "Muhammet Şahin"
+date: 2014-01-09 14:04:26 00:00
+permalink: /masahin
+twitter: ""
+likes: [2167]
+id: 2120
+gravatar: "http://www.gravatar.com/avatar/6be0e2eaed22b38bda92a3bb3ba92b07"
+---

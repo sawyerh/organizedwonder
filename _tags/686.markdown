@@ -1,0 +1,6 @@
+---
+title: "experiment"
+id: tag.id
+permalink: "/tags/experiment"
+videos: [775,776,930]
+---

@@ -1,0 +1,9 @@
+---
+title: "Gintare"
+date: 2012-11-12 21:51:28 00:00
+permalink: /smucys
+twitter: ""
+likes: [932,337]
+id: 1511
+gravatar: "http://www.gravatar.com/avatar/5947b923688167eac31c475e24b65e3a"
+---

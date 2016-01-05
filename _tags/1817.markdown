@@ -1,0 +1,6 @@
+---
+title: "biennale 2011"
+id: tag.id
+permalink: "/tags/biennale%202011"
+videos: [2192]
+---

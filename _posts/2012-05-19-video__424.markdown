@@ -3,12 +3,16 @@ title: "Made by Hand / No 2 The Knife Maker"
 date: 2012-05-19 15:09:06 00:00
 permalink: /videos/424
 source: "http://vimeo.com/31455885"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/212/219/212219981_1280.jpg"
 user:
+  id: 449
   username: "happyhealthybalance"
   name: "happyhealthybalance"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/31455885\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 424
 ---
 
 Made by Hand is a new short film series celebrating the people who make things by hand—sustainably, locally, and with a love for their craft.

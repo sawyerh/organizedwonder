@@ -1,0 +1,6 @@
+---
+title: "sebastien schuller"
+id: tag.id
+permalink: "/tags/sebastien%20schuller"
+videos: [227]
+---

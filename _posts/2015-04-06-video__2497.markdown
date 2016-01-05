@@ -3,12 +3,16 @@ title: "Spike Jonze: The Aesthetics of Whimsy"
 date: 2015-04-06 21:25:21 00:00
 permalink: /videos/2497
 source: "https://vimeo.com/123794743"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://i.vimeocdn.com/video/513270444_1280.jpg"
 user:
+  id: 1667
   username: "sbgriffi"
   name: "Stuart G."
 tags: ["cinema","spike jonze","cinematography","producer","hollywood","video production"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F123794743&wmode=transparent&url=https%3A%2F%2Fvimeo.com%2F123794743&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F513270444_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"1080\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2497
 ---
 
 Despite the fact that the look of his films often takes a back seat to bizarre stories and quirky characters, Spike Jonze has crafted a uniquely whimsical visual style over the course of his four feature films. Making the most out of simple elements such as lens flares, floating camera movement, centered framing, and wide-angle close-ups, Jonze creates an atmosphere that appears to be lifted straight from the pages of a fairytale storybook. His camera is fascinated with the mundane; intently exploring fabrics and materials, finding beauty and significance in the obscure and unnoticed. Dust particles floating in a beam of sunlight become hypnotic. The delicate plaster of marionettes feels as lifelike as human flesh. The matted fur wrapped around a child strikes us with an overwhelming sense of marvel and nostalgia.

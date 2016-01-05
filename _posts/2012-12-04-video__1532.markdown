@@ -3,12 +3,16 @@ title: "Mathias Bynens | Ten things I didn't know about HTML | Fronteers 2012"
 date: 2012-12-04 18:36:25 00:00
 permalink: /videos/1532
 source: "http://vimeo.com/52851509#at=0"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/364/745/364745022_1280.jpg"
 user:
+  id: 1168
   username: "lhid"
   name: "Leban Hyde"
 tags: ["talk","web design","front-end","fronteers"]
 html: "<iframe src=\"http://player.vimeo.com/video/52851509\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1532
 ---
 
 Web development never gets boring to Mathias. Not just because nowadays, new “HTML5” technologies are emerging like tubes of spaghetti at a pasta factory — but mostly because there’s always something new to learn. Even the oldest, most reliable features of HTML/CSS/JavaScript, “the basics” that we take for granted every day, are full of hidden gems or restrictions. During this talk, Mathias will take a look at the more obscure parts of HTML, CSS and JavaScript, and demystify some of them.

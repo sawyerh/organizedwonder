@@ -1,0 +1,6 @@
+---
+title: "goliath sportswear"
+id: tag.id
+permalink: "/tags/goliath%20sportswear"
+videos: [1062,1063]
+---

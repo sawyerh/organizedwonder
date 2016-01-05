@@ -3,12 +3,16 @@ title: "Sutures - Short film"
 date: 2012-06-22 19:06:38 00:00
 permalink: /videos/947
 source: "https://vimeo.com/44380316"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/308/316/308316117_1280.jpg"
 user:
+  id: 1095
   username: "nrdm"
   name: "Nicolas Raspail"
 tags: ["art","short film","fear","sutures","nicolas raspail","madness","philosophy"]
 html: "<iframe src=\"http://player.vimeo.com/video/44380316\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 947
 ---
 
 A short movie dealing with the unknown, light, darkness, and fear. From french graphic design student Nicolas Raspail. This is his first movie. It was written, shot and edited in one month.

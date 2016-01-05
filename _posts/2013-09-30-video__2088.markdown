@@ -3,12 +3,16 @@ title: "Jeffrey Brenner's Revolutionary Approach to Improving Health Care Delive
 date: 2013-09-30 20:31:33 00:00
 permalink: /videos/2088
 source: "http://youtu.be/id06Y-P58UE"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/id06Y-P58UE/hqdefault.jpg"
 user:
+  id: 2077
   username: "desantisbreindel"
   name: "Julie Burstein"
 tags: ["technology","short film","innovation","data","health care"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/id06Y-P58UE?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2088
 ---
 
 The sickest 5 percent of patients in the U.S. account for over half of the nation's health care costs. In New Jersey, Jeffrey Brenner, MD, developed a revolutionary community-based approach to both lower health care costs and provide better care: identify the most expensive patients in the health care system and direct resources and brainpower toward helping them. Using data to map "hot spots" of health care high-utilizers—one patient had gone to the hospital 113 times in a year—Brenner and his team at the Camden Coalition of Healthcare Providers found a better, cheaper way to treat these costly patients through collaborative care, reducing hospital visits and costs by 40 to 50 percent.

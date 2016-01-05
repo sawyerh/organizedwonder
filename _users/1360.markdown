@@ -1,0 +1,9 @@
+---
+title: "Messina Delgado"
+date: 2012-10-01 17:18:05 00:00
+permalink: /matilda_lou
+twitter: ""
+likes: [1339,1401,1402,1440,1336,2283,2282,2271]
+id: 1360
+gravatar: "http://www.gravatar.com/avatar/dcee3216f03defacef1bdc39c0d93fbb"
+---

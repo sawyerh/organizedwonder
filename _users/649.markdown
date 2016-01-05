@@ -1,0 +1,9 @@
+---
+title: "Nassos K."
+date: 2012-05-23 15:19:39 00:00
+permalink: /nassoskappa
+twitter: "nassoskappa"
+likes: [337,272,58,73,1609,703,69,1715,1876,1863,1894,1862,1019,1893,1896,1864,1680,1957,2090,1237,2089,474,828,89,1842,926,2126,39,121,834]
+id: 649
+gravatar: "http://www.gravatar.com/avatar/04072cef3a021ccf1277959e2b2b3d13"
+---

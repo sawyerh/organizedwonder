@@ -1,0 +1,9 @@
+---
+title: "Sunil Shenoy"
+date: 2012-05-18 01:59:15 00:00
+permalink: /sunilshenoy
+twitter: "ssunil"
+likes: [43,771,724,96,37]
+id: 158
+gravatar: "http://www.gravatar.com/avatar/dd0180692ff6e08a011b230eda650560"
+---

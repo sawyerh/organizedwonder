@@ -1,0 +1,9 @@
+---
+title: "Viveka"
+date: 2012-06-03 14:39:54 00:00
+permalink: /viveka
+twitter: ""
+likes: [703]
+id: 842
+gravatar: "http://www.gravatar.com/avatar/79f5a2cd57c68e9a7bd70afba65eed97"
+---

@@ -1,0 +1,6 @@
+---
+title: "labors of love"
+id: tag.id
+permalink: "/tags/labors%20of%20love"
+videos: [2180]
+---

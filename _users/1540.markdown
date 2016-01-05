@@ -1,0 +1,9 @@
+---
+title: "Corey Oordt"
+date: 2012-11-14 14:21:37 00:00
+permalink: /coordt
+twitter: "coordt"
+likes: [130]
+id: 1540
+gravatar: "http://www.gravatar.com/avatar/b851e7fbdb0b36158a984c80111672a0"
+---

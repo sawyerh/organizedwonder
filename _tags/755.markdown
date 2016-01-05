@@ -1,0 +1,6 @@
+---
+title: "kinect"
+id: tag.id
+permalink: "/tags/kinect"
+videos: [849,922,1070]
+---

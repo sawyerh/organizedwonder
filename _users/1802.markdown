@@ -1,0 +1,9 @@
+---
+title: "Michal Molcan"
+date: 2013-02-18 14:22:49 00:00
+permalink: /molky_
+twitter: "molky_"
+likes: [1062]
+id: 1802
+gravatar: "http://www.gravatar.com/avatar/b33df80cad227d9977c84a394ab5beea"
+---

@@ -1,0 +1,6 @@
+---
+title: "john wooden"
+id: tag.id
+permalink: "/tags/john%20wooden"
+videos: [596]
+---

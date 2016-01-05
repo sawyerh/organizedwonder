@@ -3,12 +3,16 @@ title: "How Siri found its voice"
 date: 2013-09-22 03:16:14 00:00
 permalink: /videos/2078
 source: "http://www.youtube.com/watch?v=wu-tIqnUUX8&feature=player_embedded"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/wu-tIqnUUX8/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["technology","short documentary"]
 html: "<iframe width=\"640\" height=\"480\" src=\"http://www.youtube.com/embed/wu-tIqnUUX8?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2078
 ---
 
 Technology companies have been trying to make computers speak "naturally" since before the PC was first introduced. Now, with more advanced software and an elaborately crafted process, companies are getting closer to making computer-human interaction seamless. In this feature, The Verge takes a look at how Nuance Communications, the company behind Siri, makes machines that can talk to us.

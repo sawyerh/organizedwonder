@@ -3,11 +3,15 @@ title: "Joe Kubert on his work and process, RIP"
 date: 2012-08-13 18:42:09 00:00
 permalink: /videos/1253
 source: "http://www.youtube.com/watch?v=HIbJ8wVrQpM"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/HIbJ8wVrQpM/hqdefault.jpg"
 user:
+  id: 65
   username: "miggi"
   name: "Miguel Angel Cardona Jr."
 tags: ["talks","artist","comics","comic books"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/HIbJ8wVrQpM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1253
 ---
 

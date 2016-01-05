@@ -1,0 +1,6 @@
+---
+title: "dc shorts"
+id: tag.id
+permalink: "/tags/dc%20shorts"
+videos: [132]
+---

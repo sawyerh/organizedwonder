@@ -1,0 +1,6 @@
+---
+title: "dot"
+id: tag.id
+permalink: "/tags/dot"
+videos: [1579]
+---

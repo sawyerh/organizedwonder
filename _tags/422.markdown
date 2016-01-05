@@ -1,0 +1,6 @@
+---
+title: "kids"
+id: tag.id
+permalink: "/tags/kids"
+videos: [437,2578]
+---

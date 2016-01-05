@@ -1,0 +1,6 @@
+---
+title: "gilbert & georges"
+id: tag.id
+permalink: "/tags/gilbert%20%26%20georges"
+videos: [384]
+---

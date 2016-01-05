@@ -1,0 +1,9 @@
+---
+title: "Emily"
+date: 2013-05-19 22:48:46 00:00
+permalink: /emilyyfriday
+twitter: "emilyyfriday"
+likes: [1334]
+id: 1975
+gravatar: "http://www.gravatar.com/avatar/b12e5a19bec395d269a5c1be2740f5e2"
+---

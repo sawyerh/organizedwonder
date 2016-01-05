@@ -3,11 +3,15 @@ title: "Eames Lounge Chair Manufacturing in the Vitra Atelier"
 date: 2012-05-31 14:23:00 00:00
 permalink: /videos/721
 source: "http://www.youtube.com/watch?v=M3lOwDnRXjg"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/M3lOwDnRXjg/hqdefault.jpg"
 user:
+  id: 612
   username: "im_cr"
   name: "Cortney Robinson"
 tags: ["design","furniture","product design","industrial design","eames"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/M3lOwDnRXjg?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 721
 ---
 

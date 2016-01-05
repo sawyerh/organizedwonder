@@ -1,0 +1,6 @@
+---
+title: "ghetto"
+id: tag.id
+permalink: "/tags/ghetto"
+videos: [1717]
+---

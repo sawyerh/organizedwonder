@@ -3,12 +3,16 @@ title: "George Orson Welles interview on The War of the Worlds broadcast (Octobe
 date: 2013-08-07 18:56:14 00:00
 permalink: /videos/2043
 source: "https://www.youtube.com/watch?v=uuEGiruAFSw"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/uuEGiruAFSw/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["interview","film","orson welles","radio"]
 html: "<iframe width=\"640\" height=\"480\" src=\"http://www.youtube.com/embed/uuEGiruAFSw?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2043
 ---
 
 Their October 30, 1938 radio adaptation of The War of the Worlds by H. G. Wells brought Welles instant fame. 

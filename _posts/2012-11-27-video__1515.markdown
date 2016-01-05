@@ -3,11 +3,15 @@ title: "Dan Gilbert: What Makes Us Happy? : NPR"
 date: 2012-11-27 21:52:47 00:00
 permalink: /videos/1515
 source: "http://www.npr.org/2012/04/27/151361554/what-makes-us-happy"
+featured: false
+provider: "NPR"
 thumbnail: "http://media.npr.org/assets/img/2012/04/25/danielgilbert_2004-0018-1--43b19009a1b5ffade5eb262040b4ed2599721c40-s2.jpg"
 user:
+  id: 1306
   username: "kk"
   name: "Kellyn Walker"
 tags: ["ted","happiness"]
 html: "<embed src=\"http://www.npr.org/v2/?i=151361554&amp;m=151392182&amp;t=audio\" height=\"386\" wmode=\"transparent\" allowfullscreen=\"true\" width=\"400\" base=\"http://www.npr.org\" type=\"application/x-shockwave-flash\"></embed>"
+id: 1515
 ---
 

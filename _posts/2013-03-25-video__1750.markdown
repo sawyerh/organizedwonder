@@ -3,12 +3,16 @@ title: "Your CSS is a Mess"
 date: 2013-03-25 15:41:41 00:00
 permalink: /videos/1750
 source: "http://vimeo.com/61755493"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/429/480/429480714_1280.jpg"
 user:
+  id: 1168
   username: "lhid"
   name: "Leban Hyde"
 tags: ["design","talk","web","css","smacss"]
 html: "<iframe src=\"http://player.vimeo.com/video/61755493\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1750
 ---
 
 This talk by Jonathan Snook was held at Smashing Conference 2012 in Freiburg, Germany.

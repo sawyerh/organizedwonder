@@ -3,12 +3,16 @@ title: "Aaron James Draplin - Portland/CreativeMornings"
 date: 2012-05-17 10:16:43 00:00
 permalink: /videos/100
 source: "http://vimeo.com/39441590"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/272/091/272091546_960.jpg"
 user:
+  id: 8
   username: "alonzo"
   name: "Alonzo Felix"
 tags: ["creativemornings","design","aaron draplin"]
 html: "<iframe src=\"http://player.vimeo.com/video/39441590\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 100
 ---
 
 Our speaker at the March 2012 Portland/CreativeMornings was Aaron James Draplin (draplin.com). The event was generously hosted by Ziba (ziba.com) and sponsored by 52 Limited (52ltd.com). Many thanks to Pro Photo Supply (prophotosupply.com) for lending us the gear to capture the talk and to Paul Searle (psearle.com) for shooting and editing this video.

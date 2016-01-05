@@ -1,0 +1,6 @@
+---
+title: "ok go"
+id: tag.id
+permalink: "/tags/ok%20go"
+videos: [386]
+---

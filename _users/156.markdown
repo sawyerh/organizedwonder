@@ -1,0 +1,9 @@
+---
+title: "Daniel Brockman"
+date: 2012-05-18 01:21:26 00:00
+permalink: /dbrock
+twitter: "dbrock"
+likes: [109,111,84,103,266,69,358,92,703,1044,1109,1613,1670]
+id: 156
+gravatar: "http://www.gravatar.com/avatar/e7ae6cbe101e61507a2b64eb86c83100"
+---

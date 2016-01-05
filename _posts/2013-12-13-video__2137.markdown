@@ -3,12 +3,16 @@ title: "WATCHxWITNESS: Death Valley"
 date: 2013-12-13 21:01:55 00:00
 permalink: /videos/2137
 source: "http://www.youtube.com/watch?v=y6ClPxU60_w&nofeather=True"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/y6ClPxU60_w/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["photography","watchxwitness"]
 html: "<iframe width=\"640\" height=\"480\" src=\"http://www.youtube.com/embed/y6ClPxU60_w?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2137
 ---
 
 Mass Appeal's premiere photographic documentary series WATCHxWITNESS recently wove through the South West. With a sense of adventure and mischievous wonderment, the two dudebros Jason Goldwatch and 13thWitness captured epic imagery of both humanity's beautiful gradients and nature's grand intentions - traveling West on a road trip to no where in particular.

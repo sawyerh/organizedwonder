@@ -3,11 +3,15 @@ title: "Mark Ronson talks about ownership and WHYown.it"
 date: 2012-05-16 19:48:20 00:00
 permalink: /videos/79
 source: "http://vimeo.com/41921038"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/290/641/290641122_640.jpg"
 user:
+  id: 46
   username: "barbnerdy"
   name: "BarbNerdy"
 tags: ["collaborative consumption","whyown.it"]
 html: "<iframe src=\"http://player.vimeo.com/video/41921038\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 79
 ---
 

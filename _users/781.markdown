@@ -1,0 +1,9 @@
+---
+title: "Miguel Peixe"
+date: 2012-05-30 14:38:32 00:00
+permalink: /miguelpeixe
+twitter: ""
+likes: [138,655,705]
+id: 781
+gravatar: "http://www.gravatar.com/avatar/eae66c9fdc0538b2db97e5e955006440"
+---

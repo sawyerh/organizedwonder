@@ -1,0 +1,6 @@
+---
+title: "tom waits"
+id: tag.id
+permalink: "/tags/tom%20waits"
+videos: [180,1131]
+---

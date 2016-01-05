@@ -1,0 +1,9 @@
+---
+title: "Max Zografos"
+date: 2012-05-18 09:54:17 00:00
+permalink: /maxzografos
+twitter: "MaxZografos"
+likes: [1747]
+id: 273
+gravatar: "http://www.gravatar.com/avatar/e65692861f3751608d0baf725b497ef8"
+---

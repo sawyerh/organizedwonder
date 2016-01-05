@@ -1,0 +1,9 @@
+---
+title: "Joel"
+date: 2012-05-24 21:00:40 00:00
+permalink: /joelterrific
+twitter: ""
+likes: [515,181,621]
+id: 671
+gravatar: "http://www.gravatar.com/avatar/5d1a5f4d65df7449b92bf77c1e310b90"
+---

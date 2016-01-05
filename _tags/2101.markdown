@@ -1,0 +1,6 @@
+---
+title: "genius"
+id: tag.id
+permalink: "/tags/genius"
+videos: [2565,2570]
+---

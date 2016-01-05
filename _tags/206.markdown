@@ -1,0 +1,6 @@
+---
+title: "bryan stevenson"
+id: tag.id
+permalink: "/tags/bryan%20stevenson"
+videos: [123]
+---

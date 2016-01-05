@@ -1,0 +1,9 @@
+---
+title: "Christine Winter"
+date: 2012-05-18 02:47:51 00:00
+permalink: /christinejwinter
+twitter: ""
+likes: [76]
+id: 175
+gravatar: "http://www.gravatar.com/avatar/5a74e7978c7ae09352d2226a430464d8"
+---

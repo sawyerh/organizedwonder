@@ -3,11 +3,15 @@ title: "Jay-Z, Buffett and Forbes on Success and Giving Back"
 date: 2012-11-12 14:30:58 00:00
 permalink: /videos/1480
 source: "http://video.forbes.com/fvn/forbes400-10/jay-z-buffett-forbes-success-giving"
+featured: false
+provider: "Forbes"
 thumbnail: "http://images.forbes.com/media/2010/09/21/0921_buffett-jay-z-forbes_174x97.jpg"
 user:
+  id: 1502
   username: "demoine"
   name: "DeMoine Lovelace"
 tags: ["interview","music","talk","success","charity","forbes","jay-z","finance","stock","philanthropy"]
 html: "<iframe src=\"http://www.forbes.com/video/embed/embed.html?show=93&format=frame&height=240&width=336&video=fvn/forbes400-10/jay-z-buffett-forbes-success-giving&mode=render\"width=\"336\" height=\"240\" frameborder=\"0\" scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\"></iframe>"
+id: 1480
 ---
 

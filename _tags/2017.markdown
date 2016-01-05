@@ -1,0 +1,6 @@
+---
+title: "david butler"
+id: tag.id
+permalink: "/tags/david%20butler"
+videos: [2490,2491,2492]
+---

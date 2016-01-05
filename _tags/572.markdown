@@ -1,0 +1,6 @@
+---
+title: "gotye"
+id: tag.id
+permalink: "/tags/gotye"
+videos: [612,1058]
+---

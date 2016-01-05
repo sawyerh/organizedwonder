@@ -1,0 +1,6 @@
+---
+title: "patents"
+id: tag.id
+permalink: "/tags/patents"
+videos: [1244]
+---

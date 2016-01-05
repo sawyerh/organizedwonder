@@ -1,0 +1,6 @@
+---
+title: "palo alto"
+id: tag.id
+permalink: "/tags/palo%20alto"
+videos: [2313]
+---

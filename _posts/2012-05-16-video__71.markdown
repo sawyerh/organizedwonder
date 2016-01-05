@@ -3,12 +3,16 @@ title: "The Art of Film & TV Title Design"
 date: 2012-05-16 01:27:51 00:00
 permalink: /videos/71
 source: "http://www.youtube.com/watch?feature=player_embedded&v=qbhi-JICKKI"
+featured: true
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/qbhi-JICKKI/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["design","documentary","pbs","title design"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/qbhi-JICKKI?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 71
 ---
 
 The credits are often the first thing we see when we watch a great film or TV show, but the complexity and artistry of title design is rarely discussed. Creators of title sequences are tasked to invent concepts that evoke the core story and themes of the production, and to create a powerful visual experience that pulls the viewer into the film's world. In this episode we hear the stories of some of the most inventive people working in the field, including the creators of the iconic Mad Men sequence, the hilarious Zombieland opening and "rules" sequences, and the stirring end credits from Blue Valentine.

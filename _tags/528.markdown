@@ -1,0 +1,6 @@
+---
+title: "visual"
+id: tag.id
+permalink: "/tags/visual"
+videos: [556,557,560]
+---

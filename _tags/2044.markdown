@@ -1,0 +1,6 @@
+---
+title: "climate"
+id: tag.id
+permalink: "/tags/climate"
+videos: [2510]
+---

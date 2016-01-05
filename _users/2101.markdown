@@ -1,0 +1,9 @@
+---
+title: "William B Rocheleau"
+date: 2013-11-20 22:23:27 00:00
+permalink: /wbrocheleau
+twitter: ""
+likes: [2121]
+id: 2101
+gravatar: "http://www.gravatar.com/avatar/32e732ab3f55cd44e5e1b5293c190588"
+---

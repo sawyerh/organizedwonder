@@ -1,0 +1,6 @@
+---
+title: "futuritic"
+id: tag.id
+permalink: "/tags/futuritic"
+videos: [2034]
+---

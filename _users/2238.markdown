@@ -1,0 +1,9 @@
+---
+title: "Felix Häffner"
+date: 2014-01-25 12:53:47 00:00
+permalink: /felix
+twitter: ""
+likes: [1431]
+id: 2238
+gravatar: "http://www.gravatar.com/avatar/e59c1bdf4651c4b1f069d5a21337c5a8"
+---

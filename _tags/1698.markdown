@@ -1,0 +1,6 @@
+---
+title: "computing"
+id: tag.id
+permalink: "/tags/computing"
+videos: [2052]
+---

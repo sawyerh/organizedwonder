@@ -1,0 +1,6 @@
+---
+title: "information architecture"
+id: tag.id
+permalink: "/tags/information%20architecture"
+videos: [2169]
+---

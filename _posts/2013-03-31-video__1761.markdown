@@ -3,12 +3,16 @@ title: "Charles & Ray Eames: The Architect and the Painter"
 date: 2013-03-31 23:19:37 00:00
 permalink: /videos/1761
 source: "http://video.pbs.org/video/2178281391/"
+featured: true
+provider: "PBS"
 thumbnail: "http://pbs.merlin.cdn.prod.s3.amazonaws.com/Video%20Asset/pbs/american-masters/4007/images/28256_COVEStackCard_20120418050637.jpg.resize.380x212.jpg"
 user:
+  id: 576
   username: "jl"
   name: "John Gregory Liwag"
 tags: ["design","architecture","product design"]
 html: "<object width=\"512\" height=\"328\"><param name=\"wmode\" value=\"transparent\"><param name=\"movie\" value=\"http://www-tc.pbs.org/video/media/swf/PBSPlayer.swf\"><param name=\"flashvars\" value=\"video=2178281391&amp;player=viral\"><param name=\"allowFullScreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><param name=\"wmode\" value=\"transparent\"><embed src=\"http://www-tc.pbs.org/video/media/swf/PBSPlayer.swf\" flashvars=\"video=2178281391&amp;player=viral\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" wmode=\"transparent\" allowfullscreen=\"true\" width=\"512\" height=\"328\" bgcolor=\"#000000\"></embed></object>"
+id: 1761
 ---
 
 The great documentary on Charles & Ray Eames.

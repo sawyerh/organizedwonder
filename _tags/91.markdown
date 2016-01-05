@@ -1,0 +1,6 @@
+---
+title: "chicago"
+id: tag.id
+permalink: "/tags/chicago"
+videos: [43]
+---

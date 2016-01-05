@@ -1,0 +1,6 @@
+---
+title: "french"
+id: tag.id
+permalink: "/tags/french"
+videos: [1083,1279]
+---

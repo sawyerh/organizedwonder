@@ -1,0 +1,6 @@
+---
+title: "ansel adams"
+id: tag.id
+permalink: "/tags/ansel%20adams"
+videos: [178]
+---

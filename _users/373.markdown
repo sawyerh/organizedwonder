@@ -1,0 +1,9 @@
+---
+title: "Arthur Nakata"
+date: 2012-05-18 18:16:07 00:00
+permalink: /artnakla
+twitter: ""
+likes: [258,279]
+id: 373
+gravatar: "http://www.gravatar.com/avatar/b41814e007739a9d8d350db90c624512"
+---

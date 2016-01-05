@@ -3,11 +3,15 @@ title: "Coloring Back Evan Shinners"
 date: 2012-06-17 23:40:43 00:00
 permalink: /videos/891
 source: "http://www.youtube.com/watch?feature=player_embedded&v=u9PxsEFSlqU"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/u9PxsEFSlqU/hqdefault.jpg"
 user:
+  id: 1056
   username: "rethinkedteam"
   name: "rethinkED"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/u9PxsEFSlqU?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 891
 ---
 

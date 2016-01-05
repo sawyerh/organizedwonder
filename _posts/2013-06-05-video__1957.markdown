@@ -3,11 +3,15 @@ title: "Lessons of Steve Jobs: Guy Kawasaki at TEDxUCSD"
 date: 2013-06-05 10:55:50 00:00
 permalink: /videos/1957
 source: "http://youtu.be/rWv-KoZnpKw"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/rWv-KoZnpKw/hqdefault.jpg"
 user:
+  id: 649
   username: "nassoskappa"
   name: "Nassos K."
 tags: ["creativity","steve jobs","inspirational"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/rWv-KoZnpKw?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1957
 ---
 

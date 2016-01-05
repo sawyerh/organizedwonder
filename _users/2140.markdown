@@ -1,0 +1,9 @@
+---
+title: "ABEL MÁRQUEZ"
+date: 2014-01-16 03:29:21 00:00
+permalink: /abelmarquez
+twitter: "abelmarquez"
+likes: [2021,39,1241,1729,252,1191,1095]
+id: 2140
+gravatar: "http://www.gravatar.com/avatar/bdb5a38b15a06aca3b881926b18dc447"
+---

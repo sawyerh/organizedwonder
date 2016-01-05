@@ -1,0 +1,9 @@
+---
+title: "Kevin Chan"
+date: 2012-09-24 16:01:59 00:00
+permalink: /mengus
+twitter: ""
+likes: [398,1377]
+id: 1345
+gravatar: "http://www.gravatar.com/avatar/85f51bbe996e37c7932ebad6ab1c914a"
+---

@@ -3,11 +3,15 @@ title: "Beauty is Embarassing Trailer"
 date: 2012-09-12 03:41:11 00:00
 permalink: /videos/1368
 source: "http://www.youtube.com/watch?v=sIv4PHJqCnM&feature=player_embedded"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/sIv4PHJqCnM/hqdefault.jpg"
 user:
+  id: 65
   username: "miggi"
   name: "Miguel Angel Cardona Jr."
 tags: ["art","creativity","artist","movie trailer","independent film"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/sIv4PHJqCnM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1368
 ---
 

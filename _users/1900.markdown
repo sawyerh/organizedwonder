@@ -1,0 +1,9 @@
+---
+title: "Karolina Novitska"
+date: 2013-04-02 02:12:00 00:00
+permalink: /karolinamusic
+twitter: ""
+likes: [1694,1659]
+id: 1900
+gravatar: "http://www.gravatar.com/avatar/8683a0b647eaf6d8e75efcb2632d7c54"
+---

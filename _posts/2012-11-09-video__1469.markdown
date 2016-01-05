@@ -3,11 +3,15 @@ title: "Hands-on Prototyping with HTML & CSS"
 date: 2012-11-09 22:42:33 00:00
 permalink: /videos/1469
 source: "http://vimeo.com/35585893"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/243/518/243518200_960.jpg"
 user:
+  id: 1429
   username: "domoku"
   name: "Kuku Kaka"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/35585893\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1469
 ---
 

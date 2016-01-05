@@ -1,0 +1,6 @@
+---
+title: "kevin rose"
+id: tag.id
+permalink: "/tags/kevin%20rose"
+videos: [467]
+---

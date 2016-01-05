@@ -3,11 +3,15 @@ title: "Interview with Tom Waits, Shryock Auditorium, 1979"
 date: 2012-07-11 18:39:34 00:00
 permalink: /videos/1071
 source: "http://www.youtube.com/watch?v=AGns5GAqr4o&feature=g-all-u"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/AGns5GAqr4o/hqdefault.jpg"
 user:
+  id: 873
   username: "yridomot"
   name: "Spyros Simotas"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/AGns5GAqr4o?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1071
 ---
 

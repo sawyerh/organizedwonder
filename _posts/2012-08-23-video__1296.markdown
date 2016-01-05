@@ -3,11 +3,15 @@ title: "Simon Sinek: If You Don't Understand People, You Don't Understand Busine
 date: 2012-08-23 10:26:04 00:00
 permalink: /videos/1296
 source: "http://vimeo.com/26774102"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/177/162/177162339_640.jpg"
 user:
+  id: 508
   username: "anjali28"
   name: "Anjali Ramachandran"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/26774102\" width=\"640\" height=\"480\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1296
 ---
 

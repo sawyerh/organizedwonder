@@ -3,12 +3,16 @@ title: "Dancing Chromatophores of the squid, Loligo pealeii"
 date: 2012-07-11 12:44:01 00:00
 permalink: /videos/1069
 source: "http://www.youtube.com/watch?v=1pJPnZFSy5o&feature=player_embedded"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/1pJPnZFSy5o/hqdefault.jpg"
 user:
+  id: 1166
   username: "ssolimn"
   name: "Sara Soliman"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/1pJPnZFSy5o?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1069
 ---
 
 Chromatophores are muscle-controlled pigment cells in the skin of cephalopods, such as squid, octopus, and cuttlefish. These chromatophores expand and contract on command in order to help the animal blend in with its surroundings, or to communicate with other animals.

@@ -3,12 +3,16 @@ title: "2012/05 Bre Pettis"
 date: 2012-05-30 19:20:36 00:00
 permalink: /videos/709
 source: "https://vimeo.com/43071062"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/299/011/299011832_1280.jpg"
 user:
+  id: 157
   username: "swissmiss"
   name: "swissmiss"
 tags: ["creativemornings"]
 html: "<iframe src=\"http://player.vimeo.com/video/43071062\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 709
 ---
 
 Bre Pettis (brepettis.com) is a founder of Makerbot, a company that produces robots that make things. Bre is also a founder of NYCResistor, a hacker collective in Brooklyn. Besides being a TV host and Video Podcast producer, he's created new media for Etsy.com, hosted Make: Magazine's Weekend Projects podcast, and has been a schoolteacher, artist, and puppeteer. Bre is passionate about invention, innovation, and all things DIY.

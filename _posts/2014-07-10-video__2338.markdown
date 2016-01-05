@@ -3,12 +3,16 @@ title: "SLOMO"
 date: 2014-07-10 02:06:50 00:00
 permalink: /videos/2338
 source: "http://vimeo.com/59749737"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://i.vimeocdn.com/video/473524013_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["short documentary","nytimes"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F59749737&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F59749737&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F473524013_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2338
 ---
 
 Disillusioned with his life, Dr. John Kitchin abandons his career as a neurologist and moves to Pacific Beach. There, he undergoes a radical transformation into SLOMO, trading his lab coat for a pair of rollerblades and his IRA for a taste of divinity.

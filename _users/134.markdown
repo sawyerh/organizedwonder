@@ -1,0 +1,9 @@
+---
+title: "Andrew Stewart"
+date: 2012-05-17 22:42:26 00:00
+permalink: /stewart
+twitter: ""
+likes: [105,96,73]
+id: 134
+gravatar: "http://www.gravatar.com/avatar/767f7346246872dc78a1259c4cbc6c7a"
+---

@@ -1,0 +1,6 @@
+---
+title: "fast company"
+id: tag.id
+permalink: "/tags/fast%20company"
+videos: [828]
+---

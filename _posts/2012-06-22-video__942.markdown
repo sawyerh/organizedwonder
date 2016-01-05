@@ -3,12 +3,16 @@ title: "Vans - SINCE 66"
 date: 2012-06-22 05:56:53 00:00
 permalink: /videos/942
 source: "https://vimeo.com/44345852"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/308/081/308081113_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["short film","skateboarding","surfing","vans"]
 html: "<iframe src=\"http://player.vimeo.com/video/44345852\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 942
 ---
 
 "Vans came to me with a proposal to create a short film that embodied the essence of their brand. The creative exploration and freedom they allowed me was unlike anything I had ever experienced. Pure trust, pure faith, in my abilities as a story-teller / director and as a friend. In creating this piece, it was profound to realize the success of their company, at its core, is based on a similar model they share with everyone they work with. To feel part of a brand, part of a family, part of an authentic creative expression, truly moved me to my core."

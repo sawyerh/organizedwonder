@@ -1,0 +1,9 @@
+---
+title: "Bob Zaslow"
+date: 2014-01-04 04:20:15 00:00
+permalink: /6281081apz
+twitter: ""
+likes: [1118,1493]
+id: 2117
+gravatar: "http://www.gravatar.com/avatar/5ef60cae93888c00339c0e35198a354c"
+---

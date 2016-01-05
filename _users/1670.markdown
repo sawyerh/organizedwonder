@@ -1,0 +1,9 @@
+---
+title: "Sebastian Zuleta"
+date: 2012-12-09 02:41:37 00:00
+permalink: /menoski
+twitter: ""
+likes: [533]
+id: 1670
+gravatar: "http://www.gravatar.com/avatar/130cae060dfed7d63933d0383065f760"
+---

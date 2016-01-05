@@ -3,11 +3,15 @@ title: "a story for tomorrow."
 date: 2012-06-09 23:22:28 00:00
 permalink: /videos/817
 source: "https://vimeo.com/36519586#"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/250/512/250512455_960.jpg"
 user:
+  id: 873
   username: "yridomot"
   name: "Spyros Simotas"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/36519586\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 817
 ---
 

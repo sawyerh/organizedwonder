@@ -1,0 +1,6 @@
+---
+title: "david lynch"
+id: tag.id
+permalink: "/tags/david%20lynch"
+videos: [1188]
+---

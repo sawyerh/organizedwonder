@@ -1,0 +1,6 @@
+---
+title: "friends of type"
+id: tag.id
+permalink: "/tags/friends%20of%20type"
+videos: [1136]
+---

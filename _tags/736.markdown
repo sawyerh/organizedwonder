@@ -1,0 +1,6 @@
+---
+title: "parody"
+id: tag.id
+permalink: "/tags/parody"
+videos: [827,1058,2144,2230]
+---

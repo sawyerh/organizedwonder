@@ -1,0 +1,6 @@
+---
+title: "kazachstan"
+id: tag.id
+permalink: "/tags/kazachstan"
+videos: [1240]
+---

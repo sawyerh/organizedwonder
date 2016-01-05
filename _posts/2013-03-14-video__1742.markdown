@@ -3,11 +3,15 @@ title: "NORTHERN LIGHTS feat. Tomas Jurco"
 date: 2013-03-14 02:50:45 00:00
 permalink: /videos/1742
 source: "http://vimeo.com/61659067#"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/428/602/428602813_1280.jpg"
 user:
+  id: 634
   username: "leonkotlyar"
   name: "Leon Kotlyar"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/61659067\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1742
 ---
 

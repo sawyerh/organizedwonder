@@ -3,12 +3,16 @@ title: "The Eagleman Stag"
 date: 2012-05-15 05:53:17 00:00
 permalink: /videos/52
 source: "https://vimeo.com/41756240"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/289/433/289433607_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["short film","animation","funny","black and white","stopmotion"]
 html: "<iframe src=\"http://player.vimeo.com/video/41756240\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 52
 ---
 
 - If Peter could be anything, he'd probably be a beetle -

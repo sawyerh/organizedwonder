@@ -3,11 +3,15 @@ title: "Chris Silas Neal"
 date: 2014-02-08 13:55:54 00:00
 permalink: /videos/2219
 source: "http://vimeo.com/82196533"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/459/984/459984117_1280.jpg"
 user:
+  id: 1378
   username: "jackbeil"
   name: "Jack"
 tags: []
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F82196533&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F82196533&image=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F459%2F984%2F459984117_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2219
 ---
 

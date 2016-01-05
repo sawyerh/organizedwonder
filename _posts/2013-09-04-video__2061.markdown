@@ -3,11 +3,15 @@ title: "Why Music? - An Overture to the Yale School of Music"
 date: 2013-09-04 07:34:50 00:00
 permalink: /videos/2061
 source: "http://vimeo.com/64599361"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/447/419/447419758_1280.jpg"
 user:
+  id: 634
   username: "leonkotlyar"
   name: "Leon Kotlyar"
 tags: ["music","yale"]
 html: "<iframe src=\"http://player.vimeo.com/video/64599361\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 2061
 ---
 

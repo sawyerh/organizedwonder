@@ -1,0 +1,6 @@
+---
+title: "hillman curtis"
+id: tag.id
+permalink: "/tags/hillman%20curtis"
+videos: [50,51,363,533,832,1336,1337]
+---

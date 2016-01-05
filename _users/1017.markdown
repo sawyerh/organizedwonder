@@ -1,0 +1,9 @@
+---
+title: "Dheymond Heart"
+date: 2012-06-14 04:31:12 00:00
+permalink: /dheymondheart
+twitter: ""
+likes: [852,515]
+id: 1017
+gravatar: "http://www.gravatar.com/avatar/646ba1a66ffa67b7cc92872bd7cd3efa"
+---

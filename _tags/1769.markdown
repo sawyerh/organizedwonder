@@ -1,0 +1,6 @@
+---
+title: "life lesson"
+id: tag.id
+permalink: "/tags/life%20lesson"
+videos: [2141]
+---

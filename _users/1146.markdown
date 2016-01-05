@@ -1,0 +1,9 @@
+---
+title: "Jan"
+date: 2012-07-05 18:26:30 00:00
+permalink: /janbb
+twitter: ""
+likes: [1035]
+id: 1146
+gravatar: "http://www.gravatar.com/avatar/241db72f9a4f52c10c37872d337577d1"
+---

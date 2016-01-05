@@ -1,0 +1,9 @@
+---
+title: "jean luc hasek"
+date: 2012-05-20 08:33:02 00:00
+permalink: /jlhasek
+twitter: ""
+likes: [84,112]
+id: 488
+gravatar: "http://www.gravatar.com/avatar/0c0477a013f7733231a4af465650fb6c"
+---

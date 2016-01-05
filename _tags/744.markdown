@@ -1,0 +1,6 @@
+---
+title: "ideas"
+id: tag.id
+permalink: "/tags/ideas"
+videos: [839,2501]
+---

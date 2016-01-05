@@ -1,0 +1,6 @@
+---
+title: "kanye west"
+id: tag.id
+permalink: "/tags/kanye%20west"
+videos: [2319,2350,2360,2475]
+---

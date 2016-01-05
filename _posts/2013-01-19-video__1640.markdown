@@ -3,12 +3,16 @@ title: "Big Somewhere"
 date: 2013-01-19 18:40:42 00:00
 permalink: /videos/1640
 source: "https://vimeo.com/57426101"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/399/763/399763772_1280.jpg"
 user:
+  id: 1755
   username: "wil"
   name: "Wil Gieseler"
 tags: ["red","short","leaving","siblings","brother","sister","chapman","dodge","hd"]
 html: "<iframe src=\"http://player.vimeo.com/video/57426101\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1640
 ---
 
 A small story about the importance of family and the unspoken bond between siblings.

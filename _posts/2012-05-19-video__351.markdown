@@ -3,12 +3,16 @@ title: "Balance - Oscar Winning Animation"
 date: 2012-05-19 03:24:27 00:00
 permalink: /videos/351
 source: "http://www.youtube.com/watch?v=3vpmuMHor6Q"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/3vpmuMHor6Q/hqdefault.jpg"
 user:
+  id: 198
   username: "katchja"
   name: "Catalina Butnaru"
 tags: ["balance","metaphor","society"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/3vpmuMHor6Q?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 351
 ---
 
 A fantastic metaphor of the seamless  balance between individuals in society.

@@ -1,0 +1,9 @@
+---
+title: "Angie Giovani"
+date: 2012-05-18 22:10:33 00:00
+permalink: /angie16
+twitter: ""
+likes: [245,204,305,335,108,80,424,188,353,515,1053,1068]
+id: 401
+gravatar: "http://www.gravatar.com/avatar/18c43b4094383574acc274d14e18fbe0"
+---

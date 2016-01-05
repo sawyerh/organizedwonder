@@ -3,12 +3,16 @@ title: "J.P. Rameau - Tristes Apprêts - Castor et Pollux - Véronique Gens"
 date: 2012-05-29 15:03:28 00:00
 permalink: /videos/695
 source: "http://www.youtube.com/watch?v=puOag0p1Dds&feature=related"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/puOag0p1Dds/hqdefault.jpg"
 user:
+  id: 743
   username: "luisuruena"
   name: "Luis Urueña"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/puOag0p1Dds?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 695
 ---
 
 Propuesta de @MargueritaCaro1

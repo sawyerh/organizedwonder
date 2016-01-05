@@ -1,0 +1,9 @@
+---
+title: "Josh Long"
+date: 2013-03-29 18:12:30 00:00
+permalink: /joshlong
+twitter: "@joshlong"
+likes: [1741,1637,67,1743,310,312,1375,66,39,1680,1670,1509,1646,724,710,1066,1064,1113,1843,1904,1896,1864,715,1913]
+id: 1869
+gravatar: "http://www.gravatar.com/avatar/63bb7f18349b45da0849e35186477d47"
+---

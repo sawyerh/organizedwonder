@@ -3,12 +3,16 @@ title: "Kirby Ferguson - Everything is a Remix"
 date: 2013-12-09 19:17:55 00:00
 permalink: /videos/2136
 source: "http://vimeo.com/63008759"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/434/922/434922626_1280.jpg"
 user:
+  id: 2109
   username: "ejazasi"
   name: "Ejaz Asi"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/63008759\" width=\"1280\" height=\"720\" frameborder=\"0\" title=\"Kirby Ferguson - Everything is a Remix\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 2136
 ---
 
 Creativity, like remixing, is the result of three basic techniques: copying, transforming and combining. By exploring our centuries of culture we can see how remixing—creating music from samples of existing music—is a good metaphor for all varieties of creativity. By discussing the myths around creativity and investigate how this view of creativity clashes with current laws and norms, we’ll find out how we are all really remixers.

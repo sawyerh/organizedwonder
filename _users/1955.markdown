@@ -1,0 +1,9 @@
+---
+title: "Lee Chakov"
+date: 2013-04-26 01:10:56 00:00
+permalink: /leechakov
+twitter: ""
+likes: [1773,1845]
+id: 1955
+gravatar: "http://www.gravatar.com/avatar/d4080467c39f7aaf33da0ee8d6e22c1a"
+---

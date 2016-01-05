@@ -1,0 +1,9 @@
+---
+title: "Olivier Grandguillot"
+date: 2012-11-12 17:09:18 00:00
+permalink: /og
+twitter: "usernamed"
+likes: [1461,1432,1407,1261,591,100,263,66,1066,1064,114,467,646,125,7,1485]
+id: 1506
+gravatar: "http://www.gravatar.com/avatar/9e55ce71b04efa7a71d08b3c1936540d"
+---

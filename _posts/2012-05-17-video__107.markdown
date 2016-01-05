@@ -3,12 +3,16 @@ title: "The Sartorialist"
 date: 2012-05-17 19:13:14 00:00
 permalink: /videos/107
 source: "http://www.youtube.com/watch?v=e5NgG5koPZU"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/e5NgG5koPZU/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["documentary","fashion","photography"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/e5NgG5koPZU?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 107
 ---
 
 Blogger Scott Schumann, aka, The Sartorialist, shares photos from his Visual Life with 70,000 readers a day. In this film by Intel, get a sneak peek into the man behind the lens and how technology plays a pivotal role in bringing his passion to life.

@@ -1,0 +1,9 @@
+---
+title: "Jim Irvine"
+date: 2014-08-03 14:35:50 00:00
+permalink: /twiga01
+twitter: ""
+likes: [1192]
+id: 2319
+gravatar: "http://www.gravatar.com/avatar/15afd198ec21686a0337a53f5574b6e2"
+---

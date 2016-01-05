@@ -3,12 +3,16 @@ title: "Industry City Distillery"
 date: 2012-06-22 09:24:58 00:00
 permalink: /videos/943
 source: "https://vimeo.com/42991839"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/303/041/303041086_1280.jpg"
 user:
+  id: 168
   username: "steve_flory"
   name: "Steve Flory"
 tags: ["short film","documentary","creativity","vodka"]
 html: "<iframe src=\"http://player.vimeo.com/video/42991839\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 943
 ---
 
 A film by Christopher Parker

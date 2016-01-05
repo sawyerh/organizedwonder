@@ -1,0 +1,6 @@
+---
+title: "glorious"
+id: tag.id
+permalink: "/tags/glorious"
+videos: [915]
+---

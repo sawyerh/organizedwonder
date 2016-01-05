@@ -1,0 +1,9 @@
+---
+title: "Kelvin Howard"
+date: 2012-06-13 03:13:28 00:00
+permalink: /kelvinhoward
+twitter: ""
+likes: [839,785]
+id: 976
+gravatar: "http://www.gravatar.com/avatar/23d7eba7e485ca5ad8d130c2403a3eb5"
+---

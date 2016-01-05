@@ -3,12 +3,16 @@ title: "What Makes Us Feel Good About Our Work?"
 date: 2013-05-09 16:02:22 00:00
 permalink: /videos/1880
 source: "http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work.html"
+featured: false
+provider: "TED"
 thumbnail: "http://images.ted.com/images/ted/e15921c40cf97c7ced77eedd51eb9eaa75d29980_389x292.jpg"
 user:
+  id: 1888
   username: "manspaugh"
   name: "David Anspaugh"
 tags: ["ted","ted talk","work","happiness"]
 html: "<iframe src=\"http://embed.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1880
 ---
 
 Dan Ariely discusses the deeper aspects of work and labor.

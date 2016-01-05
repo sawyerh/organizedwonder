@@ -3,12 +3,16 @@ title: "Books as a Film"
 date: 2012-06-06 13:12:32 00:00
 permalink: /videos/784
 source: "https://vimeo.com/18403961"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/115/715/115715143_295.jpg"
 user:
+  id: 830
   username: "ioioioioi"
   name: "Ozgur"
 tags: ["design","graphic design","publication"]
 html: "<iframe src=\"http://player.vimeo.com/video/18403961\" width=\"480\" height=\"272\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 784
 ---
 
 All books published by Böhm/Kobayashi until October 2010 in less than 5 minutes.

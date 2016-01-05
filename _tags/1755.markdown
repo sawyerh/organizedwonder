@@ -1,0 +1,6 @@
+---
+title: "animals"
+id: tag.id
+permalink: "/tags/animals"
+videos: [2123]
+---

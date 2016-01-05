@@ -3,12 +3,16 @@ title: "░ GANGSTA RIDDIM ░ music video by ▌about:blank™ ░ track by Roe
 date: 2013-01-03 16:42:50 00:00
 permalink: /videos/1608
 source: "http://vimeo.com/56286407"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/389/712/389712313_640.jpg"
 user:
+  id: 1168
   username: "lhid"
   name: "Leban Hyde"
 tags: ["music video","typography","kinetic"]
 html: "<iframe src=\"http://player.vimeo.com/video/56286407\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1608
 ---
 
 audio: excerpt of "Gangsta Riddim" remix by Roel Funcken. Gangsta Riddim (Original) by SCANONE. OUTSIDE RECORDINGS 

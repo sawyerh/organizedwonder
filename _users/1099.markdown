@@ -1,0 +1,9 @@
+---
+title: "cu vegas"
+date: 2012-06-23 21:20:59 00:00
+permalink: /cuvegas
+twitter: "cuvegas"
+likes: [1108,66,1150,1244,1194,518,1246]
+id: 1099
+gravatar: "http://www.gravatar.com/avatar/42cd08131ef0cc831b518f4cd9efa9d9"
+---

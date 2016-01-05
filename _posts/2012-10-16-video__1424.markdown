@@ -3,11 +3,15 @@ title: "Jimmy's 1993 ESPY Speech"
 date: 2012-10-16 07:40:43 00:00
 permalink: /videos/1424
 source: "http://www.youtube.com/watch?v=HuoVM9nm42E"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/HuoVM9nm42E/hqdefault.jpg"
 user:
+  id: 51
   username: "jonnywired"
   name: "Jonathan Kennedy"
 tags: ["sports","espn"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/HuoVM9nm42E?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1424
 ---
 

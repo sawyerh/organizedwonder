@@ -1,0 +1,6 @@
+---
+title: "adobe"
+id: tag.id
+permalink: "/tags/adobe"
+videos: [1628]
+---

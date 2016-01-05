@@ -1,0 +1,6 @@
+---
+title: "graph design"
+id: tag.id
+permalink: "/tags/graph%20design"
+videos: [2180]
+---

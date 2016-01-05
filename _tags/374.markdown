@@ -1,0 +1,6 @@
+---
+title: "illumination"
+id: tag.id
+permalink: "/tags/illumination"
+videos: [340]
+---

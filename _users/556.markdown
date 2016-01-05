@@ -1,0 +1,9 @@
+---
+title: "Eric Graves"
+date: 2012-05-21 17:05:33 00:00
+permalink: /ericgraves
+twitter: ""
+likes: [73,252]
+id: 556
+gravatar: "http://www.gravatar.com/avatar/af8c3af8ef7456af0053900a1814e475"
+---

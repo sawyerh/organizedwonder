@@ -1,0 +1,6 @@
+---
+title: "salvador dalí"
+id: tag.id
+permalink: "/tags/salvador%20dal%C3%AD"
+videos: [2186]
+---

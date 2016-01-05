@@ -3,11 +3,15 @@ title: "Maestro Knows - Special Edition (Spread Love)"
 date: 2012-05-22 17:06:56 00:00
 permalink: /videos/561
 source: "https://vimeo.com/40459082"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/279/574/279574423_960.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["sports","maestro knows","nba"]
 html: "<iframe src=\"http://player.vimeo.com/video/40459082\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 561
 ---
 

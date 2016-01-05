@@ -1,0 +1,9 @@
+---
+title: "markus rummens"
+date: 2012-12-11 09:13:09 00:00
+permalink: /markusrummens
+twitter: ""
+likes: [989]
+id: 1673
+gravatar: "http://www.gravatar.com/avatar/d2d56ba1a0b301596f55ce310aace9d3"
+---

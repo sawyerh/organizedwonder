@@ -1,0 +1,6 @@
+---
+title: "electric version"
+id: tag.id
+permalink: "/tags/electric%20version"
+videos: [856]
+---

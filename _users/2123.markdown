@@ -1,0 +1,9 @@
+---
+title: "owzim"
+date: 2014-01-12 20:41:56 00:00
+permalink: /owzim
+twitter: "@owzim"
+likes: [1647,2173,1750,1543,1542,1493]
+id: 2123
+gravatar: "http://www.gravatar.com/avatar/8c124c66152e07580f47c710211ef421"
+---

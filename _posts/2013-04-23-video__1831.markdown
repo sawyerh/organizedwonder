@@ -3,11 +3,15 @@ title: "Ellen Kim: “Booty Wurk” by T-Pain"
 date: 2013-04-23 12:11:34 00:00
 permalink: /videos/1831
 source: "http://www.youtube.com/watch?v=ay2efEKlvV8"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/ay2efEKlvV8/hqdefault.jpg"
 user:
+  id: 1942
   username: "psyoko"
   name: "Yoko Sakao Ohama"
 tags: ["dance","choreography"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/ay2efEKlvV8?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1831
 ---
 

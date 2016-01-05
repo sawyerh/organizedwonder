@@ -1,0 +1,6 @@
+---
+title: "lesson"
+id: tag.id
+permalink: "/tags/lesson"
+videos: [2110]
+---

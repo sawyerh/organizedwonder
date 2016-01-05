@@ -3,11 +3,15 @@ title: "The currency of protest"
 date: 2012-05-24 10:06:05 00:00
 permalink: /videos/598
 source: "http://www.youtube.com/watch?v=4dJx95cTQ2o"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/4dJx95cTQ2o/hqdefault.jpg"
 user:
+  id: 508
   username: "anjali28"
   name: "Anjali Ramachandran"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/4dJx95cTQ2o?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 598
 ---
 

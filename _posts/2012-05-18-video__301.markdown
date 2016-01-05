@@ -3,11 +3,15 @@ title: "The Expanding Universe"
 date: 2012-05-18 21:46:17 00:00
 permalink: /videos/301
 source: "http://www.youtube.com/watch?feature=player_embedded&v=iCI8K9mD_yU"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/iCI8K9mD_yU/hqdefault.jpg"
 user:
+  id: 187
   username: "aaronmoodie"
   name: "Aaron Moodie"
 tags: ["space","science","universe"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/iCI8K9mD_yU?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 301
 ---
 

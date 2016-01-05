@@ -1,0 +1,9 @@
+---
+title: "Andy Stefanovich"
+date: 2012-06-20 17:23:09 00:00
+permalink: /astefanovich
+twitter: "@AndyStefanovich"
+likes: [834,944,945]
+id: 1081
+gravatar: "http://www.gravatar.com/avatar/c1fad3e9b2192d5f5f82e979890b8867"
+---

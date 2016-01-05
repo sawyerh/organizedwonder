@@ -3,12 +3,16 @@ title: "Walker Art Center: Kevin Quealy, New York Times Graphics Department"
 date: 2012-05-19 00:28:00 00:00
 permalink: /videos/332
 source: "http://www.youtube.com/watch?feature=player_embedded&v=hFpIE8xY_w8#!"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/hFpIE8xY_w8/hqdefault.jpg"
 user:
+  id: 359
   username: "marshmallowfeev"
   name: "bekah nutt"
 tags: ["design","talk","data visualization","walker art center","new york times"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/hFpIE8xY_w8?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 332
 ---
 
 Kevin Quealy is a member of the New York Times graphics department, a 25-person team of visual journalists that explain, illustrate and contextualize the news for the newspaper and nytimes.com. Kevin has helped create some of the Times' best-known graphics, including visualizations of the 2010 Congressional elections, the interactive "Budget Puzzle" and many others. The department has won many national and international awards, including the National Design Award for Communication Design.

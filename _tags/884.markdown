@@ -1,0 +1,6 @@
+---
+title: "thought"
+id: tag.id
+permalink: "/tags/thought"
+videos: [944]
+---

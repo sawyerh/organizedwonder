@@ -1,0 +1,6 @@
+---
+title: "modular scale"
+id: tag.id
+permalink: "/tags/modular%20scale"
+videos: [1559]
+---

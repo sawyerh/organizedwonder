@@ -1,0 +1,9 @@
+---
+title: "Ignacio Bautiste Cuervo"
+date: 2012-11-10 14:27:55 00:00
+permalink: /natxobau
+twitter: ""
+likes: [1467]
+id: 1445
+gravatar: "http://www.gravatar.com/avatar/39ae108f7562925eb434f18e6fc096e5"
+---

@@ -1,0 +1,6 @@
+---
+title: "shoes"
+id: tag.id
+permalink: "/tags/shoes"
+videos: [2336]
+---

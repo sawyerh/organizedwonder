@@ -3,12 +3,16 @@ title: "La maman et la putain, Diabologum"
 date: 2012-05-18 11:37:01 00:00
 permalink: /videos/190
 source: "http://www.dailymotion.com/video/k3IWgBtTNtGFoC465e"
+featured: false
+provider: "Dailymotion"
 thumbnail: "http://static2.dmcdn.net/static/video/007/679/976700:jpeg_preview_large.jpg?20111213174256"
 user:
+  id: 276
   username: "apropos"
   name: "Barbara"
 tags: ["music","diabologum","jean eustache"]
 html: "<iframe src=\"http://www.dailymotion.com/embed/video/xkxmk\" width=\"480\" height=\"359\" frameborder=\"0\"></iframe>"
+id: 190
 ---
 
 Footage is from Jean Eustache's cult movie "La maman et la putain".

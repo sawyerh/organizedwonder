@@ -1,0 +1,6 @@
+---
+title: "network"
+id: tag.id
+permalink: "/tags/network"
+videos: [1013]
+---

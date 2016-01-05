@@ -3,12 +3,16 @@ title: "The Mast Brothers"
 date: 2012-05-18 14:12:05 00:00
 permalink: /videos/248
 source: "http://vimeo.com/13664547"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/270/574/270574800_640.jpg"
 user:
+  id: 317
   username: "timcruicky"
   name: "Tim Cruickshank"
 tags: ["short film","interview","craft","creativity"]
 html: "<iframe src=\"http://player.vimeo.com/video/13664547\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 248
 ---
 
 Rick and Michael Mast are two of the most interesting, thought provoking chocolate makers around.

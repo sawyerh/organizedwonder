@@ -1,0 +1,6 @@
+---
+title: "writing"
+id: tag.id
+permalink: "/tags/writing"
+videos: [67,143,182,309,580,869]
+---

@@ -3,12 +3,16 @@ title: "21-87 - Arthur Lipsett"
 date: 2012-05-18 11:46:21 00:00
 permalink: /videos/194
 source: "http://www.nfb.ca/film/21-87"
+featured: false
+provider: "National Film Board of Canada / Office national du film du Canada"
 thumbnail: "http://media1.nfb.ca/medias/nfb_tube/thumbs_small/2008/2187-small.jpg"
 user:
+  id: 276
   username: "apropos"
   name: "Barbara"
 tags: ["short film","cinema","arthur lipsett","art"]
 html: "<iframe src=\"http://www.nfb.ca/film/21-87/embed/player\" width=\"530\" height=\"345\"></iframe>"
+id: 194
 ---
 
 Cinéaste populaire dont les films-collages excentriques et satiriques ont fait le tour du monde. Il ne craignait pas les contradictions : tantôt d’un humour léger, tantôt d’une ironie sombre, ses films mêlent éléments narratifs, documentaire, essai visuel et compilation et montrent comment les images et les sons peuvent fusionner en une forme authentique.

@@ -3,11 +3,15 @@ title: "\"Not all preparation is good preparation.\" —Julie Sabatier"
 date: 2012-11-18 19:39:06 00:00
 permalink: /videos/1494
 source: "http://vimeo.com/48161057"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/333/868/333868903_1280.jpg"
 user:
+  id: 1406
   username: "mandythedesigner"
   name: "Mandy Collins"
 tags: ["design","talk","creative mornings","julie sabatier"]
 html: "<iframe src=\"http://player.vimeo.com/video/48161057\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1494
 ---
 

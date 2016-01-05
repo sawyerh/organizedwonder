@@ -1,0 +1,6 @@
+---
+title: "signage design"
+id: tag.id
+permalink: "/tags/signage%20design"
+videos: [1362]
+---

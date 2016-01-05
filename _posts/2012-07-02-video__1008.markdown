@@ -3,11 +3,15 @@ title: "Carl Sagan - Pale Blue Dot"
 date: 2012-07-02 05:35:49 00:00
 permalink: /videos/1008
 source: "http://www.youtube.com/watch?v=wupToqz1e2g&feature=related"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/wupToqz1e2g/hqdefault.jpg"
 user:
+  id: 640
   username: "bwernet"
   name: "Beth Wernet"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/wupToqz1e2g?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1008
 ---
 

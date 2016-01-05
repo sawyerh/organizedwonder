@@ -1,0 +1,9 @@
+---
+title: "Leon Kotlyar"
+date: 2012-05-23 00:03:59 00:00
+permalink: /leonkotlyar
+twitter: "leonkotlyar"
+likes: [2461,568,569,570,571,572,573,992,1119,1210,1405,1700,1701,1705,1709,1742,1777,1922,2382,2000,2061,2086,2087,2123,2124,2133,2423,2485]
+id: 634
+gravatar: "http://www.gravatar.com/avatar/e26e049f9dada3c480f49b250ef95bd6"
+---

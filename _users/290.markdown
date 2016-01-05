@@ -1,0 +1,9 @@
+---
+title: "john leach"
+date: 2012-05-18 12:25:14 00:00
+permalink: /leachster
+twitter: "leachster"
+likes: [55]
+id: 290
+gravatar: "http://www.gravatar.com/avatar/afdce17ea8c7ec2fbc633d238fbfbd8f"
+---

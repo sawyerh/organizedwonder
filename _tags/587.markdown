@@ -1,0 +1,6 @@
+---
+title: "ted talks"
+id: tag.id
+permalink: "/tags/ted%20talks"
+videos: [635,639]
+---

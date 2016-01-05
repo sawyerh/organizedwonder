@@ -1,0 +1,6 @@
+---
+title: "color"
+id: tag.id
+permalink: "/tags/color"
+videos: [336,560,938,1581]
+---

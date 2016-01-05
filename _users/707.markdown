@@ -1,0 +1,9 @@
+---
+title: "RogerioMondi"
+date: 2012-05-27 23:36:54 00:00
+permalink: /rogeriomondi
+twitter: "RogerioMondi"
+likes: [657,658,750,751,752]
+id: 707
+gravatar: "http://www.gravatar.com/avatar/5af1eb614d222fd90f42465fe61651b5"
+---

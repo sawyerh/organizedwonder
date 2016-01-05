@@ -1,0 +1,6 @@
+---
+title: "malcolm gladwell"
+id: tag.id
+permalink: "/tags/malcolm%20gladwell"
+videos: [871,1197,1198]
+---

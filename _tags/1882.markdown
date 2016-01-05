@@ -1,0 +1,6 @@
+---
+title: "childish gambino"
+id: tag.id
+permalink: "/tags/childish%20gambino"
+videos: [2266]
+---

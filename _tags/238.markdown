@@ -1,0 +1,6 @@
+---
+title: "barak obama"
+id: tag.id
+permalink: "/tags/barak%20obama"
+videos: [167]
+---

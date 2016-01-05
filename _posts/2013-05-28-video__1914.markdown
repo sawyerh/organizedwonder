@@ -3,12 +3,16 @@ title: "Instagram Is"
 date: 2013-05-28 16:35:15 00:00
 permalink: /videos/1914
 source: "http://vimeo.com/66938184"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/438/854/438854359_1280.jpg"
 user:
+  id: 576
   username: "jl"
   name: "John Gregory Liwag"
 tags: ["photography","mobile","instagram"]
 html: "<iframe src=\"http://player.vimeo.com/video/66938184\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1914
 ---
 
 In a culture immersed in technology, Instagram is reviving adventure, face to face community and real relationships. How can something so digital get people out from behind their devices and into the analog world?

@@ -1,0 +1,6 @@
+---
+title: "tim ferriss"
+id: tag.id
+permalink: "/tags/tim%20ferriss"
+videos: [1301,1527]
+---

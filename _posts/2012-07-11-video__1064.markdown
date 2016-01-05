@@ -3,12 +3,16 @@ title: "Ryan Singer at Future of Web Apps, London 2010"
 date: 2012-07-11 01:52:41 00:00
 permalink: /videos/1064
 source: "http://vimeo.com/15772341"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/955/479/95547932_295.jpg"
 user:
+  id: 1172
   username: "roquenzo"
   name: "Juan Pablo Manson"
 tags: ["ux","design","talk","37signals","web design"]
 html: "<iframe src=\"http://player.vimeo.com/video/15772341\" width=\"472\" height=\"264\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1064
 ---
 
 {From Vimeo description} Here's a talk I gave at Future of Web Apps 2010 in London. In this talk, I walk through the steps of creating a web app including modeling, sketching, HTML, Photoshop explorations, and moving from static mockups to live running code. Each step is illustrated with a real example, including some live sketching and live HTML. I also wanted to give a sense of how we think about apps at 37signals, as a stack of different levels that we can iterate on individually.

@@ -3,12 +3,16 @@ title: "Ólafur Arnalds - Ljósið (Official Music Video)"
 date: 2012-12-24 03:42:36 00:00
 permalink: /videos/1581
 source: "http://www.youtube.com/watch?v=mYIfiQlfaas&list=PLA6AEA9382D0EFF3C&index=1"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/mYIfiQlfaas/hqdefault.jpg"
 user:
+  id: 339
   username: "asadc"
   name: "Asad Chishti"
 tags: ["art","music","color","artist","video","visualization","conceptual"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/mYIfiQlfaas?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1581
 ---
 
 Official music video for 'Ljósið' taken from Ólafur Arnalds.

@@ -1,0 +1,6 @@
+---
+title: "lean ux"
+id: tag.id
+permalink: "/tags/lean%20ux"
+videos: [1112]
+---

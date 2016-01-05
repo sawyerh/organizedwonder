@@ -3,11 +3,15 @@ title: "THE GAP by Ira Glass"
 date: 2014-01-29 19:27:39 00:00
 permalink: /videos/2213
 source: "https://vimeo.com/85040589"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/462/267/462267970_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["creativity","ira glass","inspirational"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F85040589&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F85040589&image=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F462%2F267%2F462267970_1280.jpg&key=950020ba825211e1a0764040d3dc5c07&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"1080\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2213
 ---
 

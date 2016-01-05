@@ -1,0 +1,6 @@
+---
+title: "cute"
+id: tag.id
+permalink: "/tags/cute"
+videos: [303,1648]
+---

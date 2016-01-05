@@ -1,0 +1,9 @@
+---
+title: "Om Pathipaka"
+date: 2012-11-13 22:24:45 00:00
+permalink: /omslaw
+twitter: ""
+likes: [481,700]
+id: 1532
+gravatar: "http://www.gravatar.com/avatar/2a20de7e617d32649c2690b491c0c412"
+---

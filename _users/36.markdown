@@ -1,0 +1,9 @@
+---
+title: "Larry Fox"
+date: 2012-05-15 15:54:15 00:00
+permalink: /fox
+twitter: "larrythefox"
+likes: [2253,639,58,66,2263,1862,2358,2398,2406,2232]
+id: 36
+gravatar: "http://www.gravatar.com/avatar/dbee54980d2acf65f8c782c85f36aa35"
+---

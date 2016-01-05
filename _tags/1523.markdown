@@ -1,0 +1,6 @@
+---
+title: "fire"
+id: tag.id
+permalink: "/tags/fire"
+videos: [1717]
+---

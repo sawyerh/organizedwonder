@@ -1,0 +1,6 @@
+---
+title: "new technologies"
+id: tag.id
+permalink: "/tags/new%20technologies"
+videos: [863]
+---

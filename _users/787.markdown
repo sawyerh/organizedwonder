@@ -1,0 +1,9 @@
+---
+title: "Miguel Regedor"
+date: 2012-05-30 15:33:48 00:00
+permalink: /miguelregedor
+twitter: "miguelregedor"
+likes: [703]
+id: 787
+gravatar: "http://www.gravatar.com/avatar/80583db5af674ca20393f42a20101129"
+---

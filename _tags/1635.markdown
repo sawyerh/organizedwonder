@@ -1,0 +1,6 @@
+---
+title: "hospital"
+id: tag.id
+permalink: "/tags/hospital"
+videos: [1979]
+---

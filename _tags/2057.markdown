@@ -1,0 +1,6 @@
+---
+title: "yeezus"
+id: tag.id
+permalink: "/tags/yeezus"
+videos: [2521]
+---

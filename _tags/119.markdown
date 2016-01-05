@@ -1,0 +1,6 @@
+---
+title: "ethos"
+id: tag.id
+permalink: "/tags/ethos"
+videos: [58]
+---

@@ -1,0 +1,6 @@
+---
+title: "cognitive science"
+id: tag.id
+permalink: "/tags/cognitive%20science"
+videos: [2211]
+---

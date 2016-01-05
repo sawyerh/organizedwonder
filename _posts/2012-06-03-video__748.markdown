@@ -3,11 +3,15 @@ title: "Flexi Disc Balloon Launch for Jack White - Freedom At 21"
 date: 2012-06-03 09:49:44 00:00
 permalink: /videos/748
 source: "http://www.youtube.com/watch?v=szoIcNykCc0"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/szoIcNykCc0/hqdefault.jpg"
 user:
+  id: 838
   username: "laumabre"
   name: "Lauma"
 tags: ["music","creativity"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/szoIcNykCc0?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 748
 ---
 

@@ -1,0 +1,6 @@
+---
+title: "crowdfunding"
+id: tag.id
+permalink: "/tags/crowdfunding"
+videos: [1620]
+---

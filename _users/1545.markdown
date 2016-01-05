@@ -1,0 +1,9 @@
+---
+title: "Gadzhi Kharkharov"
+date: 2012-11-14 15:56:25 00:00
+permalink: /gadzhi
+twitter: "gadzhi_kha"
+likes: [67,100]
+id: 1545
+gravatar: "http://www.gravatar.com/avatar/5b9a6938184adb6d4ca903cdadb98a4e"
+---

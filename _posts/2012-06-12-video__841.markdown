@@ -3,11 +3,15 @@ title: "Petzl RocTrip China 2011"
 date: 2012-06-12 22:03:52 00:00
 permalink: /videos/841
 source: "http://www.youtube.com/watch?v=EcU255XBlcI&sns=fb"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/EcU255XBlcI/hqdefault.jpg"
 user:
+  id: 959
   username: "manmar"
   name: "Marko Manojlovic"
 tags: ["rock climbing","nature","china"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/EcU255XBlcI?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 841
 ---
 

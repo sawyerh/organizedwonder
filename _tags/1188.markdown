@@ -1,0 +1,6 @@
+---
+title: "consumerism"
+id: tag.id
+permalink: "/tags/consumerism"
+videos: [1333,1873]
+---

@@ -1,0 +1,6 @@
+---
+title: "problem solving"
+id: tag.id
+permalink: "/tags/problem%20solving"
+videos: [1030,2501]
+---

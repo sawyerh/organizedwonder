@@ -1,0 +1,6 @@
+---
+title: "whimsy"
+id: tag.id
+permalink: "/tags/whimsy"
+videos: [1040]
+---

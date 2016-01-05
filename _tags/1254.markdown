@@ -1,0 +1,6 @@
+---
+title: "photoshop"
+id: tag.id
+permalink: "/tags/photoshop"
+videos: [1449]
+---

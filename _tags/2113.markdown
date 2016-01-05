@@ -1,0 +1,6 @@
+---
+title: "monsters"
+id: tag.id
+permalink: "/tags/monsters"
+videos: [2578]
+---

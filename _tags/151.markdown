@@ -1,0 +1,6 @@
+---
+title: "artsy"
+id: tag.id
+permalink: "/tags/artsy"
+videos: [74]
+---

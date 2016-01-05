@@ -1,0 +1,6 @@
+---
+title: "acoustics"
+id: tag.id
+permalink: "/tags/acoustics"
+videos: [1675]
+---

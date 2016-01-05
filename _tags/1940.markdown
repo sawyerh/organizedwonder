@@ -1,0 +1,6 @@
+---
+title: "managing experience"
+id: tag.id
+permalink: "/tags/managing%20experience"
+videos: [2357]
+---

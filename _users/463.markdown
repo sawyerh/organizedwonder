@@ -1,0 +1,9 @@
+---
+title: "Janna Hagan"
+date: 2012-05-19 19:07:20 00:00
+permalink: /_jannalynn
+twitter: "_jannalynn"
+likes: [58,55,252]
+id: 463
+gravatar: "http://www.gravatar.com/avatar/a6e55b88d745bf216629b92ea6c33be2"
+---

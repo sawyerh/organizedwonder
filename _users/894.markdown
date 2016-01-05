@@ -1,0 +1,9 @@
+---
+title: "Nick Barthram"
+date: 2012-06-08 07:17:22 00:00
+permalink: /rushmore
+twitter: "@rushmore"
+likes: [804]
+id: 894
+gravatar: "http://www.gravatar.com/avatar/e9d6f91fea420ae427ceafdf9b9e438e"
+---

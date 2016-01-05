@@ -1,0 +1,6 @@
+---
+title: "thomas edison"
+id: tag.id
+permalink: "/tags/thomas%20edison"
+videos: [1043]
+---

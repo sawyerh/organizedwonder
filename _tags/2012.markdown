@@ -1,0 +1,6 @@
+---
+title: "bric"
+id: tag.id
+permalink: "/tags/bric"
+videos: [2486]
+---

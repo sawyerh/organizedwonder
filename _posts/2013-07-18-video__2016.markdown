@@ -3,12 +3,16 @@ title: "The Story of Cap & Trade (2009)"
 date: 2013-07-18 12:35:57 00:00
 permalink: /videos/2016
 source: "http://www.youtube.com/watch?feature=player_embedded&v=pA6FSy6EKrM"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/pA6FSy6EKrM/hqdefault.jpg"
 user:
+  id: 1619
   username: "shelesh"
   name: "Shelesh Kumar"
 tags: ["documentary","world","cap & trade","co2"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/pA6FSy6EKrM?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2016
 ---
 
 http://storyofcapandtrade.org - The Story of Cap & Trade is a fast-paced, fact-filled look at the leading climate solution being discussed at Copenhagen and on Capitol Hill. Host Annie Leonard introduces the energy traders and Wall Street financiers at the heart of this scheme and reveals the "devils in the details" in current cap and trade proposals: free permits to big polluters, fake offsets and distraction from whats really required to tackle the climate crisis. If youve heard about Cap & Trade, but arent sure how it works (or who benefits), this is the movie is for you.

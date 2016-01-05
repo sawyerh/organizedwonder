@@ -1,0 +1,9 @@
+---
+title: "Natasha Rose"
+date: 2012-10-10 16:59:53 00:00
+permalink: /bynatasharose
+twitter: "bynatasharose"
+likes: [1401,1341,611,25]
+id: 1377
+gravatar: "http://www.gravatar.com/avatar/a3acf8c76c5832a0377e23343b448aba"
+---

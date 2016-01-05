@@ -1,0 +1,6 @@
+---
+title: "warby parker"
+id: tag.id
+permalink: "/tags/warby%20parker"
+videos: [1083]
+---

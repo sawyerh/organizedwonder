@@ -1,0 +1,6 @@
+---
+title: "joan miro"
+id: tag.id
+permalink: "/tags/joan%20miro"
+videos: [915]
+---

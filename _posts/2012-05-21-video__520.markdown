@@ -3,12 +3,16 @@ title: "Meryl Streep, Barnard Commencement Speaker 2010, Columbia University"
 date: 2012-05-21 13:41:38 00:00
 permalink: /videos/520
 source: "http://www.youtube.com/watch?v=5-a8QXUAe2g&feature=player_embedded"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/5-a8QXUAe2g/hqdefault.jpg"
 user:
+  id: 475
   username: "yewfai"
   name: "yewfai"
 tags: ["speech"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/5-a8QXUAe2g?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 520
 ---
 
 Meryl Streep speaks at Barnard College, Columbia University Commencement 2010.

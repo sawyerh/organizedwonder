@@ -1,0 +1,6 @@
+---
+title: "an event apart"
+id: tag.id
+permalink: "/tags/an%20event%20apart"
+videos: [2362]
+---

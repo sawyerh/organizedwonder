@@ -3,12 +3,16 @@ title: "Jason Silva: How Ideas Are Living, Beautiful Beings Of Wonder"
 date: 2012-05-15 15:42:35 00:00
 permalink: /videos/63
 source: "https://vimeo.com/41492860"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/287/419/287419320_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["talk","psfk","jason silva","futuristic"]
 html: "<iframe src=\"http://player.vimeo.com/video/41492860\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 63
 ---
 
 In this video from his talk at PSFK CONFERENCE NYC, Jason Silva shares two of his ‘shots of philosophical expresso’ - an exploration of how technology can quickly manifest our ideas and desires. The filmmaker and futurist rapidly demands that we need to learn to see the word in new ways in order to experience anew the amazement that has always been there.

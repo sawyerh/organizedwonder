@@ -1,0 +1,9 @@
+---
+title: "Miguel Amaral"
+date: 2012-05-15 19:58:37 00:00
+permalink: /miguelamaral
+twitter: "sirmiguelamaral"
+likes: [69,70,358,359,444]
+id: 43
+gravatar: "http://www.gravatar.com/avatar/381f13214f66d7f7c5ad14767e159a6b"
+---

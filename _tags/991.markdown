@@ -1,0 +1,6 @@
+---
+title: "boxing"
+id: tag.id
+permalink: "/tags/boxing"
+videos: [1043]
+---

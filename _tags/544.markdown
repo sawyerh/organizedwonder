@@ -1,0 +1,6 @@
+---
+title: "drink"
+id: tag.id
+permalink: "/tags/drink"
+videos: [582,716]
+---

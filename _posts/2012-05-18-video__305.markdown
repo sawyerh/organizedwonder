@@ -3,12 +3,16 @@ title: "Holi"
 date: 2012-05-18 22:19:12 00:00
 permalink: /videos/305
 source: "http://vimeo.com/40123818"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/277/913/277913852_1280.jpg"
 user:
+  id: 399
   username: "whataboutzana"
   name: "Zana Fauzi"
 tags: ["slow motion","culture","india"]
 html: "<iframe src=\"http://player.vimeo.com/video/40123818\" width=\"1920\" height=\"1080\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 305
 ---
 
 The world is fascinating. People and cultures inspire us. Sadly, the fast paced lifestyles of our generation result in many not taking the necessary step back to soak in the existing world around us. Our goal with this film is to help viewers further appreciate and take notice of the beauty in life & culture that lies within our world...

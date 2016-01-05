@@ -1,0 +1,6 @@
+---
+title: "outside"
+id: tag.id
+permalink: "/tags/outside"
+videos: [1390]
+---

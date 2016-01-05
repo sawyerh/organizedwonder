@@ -1,0 +1,6 @@
+---
+title: "biology"
+id: tag.id
+permalink: "/tags/biology"
+videos: [1226]
+---

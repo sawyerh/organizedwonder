@@ -1,0 +1,6 @@
+---
+title: "golden krishna"
+id: tag.id
+permalink: "/tags/golden%20krishna"
+videos: [2427]
+---

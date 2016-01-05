@@ -1,0 +1,9 @@
+---
+title: "Dan Leatherman"
+date: 2012-05-15 15:22:55 00:00
+permalink: /danleatherman
+twitter: "danleatherman"
+likes: [61,25,39,58,37,6]
+id: 30
+gravatar: "http://www.gravatar.com/avatar/247b37d2bdb9c0c15d05a7eeefa5ac55"
+---

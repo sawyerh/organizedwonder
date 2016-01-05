@@ -1,0 +1,6 @@
+---
+title: "architectural projection mapping"
+id: tag.id
+permalink: "/tags/architectural%20projection%20mapping"
+videos: [168,170]
+---

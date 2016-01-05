@@ -1,0 +1,9 @@
+---
+title: "Becky Chen"
+date: 2012-05-31 19:47:07 00:00
+permalink: /beksnum2
+twitter: ""
+likes: [98]
+id: 814
+gravatar: "http://www.gravatar.com/avatar/fa8b37480fb80d1643abdf80f24f5393"
+---

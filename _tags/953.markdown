@@ -1,0 +1,6 @@
+---
+title: "learn"
+id: tag.id
+permalink: "/tags/learn"
+videos: [1002]
+---

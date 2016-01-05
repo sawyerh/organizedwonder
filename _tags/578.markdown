@@ -1,0 +1,6 @@
+---
+title: "dan pink"
+id: tag.id
+permalink: "/tags/dan%20pink"
+videos: [613]
+---

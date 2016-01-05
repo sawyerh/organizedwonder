@@ -1,0 +1,6 @@
+---
+title: "yammer"
+id: tag.id
+permalink: "/tags/yammer"
+videos: [728]
+---

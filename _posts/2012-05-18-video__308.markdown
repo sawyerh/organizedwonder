@@ -3,11 +3,15 @@ title: "A TED Speaker's worst nightmare"
 date: 2012-05-18 22:26:05 00:00
 permalink: /videos/308
 source: "http://www.youtube.com/watch?v=nw52e0dfCaA&feature=player_embedded"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/nw52e0dfCaA/hqdefault.jpg"
 user:
+  id: 399
   username: "whataboutzana"
   name: "Zana Fauzi"
 tags: ["funny","ted talk","improv"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/nw52e0dfCaA?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 308
 ---
 

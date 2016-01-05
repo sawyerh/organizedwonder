@@ -3,12 +3,16 @@ title: "The Hermit Kingdom - VICE on HBO"
 date: 2013-08-22 19:58:11 00:00
 permalink: /videos/2051
 source: "http://www.youtube.com/watch?v=432faXLAVAk"
+featured: true
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/432faXLAVAk/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["documentary","vice","north korea"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/432faXLAVAk?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2051
 ---
 
 "Chances are, the first time you heard of our HBO show was when news outlets around the world reported that we took Bad-as-I-Wanna-Be NBA Hall-of-Famer Dennis Rodman to North Korea, along with members of the legendary Harlem Globetrotters, to take on the Hermit Kingdom's national team in a friendly, if entirely absurd, experiment in basketball diplomacy. As you probably know, the enigmatic young ruler of the country, Kim Jong Un, showed up to the game, making us the first American news organization to meet him. It was pretty much the most thrilling thing that could have happened, and when pictures were beamed back to Brooklyn that day, the poured-concrete floors of our offices rippled in cracks and dents as our jaws collectively hit the floor."

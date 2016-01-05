@@ -3,12 +3,16 @@ title: "DNA: The book of you - Joe Hanson"
 date: 2012-11-26 21:36:31 00:00
 permalink: /videos/1510
 source: "http://www.youtube.com/watch?feature=player_embedded&v=aeAL6xThfL8"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/aeAL6xThfL8/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["science","ted"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/aeAL6xThfL8?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1510
 ---
 
 Found via Exp.lore (http://exp.lore.com/post/36599784109/the-book-of-you-joe-hanson-of-the-wonderful-its)

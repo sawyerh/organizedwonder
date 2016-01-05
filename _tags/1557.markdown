@@ -1,0 +1,6 @@
+---
+title: "synchronicity"
+id: tag.id
+permalink: "/tags/synchronicity"
+videos: [1775]
+---

@@ -1,0 +1,9 @@
+---
+title: "Julian Hirt"
+date: 2012-07-20 10:44:54 00:00
+permalink: /julianhirt
+twitter: "julianhirt"
+likes: [816]
+id: 1208
+gravatar: "http://www.gravatar.com/avatar/1806274ef80723df7a50b192cdc6db88"
+---

@@ -1,0 +1,6 @@
+---
+title: "clojure"
+id: tag.id
+permalink: "/tags/clojure"
+videos: [907]
+---

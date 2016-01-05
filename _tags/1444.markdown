@@ -1,0 +1,6 @@
+---
+title: "micro documentary"
+id: tag.id
+permalink: "/tags/micro%20documentary"
+videos: [2238,1654,1655,1656]
+---

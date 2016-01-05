@@ -1,0 +1,9 @@
+---
+title: "Nicolai Græsdal"
+date: 2012-11-12 07:46:29 00:00
+permalink: /pixelimp
+twitter: ""
+likes: [1375,481,1421,1268,1431]
+id: 1490
+gravatar: "http://www.gravatar.com/avatar/700caebd37229e73f1d4e85631d7cced"
+---

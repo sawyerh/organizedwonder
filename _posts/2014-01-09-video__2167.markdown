@@ -3,12 +3,16 @@ title: "Güvercin / Pigeon"
 date: 2014-01-09 14:06:52 00:00
 permalink: /videos/2167
 source: "http://vimeo.com/24695524"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/346/967/346967250_1280.jpg"
 user:
+  id: 2120
   username: "masahin"
   name: "Muhammet Şahin"
 tags: ["short film","pigeon"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F24695524&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F24695524&image=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F346%2F967%2F346967250_1280.jpg&key=950020ba825211e1a0764040d3dc5c07&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2167
 ---
 
 The paths of a kid who is selling napkins on his barely fulled bench and a man, crosses with a pigeon.

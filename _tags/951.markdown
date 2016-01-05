@@ -1,0 +1,6 @@
+---
+title: "michael eric dyson"
+id: tag.id
+permalink: "/tags/michael%20eric%20dyson"
+videos: [1000]
+---

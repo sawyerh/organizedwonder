@@ -3,12 +3,16 @@ title: "Christoph Niemann - CreativeMornings"
 date: 2012-05-15 05:13:27 00:00
 permalink: /videos/30
 source: "https://vimeo.com/22752100"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/153/841/153841684_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["creativemornings","design","nyc","funny"]
 html: "<iframe src=\"http://player.vimeo.com/video/22752100\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 30
 ---
 
 CreativeMornings is a monthly breakfast lecture series for creative types. Each event is free of charge, and includes a 20 minute talk, plus coffee! http://creativemornings.com

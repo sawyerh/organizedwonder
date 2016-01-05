@@ -1,0 +1,9 @@
+---
+title: "Mike Mallory"
+date: 2012-05-19 01:50:40 00:00
+permalink: /mikemall
+twitter: ""
+likes: [55]
+id: 413
+gravatar: "http://www.gravatar.com/avatar/4fc31bfd42d63e16473b41d9378836d6"
+---

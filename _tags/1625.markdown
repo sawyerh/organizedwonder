@@ -1,0 +1,6 @@
+---
+title: "weather"
+id: tag.id
+permalink: "/tags/weather"
+videos: [1970]
+---

@@ -1,0 +1,9 @@
+---
+title: "Fabian Mu"
+date: 2012-12-03 20:31:40 00:00
+permalink: /fabianmu
+twitter: "fabianmu"
+likes: [1375,66,1029,1075,73,6]
+id: 1653
+gravatar: "http://www.gravatar.com/avatar/058366c096b2f3b595f6042e8e66b664"
+---

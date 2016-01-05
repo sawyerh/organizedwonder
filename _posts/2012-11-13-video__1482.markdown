@@ -3,12 +3,16 @@ title: "Jeff Hancock: 3 Types of (Digital) Lies"
 date: 2012-11-13 00:21:55 00:00
 permalink: /videos/1482
 source: "http://www.ted.com/talks/jeff_hancock_3_types_of_digital_lies.html"
+featured: false
+provider: "TED"
 thumbnail: "http://images.ted.com/images/ted/c72763a9a047a5430d9c3c71211608b2ec5f7e18_389x292.jpg"
 user:
+  id: 1461
   username: "kyle0421"
   name: "Jung, ByungHyun"
 tags: ["technology","communication"]
 html: "<iframe src=\"http://embed.ted.com/talks/jeff_hancock_3_types_of_digital_lies.html\" width=\"560\" height=\"315\" frameborder=\"0\" scrolling=\"no\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1482
 ---
 
 Who hasn’t sent a text message saying “I’m on my way” when it wasn’t true or fudged the truth a touch in their online dating profile? But Jeff Hancock doesn’t believe that the anonymity of the internet encourages dishonesty. In fact, he says the searchability and permanence of information online may even keep us honest.

@@ -1,0 +1,9 @@
+---
+title: "Cole Hartman"
+date: 2012-05-20 18:12:56 00:00
+permalink: /colehartman
+twitter: ""
+likes: [121,469,252]
+id: 510
+gravatar: "http://www.gravatar.com/avatar/b39b7ef34f107219d973668d3123c0a4"
+---

@@ -1,0 +1,6 @@
+---
+title: "rap"
+id: tag.id
+permalink: "/tags/rap"
+videos: [1026,1338]
+---

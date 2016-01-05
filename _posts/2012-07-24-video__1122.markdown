@@ -3,11 +3,15 @@ title: "CLASSIC® Papers Revision by Design Army: Behind the Scenes"
 date: 2012-07-24 03:49:58 00:00
 permalink: /videos/1122
 source: "http://www.youtube.com/watch?v=HgPKz9eS6ms&feature=player_embedded"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/HgPKz9eS6ms/hqdefault.jpg"
 user:
+  id: 1241
   username: "marukie"
   name: "Mary Yang"
 tags: ["design army"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/HgPKz9eS6ms?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1122
 ---
 

@@ -1,0 +1,6 @@
+---
+title: "hiphop"
+id: tag.id
+permalink: "/tags/hiphop"
+videos: [2561]
+---

@@ -1,0 +1,6 @@
+---
+title: "money"
+id: tag.id
+permalink: "/tags/money"
+videos: [1966]
+---

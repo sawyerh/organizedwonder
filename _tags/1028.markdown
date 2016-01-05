@@ -1,0 +1,6 @@
+---
+title: "university"
+id: tag.id
+permalink: "/tags/university"
+videos: [1085]
+---

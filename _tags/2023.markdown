@@ -1,0 +1,6 @@
+---
+title: "scoring"
+id: tag.id
+permalink: "/tags/scoring"
+videos: [2496]
+---

@@ -1,0 +1,6 @@
+---
+title: "thinker"
+id: tag.id
+permalink: "/tags/thinker"
+videos: [2579]
+---

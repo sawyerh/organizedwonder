@@ -1,0 +1,6 @@
+---
+title: "detroit"
+id: tag.id
+permalink: "/tags/detroit"
+videos: [2511]
+---

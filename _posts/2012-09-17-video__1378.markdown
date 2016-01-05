@@ -3,12 +3,16 @@ title: "Words as Images: Fraser Muggeridge"
 date: 2012-09-17 20:32:44 00:00
 permalink: /videos/1378
 source: "https://vimeo.com/41305743"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/286/143/286143072_640.jpg"
 user:
+  id: 830
   username: "ioioioioi"
   name: "Ozgur"
 tags: ["design","graphic design","typography","font","type","type design"]
 html: "<iframe src=\"http://player.vimeo.com/video/41305743\" width=\"640\" height=\"360\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1378
 ---
 
 A talk by Fraser Muggeridge for It's Nice That's Words as Images evening, part of Selfridges' Words Words Words season (February 2012)

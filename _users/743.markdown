@@ -1,0 +1,9 @@
+---
+title: "Luis Urueña"
+date: 2012-05-29 08:02:09 00:00
+permalink: /luisuruena
+twitter: "luisuruena"
+likes: [687,689,690,691,692,693,697,688,694,695,696]
+id: 743
+gravatar: "http://www.gravatar.com/avatar/d4e549874de2a510679867494c7d2c6e"
+---

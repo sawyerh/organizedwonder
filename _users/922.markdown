@@ -1,0 +1,9 @@
+---
+title: "Nick Fry"
+date: 2012-06-11 21:14:39 00:00
+permalink: /nickcfry
+twitter: "nickcfry"
+likes: [671,840]
+id: 922
+gravatar: "http://www.gravatar.com/avatar/48e9e5e6571f26a870ab9f4c2000854c"
+---

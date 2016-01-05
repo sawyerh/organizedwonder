@@ -3,11 +3,15 @@ title: "SLR Lounge Interview with Celebrity Portrait Photographer Jeremy Cowart"
 date: 2012-06-07 14:33:26 00:00
 permalink: /videos/792
 source: "http://www.youtube.com/embed/35NrgwPdC_k"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/35NrgwPdC_k/hqdefault.jpg"
 user:
+  id: 606
   username: "jonathanbowden"
   name: "jonathan bowden"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/35NrgwPdC_k?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 792
 ---
 

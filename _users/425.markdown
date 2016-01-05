@@ -1,0 +1,9 @@
+---
+title: "Isabel Villavecchia"
+date: 2012-05-19 07:53:29 00:00
+permalink: /villavecchia
+twitter: "villavecchia"
+likes: [361]
+id: 425
+gravatar: "http://www.gravatar.com/avatar/67f26f9679013f99cf116e21b932b200"
+---

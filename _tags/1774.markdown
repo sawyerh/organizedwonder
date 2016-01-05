@@ -1,0 +1,6 @@
+---
+title: "stones"
+id: tag.id
+permalink: "/tags/stones"
+videos: [2144]
+---

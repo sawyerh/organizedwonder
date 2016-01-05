@@ -1,0 +1,9 @@
+---
+title: "Mackenzie Child"
+date: 2013-03-29 22:38:58 00:00
+permalink: /mackenziechild
+twitter: "mackenziechild"
+likes: [925,1527,1375,1301,1635,1773,1774]
+id: 1877
+gravatar: "http://www.gravatar.com/avatar/8faa486da6a3a57880523ff4b3d1757b"
+---

@@ -1,0 +1,6 @@
+---
+title: "impression"
+id: tag.id
+permalink: "/tags/impression"
+videos: [930]
+---

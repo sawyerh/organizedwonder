@@ -1,0 +1,6 @@
+---
+title: "after effects"
+id: tag.id
+permalink: "/tags/after%20effects"
+videos: [97,101]
+---

@@ -3,12 +3,16 @@ title: "Everyone's a Co-founder"
 date: 2012-06-21 01:04:26 00:00
 permalink: /videos/928
 source: "http://youtu.be/Jaj79xZesiM"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/Jaj79xZesiM/hqdefault.jpg"
 user:
+  id: 1086
   username: "byderekj"
   name: "Derek Jensen"
 tags: ["technology","startup","entrepreneur","founder","debate"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/Jaj79xZesiM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 928
 ---
 
 Nilay Patel of The Verge explores SXSW Interactive, where startups are born out of benders and bromance.

@@ -3,12 +3,16 @@ title: "Illusions (part one)"
 date: 2013-04-10 03:28:20 00:00
 permalink: /videos/1780
 source: "https://vimeo.com/63609012"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/433/943/433943002_1280.jpg"
 user:
+  id: 1692
   username: "hoodwink73"
   name: "Arijit Bhattacharya"
 tags: ["wonder"]
 html: "<iframe src=\"http://player.vimeo.com/video/63609012\" width=\"1920\" height=\"816\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1780
 ---
 
 The reality of the reality we perceive...

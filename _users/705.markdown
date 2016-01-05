@@ -1,0 +1,9 @@
+---
+title: "Joe"
+date: 2012-05-27 17:17:52 00:00
+permalink: /joe
+twitter: ""
+likes: [366,58,69,582,678,703,708,924,72,1032,1075,1056,1095,1109,1165,1263,1305,1336]
+id: 705
+gravatar: "http://www.gravatar.com/avatar/9697d046da73867bed5f00d89d2c2262"
+---

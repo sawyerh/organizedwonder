@@ -1,0 +1,9 @@
+---
+title: "Nicolae Rusan"
+date: 2012-05-16 19:04:49 00:00
+permalink: /nicolaerusan
+twitter: "NicolaeRusan"
+likes: [1549,930,860,1495,671,1108,70,1493,1095,444,518,1431,159,715,1967,35,1876,727,1977,516,1465,1986,310,932,515,481,358,534,366,1409,583]
+id: 77
+gravatar: "http://www.gravatar.com/avatar/e6634478ca63fbf47b05980713fca555"
+---

@@ -1,0 +1,6 @@
+---
+title: "mit"
+id: tag.id
+permalink: "/tags/mit"
+videos: [105,635]
+---

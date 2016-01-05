@@ -1,0 +1,6 @@
+---
+title: "surfing"
+id: tag.id
+permalink: "/tags/surfing"
+videos: [942,1027,1074,1236,1306,2046,2092]
+---

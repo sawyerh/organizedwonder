@@ -1,0 +1,6 @@
+---
+title: "vc"
+id: tag.id
+permalink: "/tags/vc"
+videos: [435]
+---

@@ -1,0 +1,6 @@
+---
+title: "gilles deuleuze"
+id: tag.id
+permalink: "/tags/gilles%20deuleuze"
+videos: [1706]
+---

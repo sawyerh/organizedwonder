@@ -1,0 +1,9 @@
+---
+title: "jakedugard"
+date: 2012-06-27 15:54:33 00:00
+permalink: /jakedugard
+twitter: "jakedugard"
+likes: [993,932,25,1130,129]
+id: 1128
+gravatar: "http://www.gravatar.com/avatar/159df73e826785c874445766287d9e5d"
+---

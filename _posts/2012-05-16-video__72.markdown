@@ -3,12 +3,16 @@ title: "What is the Self?"
 date: 2012-05-16 05:13:51 00:00
 permalink: /videos/72
 source: "http://youtu.be/zGv1Nay2z-U"
+featured: true
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/zGv1Nay2z-U/hqdefault.jpg"
 user:
+  id: 52
   username: "zaya"
   name: "Ralitza Zaya Panayotova"
 tags: ["self","universe","awareness","mystery","awe"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/zGv1Nay2z-U?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 72
 ---
 
 Mystics in all ages and cultures describe the self as infinite, stable and ever-present phenomena. Modern physics describe the world as a self-moving, self-designing pattern, an undivided wholeness, a dance. We, as a society, relate to the self mostly as an individual, unique, time bound form. Our common sense, as individuals and society, hasn't caught up with this picture and it still based on long-held biases and stories. The Earth is clearly round but we still act as if it was flat...

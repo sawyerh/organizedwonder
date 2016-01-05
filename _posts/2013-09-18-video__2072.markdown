@@ -3,12 +3,16 @@ title: "Hacking Art & Culture with F.A.T. Lab | Off Book | PBS"
 date: 2013-09-18 01:34:48 00:00
 permalink: /videos/2072
 source: "http://www.youtube.com/watch?v=-b0rlJvO1BQ"
+featured: true
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/-b0rlJvO1BQ/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["technology","pbs","culture","short documentary","off book"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/-b0rlJvO1BQ?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2072
 ---
 
 As we become more and more engaged with the internet in every aspect of our lives, powerful questions have arisen regarding the ownership of digital media and information, the relationship between corporations, governments, and individuals online, the power of pop culture influence, and the dissolving border between the digital and physical worlds. Taking these issues head-on is The Free Art & Technology (F.A.T.) Lab. An international group of 21 artists, hackers, thinkers, designers, developers, and entrepreneurs, F.A.T. Lab employs art, activism, pop culture, and a wealth of knowledge about how the internet works to create projects that challenge people and institutions to think a little deeper about this new world we all live in.

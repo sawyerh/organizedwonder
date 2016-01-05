@@ -1,0 +1,6 @@
+---
+title: "paper sculpture"
+id: tag.id
+permalink: "/tags/paper%20sculpture"
+videos: [1713]
+---

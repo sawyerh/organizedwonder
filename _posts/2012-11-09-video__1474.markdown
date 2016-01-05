@@ -3,11 +3,15 @@ title: "Day of JS: Sencha Touch ~ David Kaneda"
 date: 2012-11-09 22:45:27 00:00
 permalink: /videos/1474
 source: "http://vimeo.com/21144321"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/135/811/135811907_640.jpg"
 user:
+  id: 1429
   username: "domoku"
   name: "Kuku Kaka"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/21144321\" width=\"640\" height=\"352\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1474
 ---
 

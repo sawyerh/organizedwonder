@@ -1,0 +1,9 @@
+---
+title: "Nicole Williams"
+date: 2012-11-12 20:21:23 00:00
+permalink: /devl44
+twitter: ""
+likes: [1128]
+id: 1510
+gravatar: "http://www.gravatar.com/avatar/48adc276c88a1f859ee0c85e61c47fb3"
+---

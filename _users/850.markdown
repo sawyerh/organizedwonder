@@ -1,0 +1,9 @@
+---
+title: "Nils Sköld"
+date: 2012-06-04 15:43:07 00:00
+permalink: /nilsko
+twitter: ""
+likes: [225,786]
+id: 850
+gravatar: "http://www.gravatar.com/avatar/ef64f7d2c0bd5abd10f512d4f2209f8d"
+---

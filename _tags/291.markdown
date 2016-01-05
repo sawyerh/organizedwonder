@@ -1,0 +1,6 @@
+---
+title: "brene brown"
+id: tag.id
+permalink: "/tags/brene%20brown"
+videos: [201]
+---

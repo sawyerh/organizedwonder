@@ -3,11 +3,15 @@ title: "Craig Mod - Nourishing Habits for Nourishing Design"
 date: 2012-05-23 15:21:00 00:00
 permalink: /videos/586
 source: "http://vimeo.com/33919422"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/230/578/230578167_960.jpg"
 user:
+  id: 497
   username: "hellopanos"
   name: "hellopanos"
 tags: ["books"]
 html: "<iframe src=\"http://player.vimeo.com/video/33919422\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 586
 ---
 

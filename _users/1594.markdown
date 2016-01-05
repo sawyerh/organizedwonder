@@ -1,0 +1,9 @@
+---
+title: "Filip de Blois"
+date: 2012-11-20 14:03:43 00:00
+permalink: /filipdeblois
+twitter: ""
+likes: [1271,1311,69]
+id: 1594
+gravatar: "http://www.gravatar.com/avatar/432438a909b3ff6376a6f3b4de6e0ac2"
+---

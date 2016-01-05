@@ -1,0 +1,6 @@
+---
+title: "duffy culligan"
+id: tag.id
+permalink: "/tags/duffy%20culligan"
+videos: [475]
+---

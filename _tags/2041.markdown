@@ -1,0 +1,6 @@
+---
+title: "psycho"
+id: tag.id
+permalink: "/tags/psycho"
+videos: [2509]
+---

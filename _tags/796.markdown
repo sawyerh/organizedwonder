@@ -1,0 +1,6 @@
+---
+title: "fruit"
+id: tag.id
+permalink: "/tags/fruit"
+videos: [857]
+---

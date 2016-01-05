@@ -1,0 +1,9 @@
+---
+title: "Format"
+date: 2015-08-31 22:06:21 00:00
+permalink: /useformat
+twitter: ""
+likes: [2556,2575]
+id: 2415
+gravatar: "http://www.gravatar.com/avatar/16dc25ef96332f40fd44d879288e0f6b"
+---

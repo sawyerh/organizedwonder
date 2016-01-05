@@ -1,0 +1,9 @@
+---
+title: "Paulius"
+date: 2012-05-18 07:27:40 00:00
+permalink: /tamsus_debesis
+twitter: ""
+likes: [71]
+id: 237
+gravatar: "http://www.gravatar.com/avatar/d67bba680bea25c9891f44b0d73650a0"
+---

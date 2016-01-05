@@ -1,0 +1,6 @@
+---
+title: "xoxo"
+id: tag.id
+permalink: "/tags/xoxo"
+videos: [2104,2128]
+---

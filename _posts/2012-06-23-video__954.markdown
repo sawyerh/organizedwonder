@@ -3,11 +3,15 @@ title: "How to break habits (from The Power of Habit by Charles Duhigg)"
 date: 2012-06-23 05:50:47 00:00
 permalink: /videos/954
 source: "http://www.youtube.com/watch?feature=player_embedded&v=4H0fTwtPLfo#!"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/4H0fTwtPLfo/hqdefault.jpg"
 user:
+  id: 203
   username: "calescence"
   name: "Shannon McWeeney"
 tags: ["organization","habits","change","transformation"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/4H0fTwtPLfo?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 954
 ---
 

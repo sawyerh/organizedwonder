@@ -1,0 +1,6 @@
+---
+title: "60 minutes"
+id: tag.id
+permalink: "/tags/60%20minutes"
+videos: [2252]
+---

@@ -1,0 +1,6 @@
+---
+title: "qibristol#1"
+id: tag.id
+permalink: "/tags/qibristol%231"
+videos: [1610]
+---

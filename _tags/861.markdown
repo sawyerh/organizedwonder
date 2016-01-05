@@ -1,0 +1,6 @@
+---
+title: "people"
+id: tag.id
+permalink: "/tags/people"
+videos: [925]
+---

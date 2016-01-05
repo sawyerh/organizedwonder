@@ -1,0 +1,6 @@
+---
+title: "2d gaming motivation persistence"
+id: tag.id
+permalink: "/tags/2d%20gaming%20motivation%20persistence"
+videos: [540]
+---

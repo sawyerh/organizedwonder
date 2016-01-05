@@ -1,0 +1,6 @@
+---
+title: "marriage"
+id: tag.id
+permalink: "/tags/marriage"
+videos: [1749]
+---

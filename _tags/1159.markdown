@@ -1,0 +1,6 @@
+---
+title: "simple"
+id: tag.id
+permalink: "/tags/simple"
+videos: [1265]
+---

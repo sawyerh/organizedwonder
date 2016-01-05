@@ -3,12 +3,16 @@ title: "Salman Khan: Let's use video to reinvent education"
 date: 2012-05-28 20:19:19 00:00
 permalink: /videos/675
 source: "http://www.youtube.com/watch?v=nTFEUsudhfs"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/nTFEUsudhfs/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["ted","talk","education","khan academy"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/nTFEUsudhfs?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 675
 ---
 
 Salman Khan talks about how and why he created the remarkable Khan Academy, a carefully structured series of educational videos offering complete curricula in math and, now, other subjects. He shows the power of interactive exercises, and calls for teachers to consider flipping the traditional classroom script -- give students video lectures to watch at home, and do "homework" in the classroom with the teacher available to help.

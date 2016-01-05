@@ -1,0 +1,6 @@
+---
+title: "rights"
+id: tag.id
+permalink: "/tags/rights"
+videos: [1749]
+---

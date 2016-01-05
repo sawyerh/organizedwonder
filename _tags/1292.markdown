@@ -1,0 +1,6 @@
+---
+title: "smashing"
+id: tag.id
+permalink: "/tags/smashing"
+videos: [1542,1544,1543]
+---

@@ -3,11 +3,15 @@ title: "Two Minutes With TGD: What Would You Say To Your 18-Year-Old Self?"
 date: 2015-07-14 21:01:04 00:00
 permalink: /videos/2541
 source: "https://vimeo.com/77831499"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://i.vimeocdn.com/video/453545822_1280.jpg"
 user:
+  id: 1667
   username: "sbgriffi"
   name: "Stuart G."
 tags: ["interview","design","new york"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F77831499&wmode=transparent&url=https%3A%2F%2Fvimeo.com%2F77831499&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F453545822_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1920\" height=\"1080\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2541
 ---
 

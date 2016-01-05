@@ -1,0 +1,6 @@
+---
+title: "ted 2012"
+id: tag.id
+permalink: "/tags/ted%202012"
+videos: [991]
+---

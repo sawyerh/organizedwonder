@@ -3,12 +3,16 @@ title: "The Cinematography Behind Beasts of the Southern Wild"
 date: 2014-03-16 20:20:50 00:00
 permalink: /videos/2248
 source: "http://www.youtube.com/watch?v=4iRDz8ccJi8"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/4iRDz8ccJi8/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["film","vice","cinematography","the creators project"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2F4iRDz8ccJi8%3Fwmode%3Dtransparent%26feature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4iRDz8ccJi8&image=http%3A%2F%2Fi1.ytimg.com%2Fvi%2F4iRDz8ccJi8%2Fhqdefault.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=youtube\" width=\"854\" height=\"480\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2248
 ---
 
 For Beasts of the Southern Wild, Ben Richardson's modus operandi was to capture the feel of the Southern Louisiana bayou.

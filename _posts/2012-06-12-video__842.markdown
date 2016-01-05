@@ -3,11 +3,15 @@ title: "History of the Title Sequence"
 date: 2012-06-12 22:39:22 00:00
 permalink: /videos/842
 source: "http://vimeo.com/vjurjen/titlesequence"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/174/601/174601480_1280.jpg"
 user:
+  id: 376
   username: "cap"
   name: "Cap Watkins"
 tags: ["design","film"]
 html: "<iframe src=\"http://player.vimeo.com/video/26278283\" width=\"1280\" height=\"544\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 842
 ---
 

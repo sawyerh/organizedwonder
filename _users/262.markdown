@@ -1,0 +1,9 @@
+---
+title: "Tom Lewek"
+date: 2012-05-18 08:59:32 00:00
+permalink: /tomlewek
+twitter: "tomlewek"
+likes: [66,58,50,30,100,67,75,71]
+id: 262
+gravatar: "http://www.gravatar.com/avatar/b0453f26489344f9eda69769f6099669"
+---

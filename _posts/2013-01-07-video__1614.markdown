@@ -3,12 +3,16 @@ title: "Brad Frost | Death to Bullshit"
 date: 2013-01-07 23:35:41 00:00
 permalink: /videos/1614
 source: "http://www.youtube.com/watch?v=nE0CRMm59BY"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/nE0CRMm59BY/hqdefault.jpg"
 user:
+  id: 1282
   username: "hleeena"
   name: "Lena"
 tags: ["design","talk","brad frost"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/nE0CRMm59BY?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1614
 ---
 
 More information exists now than ever before. 72 hours of video are uploaded to YouTube every minute. 10% of all photos ever taken were taken last year. 700,000 apps in the App Store. The list goes on. We're being inundated with more information than ever, but there's still only 24 hours in a day. With more stuff out there, people are forced to focus on what truly matters to them, and their tolerance of unnecessary noise is rapidly diminishing. As creators in this day in age, we have to respect people's time and make things that are legitimately worthwhile. In this age of information overload, thoughtfulness and skill matter more than ever.

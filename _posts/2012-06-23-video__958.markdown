@@ -3,11 +3,15 @@ title: "Absolut Choir"
 date: 2012-06-23 21:36:27 00:00
 permalink: /videos/958
 source: "https://vimeo.com/24277438"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/158/902/158902727_295.jpg"
 user:
+  id: 848
   username: "captainmono"
   name: "gdo:"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/24277438\" width=\"584\" height=\"440\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 958
 ---
 

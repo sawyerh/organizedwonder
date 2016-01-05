@@ -1,0 +1,9 @@
+---
+title: "Adam Timothy"
+date: 2012-07-18 14:00:10 00:00
+permalink: /tigrinho
+twitter: ""
+likes: [1099]
+id: 1194
+gravatar: "http://www.gravatar.com/avatar/ae89bee5f2130870726f8da9c190cbf3"
+---

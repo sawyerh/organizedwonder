@@ -1,0 +1,6 @@
+---
+title: "programming"
+id: tag.id
+permalink: "/tags/programming"
+videos: [96,266,908,909,1075,1138,1160,1225,1260,1272,1273,1431,1733,2034,2403,2406]
+---

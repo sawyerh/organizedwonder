@@ -1,0 +1,6 @@
+---
+title: "rosie"
+id: tag.id
+permalink: "/tags/rosie"
+videos: [1675]
+---

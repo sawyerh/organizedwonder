@@ -1,0 +1,6 @@
+---
+title: "q-tip"
+id: tag.id
+permalink: "/tags/q-tip"
+videos: [1000]
+---

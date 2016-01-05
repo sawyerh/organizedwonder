@@ -3,12 +3,16 @@ title: "Seeing Beyond the Human Eye | Off Book | PBS"
 date: 2012-11-05 03:09:18 00:00
 permalink: /videos/1456
 source: "http://www.youtube.com/watch?feature=player_embedded&v=nWX4O7K5pyA#!"
+featured: true
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/nWX4O7K5pyA/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["technology","pbs","photography"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/nWX4O7K5pyA?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1456
 ---
 
 Technology defies the boundaries of human perception. From photomicrography to astrophotography, size and distance are no longer barriers, and through slow-mo and timelapse, we are allowed to see time and humanity in a new light. Through our curiosity and thirst for the unknown, the beauty of the universe can now be explored beyond the limits of the naked eye.

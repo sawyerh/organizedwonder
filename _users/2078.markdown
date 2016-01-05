@@ -1,0 +1,9 @@
+---
+title: "Julien Donck"
+date: 2013-10-02 07:41:57 00:00
+permalink: /juliendonck
+twitter: "JulienDonck"
+likes: [2071]
+id: 2078
+gravatar: "http://www.gravatar.com/avatar/9cdea5eb0cdb20cff02fe9e0fd346923"
+---

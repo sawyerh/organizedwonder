@@ -3,12 +3,16 @@ title: "Network"
 date: 2012-05-27 20:10:26 00:00
 permalink: /videos/655
 source: "https://vimeo.com/34750078"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/253/550/253550297_1280.jpg"
 user:
+  id: 706
   username: "fbutour"
   name: "Florian Butour"
 tags: ["motion graphics","design","data","ubiquitous","information technology"]
 html: "<iframe src=\"http://player.vimeo.com/video/34750078\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 655
 ---
 
 Information technology has become a ubiquitous presence. By visualizing the processes that underlie our interactions with this technology we can trace what happens to the information we feed into the network.

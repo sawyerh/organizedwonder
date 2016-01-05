@@ -1,0 +1,6 @@
+---
+title: "galt mcdermott"
+id: tag.id
+permalink: "/tags/galt%20mcdermott"
+videos: [1583]
+---

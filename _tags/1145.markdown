@@ -1,0 +1,6 @@
+---
+title: "comic books"
+id: tag.id
+permalink: "/tags/comic%20books"
+videos: [1253]
+---

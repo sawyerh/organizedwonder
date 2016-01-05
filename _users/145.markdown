@@ -1,0 +1,9 @@
+---
+title: "Bryan Connor"
+date: 2012-05-18 00:11:10 00:00
+permalink: /bryanconnor
+twitter: "@bryanconnor"
+likes: [66,67,107,109,58,114,26,115,16,116,117,143,137,73,134,69,6,447,435,426,427,425,473,1013,580,1086,39,111,1029,1219,1329,1435,1801,1811]
+id: 145
+gravatar: "http://www.gravatar.com/avatar/ca4f6c1d03a5243c01cccb1183e94e98"
+---

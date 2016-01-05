@@ -1,0 +1,6 @@
+---
+title: "woodkid"
+id: tag.id
+permalink: "/tags/woodkid"
+videos: [32]
+---

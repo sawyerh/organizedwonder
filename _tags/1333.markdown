@@ -1,0 +1,6 @@
+---
+title: "pale"
+id: tag.id
+permalink: "/tags/pale"
+videos: [1579]
+---

@@ -1,0 +1,6 @@
+---
+title: "sicp"
+id: tag.id
+permalink: "/tags/sicp"
+videos: [1272,1273]
+---

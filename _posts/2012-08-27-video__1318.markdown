@@ -3,11 +3,15 @@ title: "Quantum Revolution 4 of 6"
 date: 2012-08-27 22:28:51 00:00
 permalink: /videos/1318
 source: "http://www.youtube.com/watch?v=8-dHU7xs3fg&feature=relmfu"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/8-dHU7xs3fg/hqdefault.jpg"
 user:
+  id: 1315
   username: "hermann"
   name: "Hermann Keldenich"
 tags: ["quantum"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/8-dHU7xs3fg?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1318
 ---
 

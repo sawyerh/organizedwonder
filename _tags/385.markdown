@@ -1,0 +1,6 @@
+---
+title: "society"
+id: tag.id
+permalink: "/tags/society"
+videos: [351,652]
+---

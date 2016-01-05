@@ -3,12 +3,16 @@ title: "Jerry Seinfeld on How to Write a Joke"
 date: 2012-12-21 04:30:55 00:00
 permalink: /videos/1568
 source: "http://www.youtube.com/watch?v=itWxXyCfW5s"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/itWxXyCfW5s/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["comedy"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/itWxXyCfW5s?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1568
 ---
 
 The comedian describes the anatomy of his Pop-Tart joke, still a work in progress, and shows his longhand writing process.

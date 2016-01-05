@@ -1,0 +1,6 @@
+---
+title: "outlier"
+id: tag.id
+permalink: "/tags/outlier"
+videos: [1711]
+---

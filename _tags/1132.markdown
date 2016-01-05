@@ -1,0 +1,6 @@
+---
+title: "uiux"
+id: tag.id
+permalink: "/tags/uiux"
+videos: [1242,1243]
+---

@@ -1,0 +1,6 @@
+---
+title: "traveling"
+id: tag.id
+permalink: "/tags/traveling"
+videos: [270]
+---

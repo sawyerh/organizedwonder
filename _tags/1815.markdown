@@ -1,0 +1,6 @@
+---
+title: "rube goldbert"
+id: tag.id
+permalink: "/tags/rube%20goldbert"
+videos: [2192]
+---

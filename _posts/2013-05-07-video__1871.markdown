@@ -3,12 +3,16 @@ title: "Nicolas Jaar Live DJ Set - Boiler Room NYC"
 date: 2013-05-07 13:35:12 00:00
 permalink: /videos/1871
 source: "https://www.youtube.com/watch?feature=player_embedded&v=IUjWumGIqe8"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/IUjWumGIqe8/hqdefault.jpg"
 user:
+  id: 1919
   username: "alexgweiser"
   name: "Alex G Weiser"
 tags: ["music","nyc","dj","dance","culture","dj set","techno"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/IUjWumGIqe8?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1871
 ---
 
 45 minute DJ set form Nicolas Jaar.

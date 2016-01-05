@@ -1,0 +1,9 @@
+---
+title: "Francisc"
+date: 2012-07-16 20:36:21 00:00
+permalink: /francisc
+twitter: ""
+likes: [1090,1091]
+id: 1186
+gravatar: "http://www.gravatar.com/avatar/529a291a6eb6205d850ac47d2c38b24c"
+---

@@ -1,0 +1,6 @@
+---
+title: "liberty smith"
+id: tag.id
+permalink: "/tags/liberty%20smith"
+videos: [2194]
+---

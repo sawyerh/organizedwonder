@@ -1,0 +1,6 @@
+---
+title: "burj khalifa"
+id: tag.id
+permalink: "/tags/burj%20khalifa"
+videos: [1]
+---

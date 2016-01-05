@@ -1,0 +1,9 @@
+---
+title: "Daphne Jong"
+date: 2012-06-07 05:55:18 00:00
+permalink: /dafunnie
+twitter: "dafunnie"
+likes: [252,729]
+id: 884
+gravatar: "http://www.gravatar.com/avatar/3602af6829c993f811f556349812264d"
+---

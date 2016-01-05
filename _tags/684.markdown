@@ -1,0 +1,6 @@
+---
+title: "german"
+id: tag.id
+permalink: "/tags/german"
+videos: [774]
+---

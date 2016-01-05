@@ -3,12 +3,16 @@ title: "Nigel Sylvester in Japan - Gatorade Go All Day"
 date: 2012-05-15 04:55:08 00:00
 permalink: /videos/18
 source: "https://vimeo.com/16826531"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/109/617/109617491_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["bmx","nigel sylvester","japan","sports"]
 html: "<iframe src=\"http://player.vimeo.com/video/16826531\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 18
 ---
 
 "Gatorade has spent many years researching and understanding what goes on in traditional athletes bodies when they are doing their sports. Whether it be hydration levels or information about how their body reacts to the most intense moments, Gatorade and their sport scientists have a pretty good idea about what’s going on with—like I said—their traditional athletes… Action sports on the other hand, that’s a totally different story.

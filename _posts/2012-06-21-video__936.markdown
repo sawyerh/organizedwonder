@@ -3,12 +3,16 @@ title: "Super Bowl Halftime Show - Making of"
 date: 2012-06-21 17:19:11 00:00
 permalink: /videos/936
 source: "https://vimeo.com/43903792"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/304/783/304783172_640.jpg"
 user:
+  id: 1030
   username: "trinadafilipina"
   name: "Trina Dikitanan"
 tags: ["documentary","making of","projection mapping","immersive technology"]
 html: "<iframe src=\"http://player.vimeo.com/video/43903792\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 936
 ---
 
 While the Giants’ surprise victory over the Patriots made for an exciting Super Bowl XLVI at Lucas Oil Stadium in Indianapolis, Indiana, Madonna’s half-time show – a spectacle within a spectacle – also provided a thrill for U.S. television viewers, drawing an estimated 114 million faithful, edging out the record-setting 111.3 million NFL fans who tuned into the game alone, not including the nearly 70,000 attendees in the stadium itself.

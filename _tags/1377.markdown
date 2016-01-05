@@ -1,0 +1,6 @@
+---
+title: "brad frost"
+id: tag.id
+permalink: "/tags/brad%20frost"
+videos: [1614,1997]
+---

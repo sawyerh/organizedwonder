@@ -1,0 +1,6 @@
+---
+title: "words of wisom"
+id: tag.id
+permalink: "/tags/words%20of%20wisom"
+videos: [815]
+---

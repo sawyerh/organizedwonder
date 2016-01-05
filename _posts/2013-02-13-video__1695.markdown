@@ -3,12 +3,16 @@ title: "Absolut SF"
 date: 2013-02-13 02:02:01 00:00
 permalink: /videos/1695
 source: "https://vimeo.com/31953598"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/215/791/215791075_640.jpg"
 user:
+  id: 593
   username: "kimcross"
   name: "Kim Cross"
 tags: ["#sanfrancisco #bayarea"]
 html: "<iframe src=\"http://player.vimeo.com/video/31953598\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1695
 ---
 
 by Vincent Haycock

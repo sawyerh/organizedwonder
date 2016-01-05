@@ -1,0 +1,6 @@
+---
+title: "agile"
+id: tag.id
+permalink: "/tags/agile"
+videos: [1112,1399]
+---

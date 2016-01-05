@@ -1,0 +1,6 @@
+---
+title: "do lectures"
+id: tag.id
+permalink: "/tags/do%20lectures"
+videos: [2105]
+---

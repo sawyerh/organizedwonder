@@ -1,0 +1,6 @@
+---
+title: "goals"
+id: tag.id
+permalink: "/tags/goals"
+videos: [1587]
+---

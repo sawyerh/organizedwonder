@@ -3,12 +3,16 @@ title: "Steven Alan Spring 2010"
 date: 2012-05-19 12:38:15 00:00
 permalink: /videos/389
 source: "http://vimeo.com/6631659"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/257/589/25758929_295.jpg"
 user:
+  id: 276
   username: "apropos"
   name: "Barbara"
 tags: ["short film","mode"]
 html: "<iframe src=\"http://player.vimeo.com/video/6631659\" width=\"464\" height=\"256\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 389
 ---
 
 Pour le Printemps / Eté 2010, Steven Alan a choisi une manière plus inhabituelle de présenter sa collection : réalisation d'un court métrage.

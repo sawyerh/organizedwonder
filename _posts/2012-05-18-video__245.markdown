@@ -3,12 +3,16 @@ title: "keep drawing"
 date: 2012-05-18 13:58:56 00:00
 permalink: /videos/245
 source: "http://vimeo.com/31956969"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/216/143/216143908_1280.jpg"
 user:
+  id: 276
   username: "apropos"
   name: "Barbara"
 tags: ["animation","motion design"]
 html: "<iframe src=\"http://player.vimeo.com/video/31956969\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 245
 ---
 
 Une impressionnante vidéo d’animation conçue par le Studio Shelter, composée des coréens Ha Juan et Lee Sunghwan. Un film mélangeant les techniques et styles de dessins traditionnels, en stop-motion et rotoscopie sur la musique de Park Taejoon

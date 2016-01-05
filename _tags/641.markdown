@@ -1,0 +1,6 @@
+---
+title: "seth godin"
+id: tag.id
+permalink: "/tags/seth%20godin"
+videos: [715,1864,1896,1904,1959]
+---

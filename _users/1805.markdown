@@ -1,0 +1,9 @@
+---
+title: "Natália Vargová"
+date: 2013-02-20 11:45:07 00:00
+permalink: /shasha
+twitter: ""
+likes: [39,1493,25,1888,1985,1986]
+id: 1805
+gravatar: "http://www.gravatar.com/avatar/ce28d788cbfcc773c00bfed27b9931ec"
+---

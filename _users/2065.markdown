@@ -1,0 +1,9 @@
+---
+title: "Dana Manolescu"
+date: 2013-09-06 11:16:19 00:00
+permalink: /bunnysuit
+twitter: ""
+likes: [2054,2057,1743,2006]
+id: 2065
+gravatar: "http://www.gravatar.com/avatar/ad757d0322300101b4e6173acac593e8"
+---

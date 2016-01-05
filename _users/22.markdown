@@ -1,0 +1,9 @@
+---
+title: "Denny McFadden"
+date: 2012-05-15 14:17:18 00:00
+permalink: /denny
+twitter: ""
+likes: [2123]
+id: 22
+gravatar: "http://www.gravatar.com/avatar/77116d58a7a4d27b2eb31f5cecd69e37"
+---

@@ -1,0 +1,6 @@
+---
+title: "surrealism"
+id: tag.id
+permalink: "/tags/surrealism"
+videos: [1042]
+---

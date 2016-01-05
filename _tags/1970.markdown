@@ -1,0 +1,6 @@
+---
+title: "miranda july"
+id: tag.id
+permalink: "/tags/miranda%20july"
+videos: [2415]
+---

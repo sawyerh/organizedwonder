@@ -3,12 +3,16 @@ title: "SixthSense demo"
 date: 2012-08-22 14:05:06 00:00
 permalink: /videos/1292
 source: "http://www.youtube.com/watch?v=nZ-VjUKAsao"
+featured: true
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/nZ-VjUKAsao/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["technology","ted talk"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/nZ-VjUKAsao?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1292
 ---
 
 This demo -- from Pattie Maes' lab at MIT, spearheaded by Pranav Mistry -- was the buzz of TED. It's a wearable device with a projector that paves the way for profound interaction with our environment. Imagine "Minority Report" and then some.

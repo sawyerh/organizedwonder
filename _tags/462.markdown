@@ -1,0 +1,6 @@
+---
+title: "semi permanent"
+id: tag.id
+permalink: "/tags/semi%20permanent"
+videos: [475]
+---

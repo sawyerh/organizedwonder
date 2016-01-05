@@ -1,0 +1,9 @@
+---
+title: "Bogdan Soare"
+date: 2012-11-11 10:52:10 00:00
+permalink: /bogdansoare
+twitter: "bogdansoare"
+likes: [1375]
+id: 1467
+gravatar: "http://www.gravatar.com/avatar/9a240f8a64cf2b2868aa07657ba65ecb"
+---

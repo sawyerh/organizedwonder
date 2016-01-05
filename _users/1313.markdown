@@ -1,0 +1,9 @@
+---
+title: "Akseli Palén"
+date: 2012-08-26 05:04:28 00:00
+permalink: /akselipalen
+twitter: "AkseliPalen"
+likes: [26,348,374,1353,1355,948,1344,1226,542,66]
+id: 1313
+gravatar: "http://www.gravatar.com/avatar/1944ff44e2356581677a613230c3bc66"
+---

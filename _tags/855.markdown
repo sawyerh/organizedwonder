@@ -1,0 +1,6 @@
+---
+title: "human rights"
+id: tag.id
+permalink: "/tags/human%20rights"
+videos: [916,1277]
+---

@@ -1,0 +1,6 @@
+---
+title: "outer space"
+id: tag.id
+permalink: "/tags/outer%20space"
+videos: [116]
+---

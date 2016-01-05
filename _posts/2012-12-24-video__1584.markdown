@@ -3,11 +3,15 @@ title: "Chase Jarvis: New Models Of Creativity"
 date: 2012-12-24 11:12:03 00:00
 permalink: /videos/1584
 source: "http://vimeo.com/54371936#"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/375/920/375920190_640.jpg"
 user:
+  id: 475
   username: "yewfai"
   name: "yewfai"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/54371936\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1584
 ---
 

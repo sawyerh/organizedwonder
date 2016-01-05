@@ -1,0 +1,6 @@
+---
+title: "ted x"
+id: tag.id
+permalink: "/tags/ted%20x"
+videos: [701]
+---

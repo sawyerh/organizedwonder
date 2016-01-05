@@ -1,0 +1,6 @@
+---
+title: "cruelty"
+id: tag.id
+permalink: "/tags/cruelty"
+videos: [192]
+---

@@ -3,12 +3,16 @@ title: "Webstock '13: John Gruber - In praise of Pac-Man: lessons all designers 
 date: 2013-10-13 14:48:30 00:00
 permalink: /videos/2101
 source: "https://vimeo.com/64586136"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/441/641/441641727_1280.jpg"
 user:
+  id: 2084
   username: "akmur"
   name: "Alessandro Muraro"
 tags: ["design"]
 html: "<iframe src=\"http://player.vimeo.com/video/64586136\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 2101
 ---
 
 “You’ve done your best when people don’t notice what you’ve done” is an adage that applies to designers in nearly any field. Game designers have created a body of work that can serve as a model for all software designers, whether they’re creating apps, websites, or anything else.

@@ -3,11 +3,15 @@ title: "To Die By Your Side - (Mourir auprès de toi) by Spike Jonze"
 date: 2012-07-08 10:10:16 00:00
 permalink: /videos/1053
 source: "http://www.youtube.com/watch?v=R7YZtUY0Mic#"
+featured: true
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/R7YZtUY0Mic/hqdefault.jpg"
 user:
+  id: 873
   username: "yridomot"
   name: "Spyros Simotas"
 tags: ["short film","stopmotion","bookstore","shakespeare & co"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/R7YZtUY0Mic?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1053
 ---
 

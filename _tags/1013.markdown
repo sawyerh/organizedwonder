@@ -1,0 +1,6 @@
+---
+title: "cinematography"
+id: tag.id
+permalink: "/tags/cinematography"
+videos: [1067,1074,1100,1236,1968,2248,2484,2496,2497]
+---

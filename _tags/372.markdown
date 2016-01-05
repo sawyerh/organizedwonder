@@ -1,0 +1,6 @@
+---
+title: "brazil"
+id: tag.id
+permalink: "/tags/brazil"
+videos: [338,2387]
+---

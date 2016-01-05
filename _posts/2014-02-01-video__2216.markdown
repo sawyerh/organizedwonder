@@ -3,12 +3,16 @@ title: "Distraction"
 date: 2014-02-01 02:10:03 00:00
 permalink: /videos/2216
 source: "https://vimeo.com/74336049"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/461/376/461376624_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["short film","thriller"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F74336049&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F74336049&image=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F461%2F376%2F461376624_1280.jpg&key=950020ba825211e1a0764040d3dc5c07&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2216
 ---
 
 A young writer. A prostitute. An old desert motel. All stories need an ending and all endings need a beginning.

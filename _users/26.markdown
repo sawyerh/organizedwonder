@@ -1,0 +1,9 @@
+---
+title: "Jonnie Hallman"
+date: 2012-05-15 15:00:41 00:00
+permalink: /destroytoday
+twitter: "destroytoday"
+likes: [48,43,66,67,73,96,111,703,724,830,909,310,1031,1044,580,1075,1086,1094,1126,710,1198,1509,1997,2104]
+id: 26
+gravatar: "http://www.gravatar.com/avatar/6cb5bbfc4a621565604f35bdb610a9ed"
+---

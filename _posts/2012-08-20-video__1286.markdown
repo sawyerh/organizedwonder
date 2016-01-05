@@ -3,12 +3,16 @@ title: "dagdraumar"
 date: 2012-08-20 14:44:48 00:00
 permalink: /videos/1286
 source: "https://vimeo.com/32660708"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/221/164/221164394_960.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["sports","nature"]
 html: "<iframe src=\"http://player.vimeo.com/video/32660708\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1286
 ---
 
 Intense boogie boarding

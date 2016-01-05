@@ -1,0 +1,6 @@
+---
+title: "crazy"
+id: tag.id
+permalink: "/tags/crazy"
+videos: [555]
+---

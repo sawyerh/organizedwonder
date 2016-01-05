@@ -1,0 +1,6 @@
+---
+title: "artefact"
+id: tag.id
+permalink: "/tags/artefact"
+videos: [1231]
+---

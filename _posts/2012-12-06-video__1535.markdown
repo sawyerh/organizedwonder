@@ -3,12 +3,16 @@ title: "PBS Off Book: Type"
 date: 2012-12-06 04:26:44 00:00
 permalink: /videos/1535
 source: "https://vimeo.com/27205502"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/246/323/246323398_1280.jpg"
 user:
+  id: 1030
   username: "trinadafilipina"
   name: "Trina Dikitanan"
 tags: ["typography"]
 html: "<iframe src=\"http://player.vimeo.com/video/27205502\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1535
 ---
 
 Type is everywhere. Every print publication, website, movie, advertisement and public message involves the creation or selection of a fitting typeface. Online, a rich and artistic typographical culture exists, where typefaces are created and graphic design seeps in to every image.

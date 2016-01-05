@@ -1,0 +1,9 @@
+---
+title: "louis"
+date: 2012-08-10 00:06:42 00:00
+permalink: /soldat
+twitter: ""
+likes: [1216,1241,1268,1269]
+id: 1284
+gravatar: "http://www.gravatar.com/avatar/17bd8bd239621b2e2ff9ed88b73936a7"
+---

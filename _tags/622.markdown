@@ -1,0 +1,6 @@
+---
+title: "john gruber"
+id: tag.id
+permalink: "/tags/john%20gruber"
+videos: [678]
+---

@@ -1,0 +1,6 @@
+---
+title: "bookstore"
+id: tag.id
+permalink: "/tags/bookstore"
+videos: [1053,1068]
+---

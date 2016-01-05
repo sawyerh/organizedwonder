@@ -3,12 +3,16 @@ title: "Unser brillantes Gehirn - Geplantes Genie 1/2"
 date: 2012-08-28 14:49:35 00:00
 permalink: /videos/1325
 source: "http://www.youtube.com/watch?v=zYPqWi9qNig&feature=related"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/zYPqWi9qNig/hqdefault.jpg"
 user:
+  id: 1315
   username: "hermann"
   name: "Hermann Keldenich"
 tags: ["gehirn"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/zYPqWi9qNig?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1325
 ---
 
 Mustererkennung & Intuition

@@ -1,0 +1,6 @@
+---
+title: "humanize"
+id: tag.id
+permalink: "/tags/humanize"
+videos: [1044]
+---

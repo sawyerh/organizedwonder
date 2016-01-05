@@ -3,11 +3,15 @@ title: "shutuppp: A short film about Marc Mance..."
 date: 2012-05-28 01:15:52 00:00
 permalink: /videos/660
 source: "http://randomitus.tumblr.com/post/22340210433/shutuppp-a-short-film-about-marc-manceaux-the"
+featured: false
+provider: "Tumblr"
 thumbnail: "http://b.vimeocdn.com/ts/227/551/227551785_200.jpg"
 user:
+  id: 521
   username: "alexandrine"
   name: "Alexandrine Koegel"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/33517151\" width=\"400\" height=\"225\" frameborder=\"0\"></iframe>"
+id: 660
 ---
 

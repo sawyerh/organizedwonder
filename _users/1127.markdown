@@ -1,0 +1,9 @@
+---
+title: "Tautas Jazbutis"
+date: 2012-06-27 15:24:11 00:00
+permalink: /tautasjazbutis
+twitter: "tautasjazbutis"
+likes: [897]
+id: 1127
+gravatar: "http://www.gravatar.com/avatar/ebc6cd2d8689192257fb9b8e011fa96e"
+---

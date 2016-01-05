@@ -1,0 +1,6 @@
+---
+title: "harley finklestein"
+id: tag.id
+permalink: "/tags/harley%20finklestein"
+videos: [1999]
+---

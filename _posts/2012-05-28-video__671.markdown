@@ -3,12 +3,16 @@ title: "The Forty Story"
 date: 2012-05-28 19:53:25 00:00
 permalink: /videos/671
 source: "https://vimeo.com/42562659"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/295/644/295644816_1280.jpg"
 user:
+  id: 8
   username: "alonzo"
   name: "Alonzo Felix"
 tags: ["short film","design","pentagram"]
 html: "<iframe src=\"http://player.vimeo.com/video/42562659\" width=\"1280\" height=\"608\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 671
 ---
 
 Pentagram was founded on June 12, 1972, and turns 40 this year. To celebrate the occasion we’ve created a short film that tells the story of a boy born on the day Pentagram opened and how his life has been tracked (and kerned) by four decades of Pentagram design.

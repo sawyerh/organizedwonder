@@ -1,0 +1,9 @@
+---
+title: "Joel Finnström"
+date: 2012-06-02 14:08:33 00:00
+permalink: /simpelism
+twitter: "simpelism"
+likes: [709,69,70]
+id: 833
+gravatar: "http://www.gravatar.com/avatar/12aa9494fb7cc0ef6e78e47c97b32d68"
+---

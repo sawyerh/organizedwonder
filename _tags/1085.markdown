@@ -1,0 +1,6 @@
+---
+title: "airbnb"
+id: tag.id
+permalink: "/tags/airbnb"
+videos: [1155]
+---

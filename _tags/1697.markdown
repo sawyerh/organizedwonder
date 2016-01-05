@@ -1,0 +1,6 @@
+---
+title: "physics"
+id: tag.id
+permalink: "/tags/physics"
+videos: [2052]
+---

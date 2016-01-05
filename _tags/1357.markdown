@@ -1,0 +1,6 @@
+---
+title: "friend"
+id: tag.id
+permalink: "/tags/friend"
+videos: [1603]
+---

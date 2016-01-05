@@ -1,0 +1,6 @@
+---
+title: "julie sabatier"
+id: tag.id
+permalink: "/tags/julie%20sabatier"
+videos: [1494]
+---

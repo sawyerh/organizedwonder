@@ -1,0 +1,9 @@
+---
+title: "Fernando Grosjean"
+date: 2012-05-18 20:14:54 00:00
+permalink: /fgrosjean
+twitter: ""
+likes: [283,109,134,137,171]
+id: 388
+gravatar: "http://www.gravatar.com/avatar/46a06e28af9f9fb54907cbc447abf6f5"
+---

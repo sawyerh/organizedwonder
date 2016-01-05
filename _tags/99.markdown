@@ -1,0 +1,6 @@
+---
+title: "thrill"
+id: tag.id
+permalink: "/tags/thrill"
+videos: [47]
+---

@@ -1,0 +1,6 @@
+---
+title: "barcode"
+id: tag.id
+permalink: "/tags/barcode"
+videos: [1144]
+---

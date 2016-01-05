@@ -1,0 +1,9 @@
+---
+title: "Sol Ar"
+date: 2015-07-15 15:31:54 00:00
+permalink: /sauli
+twitter: ""
+likes: [2169,1271]
+id: 2410
+gravatar: "http://www.gravatar.com/avatar/fab4961b2cbcca3694fe824a65378063"
+---

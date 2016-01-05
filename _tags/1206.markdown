@@ -1,0 +1,6 @@
+---
+title: "kinetic type"
+id: tag.id
+permalink: "/tags/kinetic%20type"
+videos: [1372]
+---

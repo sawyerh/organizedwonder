@@ -1,0 +1,6 @@
+---
+title: "spoken word"
+id: tag.id
+permalink: "/tags/spoken%20word"
+videos: [2330]
+---

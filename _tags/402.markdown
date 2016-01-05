@@ -1,0 +1,6 @@
+---
+title: "dave kinsey"
+id: tag.id
+permalink: "/tags/dave%20kinsey"
+videos: [378]
+---

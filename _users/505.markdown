@@ -1,0 +1,9 @@
+---
+title: "Bruno Martins"
+date: 2012-05-20 16:08:58 00:00
+permalink: /brunus
+twitter: ""
+likes: [429,318,58,25]
+id: 505
+gravatar: "http://www.gravatar.com/avatar/24bbec9189ceeea7a23df186bffb3dda"
+---

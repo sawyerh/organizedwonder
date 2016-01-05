@@ -3,12 +3,16 @@ title: "Coachelletta: Coachella 2010 Tiltshift Timelapse"
 date: 2012-06-21 20:38:22 00:00
 permalink: /videos/939
 source: "http://vimeo.com/15596222"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/942/333/94233309_1280.jpg"
 user:
+  id: 1092
   username: "donaldguy"
   name: "Donald Guy"
 tags: ["art","timelapse","short film","music","tiltshift","people watching"]
 html: "<iframe src=\"http://player.vimeo.com/video/15596222\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 939
 ---
 
 A timelapse of the Coachella Valley Music and Arts Festival, 2010. Done in the tiltshift style to make everything appear as though it were a miniature.

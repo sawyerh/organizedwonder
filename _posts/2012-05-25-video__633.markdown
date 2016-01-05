@@ -3,11 +3,15 @@ title: "Everything is a Remix Part 3"
 date: 2012-05-25 23:42:03 00:00
 permalink: /videos/633
 source: "https://vimeo.com/25380454"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/167/366/167366230_1280.jpg"
 user:
+  id: 475
   username: "yewfai"
   name: "yewfai"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/25380454\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 633
 ---
 

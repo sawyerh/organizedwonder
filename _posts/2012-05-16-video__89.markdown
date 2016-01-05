@@ -3,12 +3,16 @@ title: "INFLUENCERS in-depth Series / STEVE STOUTE"
 date: 2012-05-16 22:12:52 00:00
 permalink: /videos/89
 source: "https://vimeo.com/18910788"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/119/530/119530135_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["muhammad ali","influencers","culture"]
 html: "<iframe src=\"http://player.vimeo.com/video/18910788\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 89
 ---
 
 INFLUENCERS In-depth Series features Steve Stoute, Founder and CEO of Translation, a brand management firm that arranges strategic partnerships between Pop Culture icons (Jay-Z, Gwen Stefani, Lebron James, Justin Timberlake, etc.) and Fortune 500 companies.

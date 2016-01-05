@@ -1,0 +1,9 @@
+---
+title: "Narayana Madhurapantula"
+date: 2014-01-11 16:17:27 00:00
+permalink: /narayana
+twitter: ""
+likes: [2036,2076]
+id: 2122
+gravatar: "http://www.gravatar.com/avatar/758d008a32c1b4c3dcada8620e74250d"
+---

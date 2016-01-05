@@ -1,0 +1,9 @@
+---
+title: "mnmly"
+date: 2012-05-16 06:25:47 00:00
+permalink: /mnmly
+twitter: "mnmly"
+likes: [39,70,25,26]
+id: 53
+gravatar: "http://www.gravatar.com/avatar/56859b5bf64f2069365c96831fea9dac"
+---

@@ -3,11 +3,15 @@ title: "A small cup of wonder"
 date: 2012-07-11 00:25:17 00:00
 permalink: /videos/1062
 source: "http://vimeo.com/28474058"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/189/948/189948142_640.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["coffee","goliath sportswear"]
 html: "<iframe src=\"http://player.vimeo.com/video/28474058\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1062
 ---
 

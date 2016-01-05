@@ -1,0 +1,6 @@
+---
+title: "auto industry"
+id: tag.id
+permalink: "/tags/auto%20industry"
+videos: [2511]
+---

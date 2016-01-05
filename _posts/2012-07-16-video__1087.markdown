@@ -3,11 +3,15 @@ title: "Animography Opening"
 date: 2012-07-16 16:06:41 00:00
 permalink: /videos/1087
 source: "https://vimeo.com/45126942"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/314/115/314115292_1280.jpg"
 user:
+  id: 85
   username: "jdblundell"
   name: "Jonathan Blundell"
 tags: ["typography animated text"]
 html: "<iframe src=\"http://player.vimeo.com/video/45126942\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1087
 ---
 

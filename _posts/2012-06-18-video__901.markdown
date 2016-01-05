@@ -3,11 +3,15 @@ title: "On the Verge: Geoff Manaugh and Jer Thorp"
 date: 2012-06-18 04:36:36 00:00
 permalink: /videos/901
 source: "https://vimeo.com/40887258"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/282/829/282829696_960.jpg"
 user:
+  id: 1030
   username: "trinadafilipina"
   name: "Trina Dikitanan"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/40887258\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 901
 ---
 

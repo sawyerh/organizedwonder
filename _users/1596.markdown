@@ -1,0 +1,9 @@
+---
+title: "Kraig Walker"
+date: 2012-11-21 00:29:23 00:00
+permalink: /kraig_walker
+twitter: "Kraig_Walker"
+likes: [1495,1486,1479,1467,1405,1380]
+id: 1596
+gravatar: "http://www.gravatar.com/avatar/afb51ff0b4fbd4b2baf61d0fea95bfa7"
+---

@@ -1,0 +1,6 @@
+---
+title: "diseño"
+id: tag.id
+permalink: "/tags/dise%C3%B1o"
+videos: [1689]
+---

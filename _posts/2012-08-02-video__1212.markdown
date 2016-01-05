@@ -3,11 +3,15 @@ title: "Sound Shapes Level Editor Feature"
 date: 2012-08-02 03:57:40 00:00
 permalink: /videos/1212
 source: "http://www.youtube.com/watch?v=Tdm2n_w9BzI"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/Tdm2n_w9BzI/hqdefault.jpg"
 user:
+  id: 1133
   username: "cleerview"
   name: "Chris Lee"
 tags: ["game","audio"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/Tdm2n_w9BzI?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1212
 ---
 

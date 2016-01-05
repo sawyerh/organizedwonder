@@ -1,0 +1,9 @@
+---
+title: "Nate Navasca"
+date: 2012-05-22 14:29:25 00:00
+permalink: /natenavasca
+twitter: "natenavasca"
+likes: [48,69,111,735,895,899,946,932,1108,1388,387,1311,1508,1495,1521,1426,1545,1680]
+id: 608
+gravatar: "http://www.gravatar.com/avatar/e10d91dbd993be0eb6587dc6ae0fe690"
+---

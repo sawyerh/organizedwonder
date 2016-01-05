@@ -1,0 +1,9 @@
+---
+title: "Brian Lin"
+date: 2013-12-30 06:12:58 00:00
+permalink: /brianisme
+twitter: "brianisme"
+likes: [2100,1997,1672,786,1112,1023,2441,834,2548]
+id: 2115
+gravatar: "http://www.gravatar.com/avatar/7c0c9059b9421e550875febc269860a1"
+---

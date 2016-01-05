@@ -1,0 +1,9 @@
+---
+title: "Brennan Foo"
+date: 2013-07-05 17:09:39 00:00
+permalink: /bfoo
+twitter: ""
+likes: [1896,1987,1998,111,2007]
+id: 2039
+gravatar: "http://www.gravatar.com/avatar/8a4f2db1d6c88a8b81d61afd32480875"
+---

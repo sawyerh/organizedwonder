@@ -3,12 +3,16 @@ title: "...A Legend, Mr. Wayne."
 date: 2013-01-22 17:42:21 00:00
 permalink: /videos/1643
 source: "https://www.youtube.com/watch?v=-pBEBNN9w8c&feature=player_detailpage"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/-pBEBNN9w8c/hqdefault.jpg"
 user:
+  id: 1692
   username: "hoodwink73"
   name: "Arijit Bhattacharya"
 tags: ["batman"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/-pBEBNN9w8c?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1643
 ---
 
 "If you make yourself more than just a man, if you devote yourself to an ideal, and if they can't stop you, then you become something else entirely..."

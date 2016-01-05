@@ -1,0 +1,6 @@
+---
+title: "photo"
+id: tag.id
+permalink: "/tags/photo"
+videos: [1578]
+---

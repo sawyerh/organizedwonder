@@ -3,11 +3,15 @@ title: "We the Tiny House People"
 date: 2012-05-27 10:23:39 00:00
 permalink: /videos/652
 source: "http://www.youtube.com/watch?feature=player_embedded&v=lDcVrVA4bSQ#!"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/lDcVrVA4bSQ/hqdefault.jpg"
 user:
+  id: 644
   username: "t99p"
   name: "j"
 tags: ["architecture","society","houses","lifestyle"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/lDcVrVA4bSQ?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 652
 ---
 

@@ -1,0 +1,9 @@
+---
+title: "jp"
+date: 2012-05-23 18:54:03 00:00
+permalink: /joshpremuda
+twitter: ""
+likes: [515]
+id: 654
+gravatar: "http://www.gravatar.com/avatar/f85520bd87c272e20350d45d72aab348"
+---

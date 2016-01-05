@@ -1,0 +1,9 @@
+---
+title: "KP"
+date: 2013-03-30 12:14:50 00:00
+permalink: /piecexpeace
+twitter: ""
+likes: [1728]
+id: 1882
+gravatar: "http://www.gravatar.com/avatar/4498fe3d3a5e23cb494287ab1bf5aa59"
+---

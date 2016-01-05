@@ -3,12 +3,16 @@ title: "What if money was no object?"
 date: 2013-03-01 02:12:45 00:00
 permalink: /videos/1719
 source: "https://vimeo.com/59902277"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/416/549/416549037_1280.jpg"
 user:
+  id: 1692
   username: "hoodwink73"
   name: "Arijit Bhattacharya"
 tags: ["life","ideal"]
 html: "<iframe src=\"http://player.vimeo.com/video/59902277\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1719
 ---
 
 Spend your life the way you want to..

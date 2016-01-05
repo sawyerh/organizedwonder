@@ -1,0 +1,6 @@
+---
+title: "award"
+id: tag.id
+permalink: "/tags/award"
+videos: [1979]
+---

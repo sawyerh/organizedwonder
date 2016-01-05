@@ -1,0 +1,9 @@
+---
+title: "Dee Mo"
+date: 2012-11-10 12:41:22 00:00
+permalink: /deemo
+twitter: ""
+likes: [1583]
+id: 1442
+gravatar: "http://www.gravatar.com/avatar/f031935f110df9f42f5b5c4924f696b5"
+---

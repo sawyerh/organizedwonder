@@ -1,0 +1,9 @@
+---
+title: "Marko Manojlovic"
+date: 2012-06-12 21:56:10 00:00
+permalink: /manmar
+twitter: ""
+likes: [584,841,844,16,73]
+id: 959
+gravatar: "http://www.gravatar.com/avatar/e0f224445a2b3903dfa4cbe07930aae9"
+---

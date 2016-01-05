@@ -1,0 +1,6 @@
+---
+title: "copyright"
+id: tag.id
+permalink: "/tags/copyright"
+videos: [1244]
+---

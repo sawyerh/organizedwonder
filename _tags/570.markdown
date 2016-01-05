@@ -1,0 +1,6 @@
+---
+title: "ingrid michaelson"
+id: tag.id
+permalink: "/tags/ingrid%20michaelson"
+videos: [612]
+---

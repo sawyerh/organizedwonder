@@ -1,0 +1,6 @@
+---
+title: "chef"
+id: tag.id
+permalink: "/tags/chef"
+videos: [1580]
+---

@@ -1,0 +1,6 @@
+---
+title: "fisheries"
+id: tag.id
+permalink: "/tags/fisheries"
+videos: [805]
+---

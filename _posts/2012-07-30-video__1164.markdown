@@ -3,12 +3,16 @@ title: "Gary Kovacs: Tracking the trackers"
 date: 2012-07-30 21:56:32 00:00
 permalink: /videos/1164
 source: "http://www.youtube.com/watch?v=f_f5wNw-2c0"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/f_f5wNw-2c0/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["ted talk","privacy","mozilla"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/f_f5wNw-2c0?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1164
 ---
 
 As you surf the Web, information is being collected about you. Web tracking is not 100% evil -- personal data can make your browsing more efficient; cookies can help your favorite websites stay in business. But, says Gary Kovacs, it's your right to know what data is being collected about you and how it affects your online life. He unveils a Firefox add-on to do just that.

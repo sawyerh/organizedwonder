@@ -1,0 +1,6 @@
+---
+title: "world's faire"
+id: tag.id
+permalink: "/tags/world's%20faire"
+videos: [1586]
+---

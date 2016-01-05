@@ -3,11 +3,15 @@ title: "Growing a Language, by Guy Steele"
 date: 2012-06-18 21:03:29 00:00
 permalink: /videos/909
 source: "http://video.google.com/videoplay?docid=-8860158196198824415"
+featured: false
+provider: "Google Video"
 thumbnail: ""
 user:
+  id: 1065
   username: "sjl"
   name: "Steve Losh"
 tags: ["programming"]
 html: "<embed id=\"VideoPlayback\" src=\"http://video.google.com/googleplayer.swf?docid=-8860158196198824415&amp;hl=en&amp;fs=true\" width=\"400px\" height=\"326px\" allowfullscreen=\"true\" allowscriptaccess=\"always\" type=\"application/x-shockwave-flash\" wmode=\"transparent\"></embed>"
+id: 909
 ---
 

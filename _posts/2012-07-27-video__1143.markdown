@@ -3,12 +3,16 @@ title: "The Epic & The Beasts"
 date: 2012-07-27 09:30:25 00:00
 permalink: /videos/1143
 source: "http://vimeo.com/45778774"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/318/502/318502540_1280.jpg"
 user:
+  id: 643
   username: "zit_dantes"
   name: "Zit Dantes"
 tags: ["music video","skateboarding","skateboard"]
 html: "<iframe src=\"http://player.vimeo.com/video/45778774\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1143
 ---
 
 When we were kids we never dreamt of being a firemen, a pilot or superhero. We always wanted to be skateboarders, jumping up curbs, down the stairs and filp our boards as many times as we could. This has not changed until today.

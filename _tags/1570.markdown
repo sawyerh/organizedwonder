@@ -1,0 +1,6 @@
+---
+title: "ireland"
+id: tag.id
+permalink: "/tags/ireland"
+videos: [1793]
+---

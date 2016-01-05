@@ -1,0 +1,6 @@
+---
+title: "gin"
+id: tag.id
+permalink: "/tags/gin"
+videos: [209]
+---

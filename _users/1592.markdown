@@ -1,0 +1,9 @@
+---
+title: "chandru"
+date: 2012-11-20 12:26:32 00:00
+permalink: /chandru02010
+twitter: ""
+likes: [1493,1393,876,1400,708,1112,1613,66]
+id: 1592
+gravatar: "http://www.gravatar.com/avatar/f7ed9971656cd5e0d137118dfcff9fad"
+---

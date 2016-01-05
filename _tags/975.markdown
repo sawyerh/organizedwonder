@@ -1,0 +1,6 @@
+---
+title: "oxmo puccino"
+id: tag.id
+permalink: "/tags/oxmo%20puccino"
+videos: [1026]
+---

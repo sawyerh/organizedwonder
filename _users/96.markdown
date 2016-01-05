@@ -1,0 +1,9 @@
+---
+title: "Filipe Oliveira"
+date: 2012-05-17 20:15:42 00:00
+permalink: /filipeoliveiraa
+twitter: ""
+likes: [105,107,106,44]
+id: 96
+gravatar: "http://www.gravatar.com/avatar/896483ac8f0d37b6a49194623affaedd"
+---

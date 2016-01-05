@@ -1,0 +1,9 @@
+---
+title: "Tristan Legros"
+date: 2012-06-12 15:20:01 00:00
+permalink: /tristanlegros
+twitter: "tristanlegros"
+likes: [248,778]
+id: 936
+gravatar: "http://www.gravatar.com/avatar/df1cd7b37bf93d89883ebd63456334af"
+---

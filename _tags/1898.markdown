@@ -1,0 +1,6 @@
+---
+title: "wellness"
+id: tag.id
+permalink: "/tags/wellness"
+videos: [2279]
+---

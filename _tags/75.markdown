@@ -1,0 +1,6 @@
+---
+title: "cinemagraph"
+id: tag.id
+permalink: "/tags/cinemagraph"
+videos: [34,188]
+---

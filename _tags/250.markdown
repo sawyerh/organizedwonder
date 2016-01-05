@@ -1,0 +1,6 @@
+---
+title: "visual narrative"
+id: tag.id
+permalink: "/tags/visual%20narrative"
+videos: [168,169]
+---

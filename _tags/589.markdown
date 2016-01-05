@@ -1,0 +1,6 @@
+---
+title: "birth of a word"
+id: tag.id
+permalink: "/tags/birth%20of%20a%20word"
+videos: [635]
+---

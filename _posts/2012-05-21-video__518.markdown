@@ -3,12 +3,16 @@ title: "Steve Jobs' 2005 Stanford Commencement Address (with intro by President 
 date: 2012-05-21 13:39:42 00:00
 permalink: /videos/518
 source: "http://www.youtube.com/watch?v=Hd_ptbiPoXM&feature=player_embedded"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/Hd_ptbiPoXM/hqdefault.jpg"
 user:
+  id: 475
   username: "yewfai"
   name: "yewfai"
 tags: ["speech"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/Hd_ptbiPoXM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 518
 ---
 
 Drawing from some of the most pivotal points in his life, Steve Jobs, chief executive officer and co-founder of Apple Computer and of Pixar Animation Studios, urged graduates to pursue their dreams and see the opportunities in life's setbacks-- including death itself-- at Stanford University's 114th Commencement on Sunday in Stanford Stadium.

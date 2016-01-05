@@ -1,0 +1,9 @@
+---
+title: "mubashir"
+date: 2013-03-29 18:11:20 00:00
+permalink: /mubashir
+twitter: "mbshrbwj"
+likes: [66,1769]
+id: 1867
+gravatar: "http://www.gravatar.com/avatar/fb33bcc6c311ebd500852f944989774e"
+---

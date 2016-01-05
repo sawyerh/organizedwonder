@@ -3,11 +3,15 @@ title: "Lyle Beniga ft. S**t Kingz: “Big Pimpin” by Jay-Z"
 date: 2013-04-27 04:56:27 00:00
 permalink: /videos/1856
 source: "http://www.youtube.com/watch?v=guP-l6ld4ok"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/guP-l6ld4ok/hqdefault.jpg"
 user:
+  id: 1942
   username: "psyoko"
   name: "Yoko Sakao Ohama"
 tags: ["dance","choreography","classroom"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/guP-l6ld4ok?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1856
 ---
 

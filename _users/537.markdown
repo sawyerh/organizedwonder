@@ -1,0 +1,9 @@
+---
+title: "Bassem Reda"
+date: 2012-05-21 09:40:34 00:00
+permalink: /bassemreda
+twitter: ""
+likes: [481]
+id: 537
+gravatar: "http://www.gravatar.com/avatar/a77e17e0cb444aa6150b9157c693d7cf"
+---

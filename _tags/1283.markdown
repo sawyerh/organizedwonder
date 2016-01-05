@@ -1,0 +1,6 @@
+---
+title: "progressive enhancement"
+id: tag.id
+permalink: "/tags/progressive%20enhancement"
+videos: [1525]
+---

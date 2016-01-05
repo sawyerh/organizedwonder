@@ -3,12 +3,16 @@ title: "Caine's Arcade"
 date: 2012-08-23 16:07:07 00:00
 permalink: /videos/1302
 source: "http://vimeo.com/40000072"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/276/234/276234275_960.jpg"
 user:
+  id: 821
   username: "luismruiz"
   name: "Luis M Ruiz"
 tags: ["caine's arcade"]
 html: "<iframe src=\"http://player.vimeo.com/video/40000072\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1302
 ---
 
 9 year old Caine spent his summer building an elaborate cardboard arcade inside his dad's used auto part store. He is about to have the best day of his life.

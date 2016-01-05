@@ -1,0 +1,6 @@
+---
+title: "vintage"
+id: tag.id
+permalink: "/tags/vintage"
+videos: [1218,2507]
+---

@@ -1,0 +1,6 @@
+---
+title: "prosthetics"
+id: tag.id
+permalink: "/tags/prosthetics"
+videos: [2463]
+---

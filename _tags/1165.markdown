@@ -1,0 +1,6 @@
+---
+title: "soccer"
+id: tag.id
+permalink: "/tags/soccer"
+videos: [1279]
+---

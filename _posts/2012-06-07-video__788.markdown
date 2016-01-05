@@ -3,12 +3,16 @@ title: "Upside Down, Left To Right: A Letterpress Film"
 date: 2012-06-07 09:14:32 00:00
 permalink: /videos/788
 source: "https://vimeo.com/35688592"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/244/213/244213259_960.jpg"
 user:
+  id: 251
   username: "lewis"
   name: "LEWIS"
 tags: ["type","letterpress"]
 html: "<iframe src=\"http://player.vimeo.com/video/35688592\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 788
 ---
 
 A short film about letterpress and one of the few remaining movable-type printing workshops in the UK, situated at Plymouth University, featuring Paul Collier. plymouth.ac.uk

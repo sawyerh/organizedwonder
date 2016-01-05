@@ -3,12 +3,16 @@ title: "Made by Hand / No 3 The Beekeeper"
 date: 2012-05-19 15:08:34 00:00
 permalink: /videos/423
 source: "http://vimeo.com/37257936"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/256/849/256849127_1280.jpg"
 user:
+  id: 449
   username: "happyhealthybalance"
   name: "happyhealthybalance"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/37257936\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 423
 ---
 
 Made by Hand is a new short film series celebrating the people who make things by hand—sustainably, locally, and with a love for their craft.

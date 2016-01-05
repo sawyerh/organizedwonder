@@ -1,0 +1,9 @@
+---
+title: "Eric Wu"
+date: 2012-05-18 02:22:11 00:00
+permalink: /a0315819a
+twitter: "ericwkw"
+likes: [388,1278]
+id: 165
+gravatar: "http://www.gravatar.com/avatar/1be00f91543fb375846a9c7ec70539c5"
+---

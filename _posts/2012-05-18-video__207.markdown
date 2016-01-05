@@ -3,12 +3,16 @@ title: "Neomorphus"
 date: 2012-05-18 12:52:50 00:00
 permalink: /videos/207
 source: "http://vimeo.com/22420328"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/145/484/145484360_1280.jpg"
 user:
+  id: 276
   username: "apropos"
   name: "Barbara"
 tags: ["short film","animation","imagination","motion design","morbid"]
 html: "<iframe src=\"http://player.vimeo.com/video/22420328\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 207
 ---
 
 Court métrage Neomorphus, qui nous vient du Brésil, est le nouveau délire animé signé Animatorio. Derrière ce pseudo, on trouve un certain Joaquim Floriano, réalisateur basé à Sao Paulo qui travaille notamment en stop motion.

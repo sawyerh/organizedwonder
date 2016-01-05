@@ -1,0 +1,6 @@
+---
+title: "memory"
+id: tag.id
+permalink: "/tags/memory"
+videos: [626,1554]
+---

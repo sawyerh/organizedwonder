@@ -1,0 +1,9 @@
+---
+title: "Ross McLachlan"
+date: 2012-05-31 12:37:02 00:00
+permalink: /rossmclachlan
+twitter: "rossdmclachlan"
+likes: [703,528,344,716,542,2,171,680,743,1230,876,1450,1446,1443,1344,1375]
+id: 809
+gravatar: "http://www.gravatar.com/avatar/cd01cdb7bd022b8d085bd4418fbc0f72"
+---

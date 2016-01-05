@@ -1,0 +1,9 @@
+---
+title: "aleli"
+date: 2012-07-25 05:30:03 00:00
+permalink: /aleli
+twitter: ""
+likes: [258,252,651,715,20,429,254,710]
+id: 1256
+gravatar: "http://www.gravatar.com/avatar/16a6fbf29eca6994ea38afa67555a0ab"
+---

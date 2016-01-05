@@ -1,0 +1,9 @@
+---
+title: "Lavi Avigdor"
+date: 2013-10-09 11:14:17 00:00
+permalink: /laviavigdor
+twitter: "laviavigdor"
+likes: [2095,2097,862,305,2055,1514,2106,2099]
+id: 2081
+gravatar: "http://www.gravatar.com/avatar/098b3bca3daea23b7b1e17a2ff6ad233"
+---

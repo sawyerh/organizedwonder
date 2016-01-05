@@ -1,0 +1,6 @@
+---
+title: "real estate"
+id: tag.id
+permalink: "/tags/real%20estate"
+videos: [2461]
+---

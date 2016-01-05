@@ -1,0 +1,9 @@
+---
+title: "Julian Battye"
+date: 2014-01-17 11:37:54 00:00
+permalink: /cutrose
+twitter: "cutrose"
+likes: [2100]
+id: 2213
+gravatar: "http://www.gravatar.com/avatar/bf836100f1ac549aef9001d6b810619e"
+---

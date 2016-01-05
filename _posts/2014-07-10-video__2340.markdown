@@ -3,12 +3,16 @@ title: "Anna Bond | Nearly Impossible 2013"
 date: 2014-07-10 18:55:53 00:00
 permalink: /videos/2340
 source: "https://vimeo.com/100278182"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://i.vimeocdn.com/video/481815526_1280.jpg"
 user:
+  id: 397
   username: "ram"
   name: "Rusty Meadows"
 tags: ["entrepreneur","brooklyn","creative","nearly impossible"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F100278182&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F100278182&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F481815526_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2340
 ---
 
 Anna Bond speaks in Brooklyn at the Nearly Impossible Conference.

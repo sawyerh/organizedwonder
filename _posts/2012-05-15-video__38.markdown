@@ -3,12 +3,16 @@ title: "David A Smith - Sign Artist"
 date: 2012-05-15 05:31:00 00:00
 permalink: /videos/38
 source: "https://vimeo.com/14985356"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/895/028/89502854_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["painting","documentary","craft"]
 html: "<iframe src=\"http://player.vimeo.com/video/14985356\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 38
 ---
 
 "David A Smith is a name that has become synonymous in Sign-Writing and Glass gilding circles, with high quality, hand crafted reverse glass signs and decorative silvered and gilded mirrors.

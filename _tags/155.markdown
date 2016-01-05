@@ -1,0 +1,6 @@
+---
+title: "collaborative consumption"
+id: tag.id
+permalink: "/tags/collaborative%20consumption"
+videos: [79]
+---

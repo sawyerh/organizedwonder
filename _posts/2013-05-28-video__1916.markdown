@@ -3,11 +3,15 @@ title: "Web 2.0 Expo SF 2011: Rebekah Cox"
 date: 2013-05-28 17:06:17 00:00
 permalink: /videos/1916
 source: "http://www.youtube.com/watch?v=rWaoNNAuhBI&feature=youtu.be"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/rWaoNNAuhBI/hqdefault.jpg"
 user:
+  id: 1729
   username: "msteinruck"
   name: "Mark Steinruck"
 tags: []
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/rWaoNNAuhBI?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1916
 ---
 

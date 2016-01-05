@@ -1,0 +1,9 @@
+---
+title: "Naved Ahmed"
+date: 2012-05-15 10:36:00 00:00
+permalink: /sufined
+twitter: ""
+likes: [580,670,263,66,134]
+id: 16
+gravatar: "http://www.gravatar.com/avatar/eeb1d33a4685eb8c9ff8e6686e02d440"
+---

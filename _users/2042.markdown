@@ -1,0 +1,9 @@
+---
+title: "megaghz"
+date: 2013-07-15 01:42:42 00:00
+permalink: /megaghz
+twitter: ""
+likes: [1378,1336]
+id: 2042
+gravatar: "http://www.gravatar.com/avatar/7e82ba2bad01e159dfac374f427f4f69"
+---

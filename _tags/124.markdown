@@ -1,0 +1,6 @@
+---
+title: "canon 5d"
+id: tag.id
+permalink: "/tags/canon%205d"
+videos: [60]
+---

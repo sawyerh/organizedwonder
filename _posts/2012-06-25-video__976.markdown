@@ -3,12 +3,16 @@ title: "iLTHY at WMC Fest 2011"
 date: 2012-06-25 21:59:58 00:00
 permalink: /videos/976
 source: "https://vimeo.com/album/1621125/video/25194548"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/165/723/165723040_640.jpg"
 user:
+  id: 1046
   username: "jfinley"
   name: "Jeff Finley"
 tags: ["short film","wmc fest","cleveland"]
 html: "<iframe src=\"http://player.vimeo.com/video/25194548\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 976
 ---
 
 Short film of the Weapons of Mass Creation Fest held by Go Media.

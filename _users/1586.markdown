@@ -1,0 +1,9 @@
+---
+title: "Javier Lopez"
+date: 2012-11-19 22:39:51 00:00
+permalink: /javierlopez288
+twitter: "mimosin8"
+likes: [1481,129,606,69]
+id: 1586
+gravatar: "http://www.gravatar.com/avatar/0c693a6c86056118b112b97696728016"
+---

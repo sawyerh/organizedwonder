@@ -1,0 +1,6 @@
+---
+title: "camera"
+id: tag.id
+permalink: "/tags/camera"
+videos: [167,2376]
+---

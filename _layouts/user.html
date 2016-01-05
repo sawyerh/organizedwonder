@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="sidebar">
+  <div class="widget info">
+    <div class="avatar">
+      <img src="{{ page.gravatar }}?s=220" alt="{{ page.title }}">
+    </div>
+    {% if page.twitter %}
+      <div class="buttons no-secondary">
+        <a href="http://twitter.com/{{ page.twitter }}" class="save">
+          @{{ page.twitter }}
+        </a>
+      </div>
+    {% endif %}
+  </div>
+</div>
+
+<div class="page">
+  <section class="archive">
+    <header>
+      <h1 class="no-border big-title">
+        {{ page.title }}'s
+        <span class="light">saves</span>
+      </h1>
+    </header>
+  </section>
+
+  <ul class="videos-list">
+    {% for video_id in page.likes %}
+      {% assign video = site.posts | where: "id", video_id %}
+      {% if video.first %}
+        <li>
+          <a href="{{ video.first.permalink }}">{{ video.first.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  {% include footer.html %}
+</div>

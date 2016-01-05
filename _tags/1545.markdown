@@ -1,0 +1,6 @@
+---
+title: "spanish"
+id: tag.id
+permalink: "/tags/spanish"
+videos: [1748]
+---

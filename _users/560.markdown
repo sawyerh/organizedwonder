@@ -1,0 +1,9 @@
+---
+title: "Roby Fitzhenry"
+date: 2012-05-21 17:45:26 00:00
+permalink: /robyfitzhenry
+twitter: "robyfitzhenry"
+likes: [69,67,33]
+id: 560
+gravatar: "http://www.gravatar.com/avatar/26157a680333dbc1c32490fe971c2ec1"
+---

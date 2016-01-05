@@ -1,0 +1,6 @@
+---
+title: "ink"
+id: tag.id
+permalink: "/tags/ink"
+videos: [1721]
+---

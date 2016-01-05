@@ -1,0 +1,6 @@
+---
+title: "woodshop"
+id: tag.id
+permalink: "/tags/woodshop"
+videos: [987]
+---

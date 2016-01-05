@@ -1,0 +1,6 @@
+---
+title: "soulution"
+id: tag.id
+permalink: "/tags/soulution"
+videos: [2020]
+---

@@ -1,0 +1,9 @@
+---
+title: "Christine Clayton"
+date: 2012-05-18 18:34:12 00:00
+permalink: /christineclayton
+twitter: ""
+likes: [272]
+id: 374
+gravatar: "http://www.gravatar.com/avatar/bd4641b181c97194ade986e2b947839a"
+---

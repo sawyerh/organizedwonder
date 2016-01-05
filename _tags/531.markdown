@@ -1,0 +1,6 @@
+---
+title: "alaska"
+id: tag.id
+permalink: "/tags/alaska"
+videos: [563]
+---

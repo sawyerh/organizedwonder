@@ -1,0 +1,9 @@
+---
+title: "Nicolas Raspail"
+date: 2012-06-22 19:01:30 00:00
+permalink: /nrdm
+twitter: ""
+likes: [947,237,945,25,629,73,252,855,2096]
+id: 1095
+gravatar: "http://www.gravatar.com/avatar/5637138f67c7bb406b39843a466aeffd"
+---

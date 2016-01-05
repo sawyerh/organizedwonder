@@ -3,12 +3,16 @@ title: "Nurturing creativity"
 date: 2012-05-18 14:33:36 00:00
 permalink: /videos/254
 source: "http://www.youtube.com/watch?v=86x-u-tz0MA"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/86x-u-tz0MA/hqdefault.jpg"
 user:
+  id: 326
   username: "telmabaptista"
   name: "Telma Patrícia Ruivo Baptista"
 tags: ["creativity","talk"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/86x-u-tz0MA?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 254
 ---
 
 "somehow we’ve completely internalized and accepted collectively this notion that creativity and suffering are somehow inherently linked and that artistry, in the end, will always ultimately lead to anguish.”

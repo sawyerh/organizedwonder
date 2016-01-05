@@ -1,0 +1,9 @@
+---
+title: "Iván Castrillón"
+date: 2012-05-29 08:24:05 00:00
+permalink: /taita
+twitter: ""
+likes: [1619,1620,1625,1626,1627,1628,1629,1630,1632,1638,1662,1689]
+id: 744
+gravatar: "http://www.gravatar.com/avatar/1c983cc2e987ca57b95a6639f6476aac"
+---

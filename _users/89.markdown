@@ -1,0 +1,9 @@
+---
+title: "Jon Davis"
+date: 2012-05-17 01:31:43 00:00
+permalink: /jdavis23
+twitter: "jdavis23"
+likes: [84]
+id: 89
+gravatar: "http://www.gravatar.com/avatar/6044b3da1f5ea9ac4c7be11a8c35700a"
+---

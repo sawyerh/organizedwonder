@@ -1,0 +1,9 @@
+---
+title: "Rich Lim"
+date: 2012-06-14 15:40:19 00:00
+permalink: /richlim
+twitter: "rchlm"
+likes: [555,515]
+id: 1023
+gravatar: "http://www.gravatar.com/avatar/8877e6cd65c79ff4ffe1f420da82ce3f"
+---

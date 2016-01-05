@@ -1,0 +1,6 @@
+---
+title: "ten commandments"
+id: tag.id
+permalink: "/tags/ten%20commandments"
+videos: [173]
+---

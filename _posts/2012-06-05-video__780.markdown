@@ -3,11 +3,15 @@ title: "Larry Smith - Why you will fail to have a great career"
 date: 2012-06-05 21:52:53 00:00
 permalink: /videos/780
 source: "http://www.youtube.com/watch?v=iKHTawgyKWQ&feature=player_embedded"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/iKHTawgyKWQ/hqdefault.jpg"
 user:
+  id: 696
   username: "lamadri"
   name: "mtdelatorre"
 tags: ["ted talk"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/iKHTawgyKWQ?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 780
 ---
 

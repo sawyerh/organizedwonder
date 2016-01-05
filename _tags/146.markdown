@@ -1,0 +1,6 @@
+---
+title: "self"
+id: tag.id
+permalink: "/tags/self"
+videos: [72,521,524,1578]
+---

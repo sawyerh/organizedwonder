@@ -1,0 +1,6 @@
+---
+title: "zoetrope"
+id: tag.id
+permalink: "/tags/zoetrope"
+videos: [1490]
+---

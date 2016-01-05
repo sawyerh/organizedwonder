@@ -3,11 +3,15 @@ title: "Light Painting | Off Book | PBS"
 date: 2012-06-18 04:27:30 00:00
 permalink: /videos/900
 source: "http://www.youtube.com/watch?v=J-ow6VXYr50&list=PLC3D565688483CCB5&index=2&feature=plcp"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/J-ow6VXYr50/hqdefault.jpg"
 user:
+  id: 1030
   username: "trinadafilipina"
   name: "Trina Dikitanan"
 tags: ["art","photography","light painting"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?index=21&wmode=transparent&list=PLC3D565688483CCB5\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 900
 ---
 

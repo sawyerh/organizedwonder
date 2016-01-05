@@ -3,12 +3,16 @@ title: "SIGN PAINTERS (OFFICIAL TRAILER)"
 date: 2013-03-11 23:26:04 00:00
 permalink: /videos/1735
 source: "http://vimeo.com/61006621"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/423/723/423723585_1280.jpg"
 user:
+  id: 1282
   username: "hleeena"
   name: "Lena"
 tags: ["documentary","typography","type design"]
 html: "<iframe src=\"http://player.vimeo.com/video/61006621\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1735
 ---
 
 This the official trailer for SIGN PAINTERS a documentary by Faythe Levine & Sam Macon. For information regarding screenings, and other news please visit signpaintermovie.com

@@ -1,0 +1,9 @@
+---
+title: "Nanda Kreuning"
+date: 2013-10-15 12:59:51 00:00
+permalink: /innersense
+twitter: ""
+likes: [1192]
+id: 2087
+gravatar: "http://www.gravatar.com/avatar/1c0f710fc4f09e4e3dd6ac7872773158"
+---

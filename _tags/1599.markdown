@@ -1,0 +1,6 @@
+---
+title: "woodworking"
+id: tag.id
+permalink: "/tags/woodworking"
+videos: [1875]
+---

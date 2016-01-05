@@ -1,0 +1,6 @@
+---
+title: "bbc"
+id: tag.id
+permalink: "/tags/bbc"
+videos: [858,2057]
+---

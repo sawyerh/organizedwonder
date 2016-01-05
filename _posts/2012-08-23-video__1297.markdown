@@ -3,12 +3,16 @@ title: "Design Mind Salon - Bill Buxton - Microsoft Research"
 date: 2012-08-23 15:53:49 00:00
 permalink: /videos/1297
 source: "http://vimeo.com/16651596"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/102/286/102286044_640.jpg"
 user:
+  id: 821
   username: "luismruiz"
   name: "Luis M Ruiz"
 tags: ["bill buxton"]
 html: "<iframe src=\"http://player.vimeo.com/video/16651596\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1297
 ---
 
 Talk of Bill Buxton (Microsoft Research) at the 2nd Design Mind Salon in Amsterdam brought together

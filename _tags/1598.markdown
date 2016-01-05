@@ -1,0 +1,6 @@
+---
+title: "bonobo"
+id: tag.id
+permalink: "/tags/bonobo"
+videos: [1873]
+---

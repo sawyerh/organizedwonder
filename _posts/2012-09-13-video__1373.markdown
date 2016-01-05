@@ -3,12 +3,16 @@ title: "Printext - Printing behind the scenes"
 date: 2012-09-13 19:36:52 00:00
 permalink: /videos/1373
 source: "http://www.youtube.com/watch?v=Xw01-vAHNAM"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/Xw01-vAHNAM/hqdefault.jpg"
 user:
+  id: 1168
   username: "lhid"
   name: "Leban Hyde"
 tags: ["short film","short documentary","printer","printing","printing press"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/Xw01-vAHNAM?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1373
 ---
 
 A short film about Printext, a traditional printer working with off-set and digital.

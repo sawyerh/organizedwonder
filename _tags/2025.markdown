@@ -1,0 +1,6 @@
+---
+title: "tarantino"
+id: tag.id
+permalink: "/tags/tarantino"
+videos: [2496]
+---

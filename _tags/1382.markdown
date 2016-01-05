@@ -1,0 +1,6 @@
+---
+title: "racing"
+id: tag.id
+permalink: "/tags/racing"
+videos: [1622]
+---

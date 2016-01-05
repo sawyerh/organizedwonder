@@ -1,0 +1,9 @@
+---
+title: "Kazoo"
+date: 2012-05-18 05:48:14 00:00
+permalink: /kazu1205
+twitter: ""
+likes: [175,176,263,134,39,527,277,548,535,515,595,582,555,605,398,73]
+id: 217
+gravatar: "http://www.gravatar.com/avatar/60d0a0b3c2ab42eff733d2ee2017e3f2"
+---

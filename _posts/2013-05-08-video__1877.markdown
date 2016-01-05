@@ -3,11 +3,15 @@ title: "UX Week 2012 | Toi Valentine | Death to Curiosity: Will Tomorrow's Gener
 date: 2013-05-08 10:34:40 00:00
 permalink: /videos/1877
 source: "https://vimeo.com/53188171"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/367/248/367248137_640.jpg"
 user:
+  id: 1926
   username: "kingsley"
   name: "Kingsley Harris"
 tags: []
 html: "<iframe src=\"http://player.vimeo.com/video/53188171\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1877
 ---
 

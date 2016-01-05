@@ -3,12 +3,16 @@ title: "Pep Talk From Kid President"
 date: 2013-02-01 17:04:37 00:00
 permalink: /videos/1660
 source: "http://www.youtube.com/watch?v=l-gQLqv9f4o&list=SPzvRx_johoA-YabI6FWcU-jL6nKA1Um-t&index=2"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/l-gQLqv9f4o/hqdefault.jpg"
 user:
+  id: 593
   username: "kimcross"
   name: "Kim Cross"
 tags: ["#kidpresident"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/l-gQLqv9f4o?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 1660
 ---
 
 dont give you your dream... unless your dream is stupid

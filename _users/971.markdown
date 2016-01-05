@@ -1,0 +1,9 @@
+---
+title: "m cales"
+date: 2012-06-13 01:02:11 00:00
+permalink: /heylucy
+twitter: ""
+likes: [822]
+id: 971
+gravatar: "http://www.gravatar.com/avatar/47f362652e4edd12a416929a2fe83e37"
+---

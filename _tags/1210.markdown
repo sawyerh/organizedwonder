@@ -1,0 +1,6 @@
+---
+title: "sketch"
+id: tag.id
+permalink: "/tags/sketch"
+videos: [1374]
+---

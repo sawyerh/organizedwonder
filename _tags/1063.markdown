@@ -1,0 +1,6 @@
+---
+title: "design army"
+id: tag.id
+permalink: "/tags/design%20army"
+videos: [1122]
+---

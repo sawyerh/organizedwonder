@@ -1,0 +1,6 @@
+---
+title: "contrarian"
+id: tag.id
+permalink: "/tags/contrarian"
+videos: [2486]
+---

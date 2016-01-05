@@ -3,11 +3,15 @@ title: "Touché: Enhancing Touch Interaction on Humans, Screens, Liquids, and Ev
 date: 2012-05-17 19:04:00 00:00
 permalink: /videos/106
 source: "http://www.youtube.com/watch?feature=player_embedded&v=E4tYpXVTjxA"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/E4tYpXVTjxA/hqdefault.jpg"
 user:
+  id: 90
   username: "emmacbeltran"
   name: "Emma C Beltran"
 tags: ["technology","awesome"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/E4tYpXVTjxA?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 106
 ---
 

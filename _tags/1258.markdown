@@ -1,0 +1,6 @@
+---
+title: "protein"
+id: tag.id
+permalink: "/tags/protein"
+videos: [1463]
+---

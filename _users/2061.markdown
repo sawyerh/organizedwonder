@@ -1,0 +1,9 @@
+---
+title: "shonit kishore"
+date: 2013-08-22 12:50:48 00:00
+permalink: /shoneet
+twitter: ""
+likes: [380,1383]
+id: 2061
+gravatar: "http://www.gravatar.com/avatar/c6b0db3ab0ccf0f3ef0e3e52b43777a9"
+---

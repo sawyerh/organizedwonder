@@ -1,0 +1,6 @@
+---
+title: "gracepoint fellowship"
+id: tag.id
+permalink: "/tags/gracepoint%20fellowship"
+videos: [1364]
+---

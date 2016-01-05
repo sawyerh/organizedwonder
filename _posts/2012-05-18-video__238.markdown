@@ -3,12 +3,16 @@ title: "DVF | Writer's Block"
 date: 2012-05-18 13:46:29 00:00
 permalink: /videos/238
 source: "http://www.youtube.com/watch?feature=player_embedded&v=bPPzJ6RQehI"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i3.ytimg.com/vi/bPPzJ6RQehI/hqdefault.jpg"
 user:
+  id: 276
   username: "apropos"
   name: "Barbara"
 tags: ["short film","cinema","gina coppola"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/bPPzJ6RQehI?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 238
 ---
 
 Univers cinématographique qui fait voyager

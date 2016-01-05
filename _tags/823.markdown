@@ -1,0 +1,6 @@
+---
+title: "morality"
+id: tag.id
+permalink: "/tags/morality"
+videos: [868,941]
+---

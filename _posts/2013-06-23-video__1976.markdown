@@ -3,12 +3,16 @@ title: "Art Shay: The Sporting Life and Times"
 date: 2013-06-23 02:37:22 00:00
 permalink: /videos/1976
 source: "http://vimeo.com/67913037"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/440/006/440006720_1280.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["photography"]
 html: "<iframe src=\"http://player.vimeo.com/video/67913037\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1976
 ---
 
 Art Shay (b. 1922) is a photographer and writer who has captured and helped define the American experience for the better part of seven decades. He shot pictures regularly for Sports Illustrated, Time, Life, Fortune, the Saturday Evening Post, Forbes, Business Week, Parade and The New York Times Magazine.

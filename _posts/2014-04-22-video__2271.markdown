@@ -3,12 +3,16 @@ title: "Mike Monteiro - How Designers Destroyed the World"
 date: 2014-04-22 04:16:53 00:00
 permalink: /videos/2271
 source: "https://vimeo.com/68470326"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://i.vimeocdn.com/video/441640247_1280.jpg"
 user:
+  id: 1030
   username: "trinadafilipina"
   name: "Trina Dikitanan"
 tags: ["design","talk","mike monteiro","lecture","webstock '13"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F68470326&wmode=transparent&src_secure=1&url=http%3A%2F%2Fvimeo.com%2F68470326&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F441640247_1280.jpg&key=daaebf4d9cdd46779200162d0ca86e20&type=text%2Fhtml&schema=vimeo\" width=\"1280\" height=\"720\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2271
 ---
 
 You are directly responsible for what you put into the world. Yet every day designers all over the world work on projects without giving any thought or consideration to the impact that work has on the world around them. This needs to change.

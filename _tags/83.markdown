@@ -1,0 +1,6 @@
+---
+title: "software"
+id: tag.id
+permalink: "/tags/software"
+videos: [37,2218]
+---

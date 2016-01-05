@@ -3,12 +3,16 @@ title: "Listen & Learn with Craig Newmark"
 date: 2012-05-16 23:14:25 00:00
 permalink: /videos/93
 source: "http://www.youtube.com/watch?v=lJq2P3isZcs&feature=relmfu"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/lJq2P3isZcs/hqdefault.jpg"
 user:
+  id: 87
   username: "cameronwoodward"
   name: "Cameron Woodward"
 tags: ["craigslist","business"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/lJq2P3isZcs?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 93
 ---
 
 Craig talks about knowing when to lead and when to get out of the way. Craig Newmark is the founder of Craigslist, one of the 10 most visited English speaking websites in the world.

@@ -1,0 +1,6 @@
+---
+title: "solo"
+id: tag.id
+permalink: "/tags/solo"
+videos: [1624]
+---

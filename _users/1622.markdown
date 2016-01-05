@@ -1,0 +1,9 @@
+---
+title: "Dawn Moseke"
+date: 2012-11-26 16:26:22 00:00
+permalink: /moseke
+twitter: ""
+likes: [1271]
+id: 1622
+gravatar: "http://www.gravatar.com/avatar/bdd776264ed66489e747823d52e54f14"
+---

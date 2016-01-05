@@ -1,0 +1,6 @@
+---
+title: "innovation lab"
+id: tag.id
+permalink: "/tags/innovation%20lab"
+videos: [166]
+---

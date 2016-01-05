@@ -1,0 +1,6 @@
+---
+title: "howard zinn"
+id: tag.id
+permalink: "/tags/howard%20zinn"
+videos: [2126]
+---

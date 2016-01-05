@@ -3,12 +3,16 @@ title: "Matt Damon reads from Howard Zinn's speech \"The Problem is Civil Obedie
 date: 2013-11-27 14:56:08 00:00
 permalink: /videos/2126
 source: "https://vimeo.com/48834336"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/336/841/336841417_640.jpg"
 user:
+  id: 649
   username: "nassoskappa"
   name: "Nassos K."
 tags: ["speech","history","civil disobedience","matt damon","howard zinn"]
 html: "<iframe src=\"http://player.vimeo.com/video/48834336\" width=\"640\" height=\"360\" frameborder=\"0\" title=\"Matt Damon reads from Howard Zinn&#039;s speech &quot;The Problem is Civil Obedience&quot; (November 1970)\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>"
+id: 2126
 ---
 
 Matt Damon, a lifelong friend of Howard Zinn and his family, read excerpts from a speech Howard Zinn gave in 1970 as part of a debate on civil disobedience.

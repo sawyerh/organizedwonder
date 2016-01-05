@@ -3,11 +3,15 @@ title: "Tripp and Tyler Laughing"
 date: 2013-08-05 16:36:25 00:00
 permalink: /videos/2040
 source: "http://www.youtube.com/watch?v=rPY4yOmNw7w"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/rPY4yOmNw7w/hqdefault.jpg"
 user:
+  id: 1729
   username: "msteinruck"
   name: "Mark Steinruck"
 tags: ["funny"]
 html: "<iframe width=\"854\" height=\"480\" src=\"http://www.youtube.com/embed/rPY4yOmNw7w?wmode=transparent&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2040
 ---
 

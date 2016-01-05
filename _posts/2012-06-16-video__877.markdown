@@ -3,11 +3,15 @@ title: "Fan Art: An Explosion of Creativity | Off Book | PBS"
 date: 2012-06-16 18:20:31 00:00
 permalink: /videos/877
 source: "http://www.youtube.com/watch?NR=1&feature=endscreen&v=-PkrZ0y0o_0"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i2.ytimg.com/vi/-PkrZ0y0o_0/hqdefault.jpg"
 user:
+  id: 412
   username: "susie"
   name: "Susie"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/-PkrZ0y0o_0?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 877
 ---
 

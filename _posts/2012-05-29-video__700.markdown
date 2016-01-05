@@ -3,12 +3,16 @@ title: "Infographic font"
 date: 2012-05-29 22:12:23 00:00
 permalink: /videos/700
 source: "http://vimeo.com/fontfont/how-to-use-ff-chartwell"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/289/514/289514418_640.jpg"
 user:
+  id: 279
   username: "mariamanuelrola"
   name: "Maria Manuel de Almeida Rola"
 tags: ["design","font"]
 html: "<iframe src=\"http://player.vimeo.com/video/41772735\" width=\"640\" height=\"480\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 700
 ---
 
 Great new infographic font!

@@ -1,0 +1,9 @@
+---
+title: "Brandon Weiss"
+date: 2013-03-29 21:36:00 00:00
+permalink: /brandon_weiss
+twitter: "brandon_weiss"
+likes: [1755,1074,508,2084,2092,2093,2094]
+id: 1876
+gravatar: "http://www.gravatar.com/avatar/5539fccd965e1b19e6c8b714b41d929e"
+---

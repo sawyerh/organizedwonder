@@ -3,12 +3,16 @@ title: "The Architecture of Understanding - Peter Morville"
 date: 2014-07-16 20:57:31 00:00
 permalink: /videos/2355
 source: "http://uxlx.23video.com/video/7271123"
+featured: false
+provider: "23 Video"
 thumbnail: "http://uxlx.23video.com/4959050/7271123/d1a0dacdac7a80878301a11067755f18/large"
 user:
+  id: 2106
   username: "uxtvclub"
   name: "UXTVClub"
 tags: ["design","talk","ux"]
 html: "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fuxlx.23video.com%2F4959050%2F7271123%2Fd1a0dacdac7a80878301a11067755f18%2Fvideo_medium%2Fthe-architecture-of-video.mp4&wmode=transparent&src_secure=1&url=http%3A%2F%2Fuxlx.23video.com%2Fvideo%2F7271123%2Fthe-architecture-of&image=http%3A%2F%2Fuxlx.23video.com%2F4959050%2F7271123%2Fd1a0dacdac7a80878301a11067755f18%2Flarge&key=daaebf4d9cdd46779200162d0ca86e20&type=video%2Fmp4&schema=23video\" width=\"625\" height=\"352\" scrolling=\"no\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 2355
 ---
 
 why that we must create “architectures of understanding” and why designing for insight and inspiration is in the best interests of our firms, our users, and ourselves.

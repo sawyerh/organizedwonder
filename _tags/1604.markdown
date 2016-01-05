@@ -1,0 +1,6 @@
+---
+title: "type history"
+id: tag.id
+permalink: "/tags/type%20history"
+videos: [1888]
+---

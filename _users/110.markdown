@@ -1,0 +1,9 @@
+---
+title: "Colby Holliday"
+date: 2012-05-17 21:06:32 00:00
+permalink: /colbyh
+twitter: ""
+likes: [110]
+id: 110
+gravatar: "http://www.gravatar.com/avatar/9b429da730454ceaee12514e2a5d8f9d"
+---

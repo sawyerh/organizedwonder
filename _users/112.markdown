@@ -1,0 +1,9 @@
+---
+title: "Ernst"
+date: 2012-05-17 21:12:04 00:00
+permalink: /ernst
+twitter: ""
+likes: [67,66,39]
+id: 112
+gravatar: "http://www.gravatar.com/avatar/bfe2ddd7d00fc92bab23459c9b2eeac1"
+---

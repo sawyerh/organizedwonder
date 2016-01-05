@@ -1,0 +1,9 @@
+---
+title: "daniel maclean"
+date: 2012-11-11 03:20:10 00:00
+permalink: /dran
+twitter: ""
+likes: [808,39]
+id: 1463
+gravatar: "http://www.gravatar.com/avatar/fb5db7753de6da815145fd2bea79da3f"
+---

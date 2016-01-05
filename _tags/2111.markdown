@@ -1,0 +1,6 @@
+---
+title: "sensei"
+id: tag.id
+permalink: "/tags/sensei"
+videos: [2577]
+---

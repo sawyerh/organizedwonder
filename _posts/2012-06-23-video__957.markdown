@@ -3,12 +3,16 @@ title: "THE MARMALADE Identity: Behind the scenes (Super Slow Motion Effects Tha
 date: 2012-06-23 18:41:55 00:00
 permalink: /videos/957
 source: "http://www.youtube.com/watch?v=cKC6j7pW6T0&feature=youtu.be"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i4.ytimg.com/vi/cKC6j7pW6T0/hqdefault.jpg"
 user:
+  id: 1
   username: "sawyer"
   name: "Sawyer Hollenshead"
 tags: ["technology","behind the scenes","visual effects"]
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/cKC6j7pW6T0?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 957
 ---
 
 The Marmalade, a special effects studio in Germany, has created an incredible high speed robot used to film precise moments during ultra high frame rate takes. The results look so perfect it looks like CG.

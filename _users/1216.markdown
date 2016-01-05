@@ -1,0 +1,9 @@
+---
+title: "Hakim Albasrawy"
+date: 2012-07-21 00:10:58 00:00
+permalink: /hakimism
+twitter: ""
+likes: [1095,1108,39,1109]
+id: 1216
+gravatar: "http://www.gravatar.com/avatar/2cf02d2befb389c9bdea98c9af5e47bf"
+---

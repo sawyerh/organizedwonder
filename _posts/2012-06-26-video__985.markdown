@@ -3,12 +3,16 @@ title: "OTM - Go Media"
 date: 2012-06-26 16:32:55 00:00
 permalink: /videos/985
 source: "https://vimeo.com/32323613"
+featured: false
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/218/590/218590976_640.jpg"
 user:
+  id: 1046
   username: "jfinley"
   name: "Jeff Finley"
 tags: ["graphic design","short documentary","cleveland","go media","on the map"]
 html: "<iframe src=\"http://player.vimeo.com/video/32323613\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 985
 ---
 
 Located in Ohio City, Go Media offers design services, products and knowledge for clients who seek unexpected and compelling visual communications. Comprised of artists, programmers and strategists, they develop marketing materials that help clients capture attention and build brand affinity. Beyond client services, Go Media is deeply passionate about contributing to the creative community.

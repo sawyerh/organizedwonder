@@ -3,12 +3,16 @@ title: "James Victore: Your work is a gift"
 date: 2012-07-23 21:41:50 00:00
 permalink: /videos/1118
 source: "http://vimeo.com/46112891"
+featured: true
+provider: "Vimeo"
 thumbnail: "http://b.vimeocdn.com/ts/320/984/320984827_640.jpg"
 user:
+  id: 135
   username: "victormathieux"
   name: "Victor Mathieux"
 tags: ["art","design","99% conference","lecture","creativity","inspiration","gift","rebel"]
 html: "<iframe src=\"http://player.vimeo.com/video/46112891\" width=\"640\" height=\"480\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>"
+id: 1118
 ---
 
 James Victore talks about his usual: Doing great work, asking for more, drinking wine, and stickin' it to the man.

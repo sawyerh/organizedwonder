@@ -3,11 +3,15 @@ title: "Design Matters with Debbie Millman, Malcolm Gladwell and Special Guests"
 date: 2012-05-19 14:37:46 00:00
 permalink: /videos/406
 source: "http://www.youtube.com/watch?v=dqu2NxCD6J4"
+featured: false
+provider: "YouTube"
 thumbnail: "http://i1.ytimg.com/vi/dqu2NxCD6J4/hqdefault.jpg"
 user:
+  id: 447
   username: "kris"
   name: "Kris LoCascio"
 tags: []
 html: "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/dqu2NxCD6J4?wmode=transparent&fs=1&feature=oembed\" frameborder=\"0\" allowfullscreen></iframe>"
+id: 406
 ---
 
