@@ -8,7 +8,11 @@ In 2016, the site became read-only, which is what you see here.
 
 The original site was a Rails site, but it's since been converted to a static [Jekyll](http://jekyllrb.com/) site.
 
+To run the site locally:
+
 ```
 bundle install
 bundle exec jekyll serve
 ```
+
+_Note: Due to the size of the site, it can take quite awhile to build_
